@@ -121,6 +121,9 @@
 "de": "Klingenrücken",
 "kat": "Teile des Schwertes",
 "quelle": "Lehrwerk S. 9",
+"alt": [
+"Brust"
+],
 "id": "g-mune"
 },
 {
@@ -674,6 +677,9 @@
 "de": "Verbeugung aus dem Stand",
 "kat": "Dojo und Etikette",
 "quelle": "Lehrwerk S. 4",
+"alt": [
+"Verbeugung im Stehen"
+],
 "id": "g-ritsurei"
 },
 {
@@ -727,7 +733,7 @@
 {
 "romaji": "Yūdansha",
 "jp": "有段者",
-"de": "Schüler mit höherer Kompetenz (Graduierte); die Stufen der technischen Meisterschaft vom 1. bis 4. Dan",
+"de": "Graduierte mit höherer Kompetenz: die Stufen der technischen Meisterschaft vom 1. bis 4. Dan",
 "kat": "Ränge, Titel, Anreden",
 "quelle": "Lehrwerk S. 25",
 "id": "g-yudansha"
@@ -735,7 +741,7 @@
 {
 "romaji": "Mudansha",
 "jp": "無段者",
-"de": "die Nicht-Graduierten",
+"de": "die Nicht-Graduierten (Träger eines Kyu-Grades, ohne Dan)",
 "kat": "Ränge, Titel, Anreden",
 "quelle": "Lehrwerk S. 25",
 "id": "g-mudansha"
@@ -743,7 +749,7 @@
 {
 "romaji": "Kōdansha",
 "jp": "高段者",
-"de": "5. bis 10. Dan: geistige Fortschritte und Lehrkompetenz",
+"de": "5. bis 10. Dan: Stufen der geistigen Fortschritte und der Lehrkompetenz",
 "kat": "Ränge, Titel, Anreden",
 "quelle": "Lehrwerk S. 25",
 "id": "g-kodansha"
@@ -754,6 +760,9 @@
 "de": "Herr/Frau/Schüler (Anrede unter Mitschülern)",
 "kat": "Ränge, Titel, Anreden",
 "quelle": "Lehrwerk S. 26",
+"alt": [
+"Höfliche Anrede-Endung (im YKR ab dem 10. Kyu)"
+],
 "id": "g-san"
 },
 {
@@ -762,6 +771,9 @@
 "de": "Schule, Stilrichtung (System der Ryuha ab dem 14. Jh.)",
 "kat": "Ränge, Titel, Anreden",
 "quelle": "Lehrwerk S. 24",
+"alt": [
+"Schulzweig, Schulrichtung"
+],
 "id": "g-ryuha"
 },
 {
@@ -770,6 +782,9 @@
 "de": "Techniken aus dem Budo: Distanzverständnis und Anwendung von Schlag, Tritt, Wurf- und Hebelmechanismen",
 "kat": "Selbstverteidigung und Jiu-Jitsu",
 "quelle": "Lehrwerk S. 1",
+"alt": [
+"Körperkunst, unbewaffnete Techniken"
+],
 "id": "g-taijutsu"
 },
 {
@@ -778,6 +793,9 @@
 "de": "ursprüngliche Formen des waffenlosen Kampfes und des Kampfes mit Waffen, gegründet im japanischen Jiu jitsu",
 "kat": "Selbstverteidigung und Jiu-Jitsu",
 "quelle": "Lehrwerk S. 1",
+"alt": [
+"Alte Bezeichnung für Jujutsu, „sanft“"
+],
 "id": "g-yawara"
 },
 {
@@ -786,6 +804,9 @@
 "de": "freundschaftliches und kontrolliertes Zweikampferlebnis ohne Wettkampfcharakter",
 "kat": "Selbstverteidigung und Jiu-Jitsu",
 "quelle": "Lehrwerk S. 2",
+"alt": [
+"Freies Üben"
+],
 "id": "g-randori"
 },
 {
@@ -810,6 +831,9 @@
 "de": "Rollschule",
 "kat": "Selbstverteidigung und Jiu-Jitsu",
 "quelle": "Lehrwerk S. 13",
+"alt": [
+"Rolle, Drehung"
+],
 "id": "g-kaiten"
 },
 {
@@ -858,6 +882,9 @@
 "de": "Grundschule: Grundstellungen und Basistechniken",
 "kat": "Grundprinzipien und Haltung",
 "quelle": "Lehrwerk S. 13",
+"alt": [
+"Grundschule, Grundtechniken"
+],
 "id": "g-kihon"
 },
 {
@@ -874,6 +901,9 @@
 "de": "japanische Trainingswaffe aus Holz für das Kenjutsu",
 "kat": "Iaido: Waffen",
 "quelle": "Lehrwerk S. 7",
+"alt": [
+"Holzschwert"
+],
 "id": "g-bokkenbokuto"
 },
 {
@@ -914,6 +944,9 @@
 "de": "Partnerübung mit dem Schwert",
 "kat": "Iaido: Waffen",
 "quelle": "Lehrwerk S. 7",
+"alt": [
+"Partnerübung mit Schwertern"
+],
 "id": "g-kumitachi"
 },
 {
@@ -938,6 +971,9 @@
 "de": "das Herausziehen des Schwertes und der erste Schnitt",
 "kat": "Iaido: Techniken und Begriffe",
 "quelle": "Lehrwerk S. 8",
+"alt": [
+"Ziehen und erster Schnitt"
+],
 "id": "g-nukitsuke"
 },
 {
@@ -946,6 +982,9 @@
 "de": "folgende Schnitte",
 "kat": "Iaido: Techniken und Begriffe",
 "quelle": "Lehrwerk S. 8",
+"alt": [
+"Schlussschnitt"
+],
 "id": "g-kiritsuke"
 },
 {
@@ -954,6 +993,9 @@
 "de": "Schwert reinigen/Blut abschlagen",
 "kat": "Iaido: Techniken und Begriffe",
 "quelle": "Lehrwerk S. 8",
+"alt": [
+"Abschütteln der Klinge"
+],
 "id": "g-chiburi"
 },
 {
@@ -962,6 +1004,9 @@
 "de": "Rückführen des Schwertes in das Saya",
 "kat": "Iaido: Techniken und Begriffe",
 "quelle": "Lehrwerk S. 8",
+"alt": [
+"Einstecken des Schwertes"
+],
 "id": "g-noto"
 },
 {
@@ -1054,38 +1099,50 @@
 },
 {
 "romaji": "Chudan no Kamae",
-"jp": "",
+"jp": "中段の構え",
 "de": "Kamae in Halshöhe (Kendo)",
 "kat": "Kamae und Kendo",
 "quelle": "Lehrwerk S. 14",
 "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+"alt": [
+"Mittlere Haltung"
+],
 "id": "g-chudannokamae"
 },
 {
 "romaji": "Jodan no Kamae",
-"jp": "",
+"jp": "上段の構え",
 "de": "Kamae über Kopf (Kendo)",
 "kat": "Kamae und Kendo",
 "quelle": "Lehrwerk S. 14",
 "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+"alt": [
+"Obere Haltung"
+],
 "id": "g-jodannokamae"
 },
 {
 "romaji": "Hasso no Kamae",
-"jp": "",
+"jp": "八相の構え",
 "de": "Kamae-Form der Abbildung (Kendo)",
 "kat": "Kamae und Kendo",
 "quelle": "Lehrwerk S. 14",
 "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+"alt": [
+"Achtfache Haltung (Schwert seitlich am Kopf)"
+],
 "id": "g-hassonokamae"
 },
 {
 "romaji": "Gedan no Kamae",
-"jp": "",
+"jp": "下段の構え",
 "de": "Kamae in Hüfthöhe und darunter (Kendo)",
 "kat": "Kamae und Kendo",
 "quelle": "Lehrwerk S. 14",
 "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+"alt": [
+"Untere Haltung"
+],
 "id": "g-gedannokamae"
 },
 {
@@ -1099,7 +1156,7 @@
 },
 {
 "romaji": "Migi",
-"jp": "",
+"jp": "右",
 "de": "rechts",
 "kat": "Kamae und Kendo",
 "quelle": "Lehrwerk S. 14",
@@ -1107,7 +1164,7 @@
 },
 {
 "romaji": "Hidari",
-"jp": "",
+"jp": "左",
 "de": "links",
 "kat": "Kamae und Kendo",
 "quelle": "Lehrwerk S. 14",
@@ -1164,11 +1221,14 @@
 },
 {
 "romaji": "Tsuki",
-"jp": "",
+"jp": "突き",
 "de": "Kehl-Trefferstelle (Kendo)",
 "kat": "Kamae und Kendo",
 "quelle": "Lehrwerk S. 14",
 "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+"alt": [
+"Stoß, Fauststoß"
+],
 "id": "g-tsuki"
 },
 {
@@ -1195,6 +1255,9 @@
 "de": "Sitzmeditation; im YKR zusammen mit Gehmeditation",
 "kat": "Zen und Meditation",
 "quelle": "Lehrwerk S. 3",
+"alt": [
+"Sitzmeditation (Zen)"
+],
 "id": "g-zazen"
 },
 {
@@ -1283,6 +1346,9 @@
 "de": "Einhaltung der Etikette, Höflichkeit, Respekt",
 "kat": "Die sieben Tugenden des Bushidō",
 "quelle": "Lehrwerk S. 19",
+"alt": [
+"Verbeugung, Gruß, Höflichkeit"
+],
 "id": "g-rei"
 },
 {
@@ -1310,9 +1376,102 @@
 "id": "g-chugiauchchu"
 },
 {
+"romaji": "Bushidō",
+"jp": "武士道",
+"de": "Weg des Schwertkriegers",
+"kat": "Grundprinzipien und Haltung",
+"quelle": "Lehrwerk S. 19",
+"hinweis": "Bu = Krieger, Shi = Schwert, Dō = Weg (Lehrwerk Kap. 4.1)",
+"alt": [
+"Weg des Kriegers",
+"Werte- und Moralkodex der japanischen Kriegerkaste",
+"Weg des Kriegers (Ethik der Samurai)"
+],
+"id": "g-bushido"
+},
+{
+"romaji": "Iaidō",
+"jp": "居合道",
+"de": "Weg des harmonischen Seins",
+"kat": "Iaido: Techniken und Begriffe",
+"quelle": "Lehrwerk S. 8",
+"hinweis": "I (iru) = (anwesend) sein, Ai = Harmonie, Dō = Weg/Prinzip (Lehrwerk Kap. 2.2)",
+"alt": [
+"Weg des Schwertziehens"
+],
+"id": "g-iaido"
+},
+{
+"romaji": "Iai",
+"jp": "居合",
+"de": "Harmonisches Sein",
+"kat": "Iaido: Techniken und Begriffe",
+"quelle": "Lehrwerk S. 8",
+"hinweis": "I (iru) = (anwesend) sein, Ai = Harmonie",
+"alt": [
+"Schwertziehen",
+"Schwertziehen (Kurzform)"
+],
+"id": "g-iai"
+},
+{
+"romaji": "I / iru",
+"jp": "居る",
+"de": "(anwesend) sein",
+"kat": "Iaido: Techniken und Begriffe",
+"quelle": "Lehrwerk S. 8",
+"id": "g-iiru"
+},
+{
+"romaji": "Ai",
+"jp": "合",
+"de": "Harmonie",
+"kat": "Iaido: Techniken und Begriffe",
+"quelle": "Lehrwerk S. 8",
+"id": "g-ai"
+},
+{
+"romaji": "Dim Mak",
+"jp": "點脈",
+"de": "Druckpunkt-Kampfkunst auf Grundlage der TCM",
+"kat": "Selbstverteidigung und Jiu-Jitsu",
+"quelle": "Lehrwerk S. 2",
+"hinweis": "Das im YKR genutzte Pressure Point Combat System ist eine Entwicklung des Dim Mak. Vitalpunkte können sowohl zur Heilung als auch zur Schadenswirkung beitragen (Lehrwerk Kap. 1.4).",
+"alt": [
+"„Punkt-Berührung“, chinesisch für Druckpunkt-Kampf"
+],
+"id": "g-dimmak"
+},
+{
+"romaji": "Kyūsho Jitsu",
+"jp": "急所術",
+"de": "Technik der Vitalpunkte, eng mit dem Karate verbunden",
+"kat": "Selbstverteidigung und Jiu-Jitsu",
+"quelle": "Lehrwerk S. 2",
+"hinweis": "Im Gegensatz zum Dim Mak ist es nach dem Lehrwerk näher mit dem Karate verbunden.",
+"id": "g-kyushojitsu"
+},
+{
+"romaji": "Pressure Point Combat System",
+"jp": "",
+"de": "Entwicklung des Dim Mak (Selbstverteidigung im YKR)",
+"kat": "Selbstverteidigung und Jiu-Jitsu",
+"quelle": "Lehrwerk S. 2",
+"id": "g-pressurepointcombatsystem"
+},
+{
+"romaji": "TCM",
+"jp": "",
+"de": "Traditionelle Chinesische Medizin",
+"kat": "Selbstverteidigung und Jiu-Jitsu",
+"quelle": "Lehrwerk S. 2",
+"hinweis": "Grundlage des Dim Mak laut Lehrwerk.",
+"id": "g-tcm"
+},
+{
 "romaji": "Dōjō",
 "jp": "道場",
-"de": "Übungshalle, wörtlich „Ort des Weges\"",
+"de": "Übungshalle, wörtlich „Ort des Weges“",
 "kat": "Dojo und Etikette",
 "quelle": "Ergänzung",
 "id": "g-dojo"
@@ -1320,7 +1479,7 @@
 {
 "romaji": "Budō",
 "jp": "武道",
-"de": "Kampfkunst als Lebensweg, „Weg des Krieges/der Kampfkunst\"",
+"de": "Kampfkunst als Lebensweg, „Weg des Krieges/der Kampfkunst“",
 "kat": "Dojo und Etikette",
 "quelle": "Ergänzung",
 "id": "g-budo"
@@ -1334,28 +1493,12 @@
 "id": "g-bujutsu"
 },
 {
-"romaji": "Bushidō",
-"jp": "武士道",
-"de": "Weg des Kriegers (Ethik der Samurai)",
-"kat": "Dojo und Etikette",
-"quelle": "Ergänzung",
-"id": "g-bushido"
-},
-{
 "romaji": "Ryū",
 "jp": "流",
 "de": "Schule, Stilrichtung",
 "kat": "Dojo und Etikette",
 "quelle": "Ergänzung",
 "id": "g-ryu"
-},
-{
-"romaji": "Ryūha",
-"jp": "流派",
-"de": "Schulzweig, Schulrichtung",
-"kat": "Dojo und Etikette",
-"quelle": "Ergänzung",
-"id": "g-ryuha-2"
 },
 {
 "romaji": "Koryū",
@@ -1384,34 +1527,10 @@
 {
 "romaji": "Shinzen",
 "jp": "神前",
-"de": "„Vor dem Schrein/den Göttern\"",
+"de": "„Vor dem Schrein/den Göttern“",
 "kat": "Dojo und Etikette",
 "quelle": "Ergänzung",
 "id": "g-shinzen"
-},
-{
-"romaji": "Rei",
-"jp": "礼",
-"de": "Verbeugung, Gruß, Höflichkeit",
-"kat": "Dojo und Etikette",
-"quelle": "Ergänzung",
-"id": "g-rei-2"
-},
-{
-"romaji": "Ritsurei",
-"jp": "立礼",
-"de": "Verbeugung im Stehen",
-"kat": "Dojo und Etikette",
-"quelle": "Ergänzung",
-"id": "g-ritsurei-2"
-},
-{
-"romaji": "Zarei",
-"jp": "座礼",
-"de": "Verbeugung im Sitzen",
-"kat": "Dojo und Etikette",
-"quelle": "Ergänzung",
-"id": "g-zarei-2"
 },
 {
 "romaji": "Shōmen ni rei",
@@ -1440,7 +1559,7 @@
 {
 "romaji": "Osu",
 "jp": "押忍",
-"de": "Gruß- und Bestätigungswort im Kyokushin, gedeutet als „durchhalten unter Druck\"",
+"de": "Gruß- und Bestätigungswort im Kyokushin, gedeutet als „durchhalten unter Druck“",
 "kat": "Dojo und Etikette",
 "quelle": "Ergänzung",
 "id": "g-osu"
@@ -1448,7 +1567,7 @@
 {
 "romaji": "Onegaishimasu",
 "jp": "お願いします",
-"de": "„Ich bitte darum\" (zu Beginn, z. B. des Trainings)",
+"de": "„Ich bitte darum“ (zu Beginn, z. B. des Trainings)",
 "kat": "Dojo und Etikette",
 "quelle": "Ergänzung",
 "id": "g-onegaishimasu"
@@ -1456,7 +1575,7 @@
 {
 "romaji": "Arigatō gozaimashita",
 "jp": "ありがとうございました",
-"de": "„Vielen Dank\" (nach Abschluss)",
+"de": "„Vielen Dank“ (nach Abschluss)",
 "kat": "Dojo und Etikette",
 "quelle": "Ergänzung",
 "id": "g-arigatogozaimashita"
@@ -1464,7 +1583,7 @@
 {
 "romaji": "Shitsurei shimasu",
 "jp": "失礼します",
-"de": "„Entschuldigung\" (beim Betreten/Verlassen, Stören)",
+"de": "„Entschuldigung“ (beim Betreten/Verlassen, Stören)",
 "kat": "Dojo und Etikette",
 "quelle": "Ergänzung",
 "id": "g-shitsureishimasu"
@@ -1484,14 +1603,6 @@
 "kat": "Dojo und Etikette",
 "quelle": "Ergänzung",
 "id": "g-gassho"
-},
-{
-"romaji": "Zazen",
-"jp": "座禅",
-"de": "Sitzmeditation (Zen)",
-"kat": "Dojo und Etikette",
-"quelle": "Ergänzung",
-"id": "g-zazen-2"
 },
 {
 "romaji": "Mokusō",
@@ -1536,7 +1647,7 @@
 {
 "romaji": "Sensei",
 "jp": "先生",
-"de": "Lehrer, wörtlich „früher Geborener\"",
+"de": "Lehrer, wörtlich „früher Geborener“",
 "kat": "Ränge, Titel, Anreden",
 "quelle": "Ergänzung",
 "id": "g-sensei"
@@ -1718,14 +1829,6 @@
 "id": "g-akaobi"
 },
 {
-"romaji": "-san",
-"jp": "さん",
-"de": "Höfliche Anrede-Endung (im YKR ab dem 10. Kyu)",
-"kat": "Ränge, Titel, Anreden",
-"quelle": "Ergänzung",
-"id": "g-san-2"
-},
-{
 "romaji": "Ichi",
 "jp": "一",
 "de": "1",
@@ -1747,7 +1850,7 @@
 "de": "3",
 "kat": "Zahlen",
 "quelle": "Ergänzung",
-"id": "g-san-3"
+"id": "g-san-2"
 },
 {
 "romaji": "Shi / Yon",
@@ -1926,22 +2029,6 @@
 "id": "g-yukkuri"
 },
 {
-"romaji": "Migi",
-"jp": "右",
-"de": "Rechts",
-"kat": "Kommandos und Trainingsablauf",
-"quelle": "Ergänzung",
-"id": "g-migi-2"
-},
-{
-"romaji": "Hidari",
-"jp": "左",
-"de": "Links",
-"kat": "Kommandos und Trainingsablauf",
-"quelle": "Ergänzung",
-"id": "g-hidari-2"
-},
-{
 "romaji": "Mae",
 "jp": "前",
 "de": "Vorn",
@@ -1979,6 +2066,7 @@
 "de": "Obere Ebene (Kopf)",
 "kat": "Kommandos und Trainingsablauf",
 "quelle": "Ergänzung",
+"hinweis": "Im Kamae-Kapitel des Lehrwerks: Jodan = über Kopf, Chudan = Halshöhe, Gedan = Hüfthöhe und darunter.",
 "id": "g-jodanebene"
 },
 {
@@ -1987,6 +2075,7 @@
 "de": "Mittlere Ebene (Rumpf)",
 "kat": "Kommandos und Trainingsablauf",
 "quelle": "Ergänzung",
+"hinweis": "Im Kamae-Kapitel des Lehrwerks: Jodan = über Kopf, Chudan = Halshöhe, Gedan = Hüfthöhe und darunter.",
 "id": "g-chudanebene"
 },
 {
@@ -1995,6 +2084,7 @@
 "de": "Untere Ebene (unterhalb des Gürtels)",
 "kat": "Kommandos und Trainingsablauf",
 "quelle": "Ergänzung",
+"hinweis": "Im Kamae-Kapitel des Lehrwerks: Jodan = über Kopf, Chudan = Halshöhe, Gedan = Hüfthöhe und darunter.",
 "id": "g-gedanebene"
 },
 {
@@ -2100,14 +2190,6 @@
 "kat": "Körperteile",
 "quelle": "Ergänzung",
 "id": "g-yubi"
-},
-{
-"romaji": "Mune",
-"jp": "胸",
-"de": "Brust",
-"kat": "Körperteile",
-"quelle": "Ergänzung",
-"id": "g-mune-2"
 },
 {
 "romaji": "Hara",
@@ -2272,7 +2354,7 @@
 {
 "romaji": "Mushin",
 "jp": "無心",
-"de": "„Nicht-Geist\", freier Geist ohne Anhaftung",
+"de": "„Nicht-Geist“, freier Geist ohne Anhaftung",
 "kat": "Grundprinzipien und Haltung",
 "quelle": "Ergänzung",
 "id": "g-mushin"
@@ -2302,14 +2384,6 @@
 "id": "g-waza"
 },
 {
-"romaji": "Kihon",
-"jp": "基本",
-"de": "Grundschule, Grundtechniken",
-"kat": "Grundprinzipien und Haltung",
-"quelle": "Ergänzung",
-"id": "g-kihon-2"
-},
-{
 "romaji": "Kata",
 "jp": "形 / 型",
 "de": "Form, festgelegter Bewegungsablauf",
@@ -2324,14 +2398,6 @@
 "kat": "Grundprinzipien und Haltung",
 "quelle": "Ergänzung",
 "id": "g-kumite"
-},
-{
-"romaji": "Kumitachi",
-"jp": "組太刀",
-"de": "Partnerübung mit Schwertern",
-"kat": "Grundprinzipien und Haltung",
-"quelle": "Ergänzung",
-"id": "g-kumitachi-2"
 },
 {
 "romaji": "Tai-sabaki",
@@ -2352,7 +2418,7 @@
 {
 "romaji": "Karate",
 "jp": "空手",
-"de": "„Leere Hand\"",
+"de": "„Leere Hand“",
 "kat": "Karate (Kyokushinkai)",
 "quelle": "Ergänzung",
 "id": "g-karate"
@@ -2376,7 +2442,7 @@
 {
 "romaji": "Taikyoku",
 "jp": "太極",
-"de": "„Großer Ursprung\", Name der Anfänger-Kata",
+"de": "„Großer Ursprung“, Name der Anfänger-Kata",
 "kat": "Karate (Kyokushinkai)",
 "quelle": "Ergänzung",
 "id": "g-taikyoku"
@@ -2384,18 +2450,10 @@
 {
 "romaji": "Sanchin",
 "jp": "三戦",
-"de": "Kata und Atemschulung („Drei Kämpfe\")",
+"de": "Kata und Atemschulung („Drei Kämpfe“)",
 "kat": "Karate (Kyokushinkai)",
 "quelle": "Ergänzung",
 "id": "g-sanchin"
-},
-{
-"romaji": "Tsuki / Zuki",
-"jp": "突き",
-"de": "Stoß, Fauststoß",
-"kat": "Karate (Kyokushinkai)",
-"quelle": "Ergänzung",
-"id": "g-tsukizuki"
 },
 {
 "romaji": "Uchi",
@@ -2598,44 +2656,12 @@
 "id": "g-nekoashidachi"
 },
 {
-"romaji": "Tameshiwari",
-"jp": "試し割り",
-"de": "Bruchtest",
-"kat": "Karate (Kyokushinkai)",
-"quelle": "Ergänzung",
-"id": "g-tameshiwari-2"
-},
-{
 "romaji": "Makiwara",
 "jp": "巻藁",
 "de": "Schlagpfosten (Abhärtung)",
 "kat": "Karate (Kyokushinkai)",
 "quelle": "Ergänzung",
 "id": "g-makiwara"
-},
-{
-"romaji": "Iaidō",
-"jp": "居合道",
-"de": "Weg des Schwertziehens",
-"kat": "Iaido: Waffen",
-"quelle": "Ergänzung",
-"id": "g-iaido"
-},
-{
-"romaji": "Iai",
-"jp": "居合",
-"de": "Schwertziehen (Kurzform)",
-"kat": "Iaido: Waffen",
-"quelle": "Ergänzung",
-"id": "g-iai"
-},
-{
-"romaji": "Katana",
-"jp": "刀",
-"de": "Langschwert",
-"kat": "Iaido: Waffen",
-"quelle": "Ergänzung",
-"id": "g-katana-2"
 },
 {
 "romaji": "Tachi",
@@ -2668,14 +2694,6 @@
 "kat": "Iaido: Waffen",
 "quelle": "Ergänzung",
 "id": "g-tanto"
-},
-{
-"romaji": "Bokken / Bokutō",
-"jp": "木剣 / 木刀",
-"de": "Holzschwert",
-"kat": "Iaido: Waffen",
-"quelle": "Ergänzung",
-"id": "g-bokkenbokuto-2"
 },
 {
 "romaji": "Bō",
@@ -2774,38 +2792,6 @@
 "id": "g-mei"
 },
 {
-"romaji": "Nukitsuke",
-"jp": "抜付",
-"de": "Ziehen und erster Schnitt",
-"kat": "Iaido: Techniken und Begriffe",
-"quelle": "Ergänzung",
-"id": "g-nukitsuke-2"
-},
-{
-"romaji": "Kiritsuke",
-"jp": "切付",
-"de": "Schlussschnitt",
-"kat": "Iaido: Techniken und Begriffe",
-"quelle": "Ergänzung",
-"id": "g-kiritsuke-2"
-},
-{
-"romaji": "Chiburi",
-"jp": "血振り",
-"de": "Abschütteln der Klinge",
-"kat": "Iaido: Techniken und Begriffe",
-"quelle": "Ergänzung",
-"id": "g-chiburi-2"
-},
-{
-"romaji": "Nōtō",
-"jp": "納刀",
-"de": "Einstecken des Schwertes",
-"kat": "Iaido: Techniken und Begriffe",
-"quelle": "Ergänzung",
-"id": "g-noto-2"
-},
-{
 "romaji": "Battō",
 "jp": "抜刀",
 "de": "Schwertziehen",
@@ -2830,14 +2816,6 @@
 "id": "g-kendo"
 },
 {
-"romaji": "Tameshigiri",
-"jp": "試し斬り",
-"de": "Schnitttest",
-"kat": "Iaido: Techniken und Begriffe",
-"quelle": "Ergänzung",
-"id": "g-tameshigiri-2"
-},
-{
 "romaji": "Hasuji",
 "jp": "刃筋",
 "de": "Klingenführung, Schnittlinie",
@@ -2860,38 +2838,6 @@
 "kat": "Iaido: Techniken und Begriffe",
 "quelle": "Ergänzung",
 "id": "g-seiteigata"
-},
-{
-"romaji": "Chūdan no kamae",
-"jp": "中段の構え",
-"de": "Mittlere Haltung",
-"kat": "Iaido: Techniken und Begriffe",
-"quelle": "Ergänzung",
-"id": "g-chudannokamae-2"
-},
-{
-"romaji": "Jōdan no kamae",
-"jp": "上段の構え",
-"de": "Obere Haltung",
-"kat": "Iaido: Techniken und Begriffe",
-"quelle": "Ergänzung",
-"id": "g-jodannokamae-2"
-},
-{
-"romaji": "Gedan no kamae",
-"jp": "下段の構え",
-"de": "Untere Haltung",
-"kat": "Iaido: Techniken und Begriffe",
-"quelle": "Ergänzung",
-"id": "g-gedannokamae-2"
-},
-{
-"romaji": "Hasso no kamae",
-"jp": "八相の構え",
-"de": "Achtfache Haltung (Schwert seitlich am Kopf)",
-"kat": "Iaido: Techniken und Begriffe",
-"quelle": "Ergänzung",
-"id": "g-hassonokamae-2"
 },
 {
 "romaji": "Mae",
@@ -2998,28 +2944,12 @@
 "id": "g-jujutsu"
 },
 {
-"romaji": "Yawara",
-"jp": "柔",
-"de": "Alte Bezeichnung für Jujutsu, „sanft\"",
-"kat": "Selbstverteidigung und Jiu-Jitsu",
-"quelle": "Ergänzung",
-"id": "g-yawara-2"
-},
-{
 "romaji": "Jūdō",
 "jp": "柔道",
 "de": "Weg der Sanftheit",
 "kat": "Selbstverteidigung und Jiu-Jitsu",
 "quelle": "Ergänzung",
 "id": "g-judo"
-},
-{
-"romaji": "Taijutsu",
-"jp": "体術",
-"de": "Körperkunst, unbewaffnete Techniken",
-"kat": "Selbstverteidigung und Jiu-Jitsu",
-"quelle": "Ergänzung",
-"id": "g-taijutsu-2"
 },
 {
 "romaji": "Goshin-jutsu",
@@ -3070,14 +3000,6 @@
 "id": "g-shimewaza"
 },
 {
-"romaji": "Ukemi",
-"jp": "受け身",
-"de": "Fallschule",
-"kat": "Selbstverteidigung und Jiu-Jitsu",
-"quelle": "Ergänzung",
-"id": "g-ukemi-2"
-},
-{
 "romaji": "Mae-ukemi",
 "jp": "前受け身",
 "de": "Fallen nach vorn",
@@ -3102,17 +3024,9 @@
 "id": "g-yokoukemi"
 },
 {
-"romaji": "Kaiten",
-"jp": "回転",
-"de": "Rolle, Drehung",
-"kat": "Selbstverteidigung und Jiu-Jitsu",
-"quelle": "Ergänzung",
-"id": "g-kaiten-2"
-},
-{
 "romaji": "Uke",
 "jp": "受け",
-"de": "Der Empfangende (Angreifer, der die Technik „erhält\")",
+"de": "Der Empfangende (Angreifer, der die Technik „erhält“)",
 "kat": "Selbstverteidigung und Jiu-Jitsu",
 "quelle": "Ergänzung",
 "id": "g-uke-2"
@@ -3124,14 +3038,6 @@
 "kat": "Selbstverteidigung und Jiu-Jitsu",
 "quelle": "Ergänzung",
 "id": "g-tori"
-},
-{
-"romaji": "Randori",
-"jp": "乱取り",
-"de": "Freies Üben",
-"kat": "Selbstverteidigung und Jiu-Jitsu",
-"quelle": "Ergänzung",
-"id": "g-randori-2"
 },
 {
 "romaji": "Kuzushi",
@@ -3158,17 +3064,9 @@
 "id": "g-kuatsu"
 },
 {
-"romaji": "Dim Mak",
-"jp": "點脈",
-"de": "„Punkt-Berührung\", chinesisch für Druckpunkt-Kampf",
-"kat": "Selbstverteidigung und Jiu-Jitsu",
-"quelle": "Ergänzung",
-"id": "g-dimmak"
-},
-{
 "romaji": "Wing Chun",
 "jp": "詠春拳",
-"de": "„Ewiger Frühling\"-Faust, südchinesischer Stil",
+"de": "„Ewiger Frühling“-Faust, südchinesischer Stil",
 "kat": "Selbstverteidigung und Jiu-Jitsu",
 "quelle": "Ergänzung",
 "id": "g-wingchun"
@@ -3200,7 +3098,7 @@
 {
 "romaji": "Mabisashi",
 "jp": "眉庇",
-"de": "Helmschirm (in der Grafik als „Maebashi\" beschriftet, bitte prüfen)",
+"de": "Helmschirm (in der Grafik als „Maebashi“ beschriftet, bitte prüfen)",
 "kat": "Rüstung (Yoroi)",
 "quelle": "Ergänzung",
 "id": "g-mabisashi"

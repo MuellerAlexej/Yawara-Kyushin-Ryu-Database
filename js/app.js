@@ -1,7 +1,7 @@
 /* YKR Wissensdatenbank – ohne Abhängigkeiten, läuft statisch (z. B. GitHub Pages). */
 (function () {
 'use strict';
-const VERSION = '1.0.0';
+const VERSION = '1.1.0';
 const $ = (s, r) => (r || document).querySelector(s);
 const $$ = (s, r) => Array.from((r || document).querySelectorAll(s));
 const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -99,6 +99,23 @@ function setPage(html, title, tab) {
 const badge = q => q === 'Ergänzung' ? '<span class="badge erg">Ergänzung</span>' : /Lehrwerk/.test(q || '') ? `<span class="badge lw">${esc(q)}</span>` : q ? `<span class="badge">${esc(q)}</span>` : '';
 const bColor = id => 'c-' + (((D.bereiche.bereiche.find(b => b.id === id) || {}).farbe) || 'indigo');
 
+
+/* ---------- Installation als App ---------- */
+let deferredInstall = null;
+const isStandalone = () => (window.matchMedia && matchMedia('(display-mode: standalone)').matches) || navigator.standalone === true;
+window.addEventListener('beforeinstallprompt', e => { e.preventDefault(); deferredInstall = e; const b = $('#installbtn'); if (b) b.classList.remove('hide'); });
+window.addEventListener('appinstalled', () => { deferredInstall = null; });
+function installHtml() {
+  if (isStandalone()) return '';
+  return `<div class="item"><h3>Als App auf dem Handy</h3><p>Die Wissensdatenbank lässt sich wie eine App installieren, bekommt ein Symbol auf dem Startbildschirm und funktioniert danach auch offline.</p>
+  <button class="btn ${deferredInstall ? '' : 'hide'}" id="installbtn" data-act="install">App installieren</button>
+  <details style="margin-top:8px"><summary>Anleitung für dein Handy</summary><ul><li><strong>Android (Chrome):</strong> Menü ⋮ → „App installieren“ oder „Zum Startbildschirm hinzufügen“.</li><li><strong>Samsung Internet:</strong> Menü ≡ → „Seite hinzufügen zu“ → „Startbildschirm“.</li><li><strong>iPhone (Safari):</strong> Teilen-Symbol → „Zum Home-Bildschirm“.</li></ul></details></div>`;
+}
+document.addEventListener('click', async e => {
+  if (!e.target.closest('[data-act=install]') || !deferredInstall) return;
+  deferredInstall.prompt(); try { await deferredInstall.userChoice; } catch (x) { /* egal */ } deferredInstall = null; const b = $('#installbtn'); if (b) b.classList.add('hide');
+});
+
 /* ================= Seiten ================= */
 function cardLink(href, title, text, cls, jp) { return `<a class="card ${cls || ''}" href="${href}"><span class="bar"></span>${jp ? `<span class="jp" lang="ja">${esc(jp)}</span>` : ''}<h3>${esc(title)}</h3><p>${esc(text)}</p></a>`; }
 
@@ -115,11 +132,11 @@ function pHome() {
   ${cardLink('#/lernen', 'Lernen', 'Quiz und Karteikarten zu den Begriffen der Theorieprüfung.', 'c-moss')}
   ${cardLink('#/graduierung', 'Gürtel und Prüfung', 'Anforderungen der Kyu-Grade, Prüfungsordnung.', 'c-indigo')}
   ${cardLink('#/schwarzgurt', 'Schwarzgurt-Bereich', 'Geschützter Bereich für Dan-Träger.', 'c-sumi', '黒帯')}
-  </div><p class="foot">Version ${VERSION} · Lehrwerk 1. Auflage</p>`, '', 'start');
+  </div>${installHtml()}<p class="foot">Version ${VERSION} · Lehrwerk 1. Auflage</p>`, '', 'start');
 }
 
 function pMehr() {
-  setPage(`<h1>Mehr</h1><ul class="list">
+  setPage(`<h1>Mehr</h1>${installHtml()}<ul class="list">
   <li><a href="#/graduierung"><span>Gürtel und Prüfung</span><span class="pg">Anforderungen</span></a></li>
   <li><a href="#/pruefung"><span>Prüfungsordnung</span><span class="pg">Zusammenfassung</span></a></li>
   <li><a href="#/lernen"><span>Lernen (Quiz und Karteikarten)</span></a></li>
@@ -154,12 +171,6 @@ function pBereiche() {
 
 function tabsBar(base, cur, tabs) { return `<div class="tabsbar" role="tablist">${tabs.map(t => `<a href="#/bereich/${base}/${t[0]}" ${t[0] === cur ? 'aria-current="page"' : ''}>${t[1]}</a>`).join('')}</div>`; }
 
-function katasTable() {
-  const g = D.graduierung, cols = g.spalten;
-  const rows = ['Seitei-Iai-Kata', 'Kyokushinkai Kata'].map(k => `<tr><th>${k === 'Seitei-Iai-Kata' ? 'Seitei-Iai-Kata (Anzahl)' : 'Kyokushinkai-Kata'}</th>${g.praxis[k].map(v => `<td>${v === null ? '–' : esc(v)}</td>`).join('')}</tr>`).join('');
-  return `<h3>Kata je Gürtelgrad (Kyu)</h3><div class="tblwrap"><table><thead><tr><th></th>${cols.map(c => `<th>${esc(c)}</th>`).join('')}</tr></thead><tbody>${rows}</tbody></table></div><p class="mute" style="font-size:.85rem">Quelle: Graduierungssystem Praxis. Die Dan-Anforderungen stehen im <a href="#/schwarzgurt">Schwarzgurt-Bereich</a>.</p>`;
-}
-
 function techCard(t) {
   const vids = (t.videos || []).map(v => `<li><a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.titel || v.url)}</a></li>`).join('');
   const sec = t.abschnitt && SEC[t.abschnitt];
@@ -185,7 +196,7 @@ function pBereich(id, tab) {
   } else {
     const ts = D.techniken.techniken.filter(t => t.bereich === id), groups = [];
     ts.forEach(t => { if (groups.indexOf(t.gruppe) < 0) groups.push(t.gruppe); });
-    body = (id === 'iaido' || id === 'karate' ? katasTable() : '') + groups.map(g => `<h2>${esc(g)}</h2>${ts.filter(t => t.gruppe === g).map(techCard).join('')}`).join('') +
+    body = groups.map(g => `<h2>${esc(g)}</h2>${ts.filter(t => t.gruppe === g).map(techCard).join('')}`).join('') +
       `<p class="notice">Die Ausführung der Techniken lernst du beim Lehrer. Zu jeder Technik gibt es eine Videosuche auf YouTube. Geprüfte Videolinks der Schule werden hier ergänzt, sobald sie vorliegen.</p>`;
   }
   setPage(head + bar + body, b.name, 'bereich');
@@ -208,7 +219,7 @@ function glossFiltered() {
 }
 function glossList() {
   const f = glossFiltered(), shown = f.slice(0, G.limit);
-  return `<p class="mute" role="status">${f.length} Einträge</p>` + shown.map(e => `<div class="item" id="${e.id}"><div class="row"><div><h3>${esc(ro(e.romaji))} ${e.jp ? `<span class="jp" lang="ja" style="color:var(--accent)">${esc(e.jp)}</span>` : ''}</h3><p>${esc(e.de)}</p><div class="meta"><span class="badge">${esc(e.kat)}</span>${badge(e.quelle)}</div>${e.hinweis ? `<p class="mute" style="font-size:.85rem">${esc(e.hinweis)}</p>` : ''}</div>${starBtn(e.id)}</div></div>`).join('') +
+  return `<p class="mute" role="status">${f.length} Einträge</p>` + shown.map(e => `<div class="item" id="${e.id}"><div class="row"><div><h3>${esc(ro(e.romaji))} ${e.jp ? `<span class="jp" lang="ja" style="color:var(--accent)">${esc(e.jp)}</span>` : ''}</h3><p>${esc(e.de)}</p>${e.alt && e.alt.length ? `<p class="mute" style="font-size:.9rem">Weitere Übersetzungen: ${esc(e.alt.join('; '))}</p>` : ''}<div class="meta"><span class="badge">${esc(e.kat)}</span>${badge(e.quelle)}</div>${e.hinweis ? `<p class="mute" style="font-size:.85rem">${esc(e.hinweis)}</p>` : ''}</div>${starBtn(e.id)}</div></div>`).join('') +
     (f.length > G.limit ? `<p class="bigpad"><button class="btn ghost" data-act="more">Mehr anzeigen (${f.length - G.limit})</button></p>` : '');
 }
 function pGlossar() {
@@ -269,7 +280,7 @@ function answerQuiz(k) {
   const e = Q.items[Q.i], m = Q.cfg.mode, ok = Q.opts[k] === e;
   if (ok) Q.score++; else Q.wrong.push(e);
   $$('#opts button').forEach((b, j) => { b.disabled = true; if (Q.opts[j] === e) b.classList.add('ok'); else if (j === k) b.classList.add('bad'); });
-  $('#fb').innerHTML = `<p style="margin:14px 0 8px"><strong>${ok ? 'Richtig.' : 'Nicht ganz.'}</strong> ${esc(ro(e.romaji))}${e.jp ? ' (' + esc(e.jp) + ')' : ''}: ${esc(e.de)}</p>${e.hinweis ? `<p class="mute" style="font-size:.85rem">${esc(e.hinweis)}</p>` : ''}<button class="btn" data-act="next">${Q.i + 1 < Q.items.length ? 'Weiter' : 'Ergebnis'}</button>`;
+  $('#fb').innerHTML = `<p style="margin:14px 0 8px"><strong>${ok ? 'Richtig.' : 'Nicht ganz.'}</strong> ${esc(ro(e.romaji))}${e.jp ? ' (' + esc(e.jp) + ')' : ''}: ${esc(e.de)}${e.alt && e.alt.length ? ' (auch: ' + esc(e.alt.join('; ')) + ')' : ''}</p>${e.hinweis ? `<p class="mute" style="font-size:.85rem">${esc(e.hinweis)}</p>` : ''}<button class="btn" data-act="next">${Q.i + 1 < Q.items.length ? 'Weiter' : 'Ergebnis'}</button>`;
   const nb = $('[data-act=next]'); nb && nb.focus();
 }
 function drawDone() {
@@ -305,17 +316,15 @@ function materialLines(g, sel) {
 }
 function pGraduierung() {
   const g = D.graduierung, cols = g.spalten;
-  const praxisRows = Object.keys(g.praxis).map(k => `<tr><th>${esc(k)}</th>${g.praxis[k].map(v => `<td>${v === null ? '–' : esc(v)}</td>`).join('')}</tr>`).join('');
-  const mat = cols.map(c => `<details class="item"><summary><strong>Waffen und Material · ${esc(c)}</strong></summary><div class="body"><dl class="defs">${materialLines(g, c).map(l => `<dt>${esc(l[0])}</dt><dd>${esc(l[1])}</dd>`).join('')}</dl></div></details>`).join('');
+  const acc = cols.map(c => `<details class="item"><summary><strong>${esc(c)} ${esc(g.farben[c].name)}</strong></summary><div class="body"><h3 style="margin-top:0">Praxis</h3><ul>${g.bereiche[c].map(x => `<li>${esc(x)}</li>`).join('')}</ul><dl class="defs">${materialLines(g, c).map(l => `<dt>${esc(l[0])}</dt><dd>${esc(l[1])}</dd>`).join('')}</dl><h3>Theorie</h3><ul>${g.themen[c].map(t => `<li>${esc(t)}</li>`).join('')}</ul></div></details>`).join('');
   setPage(`<h1>Gürtel und Prüfung</h1><p class="lead">Das gemeinsame Gürtelsystem aller Bereiche des Yawara Kyushin Ryu.</p>
   <h2 style="margin-top:.4em">Gürtelfarben</h2><div class="grid">${BELTS.map(b => `<div class="item" style="display:flex;gap:12px;align-items:center;margin:0"><span style="width:44px;height:22px;border-radius:5px;border:1px solid var(--line);background:${b[2] || 'transparent'};flex:none"></span><span><strong>${esc(b[0])}</strong><br><span class="mute" style="font-size:.88rem">${esc(b[1])}</span></span></div>`).join('')}</div>
+  <h2>Mudansha, Yūdansha und Kōdansha</h2><div class="tblwrap"><table><thead><tr><th>Einteilung</th><th>Schrift</th><th>Bedeutung</th><th>Grade</th></tr></thead><tbody>${g.einteilung.map(r => `<tr><th>${esc(ro(r[0]))}</th><td lang="ja">${esc(r[1])}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td></tr>`).join('')}</tbody></table></div><p class="mute" style="font-size:.85rem">Quelle: ${esc(g.einteilungQuelle)} (Kapitel 6.1)</p>
   <h2>Regeln</h2><ul>${g.regeln.map(r => `<li>${esc(r)}</li>`).join('')}</ul>
   <p>Mehr zum Thema im Lehrwerk: <a href="#/lehrwerk/l-6-1">Kapitel 6.1 Der Gürtel und der Kuro Obi</a>.</p>
-  <h2>Praxis: Anforderungen je Kyu</h2><div class="tblwrap"><table><thead><tr><th>Bereich</th>${cols.map(c => `<th>${esc(c)}</th>`).join('')}</tr></thead><tbody>${praxisRows}</tbody></table></div>
-  <p class="mute" style="font-size:.88rem">Die Zahlen geben die Anzahl der zu zeigenden Techniken bzw. Kata an. Grundlagen für alle Stufen: ${esc(g.grundlagen)}.</p>${mat}<p class="mute" style="font-size:.85rem">${esc(g.hinweisMaterial)} Quelle: ${esc(g.quellePraxis)}.</p>
-  <h2>Theorie: Anforderungen je Kyu</h2><p class="mute" style="font-size:.9rem">BE = Bewertungseinheiten. Quelle: ${esc(g.quelleTheorie)}. Die Inhalte findest du im <a href="#/lehrwerk">Lehrwerk</a> und im <a href="#/glossar">Glossar</a>; zum Üben gibt es den <a href="#/lernen">Lernmodus</a>.</p>
-  ${cols.map(c => `<details class="item"><summary><strong>${esc(c)}${g.farben[c] ? ' ' + esc(g.farben[c].name) : ''}</strong><span class="badge">${g.theorie[c].summeAngegeben} BE</span></summary><div class="body">${theorieTable(g.theorie[c])}</div></details>`).join('')}
-  <div class="notice">${esc(g.hinweisDan)} <a href="#/schwarzgurt">Zum Schwarzgurt-Bereich</a></div>
+  <h2>Was wird je Kyu geprüft?</h2><p class="mute" style="font-size:.9rem">Grundlagen für alle Stufen: ${esc(g.grundlagen)}. Die Inhalte findest du im <a href="#/lehrwerk">Lehrwerk</a> und im <a href="#/glossar">Glossar</a>, zum Üben gibt es den <a href="#/lernen">Lernmodus</a>.</p>${acc}
+  <p class="mute" style="font-size:.85rem">${esc(g.hinweisMaterial)} Quellen: ${esc(g.quellePraxis)}; ${esc(g.quelleTheorie)}.</p>
+  <div class="notice">${esc(g.hinweisSchwarz)} <a href="#/schwarzgurt">Zum Schwarzgurt-Bereich</a></div>
   <p><a class="btn" href="#/pruefung">Prüfungsordnung ansehen</a></p>`, 'Gürtel und Prüfung', 'mehr');
 }
 function pPruefung() {
@@ -382,7 +391,7 @@ function buildIndex() {
   D.fitness.uebungen.forEach(f => o.push({ k: 'Fitness', t: f.name, u: '#/bereich/fitness/uebungen', x: f.cues.join(' ') + ' ' + f.muskeln.join(' ') + ' ' + f.budo.join(' '), b: 'Ergänzung' }));
   D.bereiche.ausruestung.forEach(a => o.push({ k: 'Ausrüstung', t: a.name, u: a.abschnitt ? '#/lehrwerk/' + a.abschnitt : '#/bereiche', x: a.text, b: a.quelle }));
   D.pruefung.abschnitte.forEach(a => o.push({ k: 'Prüfung', t: a.titel + ' (Prüfungsordnung)', u: '#/pruefung', x: a.punkte.join(' '), b: 'Prüfungsordnung' }));
-  Object.keys(D.graduierung.theorie).forEach(c => o.push({ k: 'Prüfung', t: 'Theorie ' + c, u: '#/graduierung', x: D.graduierung.theorie[c].punkte.map(p => p[0]).join(' '), b: 'Graduierungssystem' }));
+  Object.keys(D.graduierung.themen).forEach(c => o.push({ k: 'Prüfung', t: 'Prüfung ' + c, u: '#/graduierung', x: D.graduierung.themen[c].join(' ') + ' ' + D.graduierung.bereiche[c].join(' '), b: 'Graduierungssystem' }));
   o.forEach(i => { i.n = norm(i.t + ' ' + i.x); i.nt = norm(i.t); });
   return o;
 }
@@ -436,7 +445,7 @@ function drawSG() {
   const a = SG.abschnitte;
   setPage(`<p class="kicker">Geschützter Bereich</p><div class="row"><h1>Schwarzgurt-Bereich <span class="jp" lang="ja" style="color:var(--accent)">黒帯</span></h1><button class="btn ghost small" data-act="sglock">Sperren</button></div>
   <div class="notice">Dieser Bereich ist nur für Dan-Träger gedacht. Inhalte nicht weitergeben. Beim Schließen der App wird er wieder gesperrt.</div>
-  ${a.map(s => `<details class="item" ${s.id === 'sg-dojoregeln' ? 'open' : ''}><summary><strong>${esc(s.titel)}</strong></summary><div class="body">${s.grad ? `<div id="sggrad">${sgGradHtml(s.grad)}</div>` : `<div class="read">${renderBlocks(s.bloecke, { noPages: true })}</div>`}${s.quelle ? `<p class="mute" style="font-size:.82rem">Quelle: ${esc(s.quelle)}</p>` : ''}</div></details>`).join('')}`, 'Schwarzgurt', 'mehr');
+  ${a.map(s => `<details class="item" ${s === a[0] ? 'open' : ''}><summary><strong>${esc(s.titel)}</strong></summary><div class="body">${s.grad ? `<div id="sggrad">${sgGradHtml(s.grad)}</div>` : `<div class="read">${renderBlocks(s.bloecke, { noPages: true })}</div>`}${s.quelle ? `<p class="mute" style="font-size:.82rem">Quelle: ${esc(s.quelle)}</p>` : ''}</div></details>`).join('')}`, 'Schwarzgurt', 'mehr');
 }
 function pSchwarzgurt() {
   if (SG) return drawSG();
@@ -455,7 +464,7 @@ function pUeber() {
   setPage(`<h1>Über diese App</h1>
   <div class="item"><h3>Grundsatz</h3><p>Das <strong>Lehrwerk des Yawara Kyushin Ryu</strong> (1. Auflage, Tobias Riemer) ist die verbindliche Grundlage aller Inhalte. Alles, was nicht aus dem Lehrwerk stammt, ist als <span class="badge erg">Ergänzung</span> gekennzeichnet. Bei Abweichungen gilt das Lehrwerk. Der Text des Lehrwerks wurde aus dem Scan übertragen und geprüft, zu jeder Seite lässt sich der Original-Scan öffnen.</p><p class="mute" style="font-size:.88rem">${esc(D.lehrwerk.copyright)}. Das Lehrwerk wird mit Zustimmung des Autors in dieser App bereitgestellt. Die App ist kostenfrei und dient ausschließlich dem Lernen.</p></div>
   <h2>Die Schule</h2>${U.abschnitte.map(s => `<details class="item"><summary><strong>${esc(s.titel)}</strong></summary><div class="body">${(s.text || []).map(t => `<p>${esc(t)}</p>`).join('')}${s.punkte ? `<ul>${s.punkte.map(p => `<li>${esc(p)}</li>`).join('')}</ul>` : ''}<p class="mute" style="font-size:.82rem">Quelle: ${esc(s.quelle)}</p></div></details>`).join('')}
-  <h2>Einstellungen</h2><div class="item"><label for="st"><strong>Darstellung</strong></label><select id="st" data-set="theme"><option value="auto" ${settings.theme === 'auto' ? 'selected' : ''}>Automatisch (Gerät)</option><option value="light" ${settings.theme === 'light' ? 'selected' : ''}>Hell</option><option value="dark" ${settings.theme === 'dark' ? 'selected' : ''}>Dunkel</option></select>
+  ${installHtml()}<h2>Einstellungen</h2><div class="item"><label for="st"><strong>Darstellung</strong></label><select id="st" data-set="theme"><option value="auto" ${settings.theme === 'auto' ? 'selected' : ''}>Automatisch (Gerät)</option><option value="light" ${settings.theme === 'light' ? 'selected' : ''}>Hell</option><option value="dark" ${settings.theme === 'dark' ? 'selected' : ''}>Dunkel</option></select>
   <p></p><label for="sf"><strong>Schriftgröße</strong></label><select id="sf" data-set="fs"><option value="1" ${settings.fs == 1 ? 'selected' : ''}>Normal</option><option value="1.15" ${settings.fs == 1.15 ? 'selected' : ''}>Groß</option><option value="1.3" ${settings.fs == 1.3 ? 'selected' : ''}>Sehr groß</option></select>
   <p></p><label class="f"><input type="checkbox" id="sm" data-set="macrons" ${settings.macrons ? 'checked' : ''}> Längungszeichen in Umschrift anzeigen (ō, ū)</label>
   <p></p><button class="btn ghost small" data-act="reset">Favoriten und Einstellungen zurücksetzen</button></div>

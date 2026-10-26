@@ -1,5 +1,5 @@
 /* Service Worker: Offline-Nutzung. Bei jeder Aktualisierung der App die Versionsnummer erhöhen. */
-const VERSION = 'ykr-1.0.0';
+const VERSION = 'ykr-1.1.0';
 const CORE = ['./','index.html','css/app.css','js/app.js','manifest.webmanifest','icons/icon.svg','icons/icon-192.png',
  'data/lehrwerk.json','data/glossar.json','data/graduierung.json','data/pruefung.json','data/ueber.json','data/bereiche.json','data/techniken.json','data/ergaenzungen.json','data/fitness.json','data/schwarzgurt.json'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(VERSION).then(c => Promise.all(CORE.map(u => c.add(u).catch(()=>null)))).then(() => self.skipWaiting())); });

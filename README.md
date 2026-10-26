@@ -14,12 +14,16 @@ Wissensdatenbank des **Yawara Kyushin Ryu (YKR)** als Web-App für Schüler und 
 |---|---|
 | **Lehrwerk** | Alle 10 Kapitel plus Vorwort, durchsuchbar, mit Original-Scans |
 | **Bereiche** | Yawara Kyushin Ryu (Allgemein), Iaido, Kyokushinkai Karate, Jiu-Jitsu/Selbstverteidigung, Allgemeine Fitness, jeweils mit Theorie, Ausrüstung und Techniken |
-| **Glossar** | Rund 400 Begriffe mit Umschrift, japanischer Schrift und Übersetzung. Begriffe aus dem Lehrwerk haben Vorrang. |
+| **Glossar** | Rund 370 Begriffe mit weiteren Übersetzungen, wo es mehrere gibt. Begriffe mit Umschrift, japanischer Schrift und Übersetzung. Begriffe aus dem Lehrwerk haben Vorrang. |
 | **Lernen** | Quiz und Karteikarten, zum Beispiel zu Tugenden, Schwert-, Kleidungs- und Rüstungsteilen |
-| **Gürtel und Prüfung** | Anforderungen der Kyu-Grade (Praxis und Theorie), Gürtelfarben, Prüfungsordnung |
+| **Gürtel und Prüfung** | Gürtelfarben, Einteilung in Mudansha, Yūdansha und Kōdansha, Prüfungsbereiche und Theoriethemen je Kyu, Prüfungsordnung (ohne Punkte und Zahlen) |
 | **Fitness** | 66 Übungen, filterbar nach vorhandener Ausrüstung, dazu Kurzprogramme (Aufwärmen, Mobility, Rumpf, Ganzkörper) |
-| **Schwarzgurt-Bereich** | Verschlüsselt: Dan-Dojoregeln, Anforderungen 1. bis 8. Dan, Dan-Prüfungsregeln |
+| **Schwarzgurt-Bereich** | Verschlüsselt: Bewertung und Punkteverteilung (Praxis und Theorie, alle Grade), Anforderungen je Grad, vollständige Prüfungsordnung, Dan-Dojoregeln |
 | **Suche, Favoriten** | Suche über alle Inhalte, Favoriten bleiben lokal auf dem Gerät |
+
+## Als App auf dem Handy installieren
+
+Die veröffentlichte Seite im Handy-Browser öffnen. Auf der Startseite (und unter „Mehr“) gibt es den Button **„App installieren“**. Alternativ im Browser-Menü: Android/Chrome „App installieren“, Samsung Internet „Seite hinzufügen zu → Startbildschirm“, iPhone/Safari „Teilen → Zum Home-Bildschirm“. Danach startet sie wie eine App und funktioniert offline.
 
 ## Auf GitHub Pages veröffentlichen
 
@@ -74,7 +78,8 @@ Alle Inhalte liegen als JSON-Dateien im Ordner `data/`, getrennt vom Design:
 ## Bekannte Hinweise
 
 - Der Lehrwerktext wurde per Texterkennung aus dem Scan übertragen und gegen die Seitenbilder geprüft. Im Zweifel gilt der Original-Scan (in der App bei jeder Seite abrufbar).
-- Im Graduierungssystem (Theorie) ist die Summe für den 1. Dan mit 85 angegeben, die Einzelwerte ergeben 95. Die App zeigt beides an.
+- Im Graduierungssystem (Theorie) ist die Summe für den 1. Dan mit 85 angegeben, die Einzelwerte ergeben 95. Der Schwarzgurt-Bereich zeigt beides an.
+- Punkteverteilungen und Anzahlen je Grad sind bewusst nur im Schwarzgurt-Bereich sichtbar.
 - Die Zuordnung der Waffen und Materialien zu den Stufen im Graduierungssystem (Praxis) folgt der Spaltenaufteilung der Tabelle.
 - Die japanische Schreibung von „Kyushin“ liegt nicht vor und ist deshalb nirgends angegeben.
 - Die Fitness-Übungen sind eine Ergänzung. Sie ersetzen keine ärztliche oder trainerische Beratung.
