@@ -1,0 +1,356 @@
+{
+ "spalten": [
+  "10. Kyu",
+  "6. Kyu",
+  "5. Kyu",
+  "3. Kyu",
+  "1. Kyu"
+ ],
+ "farben": {
+  "10. Kyu": {
+   "name": "Weiß",
+   "code": "#f4f1ea"
+  },
+  "6. Kyu": {
+   "name": "Grün",
+   "code": "#3f7d4e"
+  },
+  "5. Kyu": {
+   "name": "Blau",
+   "code": "#2b5f9e"
+  },
+  "3. Kyu": {
+   "name": "Braun",
+   "code": "#7a4a2b"
+  },
+  "1. Kyu": {
+   "name": "Braun",
+   "code": "#7a4a2b"
+  }
+ },
+ "praxis": {
+  "Kumitachi": [
+   5,
+   10,
+   15,
+   20,
+   20
+  ],
+  "Taijutsu (SV)": [
+   5,
+   10,
+   15,
+   20,
+   "Situativ"
+  ],
+  "Schnitttest": [
+   6,
+   6,
+   6,
+   8,
+   8
+  ],
+  "Seitei-Iai-Kata": [
+   1,
+   2,
+   2,
+   3,
+   3
+  ],
+  "Kyokushinkai Kata": [
+   1,
+   1,
+   2,
+   2,
+   "Sparring 5x2min"
+  ],
+  "Tameshiwari": [
+   null,
+   2,
+   3,
+   4,
+   4
+  ]
+ },
+ "theorie": {
+  "10. Kyu": {
+   "punkte": [
+    [
+     "Benennung Wortsilben Iaido!",
+     3
+    ],
+    [
+     "Benennung Waffen der Samurai!",
+     4
+    ],
+    [
+     "Benennung gezeigter Iaito-Teile!",
+     4
+    ],
+    [
+     "Benennung gezeigter Kleidungsteile!",
+     4
+    ],
+    [
+     "Benennung Kamae",
+     6
+    ],
+    [
+     "Benennung Angriffsstufen (Höhen)",
+     3
+    ],
+    [
+     "Erläuterung Bokken",
+     1
+    ]
+   ],
+   "summeEinzel": 25,
+   "summeAngegeben": 25
+  },
+  "6. Kyu": {
+   "punkte": [
+    [
+     "Benennung Wortsilben Iaido!",
+     3
+    ],
+    [
+     "Benennung Waffen der Samurai!",
+     4
+    ],
+    [
+     "Benennung gezeigter Iaito-Teile!",
+     4
+    ],
+    [
+     "Benennung gezeigter Kleidungsteile!",
+     4
+    ],
+    [
+     "Benennung Wortsilben Bushido!",
+     3
+    ],
+    [
+     "Benennung Tugenden des Bushido (japanisch&deutsch)!",
+     7
+    ],
+    [
+     "Benennung Kenjutsu Stile!",
+     5
+    ],
+    [
+     "Erläuterung, Wortherkunft und Ortsbeschreibung Dojo!",
+     5
+    ]
+   ],
+   "summeEinzel": 35,
+   "summeAngegeben": 35
+  },
+  "5. Kyu": {
+   "punkte": [
+    [
+     "Benennung Wortsilben Iaido!",
+     3
+    ],
+    [
+     "Benennung Waffen der Samurai!",
+     4
+    ],
+    [
+     "Benennung gezeigter Iaito-Teile!",
+     4
+    ],
+    [
+     "Benennung gezeigter Kleidungsteile!",
+     4
+    ],
+    [
+     "Benennung Wortsilben Bushido!",
+     3
+    ],
+    [
+     "Benennung Tugenden des Bushido (japanisch&deutsch)!",
+     7
+    ],
+    [
+     "Benennung Kenjutsu Stile!",
+     5
+    ],
+    [
+     "Erläuterung, Wortherkunft und Ortsbeschreibung Dojo!",
+     5
+    ],
+    [
+     "Begriffserklärung: Sila, Samadhi, Sangha & Zusammenhangseinordnung",
+     10
+    ]
+   ],
+   "summeEinzel": 45,
+   "summeAngegeben": 45
+  },
+  "3. Kyu": {
+   "punkte": [
+    [
+     "Benennung Wortsilben Iaido!",
+     3
+    ],
+    [
+     "Benennung Waffen der Samurai!",
+     4
+    ],
+    [
+     "Benennung gezeigter Iaito-Teile!",
+     4
+    ],
+    [
+     "Benennung gezeigter Kleidungsteile!",
+     4
+    ],
+    [
+     "Benennung Wortsilben Bushido!",
+     3
+    ],
+    [
+     "Benennung Tugenden des Bushido (japanisch&deutsch)!",
+     7
+    ],
+    [
+     "Definition Kata!",
+     3
+    ],
+    [
+     "Benennung 4 Grundbewegungen der Kata!",
+     4
+    ],
+    [
+     "Benennung wesentlicher Religionen im Bushido (inkl. Einfluss)!",
+     3
+    ],
+    [
+     "Kendoka mit Trefferstellen benennen",
+     6
+    ],
+    [
+     "Inazo Nitobe „Bushido“ Kapiteldeutung und Gesamtüberblick",
+     14
+    ]
+   ],
+   "summeEinzel": 55,
+   "summeAngegeben": 55
+  },
+  "1. Kyu": {
+   "punkte": [
+    [
+     "Benennung Wortsilben Iaido!",
+     3
+    ],
+    [
+     "Benennung Waffen der Samurai!",
+     4
+    ],
+    [
+     "Benennung gezeigter Iaito-Teile!",
+     4
+    ],
+    [
+     "Benennung gezeigter Kleidungsteile!",
+     4
+    ],
+    [
+     "Benennung Wortsilben Bushido!",
+     3
+    ],
+    [
+     "Benennung Tugenden des Bushido (japanisch&deutsch)!",
+     7
+    ],
+    [
+     "Definition Kata!",
+     3
+    ],
+    [
+     "Benennung 4 Grundbewegungen der Kata!",
+     4
+    ],
+    [
+     "Benennung wesentlicher Religionen im Bushido (inkl. Einfluss)!",
+     3
+    ],
+    [
+     "Kendoka mit Trefferstellen benennen",
+     6
+    ],
+    [
+     "Inazo Nitobe „Bushido“ Kapiteldeutung und Gesamtüberblick",
+     14
+    ],
+    [
+     "Trainingslehre (Zusammenhang: Ziel, Methode, Verfahren, Mittel)",
+     5
+    ],
+    [
+     "Pädagogisches Dreieck (Zusammenhang: Sache, Lehrender, Lernender)",
+     5
+    ],
+    [
+     "Herausarbeitung: Koordinative und Konditionelle Fähigkeiten",
+     10
+    ]
+   ],
+   "summeEinzel": 75,
+   "summeAngegeben": 75
+  }
+ },
+ "material": [
+  {
+   "bereich": "Kumitachi/Kumite",
+   "teile": [
+    {
+     "von": "10. Kyu",
+     "bis": "1. Kyu",
+     "x": "Bokken, Tanto"
+    }
+   ]
+  },
+  {
+   "bereich": "Taijutsu (SV)",
+   "teile": [
+    {
+     "von": "10. Kyu",
+     "bis": "8. Dan",
+     "x": "Enthält Elemente aus dem: Allkampf (DAO), Wing Chun, Taekwondo, Kyokushinkai Karate, Ju-Jitsu, Goshin Jitsu"
+    }
+   ]
+  },
+  {
+   "bereich": "Schnitttest",
+   "teile": [
+    {
+     "von": "10. Kyu",
+     "bis": "2. Dan",
+     "x": "Bokken (mit Saya)"
+    }
+   ]
+  },
+  {
+   "bereich": "Kata",
+   "teile": [
+    {
+     "von": "10. Kyu",
+     "bis": "1. Kyu",
+     "x": "Bokken (mit Saya)"
+    }
+   ]
+  }
+ ],
+ "grundlagen": "Sitzen, Gehen, An-/Abgrüßen, Kaiten, Ukemi, Atemtechniken, Abhärtungstraining/Makiwara, Etikette, Einhaltung Dojoregeln YKR",
+ "quellePraxis": "Graduierungssystem YKR (Praxis), überarbeitet 09.02.2018, Änderung vom 02.01.2019",
+ "quelleTheorie": "Graduierungssystem YKR (Theorie), überarbeitet 13.04.2018",
+ "hinweisMaterial": "Die Zuordnung der Waffen und Materialien zu den Stufen folgt der Spaltenaufteilung der Tabelle im Original.",
+ "regeln": [
+  "Es gibt nur die Kyu-Stufen 10, 6, 5, 3 und 1. Zwischenstufen gibt es nicht.",
+  "Der 10. Kyu (weiß) ist Pflicht und kann nicht übersprungen werden. Er symbolisiert die Aufnahme in die Schule, mit ihm erhält man die Anrede mit dem Anhang „-san“.",
+  "Alle weiteren Kyu-Grade können übersprungen werden.",
+  "Dan-Grade können nicht übersprungen werden (Ausnahme: Dan-Verleihungen ehrenhalber)."
+ ],
+ "hinweisDan": "Die Anforderungen der Dan-Grade stehen im geschützten Schwarzgurt-Bereich."
+}

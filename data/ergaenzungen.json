@@ -1,0 +1,199 @@
+{
+ "hinweis": "Ergänzungen stammen aus öffentlichen Quellen und nicht aus dem Lehrwerk. Bei Abweichungen gilt das Lehrwerk.",
+ "artikel": [
+  {
+   "id": "e-kyokushin",
+   "titel": "Kyokushinkai Karate: Geschichte und Hintergrund",
+   "bereich": "karate",
+   "quellen": [
+    "Wikipedia: Kyokushin (en.wikipedia.org/wiki/Kyokushin)",
+    "Mas Oyama – Kyokushinkai (shuriway.co.uk/masoyama.html)",
+    "Biografie Mas Oyama (military-history.fandom.com/wiki/Mas_Oyama)"
+   ],
+   "hinweis": null,
+   "bloecke": [
+    {
+     "t": "h",
+     "x": "Kurzüberblick"
+    },
+    {
+     "t": "p",
+     "x": "Kyokushinkai (極真会, „Gesellschaft der äußersten Wahrheit“) ist ein Karate-Stil, der als erster und einflussreichster Vollkontakt-Karatestil gilt. Gegründet wurde er von **Masutatsu „Mas“ Ōyama** (大山倍達, 1923–1994). Oyama wurde in Korea geboren, zog als junger Mann nach Japan und erhielt dort 1968 die japanische Staatsbürgerschaft."
+    },
+    {
+     "t": "h",
+     "x": "Entstehung"
+    },
+    {
+     "t": "p",
+     "x": "Oyama lernte zunächst Shōtōkan-Karate bei Gichin Funakoshi, dem Mann, der das Karate von Okinawa nach Japan brachte, und später Gōjū-ryū. Er trainierte auch in einem Dojo, in dem mit Schutzausrüstung und vollem Krafteinsatz geübt wurde, was seine Vorstellung von „echtem“ Kampftraining beeinflusst haben dürfte. Ab etwa 1953 entwickelte er eine eigene Auffassung von Karate, die sich immer weiter vom Gōjū-ryū löste. Um 1956 nannte er seine Schule „Ōyama-Dōjō“, und 1957 erhielt der Stil in einer Zeremonie den Namen Kyokushinkai."
+    },
+    {
+     "t": "p",
+     "x": "Zu Oyamas Ruf gehörten extreme Trainingsmethoden: Er zog sich 1948 für ein hartes Training in die Berge zurück und soll später mit bloßen Händen gegen Stiere gekämpft haben, um die Wirkung seiner Technik zu beweisen."
+    },
+    {
+     "t": "h",
+     "x": "Organisation und Wettkampf"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "**April 1964:** Gründung der „International Karate Organization Kyokushinkai“ (IKO, auch IKOK).",
+      "**1969:** Oyama veranstaltet die erste „All-Japan Full Contact Karate Open“-Meisterschaft. Wettkämpfe mit vollem Körperkontakt (ohne Schutzausrüstung, ohne Kopftreffer mit der Faust) wurden zum Markenzeichen. Weltmeisterschaften folgten in den Jahren danach.",
+      "Der Stil bekam den Spitznamen „Kenka Karate“ (Schlägerei-Karate), den Oyama selbst nicht mochte.",
+      "Nach Oyamas Tod 1994 spaltete sich die IKO wegen Nachfolgestreitigkeiten in mehrere Gruppen. Schon vorher waren einzelne Länderverbände ausgetreten (zum Beispiel 1991 der britische Verband unter Steve Arneil, der die „International Federation of Karate“ gründete)."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Trainingsinhalte"
+    },
+    {
+     "t": "p",
+     "x": "Das Training besteht aus drei Säulen:"
+    },
+    {
+     "t": "ol",
+     "items": [
+      "**Kihon** (基本, Grundschule): Grundtechniken, Stände, Blöcke, Stöße, Tritte",
+      "**Kata** (型, Formen): festgelegte Bewegungsabläufe. Die Kata des Kyokushin werden in „nördliche“ und „südliche“ Kata eingeteilt. In der YKR-Prüfung werden die Taikyoku Sono (Ichi/Ni/San) geprüft.",
+      "**Kumite** (組手, Sparring): Partner- und Freikampf"
+     ]
+    },
+    {
+     "t": "p",
+     "x": "Dazu kommen Abhärtung (Makiwara, Konditionstraining) und **Tameshiwari** (試し割り, Bruchtest) als Nachweis der Wirksamkeit der Technik. Im YKR werden Techniken aus Kyokushinkai und Gōjū-ryū verwendet."
+    }
+   ]
+  },
+  {
+   "id": "e-iaido",
+   "titel": "Iaido und Katori Shintō-ryū: Geschichte und Hintergrund",
+   "bereich": "iaido",
+   "quellen": [
+    "Wikipedia: Iaido und Zen Nippon Kendō Renmei Iaidō (en.wikipedia.org)",
+    "Kampai Budokai: Iaido (kampaibudokai.org/Iaido.htm)",
+    "Wikipedia: Tenshin Shōden Katori Shintō-ryū und Iizasa Ienao (en.wikipedia.org)"
+   ],
+   "hinweis": null,
+   "bloecke": [
+    {
+     "t": "h",
+     "x": "Kurzüberblick"
+    },
+    {
+     "t": "p",
+     "x": "Iaidō (居合道) ist die japanische Kunst, das Schwert aus der Scheide zu ziehen, zu schneiden und wieder einzustecken. Anders als im Kendo gibt es **kein Sparring**, geübt werden Formen (Kata) gegen einen vorgestellten Gegner. Das Wort „Iai“ (居合) wird auf einen alten Grundsatz zurückgeführt, der sinngemäß bedeutet: immer bereit sein und auf einen plötzlichen Angriff sofort angemessen reagieren. Im Mittelpunkt steht also der **Geisteszustand der ständigen Gegenwärtigkeit**."
+    },
+    {
+     "t": "h",
+     "x": "Geschichte"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "**Ursprung:** Als Ordner und Begründer der ersten eigenständigen Schwertzieh-Schule gilt **Hayashizaki Jinsuke Shigenobu** (林崎甚助重信), der in der zweiten Hälfte des 16. Jahrhunderts lebte. Seine Lebensdaten werden in den Quellen unterschiedlich angegeben (Geburt um 1542–1546, Tod um 1617–1621). Vieles in seiner Lebensgeschichte ist legendenhaft ausgeschmückt. Schwertziehen als Technik gab es schon vor ihm, er soll aber als Erster den geistigen Wert dieser Übung betont haben.",
+      "**Klassische Schulen (Koryū):** Aus Hayashizakis Linie gingen die beiden heute weltweit bekanntesten klassischen Stile hervor: **Musō Jikiden Eishin-ryū** und **Musō Shinden-ryū** (Letzterer 1932–1934 von Nakayama Hakudō zusammengestellt).",
+      "**Friedenszeit:** Nach der Einigung Japans unter den Tokugawa wandelte sich das Schwertüben vom Kampf auf dem Schlachtfeld zum Weg der Selbstentwicklung (Jutsu → Dō).",
+      "**Standardisierung (Seitei):** Nach dem Zweiten Weltkrieg, als Kampfkünste in Japan wieder erlaubt waren, wurde 1952 der Japanische Kendo-Verband (Zen Nippon Kendō Renmei, ZNKR) gegründet. Ein Ausschuss mit Meistern verschiedener Schulen stellte aus deren Grundtechniken ein Einheitsprogramm zusammen. **1969** erschienen **sieben** Seitei-Iai-Kata, **1981** kamen drei hinzu, **2000** zwei weitere. Seitdem sind es **zwölf**. Dieses Programm („Seitei-gata“) dient als Maßstab für Prüfungen im Verband und ist die weltweit verbreitetste Form des Iaido."
+     ]
+    },
+    {
+     "t": "h",
+     "x": "Katori Shintō-ryū (Bezug zum YKR)"
+    },
+    {
+     "t": "p",
+     "x": "Das YKR nennt in seiner Prüfungsordnung neben dem Seitei-Iai auch **Katori Shintō-ryū** und **Ogawa Ryū (Kaze no Ryū)** als Quellen der Formen. Die **Tenshin Shōden Katori Shintō-ryū** (天真正伝香取神道流) gehört zu den ältesten noch bestehenden Kampfkunstschulen Japans. Sie wird auf **Iizasa Chōisai Ienao** zurückgeführt, der nahe dem Katori-Schrein (Präfektur Chiba) lebte. Die Schule selbst nennt 1447 als Gründungsjahr, manche Forscher halten eher um 1480 für zutreffend. Sie ist ein umfassendes System (Schwert, Speer, Stock, Naginata und mehr), Iaijutsu ist nur ein Teil davon. Ihre Techniken berücksichtigen, dass die Krieger damals gerüstet (Yoroi) und auf unebenem Gelände kämpften. 1960 wurde sie als erste Kampfkunstschule vom japanischen Staat als immaterielles Kulturgut eingestuft."
+    },
+    {
+     "t": "note",
+     "x": "Hinweis: Das Lehrwerk (S. 8) nennt für den international verwendeten Seitei-Iai-Standard das Jahr 1968. In der hier genutzten Fachliteratur wird meist 1969 genannt. Maßgeblich für diese App ist das Lehrwerk."
+    },
+    {
+     "t": "note",
+     "x": "Zu Ogawa Ryū (Kaze no Ryū), das in der Prüfungsordnung als Quelle der Formen genannt wird, liegen bislang keine Quellen vor."
+    }
+   ]
+  },
+  {
+   "id": "e-jujutsu",
+   "titel": "Ju-Jutsu: Geschichte und Hintergrund",
+   "bereich": "jiujitsu",
+   "quellen": [
+    "Geschichte des Jiu-Jitsu (afistfulofbase.substack.com/p/the-history-of-jiu-jitsu-part-1)",
+    "History of Judo (onlinejfi.org/history-of-judo.php)"
+   ],
+   "hinweis": null,
+   "bloecke": [
+    {
+     "t": "note",
+     "x": "Hinweis: Im Lehrwerk (Kapitel 1.2) bezeichnet „Yawara“ die ursprünglichen Formen sowohl des waffenlosen Kampfes als auch des Kampfes mit Waffen, gegründet im japanischen Jiu-Jitsu. Maßgeblich für die App ist das Lehrwerk."
+    },
+    {
+     "t": "p",
+     "x": "„Jū“ (柔) bedeutet sanft, nachgebend, „Jutsu“ (術) Kunst oder Technik, also „die sanfte Kunst“. Jujutsu entstand bei den Samurai als Methode, einen **bewaffneten und gepanzerten Gegner** zu bezwingen, wenn man selbst keine oder nur eine kurze Waffe hat. Weil Schläge gegen eine Rüstung kaum wirken, setzten sich Hebel, Würfe und Haltetechniken durch. Eine alte Bezeichnung für diese Kunst ist **„Yawara“** (柔), das auch im Namen **Yawara** Kyushin Ryu steckt. Eine historische Form war das „Yoroi kumi-uchi“, das Ringen in voller Rüstung. Systematisch gelehrt wurde Jujutsu ab der zweiten Hälfte des 16. Jahrhunderts, in der Edo-Zeit (1603–1868) gab es viele Schulen (Ryū)."
+    },
+    {
+     "t": "p",
+     "x": "Mit dem Ende der Samurai-Klasse im 19. Jahrhundert verlor das Jujutsu an Bedeutung. **Kanō Jigorō** (嘉納治五郎, 1860–1938) entwickelte daraus das **Judo** („Weg der Sanftheit“), gründete 1882 das Kōdōkan und legte Wert auf Erziehung, Sicherheit und Wettkampf. 1905 trafen sich Vertreter der großen Jujutsu-Schulen in Kyoto. Judo wurde 1964 olympisch. Aus dem Jujutsu und Judo entwickelten sich später auch das Aikidō und das Brazilian Jiu-Jitsu."
+    }
+   ]
+  },
+  {
+   "id": "e-wingchun",
+   "titel": "Wing Chun: Geschichte und Hintergrund",
+   "bereich": "jiujitsu",
+   "quellen": [
+    "Wikipedia: Wing Chun und Branches of Wing Chun (en.wikipedia.org)"
+   ],
+   "hinweis": null,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Wing Chun ist ein südchinesischer Kampfstil, der auf **Direktheit, Einfachheit und sparsame Bewegung** setzt und nicht auf rohe Kraft. Der Name bedeutet etwa „ewiger Frühling“. Die **Herkunft ist nicht gesichert**: Die bekannteste Überlieferung nennt die buddhistische Nonne **Ng Mui** und ihre Schülerin **Yim Wing Chun**. Historiker halten diese Geschichte für eine Mischung aus Fakten und Legende, es gibt mindestens acht verschiedene Linien mit eigenen Ursprungsgeschichten. Gesichert ist die moderne Verbreitung: **Yip Man** (Ip Man) zog 1949 nach Hongkong und unterrichtete als Erster öffentlich. 1967 entstand dort die Ving Tsun Athletic Association. Zu seinen Schülern gehörte Bruce Lee."
+    }
+   ]
+  },
+  {
+   "id": "e-goshin",
+   "titel": "Goshin Jutsu: Begriff und Einordnung",
+   "bereich": "jiujitsu",
+   "quellen": [
+    "Goshin Jutsu: amicale-coe.eu (Self-Defense – Goshin Jutsu) und um.edu.mt (Study-Unit Self Defense)"
+   ],
+   "hinweis": null,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "„Goshin“ (護身) heißt Selbstschutz, „Jutsu“ (術) Technik oder Kunst. Goshin Jutsu ist **kein einzelner, genormter Stil**, sondern ein Sammelbegriff für Selbstverteidigungssysteme, die Techniken aus Judo, Karate, Aikido und Jujutsu mischen. Typisch sind Abwehr gegen Griffe, Umklammerungen, Schläge, Tritte, Messerangriffe und das Kontrollieren des Angreifers mit möglichst wenig Kraft. Ein bekanntes Beispiel ist die „Kōdōkan Goshin-jutsu“-Kata des Judo. Eine Abgrenzung zum Begriff „Jissen“ (実戦, „echter Kampf“) betont, dass „Goshin“ auch Vorbeugung und Haltung umfasst, nicht nur Technik."
+    }
+   ]
+  },
+  {
+   "id": "e-kyusho",
+   "titel": "Kyūsho und Dim Mak: Einordnung",
+   "bereich": "jiujitsu",
+   "quellen": [
+    "Wikipedia: Pressure point / Kyūsho (en.wikipedia.org/wiki/Pressure_point)",
+    "Sach, Kelly H./Kelly N.: Handbuch für Selbstverteidigung, Kampfkunst und Prävention, 2008 (Deutsche Digitale Bibliothek)"
+   ],
+   "hinweis": null,
+   "bloecke": [
+    {
+     "t": "note",
+     "x": "Hinweis: Das Lehrwerk (Kapitel 1.4) ordnet das im YKR genutzte Pressure Point Combat System als Entwicklung des Dim Mak ein. Dim Mak basiert dort auf der TCM und ist im Gegensatz zum Kyusho Jitsu nicht so nah mit Karate verbunden. Maßgeblich für die App ist das Lehrwerk."
+    },
+    {
+     "t": "p",
+     "x": "„Kyūsho“ (急所) bedeutet „lebenswichtige Stelle“, also Körperstellen, die auf Druck oder Schlag besonders empfindlich reagieren. Der Gedanke ist in alten japanischen Kampfkünsten bekannt, eine Überlieferung führt ihn auf Minamoto no Yoshimitsu (1045–1127) zurück. Im Westen wurde das Konzept in den 1960er Jahren unter dem chinesischen Namen **„Dim Mak“** (點脈, „Todesberührung“) durch Kampfkunst-Romane und Filme populär."
+    },
+    {
+     "t": "p",
+     "x": "Die Wissenschaft sieht das nüchtern: Empfindliche Punkte, an denen Nerven oberflächlich liegen, gibt es unbestritten, und sie können starke Schmerzen oder eine Schwächung bewirken. Die Vorstellung von „verzögerten Todesschlägen“ ist dagegen sehr umstritten. Ihr Schulstandpunkt („Nervendruckpunkte haben nichts Mystisches“) passt zu einer **anatomisch-physiologischen Sicht**. Die Schulbeschreibung nennt **Kelly Sach** (Bundesverband Selbstverteidigung) als Quelle des Lehrsatzes „Was auf der Matte schön aussieht, muss auf der Straße nicht funktionieren.“ Von Kelly Sach erschien 2008 auch ein „Handbuch für Selbstverteidigung, Kampfkunst und Prävention“ (Books on Demand)."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,225 @@
+{
+ "bereiche": [
+  {
+   "id": "ykr",
+   "name": "Yawara Kyushin Ryu",
+   "zusatz": "Allgemein",
+   "jp": "",
+   "farbe": "indigo",
+   "kurz": "Lehre, Philosophie, Etikette, Dojoregeln, Meditation und Gürtelsystem der Schule.",
+   "theorie": [
+    "l-vorwort",
+    "l-1-5",
+    "l-1-6",
+    "l-1-6-1",
+    "l-dojoregeln",
+    "l-2-6",
+    "l-4-1",
+    "l-4-1-1",
+    "l-4-1-1-1",
+    "l-5-1",
+    "l-5-2",
+    "l-5-2-1",
+    "l-5-2-2",
+    "l-6-1",
+    "l-6-2",
+    "l-7-1",
+    "l-8",
+    "l-9",
+    "l-10"
+   ],
+   "ergaenzungen": [],
+   "ausruestung": [
+    "a-keikogi",
+    "a-obi",
+    "a-schwarzer-anzug"
+   ]
+  },
+  {
+   "id": "iaido",
+   "name": "Iaido",
+   "zusatz": "",
+   "jp": "居合道",
+   "farbe": "vermilion",
+   "kurz": "Der Weg des Schwertes: Bokken, Iaito und Katana, Kata, Kamae und Tameshigiri.",
+   "theorie": [
+    "l-2-2",
+    "l-3-2",
+    "l-3-3"
+   ],
+   "ergaenzungen": [
+    "e-iaido"
+   ],
+   "ausruestung": [
+    "a-bokken",
+    "a-saya",
+    "a-iaito",
+    "a-tatami",
+    "a-keikogi",
+    "a-hakama",
+    "a-yoroi"
+   ]
+  },
+  {
+   "id": "karate",
+   "name": "Kyokushinkai Karate",
+   "zusatz": "",
+   "jp": "極真会空手",
+   "farbe": "gold",
+   "kurz": "Kihon, Kata, Kumite, Tameshiwari und Abhärtung (Kitae).",
+   "theorie": [
+    "l-3-1",
+    "l-3-4",
+    "l-3-4-1"
+   ],
+   "ergaenzungen": [
+    "e-kyokushin"
+   ],
+   "ausruestung": [
+    "a-keikogi",
+    "a-obi",
+    "a-makiwara",
+    "a-bretter"
+   ]
+  },
+  {
+   "id": "jiujitsu",
+   "name": "Jiu-Jitsu / Selbstverteidigung",
+   "zusatz": "",
+   "jp": "柔術",
+   "farbe": "sumi",
+   "kurz": "Taijutsu, Yawara, Randori, Selbstschutz sowie Fall- und Rollschule.",
+   "theorie": [
+    "l-1-1",
+    "l-1-2",
+    "l-1-3",
+    "l-1-4",
+    "l-3-1-1"
+   ],
+   "ergaenzungen": [
+    "e-jujutsu",
+    "e-wingchun",
+    "e-goshin",
+    "e-kyusho"
+   ],
+   "ausruestung": [
+    "a-keikogi",
+    "a-waffen-sv"
+   ]
+  },
+  {
+   "id": "fitness",
+   "name": "Allgemeine Fitness",
+   "zusatz": "",
+   "jp": "",
+   "farbe": "moss",
+   "kurz": "Trainingslehre der Schule und eine Übungsbibliothek nach vorhandener Ausrüstung.",
+   "theorie": [
+    "l-7-2",
+    "l-7-3",
+    "l-7-4",
+    "l-7-4-1"
+   ],
+   "ergaenzungen": [],
+   "ausruestung": []
+  }
+ ],
+ "ausruestung": [
+  {
+   "id": "a-bokken",
+   "name": "Bokken (Bokutō)",
+   "jp": "木刀",
+   "text": "Japanische Trainingswaffe aus Holz für die Unterweisung im Kenjutsu. Im Kumitachi wird im YKR ausschließlich das Bokutō verwendet, kein Shinai. Verwendet wurden häufig Rot- oder Weißeiche, die Länge liegt bei ca. 1 m.",
+   "quelle": "Lehrwerk S. 7",
+   "abschnitt": "l-2-1"
+  },
+  {
+   "id": "a-saya",
+   "name": "Saya mit Sageo",
+   "jp": "鞘 / 下緒",
+   "text": "Zu einem Bokken wird im YKR eine Saya mit Sageo verwendet, um den späteren Übergang vom Bokutō zum Iaito oder Katana zu erleichtern.",
+   "quelle": "Lehrwerk S. 7",
+   "abschnitt": "l-2-1"
+  },
+  {
+   "id": "a-iaito",
+   "name": "Iaito und Katana",
+   "jp": "居合刀 / 刀",
+   "text": "Metallschwerter für Kata und Schnitttest. Laut Graduierungssystem werden Kata mit Iaito und Katana ab dem 1. Dan geprüft, der Schnitttest mit Iaito und Katana ab dem 3. Dan.",
+   "quelle": "Lehrwerk S. 7; Graduierungssystem Praxis",
+   "abschnitt": "l-2-3"
+  },
+  {
+   "id": "a-tatami",
+   "name": "Tatami-Omote (Schnittziel)",
+   "jp": "畳表",
+   "text": "Große Reisstrohmatten, die zum Kern einen Bambus haben können. Durch Wässern und Trocknen erhalten sie die Konsistenz menschlicher Gliedmaßen. Der Schnitttest kann laut Prüfungsordnung auch an japanischem Papier und Zeitungen erfolgen.",
+   "quelle": "Lehrwerk S. 15; Prüfungsordnung",
+   "abschnitt": "l-3-3"
+  },
+  {
+   "id": "a-keikogi",
+   "name": "Keikogi (Karategi, Uwa-gi und Zubon)",
+   "jp": "稽古着",
+   "text": "Trainingsanzug. Die Stoffstärke wird in oz. angegeben (6 bis 14 oz.). Schwerere Anzüge werden vermehrt im Kumite und Sparring genutzt, leichte für Kata. Empfohlen ist ein Anzug bis kurz oberhalb der Fußknöchel mit Ärmeln bis kurz vor die Handgelenke. Nach bestandener Weißgurtprüfung wird ein weißer Anzug getragen.",
+   "quelle": "Lehrwerk S. 10 und S. 26",
+   "abschnitt": "l-2-4"
+  },
+  {
+   "id": "a-schwarzer-anzug",
+   "name": "Schwarzer Anzug",
+   "jp": "",
+   "text": "Vor dem Tragen eines weißen Anzugs wird im YKR ein schwarzer Anzug getragen, vorrangig für das Training im Freien. Nach der Schulaufnahme steht es dem Schüler frei, auch einen weißen Anzug im Dojo zu tragen.",
+   "quelle": "Lehrwerk S. 10",
+   "abschnitt": "l-2-4"
+  },
+  {
+   "id": "a-hakama",
+   "name": "Hakama und Kimono",
+   "jp": "袴",
+   "text": "Das Tragen einer Hakama und eines Kimono wird erst nach Erreichen des Dan gestattet.",
+   "quelle": "Lehrwerk S. 10",
+   "abschnitt": "l-2-4"
+  },
+  {
+   "id": "a-obi",
+   "name": "Gürtel (Obi)",
+   "jp": "帯",
+   "text": "Der Gürtel wird in Japan traditionell mit dem eigenen Namen und der Stilrichtung bestickt: Die Seite des Herstellerlogos für den Namen, das andere Ende trägt den Schul-/Stilnamen.",
+   "quelle": "Lehrwerk S. 25",
+   "abschnitt": "l-6-1"
+  },
+  {
+   "id": "a-yoroi",
+   "name": "Yoroi (Samurai-Rüstung)",
+   "jp": "鎧",
+   "text": "Zur Veranschaulichung und zum besseren Verständnis der Techniken wird im YKR auch in der japanischen Rüstung geübt.",
+   "quelle": "Lehrwerk S. 1 und S. 11",
+   "abschnitt": "l-2-5"
+  },
+  {
+   "id": "a-makiwara",
+   "name": "Makiwara",
+   "jp": "巻藁",
+   "text": "Schlagpfosten für das Abhärtungstraining. Abhärtungstraining/Makiwara gehört im Graduierungssystem zu den Grundlagen aller Stufen.",
+   "quelle": "Graduierungssystem Praxis; Lehrwerk S. 16 (Kitae)",
+   "abschnitt": "l-3-4-1"
+  },
+  {
+   "id": "a-bretter",
+   "name": "Bruchbretter und Gasbeton",
+   "jp": "",
+   "text": "Für den Bruchtest (Tameshiwari) sind laut Prüfungsordnung 1 cm Brettstärke für Frauen und 2 cm für Männer (jeweils ab 16 Jahre) vorgesehen. Gasbeton kann bei Dan-Prüfungen nach Absprache verwendet werden.",
+   "quelle": "Prüfungsordnung",
+   "abschnitt": "l-3-4"
+  },
+  {
+   "id": "a-waffen-sv",
+   "name": "Waffen im Taijutsu und Kumitachi",
+   "jp": "",
+   "text": "Tanto, Bo, Yari, Naginata, Bokken, Tessen, Wakizashi (Shoto), Iaito und Katana gehören zum Kernkonzept der Lehre. Die Prüfungsordnung nennt zusätzlich den Hanbo.",
+   "quelle": "Lehrwerk S. 1; Prüfungsordnung",
+   "abschnitt": "l-1-2"
+  }
+ ]
+}
