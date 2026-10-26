@@ -1,0 +1,181 @@
+{
+ "kategorie": "Kleidung (weitere)",
+ "eintraege": [
+  {
+   "romaji": "Uwa-obi",
+   "jp": "上帯",
+   "de": "Breiter Gürtel, hält das Obergewand und trägt die Waffen",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-uwaobi"
+  },
+  {
+   "romaji": "Sarashi",
+   "jp": "晒",
+   "de": "Weißes Baumwolltuch, unter der Rüstung als Polster und Schweißaufnahme gewickelt",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-sarashi"
+  },
+  {
+   "romaji": "Mengu",
+   "jp": "面具",
+   "de": "Gesichtsmaske der Rüstung (verwandt mit dem Menpō)",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-mengu"
+  },
+  {
+   "romaji": "Kasa",
+   "jp": "笠",
+   "de": "Breitkrempiger Hut aus Stroh",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-kasa"
+  },
+  {
+   "romaji": "Tattsuke-bakama",
+   "jp": "裁着袴",
+   "de": "Hose, an den Knöcheln eng und zu den Oberschenkeln weit (zum Reiten und für Kampfkunst)",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-tattsukebakama"
+  },
+  {
+   "romaji": "Waraji",
+   "jp": "草鞋",
+   "de": "Sandale aus Stroh oder Hanf",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-waraji"
+  },
+  {
+   "romaji": "Kimono",
+   "jp": "着物",
+   "de": "Traditionelles japanisches Gewand",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-kimono"
+  },
+  {
+   "romaji": "Jūban / Nagajūban",
+   "jp": "襦袢 / 長襦袢",
+   "de": "Untergewand unter dem Kimono",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-jubannagajuban"
+  },
+  {
+   "romaji": "Fundoshi",
+   "jp": "褌",
+   "de": "Traditioneller Lendenschurz",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-fundoshi"
+  },
+  {
+   "romaji": "Hitatare",
+   "jp": "直垂",
+   "de": "Formelles Obergewand der Krieger (Kamakura- und Muromachi-Zeit)",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-hitatare"
+  },
+  {
+   "romaji": "Suikan",
+   "jp": "水干",
+   "de": "Einfaches Gewand aus der Heian- und Kamakura-Zeit",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-suikan"
+  },
+  {
+   "romaji": "Kariginu",
+   "jp": "狩衣",
+   "de": "Ursprünglich Jagdgewand, später Hofkleidung",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-kariginu"
+  },
+  {
+   "romaji": "Eboshi",
+   "jp": "烏帽子",
+   "de": "Hofmütze (ursprünglich der Adligen, später auch der Krieger)",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-eboshi"
+  },
+  {
+   "romaji": "Hachimaki",
+   "jp": "鉢巻",
+   "de": "Stirnband",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-hachimaki"
+  },
+  {
+   "romaji": "Tasuki",
+   "jp": "襷",
+   "de": "Schnur zum Hochbinden der Ärmel",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-tasuki"
+  },
+  {
+   "romaji": "Kyahan",
+   "jp": "脚絆",
+   "de": "Beinwickel, Gamaschen",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-kyahan"
+  },
+  {
+   "romaji": "Tenugui",
+   "jp": "手拭い",
+   "de": "Baumwolltuch (Schweißtuch, Kopftuch)",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-tenugui"
+  },
+  {
+   "romaji": "Eri",
+   "jp": "襟",
+   "de": "Kragen, Revers (im Lehrwerk bei der Abbildung als „Eel“ beschriftet)",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-eri"
+  },
+  {
+   "romaji": "Umanori-bakama",
+   "jp": "馬乗袴",
+   "de": "Geteilter Hakama (Reithosen-Form)",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-umanoribakama"
+  },
+  {
+   "romaji": "Andon-bakama",
+   "jp": "行灯袴",
+   "de": "Rockartiger, ungeteilter Hakama",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-andonbakama"
+  },
+  {
+   "romaji": "Nagabakama",
+   "jp": "長袴",
+   "de": "Langer Hakama mit Schleppe (zeremoniell)",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-nagabakama"
+  },
+  {
+   "romaji": "Sendaihira",
+   "jp": "仙台平",
+   "de": "Hochwertiger gestreifter Seidenstoff für Hakama",
+   "kat": "Kleidung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-sendaihira"
+  }
+ ]
+}

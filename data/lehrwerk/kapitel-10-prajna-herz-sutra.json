@@ -1,0 +1,35 @@
+{
+ "nr": "10",
+ "titel": "Prajna Herz Sutra",
+ "abschnitte": [
+  {
+   "id": "l-10",
+   "nr": "10",
+   "titel": "Prajna Herz Sutra",
+   "von": 36,
+   "bis": 37,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "般若心経 Prajna Herz Sutra: „(Dies ist die) Lehrrede von der Essenz der Weisheit.“ Die beiden Seiten des Lehrwerks mit der Rezitationsvorlage sind hier als Originalseiten abgebildet.",
+     "s": 36
+    },
+    {
+     "t": "fig",
+     "img": "s36",
+     "alt": "Prajna Herz Sutra, Seite 1",
+     "cap": "Prajna Herz Sutra (Lehrwerk S. 36)",
+     "s": 36
+    },
+    {
+     "t": "fig",
+     "img": "s37",
+     "alt": "Prajna Herz Sutra, Seite 2",
+     "cap": "Prajna Herz Sutra (Lehrwerk S. 37)",
+     "s": 37
+    }
+   ],
+   "jp": "般若心経"
+  }
+ ]
+}

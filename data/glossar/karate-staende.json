@@ -1,0 +1,45 @@
+{
+ "kategorie": "Karate: Stände",
+ "eintraege": [
+  {
+   "romaji": "Heikō dachi",
+   "jp": "平行立ち",
+   "de": "Paralleler Stand (offen)",
+   "kat": "Karate: Stände",
+   "quelle": "Ergänzung",
+   "id": "g-heikodachi"
+  },
+  {
+   "romaji": "Kake dachi",
+   "jp": "掛け立ち",
+   "de": "Hakenstand",
+   "kat": "Karate: Stände",
+   "quelle": "Ergänzung",
+   "id": "g-kakedachi"
+  },
+  {
+   "romaji": "Moro ashi dachi",
+   "jp": "諸足立ち",
+   "de": "Stand mit einem Fuß vorn",
+   "kat": "Karate: Stände",
+   "quelle": "Ergänzung",
+   "id": "g-moroashidachi"
+  },
+  {
+   "romaji": "Tsuru ashi dachi",
+   "jp": "鶴足立ち",
+   "de": "Kranichstand (Einbeinstand)",
+   "kat": "Karate: Stände",
+   "quelle": "Ergänzung",
+   "id": "g-tsuruashidachi"
+  },
+  {
+   "romaji": "Uchi hachiji dachi",
+   "jp": "内八字立ち",
+   "de": "Innerer Achtstand (Füße nach innen gedreht)",
+   "kat": "Karate: Stände",
+   "quelle": "Ergänzung",
+   "id": "g-uchihachijidachi"
+  }
+ ]
+}

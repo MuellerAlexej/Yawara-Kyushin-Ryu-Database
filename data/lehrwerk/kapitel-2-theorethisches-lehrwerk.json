@@ -1,0 +1,639 @@
+{
+ "nr": "2",
+ "titel": "Theorethisches Lehrwerk",
+ "abschnitte": [
+  {
+   "id": "l-2-1",
+   "nr": "2.1",
+   "titel": "Das Bokken als Trainings- und Schulungswerkzeug",
+   "von": 7,
+   "bis": 7,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Das Bokken oder Bokutō ist die japanische Trainingswaffe für die Unterweisung im Kenjutsu. Der häufig verwendete Begriff Bokken trifft hierbei bei den häufig verwendeten Varianten nur bedingt zu.",
+     "s": 7
+    },
+    {
+     "t": "p",
+     "x": "Schauen wir in die Schreibweise und deren Übersetzung:",
+     "s": 7
+    },
+    {
+     "t": "dl",
+     "items": [
+      [
+       "Boku – Ken",
+       "Boku = Holz, Ken = Schwert (bezeichnet zweischneidige Klingen)"
+      ],
+      [
+       "Boku – Tō",
+       "Boku = Holz, To = Schwert (bezeichnet einschneidige Klingen)"
+      ]
+     ],
+     "s": 7
+    },
+    {
+     "t": "p",
+     "x": "Verwendete Hölzer in Japan waren häufig die Rot- oder Weißeiche um eine Nachbildung des Katana mit einer Länge von ca. Im anzufertigen. Heutige Anfertigungen für den westlichen Markt fallen häufig größer aus, was den Körpermerkmalen der Europäer zuzuordnen ist.",
+     "s": 7
+    },
+    {
+     "t": "p",
+     "x": "Das Bokken wurde als Trainingsgerät eingeführt, da die Lehnsherren viele ihrer besten Krieger verkrüppelt und kampfunfähig vorfanden, nachdem diese Duelle mit ihren Schwertern ausgetragen hatten. Da dies die Fähigkeit des Kämpfers durchaus mindern konnte, entschloss man sich zu Trainingszwecken ein Bokutō zu verwenden.",
+     "s": 7
+    },
+    {
+     "t": "p",
+     "x": "Aus diesen entwickelten sich später die Shinai (aus mehreren Bambusstreifen bestehenden Schwertnachbildungen, welche mit Stoffen und Ledern umwickelt wurden).",
+     "s": 7
+    },
+    {
+     "t": "p",
+     "x": "Wir verwenden für das Training im Kumitachi ausschließlich das Bokutō und kein Shinai, was zur Folge hat, dass auch das Bokutō als Waffe wahrgenommen wird. Die mögliche Verletzungsgefahr steigt, doch das Risiko der Verletzung senkt die Hitzigkeit des Kämpfers und ermöglicht ein präzises und nutzbringendes Training. Den Überlieferungen nach, soll Miyamoto Musashi (einer der berühmtesten japanischen Schwertkämpfer) einige seiner Duelle alleinig mit einem Bokutō bestritten und gewonnen haben. Schwert gegen Holz- somit zeigt es sich wieder einmal, dass sowohl der Geisteszustand als auch die Fertigkeiten und nicht die Umstände von wesentlicher Bedeutung sind.",
+     "s": 7
+    },
+    {
+     "t": "p",
+     "x": "Das Bokutō kann als Hieb, Stich und Schlagwaffe eingesetzt werden. Die Möglichkeiten sind schier unbegrenzt. In der Praxis des YKR konzentrieren wir uns darauf, das Bokken in seiner Gänze zu verstehen und es als das zu benutzen, wofür es ursprünglich gedacht war- als sichereres Werkzeug zum Erlernen der wesentlichen Abläufe des Kumitachi und der Kata.",
+     "s": 7
+    },
+    {
+     "t": "p",
+     "x": "Wir verwenden weiterhin eine Saya mit Sageo zu einem Bokken, um den späteren Übergang von Bokutō zum Iaito oder Katana zu erleichtern. Wenngleich der Weg des Schwertes bei einem Metallschwert neu beginnt. Es scheint fast, als würde man durch den Umstieg zum Katana den schwarzen Gürtel erreichen, welcher einen nicht als Meister, sondern als Yudansha ausweist. Einen Schüler höherer Qualität, der mit seinen neuen Aufgaben wieder am Anfang eines neuen Pfades steht.",
+     "s": 7
+    }
+   ],
+   "jp": "木刀"
+  },
+  {
+   "id": "l-2-2",
+   "nr": "2.2",
+   "titel": "Beschreibung Iaido",
+   "von": 8,
+   "bis": 8,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Eine einfache Begriffserklärung sei vorangestellt:",
+     "s": 8
+    },
+    {
+     "t": "dl",
+     "items": [
+      [
+       "I / iru",
+       "(anwesend) sein"
+      ],
+      [
+       "Ai",
+       "Harmonie"
+      ],
+      [
+       "Dō",
+       "Weg/Prinzip"
+      ]
+     ],
+     "s": 8
+    },
+    {
+     "t": "p",
+     "x": "Iaido ist als komplexes oder eigenständiges System zu betrachten, da es sowohl Aspekte der körperlichen Ertüchtigung, als auch philosophische Ansätze bereithält. Dem Iaido ist jedoch folgendes immanent, es richtet den Kampf nicht nach außen, sondern nach innen. Der Ort des Weges wird somit nicht wesentlich durch äußere Einflüsse bestimmt, sondern durch die Praxis mit dem Schwert. Wenn man so möchte, dann zerschneidet man Stück für Stück den Vorhang der Illusionen vor seinen Augen, um klarer zu sehen. Iaido ist Meditation in Bewegung. Hierfür ist es notwendig, dass die Grundbewegungen vielfach wiederholt werden und somit eine Automatisierung und Konditionierung erfolgt. Nur so kann man sich mit ruhigem Geist auf die Meditation einlassen- ohne dabei zu denken- was mache ich jetzt falsch- Fußstellung, Handposition oder doch der Schnittwinkel der Klinge?",
+     "s": 8
+    },
+    {
+     "t": "p",
+     "x": "Im Iaido kämpfen wir selten gegen einen richtigen Gegner im Kumitachi. Hauptaugenmerk liegt durch die Praxis der Kata, im Kampf gegen die eigenen unheilsamen Gedanken und Gewohnheiten. Ziel ist hierbei die Persönlichkeitsschulung. Das Verfahren ist der Weg des Budo durch Meditation und Praxis und unser Mittel ist das Schwert. Jenes Schwert in Einfachheit und Reinheit mit dem Körper und Geist ins Gleichgewicht zu bringen. Das Schwert als Symbol von Stärke und Macht nicht gegen andere zu richten, sondern gegen sich selbst. Tiefe Demut und tiefes Vertrauen zu spüren, zu einem Instrument, dass Leben stiften kann, als auch Unheil und Zerstörung bringen könnte- wie unser Geist.",
+     "s": 8
+    },
+    {
+     "t": "p",
+     "x": "All dies nutzt uns recht wenig, wenn wir nicht verstanden haben, dass Perfektion ein Weg ist und nicht das Ziel. Wir werden auch in 100 Leben keine Perfektion erreichen. Doch es kann uns als Erleuchtung erscheinen, wenn wir verstanden haben, dass der Wunsch das Beste aus uns zu machen, was wir werden können, schon zum Ziel führt. Welches Ziel dies ist? Es ist dein Ziel und dein Ziel ist das richtige Ziel. Es geht um Praxis nicht um Worte oder Beschreibungen. Praktiziere und du wirst verstehen, was ich dir nicht erklären werde.",
+     "s": 8
+    },
+    {
+     "t": "p",
+     "x": "Die relevanten Kata des YKR sind dem Seitei-Iai entlehnt und orientieren sich am international verwendeten Standard Iai, welches 1968 durch Großmeister des \"Zen Nippon Kendo Renmei Iai\" entstand. Diese Kata dienen der Vermittlung der Grundschule des Iaido.",
+     "s": 8
+    },
+    {
+     "t": "p",
+     "x": "Hierbei besteht eine Kata aus folgenden Elementen:",
+     "s": 8
+    },
+    {
+     "t": "dl",
+     "items": [
+      [
+       "1. Nuki Tsuke",
+       "das Herausziehen des Schwertes und der erste Schnitt"
+      ],
+      [
+       "2. Kiri Tsuke",
+       "folgende Schnitte"
+      ],
+      [
+       "3. Chiburi",
+       "Schwert reinigen/Blut abschlagen"
+      ],
+      [
+       "4. Noto",
+       "Rückführen des Schwertes in das Saya"
+      ]
+     ],
+     "s": 8
+    }
+   ]
+  },
+  {
+   "id": "l-2-3",
+   "nr": "2.3",
+   "titel": "Waffenbestandteile",
+   "von": 9,
+   "bis": 9,
+   "bloecke": [
+    {
+     "t": "fig",
+     "img": "s09",
+     "alt": "Katana mit Beschriftung der Bestandteile",
+     "cap": "Abbildung Katana-Bestandteile (Lehrwerk S. 9)",
+     "s": 9
+    },
+    {
+     "t": "dl",
+     "items": [
+      [
+       "Kashira oder Tsuka-Gashira",
+       "Griff-Endkappe"
+      ],
+      [
+       "Kashira-Gane",
+       "Endkappenöffnung für das Griffband"
+      ],
+      [
+       "Makidome",
+       "Abschlussknoten der Griffwicklung"
+      ],
+      [
+       "Same-Hada",
+       "Rochenhaut-Einlage"
+      ],
+      [
+       "Tsuka-Ito",
+       "Griffband bzw. Tsukamaki (Griffwicklung)"
+      ],
+      [
+       "Mekugi",
+       "Stifte zur Verankerung der Nakago, der Schwertangel"
+      ],
+      [
+       "Tsuka",
+       "Schwertgriff"
+      ],
+      [
+       "Menuki",
+       "Dekorelemente unter der Griffwicklung"
+      ],
+      [
+       "Fuchi",
+       "Griffzwinge"
+      ],
+      [
+       "Tsuba",
+       "Stichblatt"
+      ],
+      [
+       "Seppa",
+       "Unterlegscheiben"
+      ],
+      [
+       "Habaki",
+       "Klingenzwinge"
+      ],
+      [
+       "Mune",
+       "Klingenrücken"
+      ],
+      [
+       "Hamon",
+       "Härtelinie"
+      ],
+      [
+       "Hi oder Bo-Hi",
+       "Blutrinne"
+      ],
+      [
+       "Nagasa",
+       "Klingenlänge"
+      ],
+      [
+       "Sori",
+       "Klingenkrümmung"
+      ],
+      [
+       "Shinogi",
+       "Gratlinie"
+      ],
+      [
+       "Shinogi-Ji",
+       "Fläche zwischen Klingenrücken und Shinogi"
+      ],
+      [
+       "Ji oder Hiraji",
+       "Fläche zwischen Shinogi und Hamon"
+      ],
+      [
+       "Ha",
+       "gehärtete Fläche zwischen Hamon und Schneide"
+      ],
+      [
+       "Yokote",
+       "Gratlinie an der Klingenspitze"
+      ],
+      [
+       "Kissaki",
+       "Klingenspitze"
+      ],
+      [
+       "Mono-Uchi",
+       "das oberste Drittel der Klinge"
+      ],
+      [
+       "Hasaki",
+       "Schneide"
+      ],
+      [
+       "Boshi",
+       "Härtelinie an der Klingenspitze"
+      ],
+      [
+       "Koiguchi",
+       "„Karpfenmaul“; Öffnung der Schwertscheide"
+      ],
+      [
+       "Kurigata",
+       "Öse"
+      ],
+      [
+       "Shito-Dome",
+       "Metallverzierung der Ösen-Öffnungen"
+      ],
+      [
+       "Sageo",
+       "Kordel oder Band"
+      ],
+      [
+       "Saya",
+       "Schwertscheide"
+      ],
+      [
+       "Kojiri",
+       "Scheidenort; Saya-Abschluss"
+      ]
+     ],
+     "s": 9,
+     "titel": "Beschriftung der Abbildung"
+    }
+   ]
+  },
+  {
+   "id": "l-2-4",
+   "nr": "2.4",
+   "titel": "Kleidungsbestandteile",
+   "von": 10,
+   "bis": 10,
+   "bloecke": [
+    {
+     "t": "fig",
+     "img": "s10",
+     "alt": "Karate-Gi mit Beschriftung",
+     "cap": "Abbildung Karate-Gi (Lehrwerk S. 10)",
+     "s": 10
+    },
+    {
+     "t": "dl",
+     "items": [
+      [
+       "Uwa-gi",
+       "Jacke („Chaqueta“)"
+      ],
+      [
+       "Eel",
+       "Revers („Solapa“), so im Original beschriftet"
+      ],
+      [
+       "Sode",
+       "Ärmel („Manga“)"
+      ],
+      [
+       "Sodeguchi",
+       "Ärmelöffnung („Orificio de Manga“)"
+      ],
+      [
+       "Obi",
+       "Gürtel („Cinturón“)"
+      ],
+      [
+       "Zubon",
+       "Hose („Pantalón“)"
+      ],
+      [
+       "Shita",
+       "unterer Teil der Jacke („Parte inferior de la chaqueta“)"
+      ]
+     ],
+     "s": 10,
+     "titel": "Beschriftung der Abbildung"
+    },
+    {
+     "t": "dl",
+     "items": [
+      [
+       "(Uwagi)/Gi",
+       "Oberteil"
+      ],
+      [
+       "Hadagi",
+       "Untergi"
+      ],
+      [
+       "Haori",
+       "Federgewebe-Überjacke"
+      ],
+      [
+       "Jin Baori",
+       "Feldlager Wams"
+      ],
+      [
+       "Hakama",
+       "Hosenrock"
+      ],
+      [
+       "Obi",
+       "Gürtel"
+      ],
+      [
+       "Kamishimo",
+       "Kataginu + Hakama"
+      ],
+      [
+       "Kataginu",
+       "flügelartige Weste"
+      ],
+      [
+       "Kosode",
+       "kürzärmliger Kimono"
+      ],
+      [
+       "Zori",
+       "Bambussandalen"
+      ],
+      [
+       "Tabi",
+       "Zehenschuhe/Socken"
+      ],
+      [
+       "Geta",
+       "erhöhte Schuhe durch Steg(e)"
+      ]
+     ],
+     "s": 10,
+     "titel": "Kleidungsbestandteile"
+    },
+    {
+     "t": "h",
+     "x": "Karate-Gi",
+     "s": 10
+    },
+    {
+     "t": "p",
+     "x": "Der Träger eines Keikogi sollte sich den Anzug aufgrund folgender Merkmale auswählen: Die Stoffstärke wird in oz. angegeben. Hierbei hat der Budoka die Wahl zwischen leichten oder schweren Anzügen. 6 bis 14 oz.. Je größer die Zahl, desto höher die Stoffdicke durch die Masse. Anzüge höherer Stoffstärke werden vermehrt im Kumite und Sparring benutzt, wohingegen leichte Anzüge tendenziell für Kata lieber verwandt werden. Schwerere Anzüge geben auch vermehrt ein stärkeres Geräusch bei der korrekten Technikausführung. Bei der Wahl der Länge, hat sich in der Praxis für den Einsteiger wie für den fortgeschrittenen Budoka ein Anzug bis kurz oberhalb der Fußknöchel und einer Ärmellänge bis kurz vor die Handgelenke als sinnvoll erwiesen. Da die Einschätzung der korrekten Schlag- und Tritttechnik leichter fällt. Sowohl für den praktizierenden Budoka, als auch für den Lehrmeister im Dojo. Nebst der Optik, welche durchaus eine Rolle spielen kann, werden hochwertige japanische Anzüge durch ihren Blue-White-Effekt gekennzeichnet. Dieser blaue Schimmer lässt den Anzug deutlich länger weiß wirken und vermindert das Potenzial des Vergilbens. Die Einschätzung, Prioritätensetzung und die Wahl liegt jedoch hierbei völlig beim Budoka selbst.",
+     "s": 10
+    },
+    {
+     "t": "p",
+     "x": "Vor dem Tragen eines weißen Anzugs, tragen wir im YKR einen schwarzen Anzug, welcher vorrangig für das Training im Freien verwendet wird. Nach der Schulaufnahme steht es dem Schüler frei, auch einen weißen Anzug zum Training im Dojo zu tragen. Das Tragen einer Hakama und eines Kimono wird erst nach Erreichen des Dan gestattet.",
+     "s": 10
+    }
+   ]
+  },
+  {
+   "id": "l-2-5",
+   "nr": "2.5",
+   "titel": "Rüstungsbestandteile",
+   "von": 11,
+   "bis": 11,
+   "bloecke": [
+    {
+     "t": "fig",
+     "img": "s11",
+     "alt": "Samurai-Rüstung (Yoroi) mit Beschriftung",
+     "cap": "Abbildung Yoroi-Bestandteile (Lehrwerk S. 11)",
+     "s": 11
+    },
+    {
+     "t": "dl",
+     "items": [
+      [
+       "Kabuto",
+       "Helm",
+       "兜"
+      ],
+      [
+       "Maedate",
+       "Helmzier an der Front",
+       "前立て"
+      ],
+      [
+       "Kuwagata",
+       "Hörner-Helmzier",
+       "鍬形"
+      ],
+      [
+       "Mabizashi",
+       "Helmschirm",
+       "眉庇"
+      ],
+      [
+       "Fukigaeshi",
+       "seitliche Helmklappen",
+       "吹返"
+      ],
+      [
+       "Menpō",
+       "Gesichtsmaske",
+       "面頬"
+      ],
+      [
+       "Shikoro",
+       "Nackenschutz des Helms",
+       "錣"
+      ],
+      [
+       "Shinobi no O",
+       "Helm-Kinnband",
+       "忍びの緒"
+      ],
+      [
+       "Nodowa",
+       "Halsschutz",
+       "喉輪"
+      ],
+      [
+       "Sode",
+       "Schulterschutz",
+       "袖"
+      ],
+      [
+       "Dō",
+       "Brustpanzer",
+       "胴"
+      ],
+      [
+       "Kote",
+       "Armschutz",
+       "籠手"
+      ],
+      [
+       "Obi",
+       "Gürtel",
+       "帯"
+      ],
+      [
+       "Tekkō",
+       "Handrückenschutz",
+       "手甲"
+      ],
+      [
+       "Kusazuri",
+       "Hüft- und Oberschenkelbehang",
+       "草摺"
+      ],
+      [
+       "Haidate",
+       "Oberschenkelschutz",
+       "佩楯"
+      ],
+      [
+       "Hakama",
+       "Hosenrock",
+       "袴"
+      ],
+      [
+       "Tsuneate",
+       "Schienbeinschutz",
+       "脛当"
+      ],
+      [
+       "Chikatabi",
+       "Zehenschuh (Tabi mit Sohle)",
+       "地下足袋"
+      ]
+     ],
+     "s": 11,
+     "titel": "Beschriftung der Abbildung"
+    },
+    {
+     "t": "note",
+     "x": "Begriffe und Schriftzeichen stammen aus der Abbildung im Lehrwerk. Die deutschen Übersetzungen stehen im Lehrwerk nicht und sind eine Ergänzung."
+    }
+   ]
+  },
+  {
+   "id": "l-2-6",
+   "nr": "2.6",
+   "titel": "Das Dojo und der Keiko-Jo",
+   "von": 12,
+   "bis": 12,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Das Dojo ist dem Budoka als Ort des Weges bekannt. Ein Ort, welcher weder übermäßig dekorativ noch besonders der Bequemlichkeit ein Übermaß an Bedeutung zukommen lässt. Im Dojo konzentrieren wir uns auf das Wesentliche. Dabei spielt es keine Rolle, ob wir ein Zen-Dojo oder ein Kampfkunst-Dojo betreten. Hier zählt nicht, was wir in der äußeren Welt sind, sondern hier geht es um die Einsatzbereitschaft und das eigene Lernen. Im Dojo wird nicht nach gesellschaftlichem Status oder der Höhe des Verdienstes unterschieden. Durch Kleidung, Wort und Tat sind wir gleich- wir sind Budoka.",
+     "s": 12
+    },
+    {
+     "t": "p",
+     "x": "Im Dojo herrscht alleinig das interne Graduierungssystem als Maß der Unterscheidung zwischen Schüleranwärtern, Schülern, Lehrenden und dem Meister eines Dojo.",
+     "s": 12
+    },
+    {
+     "t": "p",
+     "x": "Dennoch verbindet all diese ein Ziel. Der Fortschritt auf dem Weg des Budo und die Meisterung der eigenen Schwächen und unheilsamen Emotionen. Im Dojo herrscht daher ein freundschaftlicher Umgang, da alle einen Weg bestreiten und wir die Hilfe unserer Mitschüler und Lehrenden für unseren Fortschritt brauchen. Wir teilen Freude und wir teilen Leid- beide Zustände sind gleich bedeutend, denn beide bergen in sich das Potenzial zur Veränderung und des persönlichen Wachstums.",
+     "s": 12
+    },
+    {
+     "t": "p",
+     "x": "Der Keiko-Jo (Ort der Übung) ist ein ganz besonderer Ort. Historisch gesehen sogar weit vor dem traditionellen Dojo existent. Ehe sich die Daimyo (Lehensfürsten) stehende Heere leisten konnten, existierte ein Trainingsraum in dem heutigen Sinne nicht.",
+     "s": 12
+    },
+    {
+     "t": "p",
+     "x": "Von einem Samurai wurde verlangt auf jedwedem Untergrund fähig zu sein zu kämpfen. Ob Schlamm, das rutschige Holz eines Bootsdecks, bei Schnee, Hagel, Sturm, bitterer Kälte oder bei Hitze. Sollten seine Fähigkeiten auf die Probe gestellt werden und es ginge um Leben und Tod, so gäbe es keine andere Wahl, als den Umstand anzunehmen und das beste daraus zu machen.",
+     "s": 12
+    },
+    {
+     "t": "p",
+     "x": "Philosophisch entlehnt sich die \"Lektion des Platzregens\" dieser Trainingsform.",
+     "s": 12
+    },
+    {
+     "t": "p",
+     "x": "Kannst du einen Umstand oder eine Situation nicht ändern, wozu aufregen. Kannst du einen Umstand oder eine Situation ändern, wozu aufregen.",
+     "s": 12
+    },
+    {
+     "t": "p",
+     "x": "In beiden Fällen führt die Aufregung zu einem unsteten Geist und das Handlungsfeld wird eingeschränkt. Beide Fälle enden für den Kämpfer tödlich.",
+     "s": 12
+    },
+    {
+     "t": "p",
+     "x": "Wir üben sowohl draußen in der freien Natur, als auch im Dojo.",
+     "s": 12
+    },
+    {
+     "t": "fig",
+     "img": "s12",
+     "alt": "Skizze eines Dojo",
+     "cap": "Skizze eines Dojo (Lehrwerk S. 12)",
+     "s": 12
+    },
+    {
+     "t": "dl",
+     "items": [
+      [
+       "Shimose",
+       "Eingangsseite"
+      ],
+      [
+       "Fukosen",
+       "linke Seite von Shomen"
+      ],
+      [
+       "Shusen",
+       "rechte Seite von Shomen"
+      ],
+      [
+       "Joseki",
+       "Platz für Lehrer"
+      ],
+      [
+       "Shimoseki",
+       "Platz für Schüler"
+      ],
+      [
+       "Kamiza",
+       "Hausaltar"
+      ],
+      [
+       "Shomen",
+       "Frontseite"
+      ]
+     ],
+     "s": 12,
+     "titel": "Beschriftung der Skizze"
+    }
+   ]
+  }
+ ]
+}

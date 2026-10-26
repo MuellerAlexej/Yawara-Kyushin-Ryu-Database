@@ -15,9 +15,9 @@ Wissensdatenbank des **Yawara Kyushin Ryu (YKR)** als Web-App für Schüler und 
 | **Lehrwerk** | Alle 10 Kapitel plus Vorwort, durchsuchbar, mit Original-Scans |
 | **Bereiche** | Yawara Kyushin Ryu (Allgemein), Iaido, Kyokushinkai Karate, Jiu-Jitsu/Selbstverteidigung, Allgemeine Fitness, jeweils mit Theorie, Ausrüstung und Techniken |
 | **Glossar** | Rund 370 Begriffe mit weiteren Übersetzungen, wo es mehrere gibt. Begriffe mit Umschrift, japanischer Schrift und Übersetzung. Begriffe aus dem Lehrwerk haben Vorrang. |
-| **Lernen** | Quiz und Karteikarten, zum Beispiel zu Tugenden, Schwert-, Kleidungs- und Rüstungsteilen |
+| **Lernen** | Quiz und Karteikarten. Themenbereiche per Mehrfachauswahl kombinierbar oder als Vorbereitung auf die Theorieprüfung eines Grades (10. Kyu bis 1. Dan) |
 | **Gürtel und Prüfung** | Gürtelfarben, Einteilung in Mudansha, Yūdansha und Kōdansha, Prüfungsbereiche und Theoriethemen je Kyu, Prüfungsordnung (ohne Punkte und Zahlen) |
-| **Fitness** | 66 Übungen, filterbar nach vorhandener Ausrüstung, dazu Kurzprogramme (Aufwärmen, Mobility, Rumpf, Ganzkörper) |
+| **Körpertraining** | 139 Kraft-, Dehnungs-, Mobility-, Rumpf- und Konditionsübungen (ohne Techniken), darunter Beweglichkeit und Beinkraft für Tritte. Eigene **Sessions** nach Art und Dauer (zum Beispiel 30 Minuten Dehnen), **Trainingspläne** für 4 bis 12 Wochen mit Ziel (zum Beispiel Kraft oder Beweglichkeit und Kraft für Tritte), Entlastungswochen und Übungstausch, geführter Ablauf mit Timer. Pläne und Sessions bleiben lokal auf dem Gerät. |
 | **Schwarzgurt-Bereich** | Verschlüsselt: Bewertung und Punkteverteilung (Praxis und Theorie, alle Grade), Anforderungen je Grad, vollständige Prüfungsordnung, Dan-Dojoregeln |
 | **Suche, Favoriten** | Suche über alle Inhalte, Favoriten bleiben lokal auf dem Gerät |
 
@@ -37,7 +37,7 @@ Die veröffentlichte Seite im Handy-Browser öffnen. Auf der Startseite (und unt
 
 ### Aktualisieren
 
-Geänderte Dateien erneut hochladen („Upload files“ überschreibt gleichnamige Dateien). Die Adresse bleibt gleich. Bei größeren Änderungen die Versionsnummer in `sw.js` (`VERSION`) und in `js/app.js` erhöhen, damit Geräte die neue Version sicher laden.
+Geänderte Dateien erneut hochladen („Upload files“ überschreibt gleichnamige Dateien). Die Adresse bleibt gleich. Bei jeder Änderung die Versionsnummer in `js/version.js` erhöhen, damit Geräte die neue Version sicher laden.
 
 ## Schwarzgurt-Bereich: Passwort und Pflege
 
@@ -62,18 +62,42 @@ Alle Inhalte liegen als JSON-Dateien im Ordner `data/`, getrennt vom Design:
 
 | Datei | Inhalt |
 |---|---|
-| `lehrwerk.json` | Text des Lehrwerks (Kapitel, Abschnitte, Blöcke mit Seitenangabe) |
-| `glossar.json` | Begriffe: `romaji`, `jp`, `de`, `kat`, `quelle`, optional `hinweis` |
-| `techniken.json` | Techniken je Bereich, mit Feld `videos` |
+| `lehrwerk/` | Text des Lehrwerks, eine Datei je Kapitel |
+| `glossar/` | Begriffe, eine Datei je Kategorie (`romaji`, `jp`, `de`, `kat`, `quelle`, optional `alt` und `hinweis`) |
+| `techniken.json` | Techniken je Bereich, mit Einleitungstexten je Gruppe |
+| `videos.json` | **Videolinks** zu Techniken und Übungen (siehe unten) |
+| `lernen.json` | Zuordnung der Prüfungsthemen je Grad zu Glossar-Begriffen für das Quiz |
 | `bereiche.json` | Bereiche und Ausrüstung |
 | `graduierung.json`, `pruefung.json` | Gürtelsystem und Prüfungsordnung (öffentlicher Teil) |
 | `ergaenzungen.json` | Hintergrundtexte aus öffentlichen Quellen |
-| `fitness.json` | Übungen, Geräte, Kurzprogramme |
+| `fitness/` | Übungen (eine Datei je Art), Geräte, Kurzprogramme |
 | `ueber.json` | Texte über die Schule |
 
-**Videolinks ergänzen:** In `data/techniken.json` beim jeweiligen Eintrag das Feld `videos` füllen, zum Beispiel `"videos": [{"titel": "Ausführung", "url": "https://www.youtube.com/watch?v=…"}]`. Ohne Eintrag zeigt die App eine YouTube-Suche zur Technik an.
+**Videolinks eintragen:** Alle Videolinks stehen in der Datei `data/videos.json`. Jede Technik und Übung hat dort einen Eintrag mit leerer Liste `"links": []`. Beispiel:
+
+```json
+{ "id": "t-seitei-1", "name": "1. Ipponme Mae", "bereich": "Iaido", "gruppe": "Seitei-Iai-Kata (ZNKR)",
+  "links": [ { "titel": "Ausführung durch Sensei", "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX" } ] }
+```
+
+Mehrere Videos pro Eintrag sind möglich (durch Komma getrennt). Ohne Link zeigt die App automatisch eine YouTube-Suche, mit Link das Video direkt und die Suche als Zusatz. Es zählen nur Links, die mit `http://` oder `https://` beginnen. Bearbeiten geht direkt auf GitHub: Datei öffnen, Stift-Symbol, ändern, „Commit changes“. Die Datei muss gültiges JSON bleiben (Anführungszeichen und Kommas beachten).
 
 **Original-Scans:** Die Seitenbilder liegen in `assets/pages/` (`s01.jpg` bis `s37.jpg` entsprechen den gedruckten Seiten, dazu Deckblatt, Vorwort und Inhaltsverzeichnis). Wird ein Bild ausgetauscht, den Dateinamen ändern oder die Browser-Daten leeren, weil Bilder zwischengespeichert werden.
+
+## Körpertraining: Hinweise
+
+- Sessions und Pläne werden **nur im Browser des jeweiligen Geräts** gespeichert (nicht im Repository). Löscht jemand die Browserdaten, sind sie weg.
+- Voreingestellte Ausrüstung: Matte und stabiler Stuhl. Übungen ohne Geräte (Körpergewicht) lassen sich mit einem eigenen Schalter ein- oder ausblenden. Alles andere wählt jeder selbst aus. Plan und Session nutzen nur Übungen, für die die Ausrüstung angehakt ist.
+- Die Übungen stammen zum Teil aus der Fitness-App der Schule (allgemein gehalten) und sind eine Ergänzung. Der Bereich enthält bewusst **keine** Kampfkunst-Techniken.
+- Neue Übungen werden in `data/fitness/uebungen-<art>.json` ergänzt (Felder `art`, `region`, `ziele`, `saetze`, `wdh` oder `sek`, `pause`).
+
+## Quellen der Ergänzungen
+
+- Karate-Begriffe (Beinwaffen, Tritte, Stände): Kyokushin-Liste der West Island Karate Schule (westislandkarate.com), englische Bedeutungen ins Deutsche übertragen, japanische Schrift ergänzt.
+- Iaido-Begriffe (Schulen, Schnittarten, Schwertpflege, Etikette): Anregung aus „Iaido Terminology A-Z“ von Deborah Klens-Bigman (fightingarts.com) und aus der Begriffsliste des Agassiz Dojo (musoshindenryu.com). Die Übersetzungen und Formulierungen sind eigene, japanische Schrift ergänzt. Wo das Lehrwerk anders übersetzt, gilt das Lehrwerk.
+- Kleidung: Anregung aus „Samurai Clothes: A Complete Guide“ (kamicrew.com) sowie allgemein bekanntes Wissen. Übersetzungen und Formulierungen sind eigene.
+- Weitere Samurai-Waffen und -Ausrüstung: zusammengestellt aus allgemein bekanntem Wissen, abgeglichen mit mehreren Übersichtsseiten. Die Wikipedia-Kategorie „Samurai weapons and equipment“ war für den Abruf nicht erreichbar.
+- Übungen und Programme zu Beweglichkeit und Beinkraft für Tritte: eigene Formulierungen. Anregung für den Aufbau (Aufwärmen mit Mobility, Aktivierung, Sprungkraft und Puls; statisches Dehnen nach dem Training) aus dem Ratgeber „How to Perform Higher Kicks“ von Trevor Hannant. Texte, Tabellen und Videos des Ratgebers sind **nicht** übernommen.
 
 ## Bekannte Hinweise
 
@@ -84,18 +108,28 @@ Alle Inhalte liegen als JSON-Dateien im Ordner `data/`, getrennt vom Design:
 - Die japanische Schreibung von „Kyushin“ liegt nicht vor und ist deshalb nirgends angegeben.
 - Die Fitness-Übungen sind eine Ergänzung. Sie ersetzen keine ärztliche oder trainerische Beratung.
 
-## Technik
+## Technik und Dateistruktur
 
-Statische Web-App aus HTML, CSS und JavaScript ohne Abhängigkeiten, ohne Tracking und ohne Server. Favoriten und Einstellungen werden nur lokal im Browser gespeichert. Offline-Nutzung über einen Service Worker.
+Statische Web-App aus HTML, CSS und JavaScript ohne Abhängigkeiten, ohne Tracking und ohne Server. Favoriten, Einstellungen, Pläne und Sessions werden nur lokal im Browser gespeichert. Offline-Nutzung über einen Service Worker.
 
 ```
 index.html · manifest.webmanifest · sw.js
-css/app.css · js/app.js
-data/            Inhalte (JSON)
+css/app.css
+js/              Programm, aufgeteilt nach Themen
+                 version.js (einzige Stelle für die Versionsnummer), kern.js, seiten.js, glossar.js,
+                 quiz.js, graduierung.js, fitness.js, training.js, suche.js, schwarzgurt.js, ueber.js, start.js
+data/            Inhalte (JSON), siehe data/README.md
+  glossar/       eine Datei je Kategorie + index.json
+  lehrwerk/      eine Datei je Kapitel + index.json
+  fitness/       eine Datei je Übungsart + index.json
 assets/pages/    Original-Scans des Lehrwerks
 icons/           App-Symbole
-tools/           Werkzeug zum Verschlüsseln des Schwarzgurt-Bereichs
+tools/           pruefen.py (Datenprüfung), schwarzgurt_verschluesseln.py
+tests/           automatische Tests (Node.js)
+CHANGELOG.md     Änderungsliste
 ```
+
+**Nach jeder Änderung:** `python3 tools/pruefen.py` ausführen, Versionsnummer in `js/version.js` erhöhen, Eintrag in `CHANGELOG.md` ergänzen.
 
 ## Urheberrecht
 

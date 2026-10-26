@@ -1,0 +1,64 @@
+{
+ "kategorie": "Die sieben Tugenden des Bushidō",
+ "eintraege": [
+  {
+   "romaji": "Gi",
+   "jp": "義",
+   "de": "Aufrichtigkeit, Gerechtigkeit",
+   "kat": "Die sieben Tugenden des Bushidō",
+   "quelle": "Lehrwerk S. 19",
+   "id": "g-gi-2"
+  },
+  {
+   "romaji": "Yū",
+   "jp": "勇",
+   "de": "Mut",
+   "kat": "Die sieben Tugenden des Bushidō",
+   "quelle": "Lehrwerk S. 19",
+   "id": "g-yu"
+  },
+  {
+   "romaji": "Jin",
+   "jp": "仁",
+   "de": "Menschlichkeit",
+   "kat": "Die sieben Tugenden des Bushidō",
+   "quelle": "Lehrwerk S. 19",
+   "id": "g-jin"
+  },
+  {
+   "romaji": "Rei",
+   "jp": "礼",
+   "de": "Einhaltung der Etikette, Höflichkeit, Respekt",
+   "kat": "Die sieben Tugenden des Bushidō",
+   "quelle": "Lehrwerk S. 19",
+   "alt": [
+    "Verbeugung, Gruß, Höflichkeit"
+   ],
+   "id": "g-rei"
+  },
+  {
+   "romaji": "Makoto oder Shin",
+   "jp": "誠 / 真",
+   "de": "Wahrheit, Wahrhaftigkeit, Unverfälschtheit",
+   "kat": "Die sieben Tugenden des Bushidō",
+   "quelle": "Lehrwerk S. 19",
+   "id": "g-makotoodershin"
+  },
+  {
+   "romaji": "Meiyo",
+   "jp": "名誉",
+   "de": "Ehrbewusstsein",
+   "kat": "Die sieben Tugenden des Bushidō",
+   "quelle": "Lehrwerk S. 19",
+   "id": "g-meiyo"
+  },
+  {
+   "romaji": "Chūgi, auch Chū",
+   "jp": "忠義 / 忠",
+   "de": "Loyalität, Pflichtbewusstsein, Treue",
+   "kat": "Die sieben Tugenden des Bushidō",
+   "quelle": "Lehrwerk S. 19",
+   "id": "g-chugiauchchu"
+  }
+ ]
+}

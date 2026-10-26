@@ -1,0 +1,149 @@
+{
+ "kategorie": "Körperteile",
+ "eintraege": [
+  {
+   "romaji": "Atama",
+   "jp": "頭",
+   "de": "Kopf",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-atama"
+  },
+  {
+   "romaji": "Kao",
+   "jp": "顔",
+   "de": "Gesicht",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-kao"
+  },
+  {
+   "romaji": "Kubi",
+   "jp": "首",
+   "de": "Hals, Nacken",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-kubi"
+  },
+  {
+   "romaji": "Nodo",
+   "jp": "喉",
+   "de": "Kehle",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-nodo"
+  },
+  {
+   "romaji": "Kata",
+   "jp": "肩",
+   "de": "Schulter",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-kata"
+  },
+  {
+   "romaji": "Ude",
+   "jp": "腕",
+   "de": "Arm",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-ude"
+  },
+  {
+   "romaji": "Hiji",
+   "jp": "肘",
+   "de": "Ellenbogen",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-hiji"
+  },
+  {
+   "romaji": "Tekubi",
+   "jp": "手首",
+   "de": "Handgelenk",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-tekubi"
+  },
+  {
+   "romaji": "Te",
+   "jp": "手",
+   "de": "Hand",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-te"
+  },
+  {
+   "romaji": "Yubi",
+   "jp": "指",
+   "de": "Finger",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-yubi"
+  },
+  {
+   "romaji": "Hara",
+   "jp": "腹",
+   "de": "Bauch",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-hara"
+  },
+  {
+   "romaji": "Koshi",
+   "jp": "腰",
+   "de": "Hüfte, unterer Rücken",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-koshi"
+  },
+  {
+   "romaji": "Senaka",
+   "jp": "背中",
+   "de": "Rücken",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-senaka"
+  },
+  {
+   "romaji": "Ashi",
+   "jp": "足 / 脚",
+   "de": "Fuß / Bein",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-ashi"
+  },
+  {
+   "romaji": "Hiza",
+   "jp": "膝",
+   "de": "Knie",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-hiza"
+  },
+  {
+   "romaji": "Sune",
+   "jp": "脛",
+   "de": "Schienbein",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-sune"
+  },
+  {
+   "romaji": "Ashikubi",
+   "jp": "足首",
+   "de": "Fußgelenk",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-ashikubi"
+  },
+  {
+   "romaji": "Kakato",
+   "jp": "踵",
+   "de": "Ferse",
+   "kat": "Körperteile",
+   "quelle": "Ergänzung",
+   "id": "g-kakato"
+  }
+ ]
+}

@@ -1,0 +1,353 @@
+{
+ "art": "kondition",
+ "uebungen": [
+  {
+   "id": "f-seilspringen",
+   "name": "Seilspringen",
+   "gruppe": "Kondition",
+   "muskeln": [
+    "Waden",
+    "Herz-Kreislauf"
+   ],
+   "geraet": [
+    "seil"
+   ],
+   "level": "Einsteiger",
+   "dosis": "5 x 1 min",
+   "cues": [
+    "Handgelenke drehen, Arme bleiben nah am Körper",
+    "Kleine, leichte Sprünge auf dem Fußballen"
+   ],
+   "budo": [
+    "Kondition",
+    "Fußarbeit"
+   ],
+   "hinweis": null,
+   "suche": "Seilspringen",
+   "art": "kondition",
+   "region": "kondition",
+   "saetze": 5,
+   "wdh": null,
+   "sek": [
+    60,
+    60
+   ],
+   "pause": 30,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kondition",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-hampelmann",
+   "name": "Hampelmann (Jumping Jacks)",
+   "gruppe": "Kondition",
+   "muskeln": [
+    "Ganzkörper"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "3 x 45 s",
+   "cues": [
+    "Weich landen, Knie leicht gebeugt",
+    "Gleichmäßiger Rhythmus, aufrechter Oberkörper"
+   ],
+   "budo": [
+    "Kondition",
+    "Aufwärmen"
+   ],
+   "hinweis": null,
+   "suche": "Hampelmann (Jumping Jacks)",
+   "art": "kondition",
+   "region": "kondition",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    45,
+    45
+   ],
+   "pause": 30,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kondition"
+   ]
+  },
+  {
+   "id": "f-mountain",
+   "name": "Bergsteiger (Mountain Climbers)",
+   "gruppe": "Kondition",
+   "muskeln": [
+    "Rumpf",
+    "Schulter",
+    "Hüftbeuger"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "3 x 30 s",
+   "cues": [
+    "Hände unter den Schultern, Körper in einer Linie",
+    "Knie abwechselnd Richtung Brust ziehen"
+   ],
+   "budo": [
+    "Kondition",
+    "Rumpf"
+   ],
+   "hinweis": null,
+   "suche": "Bergsteiger (Mountain Climbers)",
+   "art": "kondition",
+   "region": "kondition",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    30
+   ],
+   "pause": 30,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kondition"
+   ]
+  },
+  {
+   "id": "f-burpee",
+   "name": "Burpee",
+   "gruppe": "Kondition",
+   "muskeln": [
+    "Ganzkörper"
+   ],
+   "geraet": [],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 8",
+   "cues": [
+    "Hocke, Sprung in den Stütz, Liegestütz (optional), Sprung zurück",
+    "Auf eine saubere Körperhaltung im Stütz achten"
+   ],
+   "budo": [
+    "Kondition"
+   ],
+   "hinweis": null,
+   "suche": "Burpee",
+   "art": "kondition",
+   "region": "kondition",
+   "saetze": 3,
+   "wdh": [
+    8,
+    8
+   ],
+   "sek": null,
+   "pause": 30,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kondition"
+   ]
+  },
+  {
+   "id": "f-dauerlauf",
+   "name": "Dauerlauf (Dauermethode)",
+   "gruppe": "Kondition",
+   "muskeln": [
+    "Herz-Kreislauf"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "20-40 min ruhig",
+   "cues": [
+    "Tempo, bei dem du dich noch unterhalten kannst",
+    "Umfang ab ca. 15 min, Erholung danach (laut Lehrwerk)"
+   ],
+   "budo": [
+    "Kondition"
+   ],
+   "hinweis": "Im Lehrwerk wird die Dauermethode in Kapitel 7.4 beschrieben.",
+   "suche": "Dauerlauf Anfänger",
+   "art": "kondition",
+   "region": "kondition",
+   "saetze": 1,
+   "wdh": null,
+   "sek": [
+    1200,
+    2400
+   ],
+   "pause": 30,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kondition"
+   ]
+  },
+  {
+   "id": "f-intervall",
+   "name": "Intervalllauf (Intervallmethode)",
+   "gruppe": "Kondition",
+   "muskeln": [
+    "Herz-Kreislauf"
+   ],
+   "geraet": [],
+   "level": "Fortgeschritten",
+   "dosis": "6-10 x 1 min schnell / 1 min locker",
+   "cues": [
+    "Systematischer Wechsel von Belastung und Erholung",
+    "Extensiv: Belastung und Erholung gleich lang; intensiv: Spitzen mit kurzen Pausen"
+   ],
+   "budo": [
+    "Kondition"
+   ],
+   "hinweis": "Siehe Lehrwerk Kapitel 7.4 (Intervallmethode, extensiv und intensiv).",
+   "suche": "Intervalltraining Laufen",
+   "art": "kondition",
+   "region": "kondition",
+   "saetze": 6,
+   "wdh": null,
+   "sek": [
+    60,
+    60
+   ],
+   "pause": 30,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kondition"
+   ]
+  },
+  {
+   "id": "f-highknee",
+   "name": "Kniehebelauf",
+   "gruppe": "Kondition",
+   "muskeln": [
+    "Beine"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "3 x 20-45 s",
+   "cues": [
+    "Aufrecht stehen, auf der Stelle laufen",
+    "Die Knie bis auf Hüfthöhe anheben",
+    "Locker die Arme mitschwingen"
+   ],
+   "budo": [
+    "Kondition"
+   ],
+   "hinweis": "Auf der Stelle laufen und die Knie hoch ziehen.",
+   "suche": "Kniehebelauf",
+   "art": "kondition",
+   "region": "kondition",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    20,
+    45
+   ],
+   "pause": 30,
+   "seite": false,
+   "fehler": [
+    "Oberkörper kippt zurück: aufrecht bleiben",
+    "Harte Landung: weich auf den Fußballen"
+   ],
+   "start": "Starte mit 30 Sekunden.",
+   "ziele": [
+    "ganzkoerper",
+    "kondition"
+   ]
+  },
+  {
+   "id": "f-skater",
+   "name": "Skater-Sprünge",
+   "gruppe": "Kondition",
+   "muskeln": [
+    "Beine",
+    "Gesäß"
+   ],
+   "geraet": [],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 20-45 s",
+   "cues": [
+    "Auf einem Bein stehen, leicht in die Knie",
+    "Seitlich zum anderen Bein springen, weich landen",
+    "Weiter im Wechsel, der Oberkörper bleibt locker"
+   ],
+   "budo": [
+    "Kondition"
+   ],
+   "hinweis": "Seitlich von Bein zu Bein springen.",
+   "suche": "Skater-Sprünge",
+   "art": "kondition",
+   "region": "kondition",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    20,
+    45
+   ],
+   "pause": 30,
+   "seite": false,
+   "fehler": [
+    "Knie fällt nach innen: Knie über dem Fuß",
+    "Harte Landung: weich landen"
+   ],
+   "start": "Beginne mit kleinen Sprüngen.",
+   "ziele": [
+    "ganzkoerper",
+    "kondition",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-rdl-knie-sprung",
+   "name": "Einbeinige Hüftbeuge mit Kniehebesprung",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Gesäß",
+    "Beine",
+    "Waden"
+   ],
+   "geraet": [],
+   "level": "Fortgeschritten",
+   "dosis": "2 x 4-6 je Seite",
+   "cues": [
+    "Wie die Übung zuvor, aus dem Aufrichten leicht nach oben abspringen",
+    "Weich auf dem Standbein landen, Knie stabil",
+    "Nur mit gutem Gleichgewicht und gesunden Gelenken"
+   ],
+   "budo": [
+    "Schnellkraft",
+    "Tritte"
+   ],
+   "hinweis": "Sprungübungen nur nach gründlichem Aufwärmen.",
+   "suche": "Einbeinige Hüftbeuge mit Kniehebesprung",
+   "art": "kondition",
+   "region": "kondition",
+   "saetze": 2,
+   "wdh": [
+    4,
+    6
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "kondition",
+    "tritte",
+    "ganzkoerper"
+   ]
+  }
+ ]
+}

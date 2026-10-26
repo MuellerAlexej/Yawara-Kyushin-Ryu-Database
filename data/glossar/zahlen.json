@@ -1,0 +1,85 @@
+{
+ "kategorie": "Zahlen",
+ "eintraege": [
+  {
+   "romaji": "Ichi",
+   "jp": "一",
+   "de": "1",
+   "kat": "Zahlen",
+   "quelle": "Ergänzung",
+   "id": "g-ichi"
+  },
+  {
+   "romaji": "Ni",
+   "jp": "二",
+   "de": "2",
+   "kat": "Zahlen",
+   "quelle": "Ergänzung",
+   "id": "g-ni"
+  },
+  {
+   "romaji": "San",
+   "jp": "三",
+   "de": "3",
+   "kat": "Zahlen",
+   "quelle": "Ergänzung",
+   "id": "g-san-2"
+  },
+  {
+   "romaji": "Shi / Yon",
+   "jp": "四",
+   "de": "4",
+   "kat": "Zahlen",
+   "quelle": "Ergänzung",
+   "id": "g-shiyon"
+  },
+  {
+   "romaji": "Go",
+   "jp": "五",
+   "de": "5",
+   "kat": "Zahlen",
+   "quelle": "Ergänzung",
+   "id": "g-go"
+  },
+  {
+   "romaji": "Roku",
+   "jp": "六",
+   "de": "6",
+   "kat": "Zahlen",
+   "quelle": "Ergänzung",
+   "id": "g-roku"
+  },
+  {
+   "romaji": "Shichi / Nana",
+   "jp": "七",
+   "de": "7",
+   "kat": "Zahlen",
+   "quelle": "Ergänzung",
+   "id": "g-shichinana"
+  },
+  {
+   "romaji": "Hachi",
+   "jp": "八",
+   "de": "8",
+   "kat": "Zahlen",
+   "quelle": "Ergänzung",
+   "id": "g-hachi"
+  },
+  {
+   "romaji": "Kyū / Ku",
+   "jp": "九",
+   "de": "9",
+   "kat": "Zahlen",
+   "quelle": "Ergänzung",
+   "id": "g-kyuku"
+  },
+  {
+   "romaji": "Jū",
+   "jp": "十",
+   "de": "10",
+   "kat": "Zahlen",
+   "quelle": "Ergänzung",
+   "id": "g-ju"
+  }
+ ]
+}

@@ -1,0 +1,410 @@
+{
+ "kategorie": "Dojo und Etikette",
+ "eintraege": [
+  {
+   "romaji": "Keiko-Jo",
+   "jp": "稽古場",
+   "de": "Ort der Übung",
+   "kat": "Dojo und Etikette",
+   "quelle": "Lehrwerk S. 12",
+   "id": "g-keikojo"
+  },
+  {
+   "romaji": "Daimyo",
+   "jp": "大名",
+   "de": "Lehensfürsten",
+   "kat": "Dojo und Etikette",
+   "quelle": "Lehrwerk S. 12",
+   "id": "g-daimyo"
+  },
+  {
+   "romaji": "Shimose",
+   "jp": "下座",
+   "de": "Eingangsseite (Dojo-Skizze)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Lehrwerk S. 12",
+   "id": "g-shimose"
+  },
+  {
+   "romaji": "Fukosen",
+   "jp": "",
+   "de": "linke Seite von Shomen",
+   "kat": "Dojo und Etikette",
+   "quelle": "Lehrwerk S. 12",
+   "id": "g-fukosen"
+  },
+  {
+   "romaji": "Shusen",
+   "jp": "",
+   "de": "rechte Seite von Shomen",
+   "kat": "Dojo und Etikette",
+   "quelle": "Lehrwerk S. 12",
+   "id": "g-shusen"
+  },
+  {
+   "romaji": "Joseki",
+   "jp": "上席",
+   "de": "Platz für Lehrer",
+   "kat": "Dojo und Etikette",
+   "quelle": "Lehrwerk S. 12",
+   "id": "g-joseki"
+  },
+  {
+   "romaji": "Shimoseki",
+   "jp": "下席",
+   "de": "Platz für Schüler",
+   "kat": "Dojo und Etikette",
+   "quelle": "Lehrwerk S. 12",
+   "id": "g-shimoseki"
+  },
+  {
+   "romaji": "Kamiza",
+   "jp": "上座",
+   "de": "Hausaltar (Dojo-Skizze)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Lehrwerk S. 12",
+   "id": "g-kamiza",
+   "alt": [
+    "Ehrenplatz (Platz der Gottheit), meist die Stirnseite mit Altar, Schriftrollen oder Foto des Gründers"
+   ]
+  },
+  {
+   "romaji": "Shomen",
+   "jp": "正面",
+   "de": "Frontseite",
+   "kat": "Dojo und Etikette",
+   "quelle": "Lehrwerk S. 12",
+   "id": "g-shomen"
+  },
+  {
+   "romaji": "Kamidana",
+   "jp": "神棚",
+   "de": "Hausaltar (Shintō)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Lehrwerk S. 20",
+   "id": "g-kamidana"
+  },
+  {
+   "romaji": "Za-rei",
+   "jp": "座礼",
+   "de": "Verbeugung im Sitzen",
+   "kat": "Dojo und Etikette",
+   "quelle": "Lehrwerk S. 4",
+   "id": "g-zarei"
+  },
+  {
+   "romaji": "Ritsurei",
+   "jp": "立礼",
+   "de": "Verbeugung aus dem Stand",
+   "kat": "Dojo und Etikette",
+   "quelle": "Lehrwerk S. 4",
+   "alt": [
+    "Verbeugung im Stehen",
+    "Tachi-rei"
+   ],
+   "id": "g-ritsurei"
+  },
+  {
+   "romaji": "Dōjō",
+   "jp": "道場",
+   "de": "Übungshalle, wörtlich „Ort des Weges“",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-dojo"
+  },
+  {
+   "romaji": "Budō",
+   "jp": "武道",
+   "de": "Kampfkunst als Lebensweg, „Weg des Krieges/der Kampfkunst“",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-budo"
+  },
+  {
+   "romaji": "Bujutsu",
+   "jp": "武術",
+   "de": "Kriegskunst, Kampftechnik",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-bujutsu"
+  },
+  {
+   "romaji": "Ryū",
+   "jp": "流",
+   "de": "Schule, Stilrichtung",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-ryu",
+   "alt": [
+    "wörtlich: „Strömung“"
+   ]
+  },
+  {
+   "romaji": "Koryū",
+   "jp": "古流",
+   "de": "Alte (klassische) Schule",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-koryu"
+  },
+  {
+   "romaji": "Keiko",
+   "jp": "稽古",
+   "de": "Training, Üben",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-keiko"
+  },
+  {
+   "romaji": "Shugyō",
+   "jp": "修行",
+   "de": "Strenge Übung, Schulung des Charakters",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-shugyo"
+  },
+  {
+   "romaji": "Shinzen",
+   "jp": "神前",
+   "de": "„Vor dem Schrein/den Göttern“",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-shinzen",
+   "alt": [
+    "geistiges Zentrum, auch Kamiza genannt"
+   ]
+  },
+  {
+   "romaji": "Shōmen ni rei",
+   "jp": "正面に礼",
+   "de": "Verbeugung zur Front",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-shomennirei"
+  },
+  {
+   "romaji": "Sensei ni rei",
+   "jp": "先生に礼",
+   "de": "Verbeugung vor dem Lehrer",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-senseinirei"
+  },
+  {
+   "romaji": "Otagai ni rei",
+   "jp": "お互いに礼",
+   "de": "Verbeugung voreinander",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-otagainirei"
+  },
+  {
+   "romaji": "Osu",
+   "jp": "押忍",
+   "de": "Gruß- und Bestätigungswort im Kyokushin, gedeutet als „durchhalten unter Druck“",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-osu"
+  },
+  {
+   "romaji": "Onegaishimasu",
+   "jp": "お願いします",
+   "de": "„Ich bitte darum“ (zu Beginn, z. B. des Trainings)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-onegaishimasu"
+  },
+  {
+   "romaji": "Arigatō gozaimashita",
+   "jp": "ありがとうございました",
+   "de": "„Vielen Dank“ (nach Abschluss)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-arigatogozaimashita"
+  },
+  {
+   "romaji": "Shitsurei shimasu",
+   "jp": "失礼します",
+   "de": "„Entschuldigung“ (beim Betreten/Verlassen, Stören)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-shitsureishimasu"
+  },
+  {
+   "romaji": "Hai",
+   "jp": "はい",
+   "de": "Ja, verstanden",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-hai"
+  },
+  {
+   "romaji": "Gasshō",
+   "jp": "合掌",
+   "de": "Hände vor der Brust zusammenlegen (Gruß, Dank)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-gassho"
+  },
+  {
+   "romaji": "Mokusō",
+   "jp": "黙想",
+   "de": "Stille Sammlung, kurze Meditation",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-mokuso"
+  },
+  {
+   "romaji": "Seiza",
+   "jp": "正座",
+   "de": "Fersensitz",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-seiza"
+  },
+  {
+   "romaji": "Anza",
+   "jp": "安座",
+   "de": "Schneidersitz",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-anza"
+  },
+  {
+   "romaji": "Tatami",
+   "jp": "畳",
+   "de": "Matte, Reisstrohmatte",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-tatami"
+  },
+  {
+   "romaji": "Mon",
+   "jp": "紋",
+   "de": "Wappen, Emblem (im YKR mit Umrandung nach Rang)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-mon"
+  },
+  {
+   "romaji": "Hajime no saho",
+   "jp": "始めの作法",
+   "de": "Beginn-Etikette",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-hajimenosaho"
+  },
+  {
+   "romaji": "Owari no saho",
+   "jp": "終わりの作法",
+   "de": "Abschluss-Etikette",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-owarinosaho"
+  },
+  {
+   "romaji": "Reigi",
+   "jp": "礼儀",
+   "de": "Etikette, Anstand",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-reigi"
+  },
+  {
+   "romaji": "Reihō",
+   "jp": "礼法",
+   "de": "Etikette, Methode des Verbeugens (vor und nach dem Training)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-reiho"
+  },
+  {
+   "romaji": "Saho",
+   "jp": "作法",
+   "de": "Verhaltensregeln, Etikette-Ablauf",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-saho"
+  },
+  {
+   "romaji": "Jōseki ni rei",
+   "jp": "上席に礼",
+   "de": "Verbeugung zur Ehrenseite des Dojo",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-josekinirei"
+  },
+  {
+   "romaji": "Kamiza ni rei",
+   "jp": "上座に礼",
+   "de": "Verbeugung zum Kamiza",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-kamizanirei"
+  },
+  {
+   "romaji": "Teitō",
+   "jp": "提刀",
+   "de": "Schwert locker an der linken Seite halten",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-teito"
+  },
+  {
+   "romaji": "Taitō",
+   "jp": "帯刀",
+   "de": "Schwert in den Gürtel stecken (tragen)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-taito"
+  },
+  {
+   "romaji": "Teitō shisei",
+   "jp": "提刀姿勢",
+   "de": "Haltung mit dem Schwert an der linken Seite (Daumen an der Tsuba)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-teitoshisei"
+  },
+  {
+   "romaji": "Dōmo arigatō gozaimasu",
+   "jp": "どうもありがとうございます",
+   "de": "Vielen Dank (sehr höflich)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-domoarigatogozaimasu"
+  },
+  {
+   "romaji": "Gomennasai",
+   "jp": "ごめんなさい",
+   "de": "Entschuldigung, es tut mir leid",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-gomennasai"
+  },
+  {
+   "romaji": "Sumimasen",
+   "jp": "すみません",
+   "de": "Entschuldigung (zur Aufmerksamkeit, auch „Verzeihung“)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-sumimasen"
+  },
+  {
+   "romaji": "Otsukaresama deshita",
+   "jp": "お疲れ様でした",
+   "de": "Danke für die Mühe (nach dem Training)",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-otsukaresamadeshita"
+  },
+  {
+   "romaji": "Oshiete kudasai",
+   "jp": "教えてください",
+   "de": "Bitte unterrichten Sie mich",
+   "kat": "Dojo und Etikette",
+   "quelle": "Ergänzung",
+   "id": "g-oshietekudasai"
+  }
+ ]
+}

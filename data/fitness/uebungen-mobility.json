@@ -1,0 +1,365 @@
+{
+ "art": "mobility",
+ "uebungen": [
+  {
+   "id": "f-cossack",
+   "name": "Cossack Squat (Seitlicher Ausfallschritt)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Adduktoren",
+    "Oberschenkel",
+    "Hüfte"
+   ],
+   "geraet": [],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 6 je Seite",
+   "cues": [
+    "Weiter Stand, Gewicht auf ein Bein verlagern und tief beugen",
+    "Das andere Bein bleibt gestreckt, Fußspitze zeigt nach oben",
+    "Ferse des Standbeins am Boden halten"
+   ],
+   "budo": [
+    "Hüftmobilität",
+    "Stand und Beine"
+   ],
+   "hinweis": null,
+   "suche": "Cossack Squat (Seitlicher Ausfallschritt)",
+   "art": "mobility",
+   "region": "huefte",
+   "saetze": 3,
+   "wdh": [
+    6,
+    6
+   ],
+   "sek": null,
+   "pause": 20,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-beinschwingen",
+   "name": "Beinschwingen (Leg Swings)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Hüfte"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 10 je Seite und Richtung",
+   "cues": [
+    "An einer Wand abstützen, Oberkörper ruhig",
+    "Bein locker vor/zurück und seitlich schwingen",
+    "Schwungweite langsam steigern"
+   ],
+   "budo": [
+    "Hüftmobilität",
+    "Tritte"
+   ],
+   "hinweis": null,
+   "suche": "Beinschwingen (Leg Swings)",
+   "art": "mobility",
+   "region": "huefte",
+   "saetze": 2,
+   "wdh": [
+    10,
+    10
+   ],
+   "sek": null,
+   "pause": 20,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-wgs",
+   "name": "World's Greatest Stretch",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Hüfte",
+    "Brustwirbelsäule",
+    "hintere Oberschenkel"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 4 je Seite",
+   "cues": [
+    "Tiefer Ausfallschritt, beide Hände neben dem vorderen Fuß",
+    "Innenseitiger Arm öffnet sich zur Decke",
+    "Danach Hüfte nach hinten schieben und Bein strecken"
+   ],
+   "budo": [
+    "Hüftmobilität",
+    "Rotation"
+   ],
+   "hinweis": null,
+   "suche": "World's Greatest Stretch",
+   "art": "mobility",
+   "region": "huefte",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 20,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-katze-kuh",
+   "name": "Katze-Kuh",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Wirbelsäule"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 10",
+   "cues": [
+    "Vierfüßlerstand, Rücken abwechselnd runden und strecken",
+    "Mit der Atmung bewegen, Bewegung aus der ganzen Wirbelsäule"
+   ],
+   "budo": [
+    "Rücken",
+    "Haltung"
+   ],
+   "hinweis": null,
+   "suche": "Katze-Kuh",
+   "art": "mobility",
+   "region": "ruecken",
+   "saetze": 2,
+   "wdh": [
+    10,
+    10
+   ],
+   "sek": null,
+   "pause": 20,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit"
+   ]
+  },
+  {
+   "id": "f-thread",
+   "name": "Brustwirbelsäulen-Rotation (Thread the Needle)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Brustwirbelsäule",
+    "Schulter"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 8 je Seite",
+   "cues": [
+    "Vierfüßlerstand, ein Arm gleitet unter dem Körper hindurch",
+    "Schulter und Kopf sinken Richtung Matte",
+    "Danach Arm zur Decke öffnen"
+   ],
+   "budo": [
+    "Rotation",
+    "Haltung"
+   ],
+   "hinweis": null,
+   "suche": "Brustwirbelsäulen-Rotation (Thread the Needle)",
+   "art": "mobility",
+   "region": "ruecken",
+   "saetze": 2,
+   "wdh": [
+    8,
+    8
+   ],
+   "sek": null,
+   "pause": 20,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit"
+   ]
+  },
+  {
+   "id": "f-nacken",
+   "name": "Nackenmobilisation (sanft)",
+   "gruppe": "Schulter und Nacken",
+   "muskeln": [
+    "Nacken"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 6 je Richtung",
+   "cues": [
+    "Langsam das Ohr zur Schulter neigen, dann Kinn zur Brust",
+    "Schultern bleiben entspannt, keine ruckartigen Bewegungen",
+    "Bei Schwindel oder Taubheit sofort stoppen"
+   ],
+   "budo": [
+    "Nacken",
+    "Haltung"
+   ],
+   "hinweis": "Bei Nackenbeschwerden ärztlich abklären lassen.",
+   "suche": "Nackenmobilisation (sanft)",
+   "art": "mobility",
+   "region": "nacken",
+   "saetze": 2,
+   "wdh": [
+    6,
+    6
+   ],
+   "sek": null,
+   "pause": 20,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit"
+   ]
+  },
+  {
+   "id": "f-knie-brust",
+   "name": "Knie zur Brust ziehen (Stand)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Gesäß",
+    "Hüfte"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 4-6 je Seite",
+   "cues": [
+    "Auf einem Bein stehen, das andere Knie mit beiden Händen zur Brust ziehen",
+    "Das Gesäß des Standbeins anspannen, Oberkörper aufrecht",
+    "Seite wechseln"
+   ],
+   "budo": [
+    "Tritte",
+    "Aufwärmen"
+   ],
+   "hinweis": null,
+   "suche": "Knie zur Brust ziehen (Stand)",
+   "art": "mobility",
+   "region": "huefte",
+   "saetze": 2,
+   "wdh": [
+    4,
+    6
+   ],
+   "sek": null,
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-ferse-gesaess",
+   "name": "Ferse zum Gesäß (im Gehen)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Oberschenkelvorderseite"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 4-6 je Seite",
+   "cues": [
+    "Im Gehen abwechselnd die Ferse zum Gesäß ziehen und kurz mit der Hand halten",
+    "Knie zeigen nach unten, Becken aufrecht",
+    "Rhythmisch und locker bewegen"
+   ],
+   "budo": [
+    "Tritte",
+    "Aufwärmen"
+   ],
+   "hinweis": null,
+   "suche": "Ferse zum Gesäß (im Gehen)",
+   "art": "mobility",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": [
+    4,
+    6
+   ],
+   "sek": null,
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-hueftoeffner",
+   "name": "Hüftöffner im Gehen",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Hüfte",
+    "Gesäß"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 4-6 je Seite",
+   "cues": [
+    "Im Gehen ein Knie seitlich anheben und in einem weiten Bogen nach vorn führen",
+    "Standbein stabil, Oberkörper ruhig",
+    "Bewegung langsam und groß ausführen"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": null,
+   "suche": "Hüftöffner im Gehen",
+   "art": "mobility",
+   "region": "huefte",
+   "saetze": 2,
+   "wdh": [
+    4,
+    6
+   ],
+   "sek": null,
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  }
+ ]
+}

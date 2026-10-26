@@ -1,0 +1,48 @@
+{
+ "kategorie": "Zen und Meditation",
+ "eintraege": [
+  {
+   "romaji": "Zazen",
+   "jp": "座禅",
+   "de": "Sitzmeditation; im YKR zusammen mit Gehmeditation",
+   "kat": "Zen und Meditation",
+   "quelle": "Lehrwerk S. 3",
+   "alt": [
+    "Sitzmeditation (Zen)"
+   ],
+   "id": "g-zazen"
+  },
+  {
+   "romaji": "Sila",
+   "jp": "戒",
+   "de": "Regeln, die man bewusst auf sich nimmt, um ein heilsames Leben zu führen",
+   "kat": "Zen und Meditation",
+   "quelle": "Lehrwerk S. 21",
+   "id": "g-sila"
+  },
+  {
+   "romaji": "Samadhi",
+   "jp": "三昧",
+   "de": "die Methode, die den Buddha zur Erleuchtung brachte: Meditation",
+   "kat": "Zen und Meditation",
+   "quelle": "Lehrwerk S. 21",
+   "id": "g-samadhi"
+  },
+  {
+   "romaji": "Sangha",
+   "jp": "僧伽",
+   "de": "Gruppe der Personen, die den Weg vor einem selbst beschritten haben",
+   "kat": "Zen und Meditation",
+   "quelle": "Lehrwerk S. 21",
+   "id": "g-sangha"
+  },
+  {
+   "romaji": "Zafu",
+   "jp": "座蒲",
+   "de": "Sitzkissen für die Meditation",
+   "kat": "Zen und Meditation",
+   "quelle": "Lehrwerk S. 23",
+   "id": "g-zafu"
+  }
+ ]
+}

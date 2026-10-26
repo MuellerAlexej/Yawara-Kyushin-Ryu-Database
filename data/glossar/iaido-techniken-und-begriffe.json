@@ -1,0 +1,918 @@
+{
+ "kategorie": "Iaido: Techniken und Begriffe",
+ "eintraege": [
+  {
+   "romaji": "Boku",
+   "jp": "木",
+   "de": "Holz",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 7",
+   "id": "g-boku"
+  },
+  {
+   "romaji": "Ken",
+   "jp": "剣",
+   "de": "Schwert (bezeichnet zweischneidige Klingen)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 7",
+   "id": "g-ken"
+  },
+  {
+   "romaji": "Tō",
+   "jp": "刀",
+   "de": "Schwert (bezeichnet einschneidige Klingen)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 7",
+   "id": "g-to"
+  },
+  {
+   "romaji": "Nuki Tsuke",
+   "jp": "抜付",
+   "de": "das Herausziehen des Schwertes und der erste Schnitt",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 8",
+   "alt": [
+    "Ziehen und erster Schnitt"
+   ],
+   "id": "g-nukitsuke"
+  },
+  {
+   "romaji": "Kiri Tsuke",
+   "jp": "切付",
+   "de": "folgende Schnitte",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 8",
+   "alt": [
+    "Schlussschnitt"
+   ],
+   "id": "g-kiritsuke"
+  },
+  {
+   "romaji": "Chiburi",
+   "jp": "血振り",
+   "de": "Schwert reinigen/Blut abschlagen",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 8",
+   "alt": [
+    "Abschütteln der Klinge"
+   ],
+   "id": "g-chiburi"
+  },
+  {
+   "romaji": "Nōtō",
+   "jp": "納刀",
+   "de": "Rückführen des Schwertes in das Saya",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 8",
+   "alt": [
+    "Einstecken des Schwertes"
+   ],
+   "id": "g-noto"
+  },
+  {
+   "romaji": "Tameshigiri",
+   "jp": "試し斬り",
+   "de": "Kunst, Objekte zu zertrennen (Schnitttest)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 15",
+   "id": "g-tameshigiri",
+   "hinweis": "Schnitttests an Papier sind auch mit Iaitō und Bokutō möglich, echte Schnitttests nur mit dem Katana (Hinweis der Schule)."
+  },
+  {
+   "romaji": "Tatami-Omote",
+   "jp": "畳表",
+   "de": "große Reisstrohmatten, die zum Kern einen Bambus haben können",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 15",
+   "id": "g-tatamiomote"
+  },
+  {
+   "romaji": "Shizan",
+   "jp": "",
+   "de": "Fähigkeit des Schwertkämpfers, Objekte korrekt zu zertrennen",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 15",
+   "id": "g-shizan"
+  },
+  {
+   "romaji": "Shito",
+   "jp": "",
+   "de": "Qualität des Schwertes, mit dem geschnitten wird",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 15",
+   "id": "g-shito"
+  },
+  {
+   "romaji": "Kabuto-wari",
+   "jp": "兜割り",
+   "de": "Helmspalten, Hochform von Shito",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 15",
+   "id": "g-kabutowari"
+  },
+  {
+   "romaji": "Furidome",
+   "jp": "",
+   "de": "sieben Techniken im Tameshigiri, in denen der Schnitt in der tome Position stoppt",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 15",
+   "id": "g-furidome"
+  },
+  {
+   "romaji": "Hidari Kesagiri",
+   "jp": "左袈裟切り",
+   "de": "Schrägschnitt von links",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 15",
+   "id": "g-hidarikesagiri"
+  },
+  {
+   "romaji": "Migi Kesagiri",
+   "jp": "右袈裟切り",
+   "de": "Schrägschnitt von rechts",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 15",
+   "id": "g-migikesagiri"
+  },
+  {
+   "romaji": "Hidari Yokogiri",
+   "jp": "左横切り",
+   "de": "Querschnitt von links",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 15",
+   "id": "g-hidariyokogiri"
+  },
+  {
+   "romaji": "Migi Yokogiri",
+   "jp": "右横切り",
+   "de": "Querschnitt von rechts",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 15",
+   "id": "g-migiyokogiri"
+  },
+  {
+   "romaji": "Dotangiri (Shinchokugiri)",
+   "jp": "",
+   "de": "senkrechter Schnitt",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 15",
+   "id": "g-dotangirishinchokugiri"
+  },
+  {
+   "romaji": "Iaidō",
+   "jp": "居合道",
+   "de": "Weg des harmonischen Seins",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 8",
+   "hinweis": "I (iru) = (anwesend) sein, Ai = Harmonie, Dō = Weg/Prinzip (Lehrwerk Kap. 2.2)",
+   "alt": [
+    "Weg des Schwertziehens"
+   ],
+   "id": "g-iaido"
+  },
+  {
+   "romaji": "Iai",
+   "jp": "居合",
+   "de": "Harmonisches Sein",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 8",
+   "hinweis": "I (iru) = (anwesend) sein, Ai = Harmonie",
+   "alt": [
+    "Schwertziehen",
+    "Schwertziehen (Kurzform)"
+   ],
+   "id": "g-iai"
+  },
+  {
+   "romaji": "I / iru",
+   "jp": "居る",
+   "de": "(anwesend) sein",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 8",
+   "id": "g-iiru"
+  },
+  {
+   "romaji": "Ai",
+   "jp": "合",
+   "de": "Harmonie",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Lehrwerk S. 8",
+   "id": "g-ai"
+  },
+  {
+   "romaji": "Battō",
+   "jp": "抜刀",
+   "de": "Schwertziehen",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-batto"
+  },
+  {
+   "romaji": "Kenjutsu",
+   "jp": "剣術",
+   "de": "Schwertkunst",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kenjutsu"
+  },
+  {
+   "romaji": "Kendō",
+   "jp": "剣道",
+   "de": "Weg des Schwertes (Fechtsport)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kendo"
+  },
+  {
+   "romaji": "Hasuji",
+   "jp": "刃筋",
+   "de": "Klingenführung, Schnittlinie",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-hasuji"
+  },
+  {
+   "romaji": "Seitei",
+   "jp": "制定",
+   "de": "Festgelegt, Standard",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-seitei"
+  },
+  {
+   "romaji": "Seitei-gata",
+   "jp": "制定型",
+   "de": "Standardformen",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-seiteigata",
+   "alt": [
+    "Zenkenrenmei-Iai-Kata (Formen des japanischen Kendō-Verbands)"
+   ]
+  },
+  {
+   "romaji": "Battō-hō",
+   "jp": "抜刀法",
+   "de": "Techniken des Schwertziehens",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-battoho"
+  },
+  {
+   "romaji": "Nukikata",
+   "jp": "抜き方",
+   "de": "Art des Ziehens (Ziehbewegung)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-nukikata"
+  },
+  {
+   "romaji": "Datto",
+   "jp": "脱刀",
+   "de": "Das Schwert aus dem Gürtel nehmen",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-datto"
+  },
+  {
+   "romaji": "Sage-tō",
+   "jp": "提刀",
+   "de": "Tragehaltung des Schwertes in der Hand",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-sageto"
+  },
+  {
+   "romaji": "Sayabiki",
+   "jp": "鞘引き",
+   "de": "Zurückziehen der Saya mit der linken Hand beim Ziehen",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-sayabiki"
+  },
+  {
+   "romaji": "Kirioroshi / Kiriotoshi",
+   "jp": "斬り下ろし",
+   "de": "Gerader Schnitt von oben nach unten (Kopf bis Hüfte)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kirioroshikiriotoshi"
+  },
+  {
+   "romaji": "Kesagiri (Schnittart)",
+   "jp": "袈裟斬り",
+   "de": "Schrägschnitt von der Schulter zur gegenüberliegenden Hüfte",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kesagirischnittart"
+  },
+  {
+   "romaji": "Gyaku-kesa / Gyaku-gesa",
+   "jp": "逆袈裟",
+   "de": "Umgekehrter Schrägschnitt (von der Hüfte zur gegenüberliegenden Schulter)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-gyakukesagyakugesa"
+  },
+  {
+   "romaji": "Happōgiri",
+   "jp": "八方斬り",
+   "de": "Achtrichtungsschnitt (Übung)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-happogiri"
+  },
+  {
+   "romaji": "Iai goshi",
+   "jp": "居合腰",
+   "de": "Abgesenkte Hüfte (Grundhaltung beim Iaido)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-iaigoshi"
+  },
+  {
+   "romaji": "Iaidōka",
+   "jp": "居合道家",
+   "de": "Iaido-Übender",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-iaidoka"
+  },
+  {
+   "romaji": "Iaijutsu",
+   "jp": "居合術",
+   "de": "Ältere Schwertzieh-Kunst (Technikaspekt)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-iaijutsu"
+  },
+  {
+   "romaji": "Heihō",
+   "jp": "兵法",
+   "de": "Kriegskunst, altes Wort für Fechtkunst",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-heiho"
+  },
+  {
+   "romaji": "Jo-ha-kyū",
+   "jp": "序破急",
+   "de": "Anfang, Entwicklung, Höhepunkt (langsam, mittel, schnell)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-johakyu"
+  },
+  {
+   "romaji": "In-yō",
+   "jp": "陰陽",
+   "de": "Yin und Yang, Einheit der Gegensätze",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-inyo"
+  },
+  {
+   "romaji": "Shu-ha-ri",
+   "jp": "守破離",
+   "de": "Bewahren, Durchbrechen, Loslösen (Stufen des Lernens)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-shuhari"
+  },
+  {
+   "romaji": "Ma",
+   "jp": "間",
+   "de": "Raum und Zeit zwischen Handlungen, Gefühl für Abstand und Zeitpunkt",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-ma"
+  },
+  {
+   "romaji": "Sonkyo",
+   "jp": "蹲踞",
+   "de": "Hocke auf den Fußballen (Respektgruß vor dem Gegenüber)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-sonkyo"
+  },
+  {
+   "romaji": "Tatehiza",
+   "jp": "立膝",
+   "de": "Sitz mit aufgestelltem Knie",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-tatehiza"
+  },
+  {
+   "romaji": "Torei",
+   "jp": "刀礼",
+   "de": "Verbeugung vor dem Schwert",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-torei"
+  },
+  {
+   "romaji": "Kami no ashi",
+   "jp": "上の足",
+   "de": "Der Fuß, der zum Kamiza zeigt (oberer Fuß)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kaminoashi"
+  },
+  {
+   "romaji": "Jutsu",
+   "jp": "術",
+   "de": "Kunst, Methode, Technik",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-jutsu"
+  },
+  {
+   "romaji": "Omote",
+   "jp": "表",
+   "de": "Vorderseite, außen",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-omote"
+  },
+  {
+   "romaji": "Ura",
+   "jp": "裏",
+   "de": "Rückseite",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-ura"
+  },
+  {
+   "romaji": "Naname",
+   "jp": "斜め",
+   "de": "Schräg, diagonal",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-naname"
+  },
+  {
+   "romaji": "Massugu",
+   "jp": "真っ直ぐ",
+   "de": "Geradeaus",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-massugu"
+  },
+  {
+   "romaji": "Ichimonji",
+   "jp": "一文字",
+   "de": "Gerade Linie",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-ichimonji"
+  },
+  {
+   "romaji": "Kakudo",
+   "jp": "角度",
+   "de": "Winkel",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kakudo"
+  },
+  {
+   "romaji": "Hantai",
+   "jp": "反対",
+   "de": "Umgekehrt, andersherum",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-hantai"
+  },
+  {
+   "romaji": "Hitoemi",
+   "jp": "一重身",
+   "de": "Gleichmäßige Stellung (Füße parallel nach vorn)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-hitoemi"
+  },
+  {
+   "romaji": "Iai hiza",
+   "jp": "居合膝",
+   "de": "Knien auf einer Wade (ein Knie aufgestellt)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-iaihiza"
+  },
+  {
+   "romaji": "Kiza",
+   "jp": "跪坐",
+   "de": "Knien auf den Zehen",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kiza"
+  },
+  {
+   "romaji": "Kasumi",
+   "jp": "霞",
+   "de": "Überkreuzte Arme, die die Technik verbergen („Bergnebel“)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kasumi"
+  },
+  {
+   "romaji": "Kongō",
+   "jp": "金剛",
+   "de": "Klinge senkrecht vor dem Gesicht",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kongo"
+  },
+  {
+   "romaji": "Seigan no kamae",
+   "jp": "正眼の構え",
+   "de": "Natürliche Mittelhaltung, Grundhaltung",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-seigannokamae"
+  },
+  {
+   "romaji": "Aiuchi",
+   "jp": "相打ち",
+   "de": "Gegenseitiger, gleichzeitiger Schlag",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-aiuchi"
+  },
+  {
+   "romaji": "Ate",
+   "jp": "当て",
+   "de": "Stoß, Treffer",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-ate"
+  },
+  {
+   "romaji": "Katate uchi",
+   "jp": "片手打ち",
+   "de": "Einhandschlag",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-katateuchi"
+  },
+  {
+   "romaji": "Morote uchi",
+   "jp": "諸手打ち",
+   "de": "Zweihandschlag",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-moroteuchi"
+  },
+  {
+   "romaji": "Kiri",
+   "jp": "斬り",
+   "de": "Schnitt",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kiri"
+  },
+  {
+   "romaji": "Kiri age",
+   "jp": "切り上げ",
+   "de": "Aufwärtsschnitt (entspricht Gyaku-kesa)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kiriage"
+  },
+  {
+   "romaji": "Kiri gaeshi",
+   "jp": "切り返し",
+   "de": "Großer Diagonalschnitt, der in der Waki-Haltung endet",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kirigaeshi"
+  },
+  {
+   "romaji": "Kiri kudashi",
+   "jp": "斬り下し",
+   "de": "Abschließender Schnitt",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kirikudashi"
+  },
+  {
+   "romaji": "Shōmen uchi",
+   "jp": "正面打ち",
+   "de": "Schlag auf den Scheitel (Stirnseite des Kopfes)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-shomenuchi"
+  },
+  {
+   "romaji": "Yokomen uchi",
+   "jp": "横面打ち",
+   "de": "Schlag auf die Kopfseite",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-yokomenuchi"
+  },
+  {
+   "romaji": "Sune gakoi",
+   "jp": "脛囲い",
+   "de": "Deckung zum Schutz des Schienbeins",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-sunegakoi"
+  },
+  {
+   "romaji": "Embu",
+   "jp": "演武",
+   "de": "Vorführung",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-embu"
+  },
+  {
+   "romaji": "Taikai",
+   "jp": "大会",
+   "de": "Turnier, Wettkampf",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-taikai"
+  },
+  {
+   "romaji": "Suburi",
+   "jp": "素振り",
+   "de": "Schwertschwingen als Grundübung",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-suburi"
+  },
+  {
+   "romaji": "Jōge-buri",
+   "jp": "上下振り",
+   "de": "Auf-und-ab-Schwingen (Suburi)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-jogeburi"
+  },
+  {
+   "romaji": "Ōji-waza",
+   "jp": "応じ技",
+   "de": "Kontertechniken (auf einen Angriff antworten)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-ojiwaza"
+  },
+  {
+   "romaji": "Uchikomi-geiko",
+   "jp": "打ち込み稽古",
+   "de": "Übung mit fortlaufenden Angriffen",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-uchikomigeiko"
+  },
+  {
+   "romaji": "Ji-geiko",
+   "jp": "地稽古",
+   "de": "Freies Üben (Kendō)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-jigeiko"
+  },
+  {
+   "romaji": "Henka-waza",
+   "jp": "変化技",
+   "de": "Kleine Variationen derselben Technik",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-henkawaza"
+  },
+  {
+   "romaji": "Kae-waza",
+   "jp": "替え技",
+   "de": "Ersatztechnik, ganz andere Technik",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kaewaza"
+  },
+  {
+   "romaji": "Chōsoku",
+   "jp": "調息",
+   "de": "Atmung regulieren",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-chosoku"
+  },
+  {
+   "romaji": "Enzan no metsuke",
+   "jp": "遠山の目付",
+   "de": "Blick auf ferne Berge (weiter, ruhiger Blick)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-enzannometsuke"
+  },
+  {
+   "romaji": "Tate-ha",
+   "jp": "立刃",
+   "de": "Schneide nach oben (beim Ziehen)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-tateha"
+  },
+  {
+   "romaji": "Seme",
+   "jp": "攻め",
+   "de": "Druck, Vorrücken gegen den Gegner",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-seme"
+  },
+  {
+   "romaji": "Saya-banare",
+   "jp": "鞘離れ",
+   "de": "Lösen der Klinge aus der Saya",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-sayabanare"
+  },
+  {
+   "romaji": "Furikaburi",
+   "jp": "振り冠り",
+   "de": "Schwert vom Ziehen über den Kopf heben",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-furikaburi"
+  },
+  {
+   "romaji": "Hiki-taoshi",
+   "jp": "引き倒し",
+   "de": "Niederziehen (des Gegners)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-hikitaoshi"
+  },
+  {
+   "romaji": "Hiki-kiri",
+   "jp": "引き斬り",
+   "de": "Zugschnitt",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-hikikiri"
+  },
+  {
+   "romaji": "Hane-age",
+   "jp": "跳ね上げ",
+   "de": "Hochschnellen der Klinge",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-haneage"
+  },
+  {
+   "romaji": "Ō-chiburi",
+   "jp": "大血振り",
+   "de": "Großes, kreisförmiges Chiburi",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-ochiburi"
+  },
+  {
+   "romaji": "Yoko-chiburi",
+   "jp": "横血振り",
+   "de": "Seitliches Chiburi",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-yokochiburi"
+  },
+  {
+   "romaji": "Chinugui",
+   "jp": "血拭い",
+   "de": "Abwischen des Blutes",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-chinugui"
+  },
+  {
+   "romaji": "Tate-nōtō",
+   "jp": "立て納刀",
+   "de": "Einstecken der Klinge mit der Schneide nach oben",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-tatenoto"
+  },
+  {
+   "romaji": "Te no uchi",
+   "jp": "手の内",
+   "de": "Griff: die Finger ziehen die Tsuka in die Handfläche",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-tenouchi"
+  },
+  {
+   "romaji": "Shibori",
+   "jp": "絞り",
+   "de": "Auswringen: Hände drehen beim Schnitt nach innen",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-shibori"
+  },
+  {
+   "romaji": "Kirite",
+   "jp": "切り手",
+   "de": "Schneidender Griff",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kirite"
+  },
+  {
+   "romaji": "Semete",
+   "jp": "攻め手",
+   "de": "Drückende Hand",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-semete"
+  },
+  {
+   "romaji": "Mamorite",
+   "jp": "守り手",
+   "de": "Deckende, schützende Hand",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-mamorite"
+  },
+  {
+   "romaji": "Shinite",
+   "jp": "死に手",
+   "de": "„Tote Hand“: Griff, der keinen Schnitt zulässt",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-shinite"
+  },
+  {
+   "romaji": "Tomete",
+   "jp": "止め手",
+   "de": "Stoppende Hand",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-tomete"
+  },
+  {
+   "romaji": "Soete",
+   "jp": "添え手",
+   "de": "Helfende Hand (eine Hand an der Tsuka, eine an der Klinge)",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-soete"
+  },
+  {
+   "romaji": "Teki",
+   "jp": "敵",
+   "de": "Gegner",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-teki"
+  },
+  {
+   "romaji": "Kasō-teki",
+   "jp": "仮想敵",
+   "de": "Eingebildeter Gegner",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-kasoteki"
+  },
+  {
+   "romaji": "Uchidachi",
+   "jp": "打太刀",
+   "de": "Angreifende Seite in der Partnerform",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-uchidachi"
+  },
+  {
+   "romaji": "Shidachi",
+   "jp": "仕太刀",
+   "de": "Ausführende Seite, beendet die Partnerform",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-shidachi"
+  },
+  {
+   "romaji": "Motodachi",
+   "jp": "元立ち",
+   "de": "Verteidigerseite (Lehrerseite) in der Übung",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-motodachi"
+  },
+  {
+   "romaji": "Suigetsu",
+   "jp": "水月",
+   "de": "Solarplexus",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-suigetsu"
+  },
+  {
+   "romaji": "Jinchū",
+   "jp": "人中",
+   "de": "Mitte der Oberlippe",
+   "kat": "Iaido: Techniken und Begriffe",
+   "quelle": "Ergänzung",
+   "id": "g-jinchu"
+  }
+ ]
+}

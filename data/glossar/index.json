@@ -1,0 +1,142 @@
+{
+ "_hinweis": "Jede Datei enthält die Begriffe einer Kategorie. Neue Kategorie: Datei anlegen und hier eintragen.",
+ "kategorien": [
+  "Teile des Schwertes",
+  "Kleidung",
+  "Rüstung (Yoroi)",
+  "Dojo und Etikette",
+  "Ränge, Titel, Anreden",
+  "Selbstverteidigung und Jiu-Jitsu",
+  "Karate (Kyokushinkai)",
+  "Grundprinzipien und Haltung",
+  "Iaido: Waffen",
+  "Iaido: Techniken und Begriffe",
+  "Kamae und Kendo",
+  "Zen und Meditation",
+  "Die sieben Tugenden des Bushidō",
+  "Zahlen",
+  "Kommandos und Trainingsablauf",
+  "Körperteile",
+  "Seitei-Iai-Kata",
+  "Karate: Tritte und Beinwaffen",
+  "Karate: Stände",
+  "Geschichte, Schulen und Personen",
+  "Schwertpflege und Montierung",
+  "Iaido: Uniform und Zubehör",
+  "Schwertarten und Maße",
+  "Iaido: Philosophie und Taktik",
+  "Samurai: Waffen (weitere)",
+  "Samurai: Rüstung und Ausrüstung (weitere)",
+  "Kleidung (weitere)"
+ ],
+ "dateien": [
+  {
+   "kategorie": "Teile des Schwertes",
+   "datei": "teile-des-schwertes.json"
+  },
+  {
+   "kategorie": "Kleidung",
+   "datei": "kleidung.json"
+  },
+  {
+   "kategorie": "Rüstung (Yoroi)",
+   "datei": "ruestung-yoroi.json"
+  },
+  {
+   "kategorie": "Dojo und Etikette",
+   "datei": "dojo-und-etikette.json"
+  },
+  {
+   "kategorie": "Ränge, Titel, Anreden",
+   "datei": "raenge-titel-anreden.json"
+  },
+  {
+   "kategorie": "Selbstverteidigung und Jiu-Jitsu",
+   "datei": "selbstverteidigung-und-jiu-jitsu.json"
+  },
+  {
+   "kategorie": "Karate (Kyokushinkai)",
+   "datei": "karate-kyokushinkai.json"
+  },
+  {
+   "kategorie": "Grundprinzipien und Haltung",
+   "datei": "grundprinzipien-und-haltung.json"
+  },
+  {
+   "kategorie": "Iaido: Waffen",
+   "datei": "iaido-waffen.json"
+  },
+  {
+   "kategorie": "Iaido: Techniken und Begriffe",
+   "datei": "iaido-techniken-und-begriffe.json"
+  },
+  {
+   "kategorie": "Kamae und Kendo",
+   "datei": "kamae-und-kendo.json"
+  },
+  {
+   "kategorie": "Zen und Meditation",
+   "datei": "zen-und-meditation.json"
+  },
+  {
+   "kategorie": "Die sieben Tugenden des Bushidō",
+   "datei": "die-sieben-tugenden-des-bushido.json"
+  },
+  {
+   "kategorie": "Zahlen",
+   "datei": "zahlen.json"
+  },
+  {
+   "kategorie": "Kommandos und Trainingsablauf",
+   "datei": "kommandos-und-trainingsablauf.json"
+  },
+  {
+   "kategorie": "Körperteile",
+   "datei": "koerperteile.json"
+  },
+  {
+   "kategorie": "Seitei-Iai-Kata",
+   "datei": "seitei-iai-kata.json"
+  },
+  {
+   "kategorie": "Karate: Tritte und Beinwaffen",
+   "datei": "karate-tritte-und-beinwaffen.json"
+  },
+  {
+   "kategorie": "Karate: Stände",
+   "datei": "karate-staende.json"
+  },
+  {
+   "kategorie": "Geschichte, Schulen und Personen",
+   "datei": "geschichte-schulen-und-personen.json"
+  },
+  {
+   "kategorie": "Schwertpflege und Montierung",
+   "datei": "schwertpflege-und-montierung.json"
+  },
+  {
+   "kategorie": "Iaido: Uniform und Zubehör",
+   "datei": "iaido-uniform-und-zubehoer.json"
+  },
+  {
+   "kategorie": "Schwertarten und Maße",
+   "datei": "schwertarten-und-masse.json"
+  },
+  {
+   "kategorie": "Iaido: Philosophie und Taktik",
+   "datei": "iaido-philosophie-und-taktik.json"
+  },
+  {
+   "kategorie": "Samurai: Waffen (weitere)",
+   "datei": "samurai-waffen-weitere.json"
+  },
+  {
+   "kategorie": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "datei": "samurai-ruestung-und-ausruestung-weitere.json"
+  },
+  {
+   "kategorie": "Kleidung (weitere)",
+   "datei": "kleidung-weitere.json"
+  }
+ ]
+}

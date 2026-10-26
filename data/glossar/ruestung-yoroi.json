@@ -1,0 +1,188 @@
+{
+ "kategorie": "Rüstung (Yoroi)",
+ "eintraege": [
+  {
+   "romaji": "Kabuto",
+   "jp": "兜",
+   "de": "Helm",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-kabuto"
+  },
+  {
+   "romaji": "Maedate",
+   "jp": "前立て",
+   "de": "Helmzier an der Front",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-maedate"
+  },
+  {
+   "romaji": "Kuwagata",
+   "jp": "鍬形",
+   "de": "Hörner-Helmzier",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-kuwagata"
+  },
+  {
+   "romaji": "Mabizashi",
+   "jp": "眉庇",
+   "de": "Helmschirm",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-mabizashi"
+  },
+  {
+   "romaji": "Fukigaeshi",
+   "jp": "吹返",
+   "de": "seitliche Helmklappen",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-fukigaeshi"
+  },
+  {
+   "romaji": "Menpō",
+   "jp": "面頬",
+   "de": "Gesichtsmaske",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-menpo"
+  },
+  {
+   "romaji": "Shikoro",
+   "jp": "錣",
+   "de": "Nackenschutz des Helms",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-shikoro"
+  },
+  {
+   "romaji": "Shinobi no O",
+   "jp": "忍びの緒",
+   "de": "Helm-Kinnband",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-shinobinoo"
+  },
+  {
+   "romaji": "Nodowa",
+   "jp": "喉輪",
+   "de": "Halsschutz",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-nodowa"
+  },
+  {
+   "romaji": "Sode",
+   "jp": "袖",
+   "de": "Schulterschutz (Rüstung)",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-sode-2"
+  },
+  {
+   "romaji": "Dō",
+   "jp": "胴",
+   "de": "Brustpanzer",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-do",
+   "alt": [
+    "auch „michi“: Weg, Pfad; Endsilbe für den geistigen Weg (Iaidō, Judō, Kendō)"
+   ]
+  },
+  {
+   "romaji": "Kote",
+   "jp": "籠手",
+   "de": "Armschutz",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-kote"
+  },
+  {
+   "romaji": "Tekkō",
+   "jp": "手甲",
+   "de": "Handrückenschutz",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-tekko"
+  },
+  {
+   "romaji": "Kusazuri",
+   "jp": "草摺",
+   "de": "Hüft- und Oberschenkelbehang",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-kusazuri"
+  },
+  {
+   "romaji": "Haidate",
+   "jp": "佩楯",
+   "de": "Oberschenkelschutz",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-haidate"
+  },
+  {
+   "romaji": "Tsuneate",
+   "jp": "脛当",
+   "de": "Schienbeinschutz",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-tsuneate"
+  },
+  {
+   "romaji": "Chikatabi",
+   "jp": "地下足袋",
+   "de": "Zehenschuh (Tabi mit Sohle)",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Lehrwerk S. 11",
+   "hinweis": "Begriff und Schrift laut Lehrwerk, deutsche Übersetzung ergänzt",
+   "id": "g-chikatabi",
+   "alt": [
+    "Jika-tabi"
+   ]
+  },
+  {
+   "romaji": "Yoroi",
+   "jp": "鎧",
+   "de": "Rüstung",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Ergänzung",
+   "id": "g-yoroi"
+  },
+  {
+   "romaji": "Tehen",
+   "jp": "天辺",
+   "de": "Scheitelöffnung des Helms",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Ergänzung",
+   "id": "g-tehen"
+  },
+  {
+   "romaji": "Mabisashi",
+   "jp": "眉庇",
+   "de": "Helmschirm (in der Grafik als „Maebashi“ beschriftet, bitte prüfen)",
+   "kat": "Rüstung (Yoroi)",
+   "quelle": "Ergänzung",
+   "id": "g-mabisashi"
+  }
+ ]
+}

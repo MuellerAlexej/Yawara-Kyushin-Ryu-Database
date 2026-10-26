@@ -1,0 +1,83 @@
+{
+ "kategorie": "Iaido: Uniform und Zubehör",
+ "eintraege": [
+  {
+   "romaji": "Embu-gi",
+   "jp": "演武着",
+   "de": "Jacke für Vorführungen",
+   "kat": "Iaido: Uniform und Zubehör",
+   "quelle": "Ergänzung",
+   "id": "g-embugi"
+  },
+  {
+   "romaji": "Montsuki",
+   "jp": "紋付",
+   "de": "Obergewand mit Familienwappen (Mon)",
+   "kat": "Iaido: Uniform und Zubehör",
+   "quelle": "Ergänzung",
+   "id": "g-montsuki",
+   "alt": [
+    "Formeller Kimono mit Familienwappen auf Brust, Rücken und Ärmeln"
+   ]
+  },
+  {
+   "romaji": "Kesa",
+   "jp": "袈裟",
+   "de": "Schärpe des Mönchsgewands, von der linken Schulter hängend",
+   "kat": "Iaido: Uniform und Zubehör",
+   "quelle": "Ergänzung",
+   "id": "g-kesa"
+  },
+  {
+   "romaji": "Zekken",
+   "jp": "ゼッケン",
+   "de": "Brustschild mit Namen und Dojo",
+   "kat": "Iaido: Uniform und Zubehör",
+   "quelle": "Ergänzung",
+   "id": "g-zekken"
+  },
+  {
+   "romaji": "Himo",
+   "jp": "紐",
+   "de": "Bänder, Schnüre (am Hakama)",
+   "kat": "Iaido: Uniform und Zubehör",
+   "quelle": "Ergänzung",
+   "id": "g-himo"
+  },
+  {
+   "romaji": "Hera",
+   "jp": "篦",
+   "de": "Steg im Rücken des Hakama",
+   "kat": "Iaido: Uniform und Zubehör",
+   "quelle": "Ergänzung",
+   "id": "g-hera"
+  },
+  {
+   "romaji": "Koshiita",
+   "jp": "腰板",
+   "de": "Rückenplatte des Hakama",
+   "kat": "Iaido: Uniform und Zubehör",
+   "quelle": "Ergänzung",
+   "id": "g-koshiita"
+  },
+  {
+   "romaji": "Matadachi",
+   "jp": "股立ち",
+   "de": "Seitenschlitz des Hakama",
+   "kat": "Iaido: Uniform und Zubehör",
+   "quelle": "Ergänzung",
+   "id": "g-matadachi"
+  },
+  {
+   "romaji": "Tamoto",
+   "jp": "袂",
+   "de": "Weite Ärmel an formellen Oberteilen",
+   "kat": "Iaido: Uniform und Zubehör",
+   "quelle": "Ergänzung",
+   "id": "g-tanomo",
+   "alt": [
+    "Schreibweise der Quelle: Tanomo"
+   ]
+  }
+ ]
+}

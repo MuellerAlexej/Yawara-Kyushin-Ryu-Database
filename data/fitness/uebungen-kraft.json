@@ -1,0 +1,3193 @@
+{
+ "art": "kraft",
+ "uebungen": [
+  {
+   "id": "f-kniebeuge",
+   "name": "Kniebeuge (Körpergewicht)",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Oberschenkel",
+    "Gesäß"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "3 x 12",
+   "cues": [
+    "Füße etwa schulterbreit, Fußspitzen leicht nach außen",
+    "Knie folgen der Richtung der Zehen",
+    "Oberkörper aufrecht, Gewicht über dem ganzen Fuß",
+    "So tief wie ohne Schmerzen und mit geradem Rücken möglich"
+   ],
+   "budo": [
+    "Stand und Beine",
+    "Hüftmobilität"
+   ],
+   "hinweis": null,
+   "suche": "Kniebeuge (Körpergewicht)",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    12,
+    12
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-ausfallschritt",
+   "name": "Ausfallschritt",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Oberschenkel",
+    "Gesäß"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "3 x 8 je Seite",
+   "cues": [
+    "Großer Schritt nach vorn, Oberkörper aufrecht",
+    "Vorderes Knie über dem Fuß, hinteres Knie sinkt Richtung Boden",
+    "Mit dem vorderen Bein kraftvoll zurückdrücken"
+   ],
+   "budo": [
+    "Stand und Beine",
+    "Gleichgewicht"
+   ],
+   "hinweis": null,
+   "suche": "Ausfallschritt",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    8,
+    8
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-wandsitz",
+   "name": "Wandsitz",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Oberschenkel"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "3 x 30-45 s",
+   "cues": [
+    "Rücken an der Wand, Knie etwa im rechten Winkel",
+    "Gewicht auf den Fersen, Atmung ruhig weiter"
+   ],
+   "budo": [
+    "Stand und Beine",
+    "Haltekraft"
+   ],
+   "hinweis": null,
+   "suche": "Wandsitz",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-hueftbruecke",
+   "name": "Hüftbrücke (Glute Bridge)",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Gesäß",
+    "hintere Oberschenkel"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 12-15",
+   "cues": [
+    "Rückenlage, Füße hüftbreit aufgestellt",
+    "Hüfte anheben, bis Schultern, Hüfte und Knie eine Linie bilden",
+    "Oben das Gesäß kurz anspannen, nicht ins Hohlkreuz fallen"
+   ],
+   "budo": [
+    "Hüftstreckung",
+    "Rumpf"
+   ],
+   "hinweis": null,
+   "suche": "Hüftbrücke (Glute Bridge)",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    12,
+    15
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-hueftbruecke-einbeinig",
+   "name": "Einbeinige Hüftbrücke",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Gesäß",
+    "hintere Oberschenkel"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 8 je Seite",
+   "cues": [
+    "Ein Bein gestreckt anheben, Becken bleibt waagerecht",
+    "Mit dem Standbein die Hüfte anheben"
+   ],
+   "budo": [
+    "Hüftstreckung",
+    "Gleichgewicht"
+   ],
+   "hinweis": null,
+   "suche": "Einbeinige Hüftbrücke",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    8,
+    8
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-wadenheben",
+   "name": "Wadenheben",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Waden"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "3 x 15",
+   "cues": [
+    "Auf die Zehenspitzen, oben kurz halten, langsam absenken",
+    "Zur Steigerung einbeinig oder auf einer Stufe"
+   ],
+   "budo": [
+    "Stand und Beine",
+    "Sprunggelenke"
+   ],
+   "hinweis": null,
+   "suche": "Wadenheben",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    15,
+    15
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-stepup",
+   "name": "Step-Up",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Oberschenkel",
+    "Gesäß"
+   ],
+   "geraet": [
+    "stuhl"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10 je Seite",
+   "cues": [
+    "Stabilen Stuhl oder eine Stufe verwenden",
+    "Ganzen Fuß aufsetzen und mit dem oberen Bein hochdrücken",
+    "Kontrolliert wieder absteigen"
+   ],
+   "budo": [
+    "Stand und Beine",
+    "Gleichgewicht"
+   ],
+   "hinweis": null,
+   "suche": "Step-Up",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    10,
+    10
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-bulgarisch",
+   "name": "Bulgarische Kniebeuge",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Oberschenkel",
+    "Gesäß"
+   ],
+   "geraet": [
+    "stuhl"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 8 je Seite",
+   "cues": [
+    "Hinterer Fuß liegt auf dem Stuhl, vorderer Fuß weit genug vorn",
+    "Oberkörper aufrecht, vorderes Knie sinkt kontrolliert",
+    "Zuerst ohne Zusatzgewicht üben"
+   ],
+   "budo": [
+    "Stand und Beine",
+    "Gleichgewicht"
+   ],
+   "hinweis": null,
+   "suche": "Bulgarische Kniebeuge",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    8,
+    8
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-sprungkniebeuge",
+   "name": "Sprungkniebeuge",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Oberschenkel",
+    "Gesäß",
+    "Waden"
+   ],
+   "geraet": [],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 8",
+   "cues": [
+    "Aus der Kniebeuge explosiv nach oben springen",
+    "Weich und leise landen, Knie bleiben stabil",
+    "Nur mit gesunden Gelenken und ausreichend Aufwärmen"
+   ],
+   "budo": [
+    "Schnellkraft"
+   ],
+   "hinweis": null,
+   "suche": "Sprungkniebeuge",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    8,
+    8
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-goblet",
+   "name": "Goblet-Kniebeuge",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Oberschenkel",
+    "Gesäß",
+    "Rumpf"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10",
+   "cues": [
+    "Hantel (oder Kettlebell) vor der Brust halten",
+    "Ellenbogen innen, Brust aufrecht",
+    "Tief absenken, Fersen bleiben am Boden"
+   ],
+   "budo": [
+    "Stand und Beine",
+    "Hüftmobilität"
+   ],
+   "hinweis": null,
+   "suche": "Goblet Squat",
+   "alternativen": [
+    [
+     "kettlebell"
+    ]
+   ],
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    10,
+    10
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-rdl",
+   "name": "Rumänisches Kreuzheben",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "hintere Oberschenkel",
+    "Gesäß",
+    "unterer Rücken"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10",
+   "cues": [
+    "Hüfte nach hinten schieben, Knie nur leicht gebeugt",
+    "Rücken bleibt neutral, Hanteln dicht am Körper",
+    "Aufrichten durch Hüftstreckung"
+   ],
+   "budo": [
+    "Hüftstreckung",
+    "Rumpf"
+   ],
+   "hinweis": "Bei Rückenbeschwerden zuerst mit leichtem Gewicht und Anleitung üben.",
+   "suche": "Romanian Deadlift Kurzhantel",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    10,
+    10
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-kreuzheben",
+   "name": "Kreuzheben",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "hintere Kette",
+    "Rücken",
+    "Griff"
+   ],
+   "geraet": [
+    "langhantel"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "4 x 5",
+   "cues": [
+    "Stange nah am Schienbein, Rücken neutral, Brust offen",
+    "Druck durch die Füße, Hüfte und Schultern steigen gemeinsam",
+    "Technik mit leichtem Gewicht einüben und ggf. vom Trainer prüfen lassen"
+   ],
+   "budo": [
+    "Hüftstreckung",
+    "Griffkraft"
+   ],
+   "hinweis": "Technikintensiv: Anleitung durch einen erfahrenen Trainer empfohlen.",
+   "suche": "Kreuzheben",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 4,
+   "wdh": [
+    5,
+    5
+   ],
+   "sek": null,
+   "pause": 90,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-kniebeuge-lh",
+   "name": "Langhantel-Kniebeuge",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Oberschenkel",
+    "Gesäß",
+    "Rumpf"
+   ],
+   "geraet": [
+    "langhantel"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "4 x 6",
+   "cues": [
+    "Stange stabil auf dem oberen Rücken, Rumpf fest",
+    "Knie folgen den Zehen, Rücken bleibt neutral",
+    "Ohne Rack nur mit Gewichten, die sich sicher ablegen lassen"
+   ],
+   "budo": [
+    "Stand und Beine"
+   ],
+   "hinweis": "Mit schweren Gewichten Ständer oder Spotter verwenden.",
+   "suche": "Langhantel-Kniebeuge",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 4,
+   "wdh": [
+    6,
+    6
+   ],
+   "sek": null,
+   "pause": 90,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-kb-swing",
+   "name": "Kettlebell-Swing",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Gesäß",
+    "hintere Kette",
+    "Rumpf"
+   ],
+   "geraet": [
+    "kettlebell"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "4 x 12",
+   "cues": [
+    "Die Bewegung kommt aus der Hüfte, nicht aus den Armen",
+    "Rücken neutral, Kettlebell schwingt bis Brusthöhe",
+    "Technik zuerst mit leichtem Gewicht lernen"
+   ],
+   "budo": [
+    "Hüftstreckung",
+    "Kondition"
+   ],
+   "hinweis": "Technikintensiv: Am Anfang Anleitung nutzen.",
+   "suche": "Kettlebell-Swing",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 4,
+   "wdh": [
+    12,
+    12
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-liegestuetz",
+   "name": "Liegestütz",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Brust",
+    "Schulter",
+    "Trizeps"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "3 x 8-15",
+   "cues": [
+    "Hände etwas breiter als schulterbreit, Körper in einer Linie",
+    "Ellenbogen etwa 45° zum Körper",
+    "Brust zum Boden, kraftvoll hochdrücken"
+   ],
+   "budo": [
+    "Oberkörperkraft",
+    "Rumpfstabilität"
+   ],
+   "hinweis": "Zu schwer? Auf den Knien oder mit den Händen auf einer Erhöhung beginnen.",
+   "suche": "Liegestütz",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    8,
+    15
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-liegestuetz-knie",
+   "name": "Liegestütz auf den Knien",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Brust",
+    "Schulter",
+    "Trizeps"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "3 x 10",
+   "cues": [
+    "Körper bildet eine Linie von Knie bis Kopf",
+    "Brust zum Boden und wieder hoch"
+   ],
+   "budo": [
+    "Oberkörperkraft"
+   ],
+   "hinweis": null,
+   "suche": "Liegestütz auf den Knien",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    10,
+    10
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-diamant",
+   "name": "Diamant-Liegestütz",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Trizeps",
+    "Brust"
+   ],
+   "geraet": [],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 8",
+   "cues": [
+    "Hände eng unter der Brust, Daumen und Zeigefinger bilden eine Raute",
+    "Ellenbogen bleiben nah am Körper"
+   ],
+   "budo": [
+    "Oberkörperkraft"
+   ],
+   "hinweis": null,
+   "suche": "Diamant-Liegestütz",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    8,
+    8
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-pike",
+   "name": "Pike Push-Up",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Schulter",
+    "Trizeps"
+   ],
+   "geraet": [],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 8",
+   "cues": [
+    "Hüfte hoch, Körper bildet ein umgedrehtes V",
+    "Kopf senkt sich zwischen die Hände"
+   ],
+   "budo": [
+    "Schulterkraft"
+   ],
+   "hinweis": null,
+   "suche": "Pike Push-Up",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    8,
+    8
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-dips-stuhl",
+   "name": "Dips am Stuhl",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Trizeps",
+    "Schulter"
+   ],
+   "geraet": [
+    "stuhl"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 8-12",
+   "cues": [
+    "Hände am Stuhlrand, Beine gebeugt oder gestreckt",
+    "Nur so tief, dass die Schultern keinen Schmerz melden",
+    "Ellenbogen zeigen nach hinten"
+   ],
+   "budo": [
+    "Oberkörperkraft"
+   ],
+   "hinweis": "Stuhl muss absolut standfest sein. Bei Schulterproblemen weglassen.",
+   "suche": "Dips am Stuhl",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    8,
+    12
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-kh-bankdruecken",
+   "name": "Kurzhantel-Bankdrücken",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Brust",
+    "Schulter",
+    "Trizeps"
+   ],
+   "geraet": [
+    "kurzhantel",
+    "bank"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10",
+   "cues": [
+    "Schulterblätter zusammen und nach unten, Füße fest am Boden",
+    "Hanteln kontrolliert zur Brust senken, Unterarme bleiben senkrecht",
+    "Gleichmäßig hochdrücken"
+   ],
+   "budo": [
+    "Oberkörperkraft"
+   ],
+   "hinweis": null,
+   "suche": "Kurzhantel-Bankdrücken",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    10,
+    10
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-lh-bankdruecken",
+   "name": "Langhantel-Bankdrücken",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Brust",
+    "Schulter",
+    "Trizeps"
+   ],
+   "geraet": [
+    "langhantel",
+    "bank"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "4 x 6",
+   "cues": [
+    "Schulterblätter fixiert, Handgelenke gerade",
+    "Stange kontrolliert zur Brust, dann gleichmäßig hoch",
+    "Mit schweren Gewichten Spotter oder Safety-Ständer verwenden"
+   ],
+   "budo": [
+    "Oberkörperkraft"
+   ],
+   "hinweis": "Nie ohne Absicherung (Spotter oder Ständer) mit Gewichten arbeiten, die du nicht sicher ablegen kannst.",
+   "suche": "Langhantel-Bankdrücken",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 4,
+   "wdh": [
+    6,
+    6
+   ],
+   "sek": null,
+   "pause": 90,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-schulterdruecken",
+   "name": "Schulterdrücken (Kurzhantel)",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Schulter",
+    "Trizeps"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10",
+   "cues": [
+    "Stehend oder sitzend, Rumpf fest, Rippen unten",
+    "Hanteln gerade über dem Kopf, kein Hohlkreuz"
+   ],
+   "budo": [
+    "Schulterkraft"
+   ],
+   "hinweis": null,
+   "suche": "Schulterdrücken (Kurzhantel)",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    10,
+    10
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-seitheben",
+   "name": "Seitheben",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "seitliche Schulter"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 12",
+   "cues": [
+    "Leichte Gewichte, Arme leicht gebeugt",
+    "Bis auf Schulterhöhe heben, ohne zu schwingen"
+   ],
+   "budo": [
+    "Schulterkraft"
+   ],
+   "hinweis": null,
+   "suche": "Seitheben",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    12,
+    12
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-trizeps-oh",
+   "name": "Trizepsstrecken über Kopf",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Trizeps"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 12",
+   "cues": [
+    "Hantel mit beiden Händen hinter dem Kopf, Ellenbogen zeigen nach oben",
+    "Nur im Ellenbogen strecken, Rumpf bleibt ruhig"
+   ],
+   "budo": [
+    "Oberkörperkraft"
+   ],
+   "hinweis": null,
+   "suche": "Trizepsstrecken über Kopf",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    12,
+    12
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-klimmzug",
+   "name": "Klimmzug",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Rücken",
+    "Bizeps",
+    "Griff"
+   ],
+   "geraet": [
+    "klimmzug"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "4 x 3-8",
+   "cues": [
+    "Schulterblätter zuerst nach unten ziehen, dann beugen",
+    "Kinn über die Stange, kontrolliert absenken",
+    "Volle Streckung unten"
+   ],
+   "budo": [
+    "Zugkraft",
+    "Griffkraft"
+   ],
+   "hinweis": null,
+   "suche": "Klimmzug",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 4,
+   "wdh": [
+    3,
+    8
+   ],
+   "sek": null,
+   "pause": 90,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-klimmzug-negativ",
+   "name": "Negative Klimmzüge",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Rücken",
+    "Bizeps",
+    "Griff"
+   ],
+   "geraet": [
+    "klimmzug",
+    "stuhl"
+   ],
+   "level": "Einsteiger",
+   "dosis": "4 x 3-5",
+   "cues": [
+    "Mit Hilfe eines Stuhls nach oben steigen",
+    "In 3-5 Sekunden langsam absenken"
+   ],
+   "budo": [
+    "Zugkraft",
+    "Griffkraft"
+   ],
+   "hinweis": null,
+   "suche": "Negative Klimmzüge",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 4,
+   "wdh": [
+    3,
+    5
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-kh-rudern",
+   "name": "Einarmiges Kurzhantelrudern",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Rücken",
+    "Bizeps"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10 je Seite",
+   "cues": [
+    "Eine Hand und ein Knie stützen sich auf einem Stuhl oder einer Bank",
+    "Ellenbogen zieht nah am Körper zur Hüfte",
+    "Rücken bleibt gerade"
+   ],
+   "budo": [
+    "Zugkraft"
+   ],
+   "hinweis": null,
+   "suche": "Einarmiges Kurzhantelrudern",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 3,
+   "wdh": [
+    10,
+    10
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-lh-rudern",
+   "name": "Vorgebeugtes Langhantelrudern",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Rücken",
+    "Bizeps"
+   ],
+   "geraet": [
+    "langhantel"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "4 x 8",
+   "cues": [
+    "Oberkörper etwa waagerecht, Rücken neutral",
+    "Stange zum Bauch ziehen, Ellenbogen nah am Körper",
+    "Mit moderatem Gewicht Technik sichern"
+   ],
+   "budo": [
+    "Zugkraft",
+    "Hüftstreckung"
+   ],
+   "hinweis": null,
+   "suche": "Vorgebeugtes Langhantelrudern",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 4,
+   "wdh": [
+    8,
+    8
+   ],
+   "sek": null,
+   "pause": 90,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-band-rudern",
+   "name": "Band-Rudern",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Rücken",
+    "Bizeps"
+   ],
+   "geraet": [
+    "band"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 12",
+   "cues": [
+    "Band stabil befestigen, Schulterblätter zusammenziehen",
+    "Ellenbogen führen die Bewegung"
+   ],
+   "budo": [
+    "Zugkraft"
+   ],
+   "hinweis": null,
+   "suche": "Band-Rudern",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 3,
+   "wdh": [
+    12,
+    12
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-face-pull",
+   "name": "Face Pull",
+   "gruppe": "Schulter und Nacken",
+   "muskeln": [
+    "hintere Schulter",
+    "oberer Rücken"
+   ],
+   "geraet": [
+    "band"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 15",
+   "cues": [
+    "Band auf Gesichtshöhe befestigt, Griffe zur Stirn ziehen",
+    "Ellenbogen hoch, Außenrotation am Ende"
+   ],
+   "budo": [
+    "Schultergesundheit",
+    "Haltung"
+   ],
+   "hinweis": null,
+   "suche": "Face Pull",
+   "art": "kraft",
+   "region": "schulter",
+   "saetze": 3,
+   "wdh": [
+    15,
+    15
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-pull-apart",
+   "name": "Band Pull-Apart",
+   "gruppe": "Schulter und Nacken",
+   "muskeln": [
+    "hintere Schulter",
+    "oberer Rücken"
+   ],
+   "geraet": [
+    "band"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 15",
+   "cues": [
+    "Band vor der Brust halten und auseinanderziehen",
+    "Schulterblätter zusammen, Rippen bleiben unten"
+   ],
+   "budo": [
+    "Schultergesundheit",
+    "Haltung"
+   ],
+   "hinweis": null,
+   "suche": "Band Pull-Apart",
+   "art": "kraft",
+   "region": "schulter",
+   "saetze": 3,
+   "wdh": [
+    15,
+    15
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-curl",
+   "name": "Bizeps-Curl",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Bizeps"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 12",
+   "cues": [
+    "Ellenbogen am Körper fixiert",
+    "Hanteln ohne Schwung anheben und kontrolliert absenken"
+   ],
+   "budo": [
+    "Armkraft"
+   ],
+   "hinweis": null,
+   "suche": "Bizeps-Curl",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 3,
+   "wdh": [
+    12,
+    12
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-dead-hang",
+   "name": "Dead Hang (Hängen)",
+   "gruppe": "Griffkraft und Unterarme",
+   "muskeln": [
+    "Griff",
+    "Schulter"
+   ],
+   "geraet": [
+    "klimmzug"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 20-40 s",
+   "cues": [
+    "Aktiv hängen: Schultern leicht nach unten",
+    "Griff fest, aber Atmung nicht anhalten"
+   ],
+   "budo": [
+    "Griffkraft",
+    "Schultergesundheit"
+   ],
+   "hinweis": null,
+   "suche": "Dead Hang (Hängen)",
+   "art": "kraft",
+   "region": "griff",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    20,
+    40
+   ],
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-farmer",
+   "name": "Farmer's Walk",
+   "gruppe": "Griffkraft und Unterarme",
+   "muskeln": [
+    "Griff",
+    "Rumpf",
+    "Trapezmuskel"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 30 m",
+   "cues": [
+    "Aufrecht gehen, Schultern nach hinten und unten",
+    "Hanteln hängen neben dem Körper, Schritte kontrolliert"
+   ],
+   "budo": [
+    "Griffkraft",
+    "Rumpfstabilität"
+   ],
+   "hinweis": null,
+   "suche": "Farmer's Walk",
+   "alternativen": [
+    [
+     "kettlebell"
+    ]
+   ],
+   "art": "kraft",
+   "region": "griff",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-handgelenk",
+   "name": "Handgelenkbeugen und -strecken",
+   "gruppe": "Griffkraft und Unterarme",
+   "muskeln": [
+    "Unterarm"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 15",
+   "cues": [
+    "Unterarm auf dem Oberschenkel auflegen",
+    "Leichtes Gewicht, volle Bewegung, langsames Tempo"
+   ],
+   "budo": [
+    "Griffkraft",
+    "Schwertführung"
+   ],
+   "hinweis": null,
+   "suche": "Handgelenkbeugen und -strecken",
+   "art": "kraft",
+   "region": "griff",
+   "saetze": 2,
+   "wdh": [
+    15,
+    15
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-boxsquat",
+   "name": "Kniebeuge zur Bank",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Beine",
+    "Gesäß"
+   ],
+   "geraet": [
+    "kurzhantel",
+    "bank"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 6-10",
+   "cues": [
+    "Bank hinter dich stellen, Hantel in Goblet-Haltung, Füße schulterbreit",
+    "Hüfte nach hinten und unten, bis du die Bank leicht berührst, der Rumpf bleibt aufrecht",
+    "Ohne Schwung aufstehen, Gewicht auf den Fersen"
+   ],
+   "budo": [
+    "Hüftmobilität"
+   ],
+   "hinweis": "Goblet-Haltung, Hüfte nach hinten bis zur Bank, ohne Schwung aufstehen.",
+   "suche": "Kniebeuge zur Bank",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    6,
+    10
+   ],
+   "sek": null,
+   "pause": 90,
+   "seite": false,
+   "fehler": [
+    "Auf die Bank plumpsen: kontrolliert absetzen",
+    "Knie fallen nach innen: Knie nach außen drücken"
+   ],
+   "start": "Die Bankhöhe bestimmt die Tiefe, gut bei steifer Hüfte.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-pausesquat",
+   "name": "Kniebeuge mit Pause",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Beine",
+    "Gesäß"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 6-10",
+   "cues": [
+    "Tief hocken wie bei der Goblet-Kniebeuge",
+    "Unten 2–3 Sekunden halten, dabei Knie nach außen drücken und die Brust hoch",
+    "Dann ruhig hochdrücken"
+   ],
+   "budo": [
+    "Hüftmobilität"
+   ],
+   "hinweis": "Wie Kniebeuge, unten 2–3 Sekunden halten.",
+   "suche": "Kniebeuge mit Pause",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    6,
+    10
+   ],
+   "sek": null,
+   "pause": 90,
+   "seite": false,
+   "fehler": [
+    "In der Pause zusammensacken: Spannung halten",
+    "Zu schweres Gewicht: Die Pause macht es schwerer, wähle leichter"
+   ],
+   "start": "Etwa 60–70 % deines Goblet-Gewichts.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-kbgoblet",
+   "name": "Kettlebell-Goblet-Kniebeuge",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Beine",
+    "Gesäß"
+   ],
+   "geraet": [
+    "kettlebell"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 6-10",
+   "cues": [
+    "Kettlebell vor der Brust halten, Ellbogen zeigen nach unten",
+    "Füße etwas breiter als schulterbreit, Bauch fest",
+    "Tief hocken, Ellbogen innen zwischen die Knie, aus den Fersen hochdrücken"
+   ],
+   "budo": [
+    "Hüftmobilität"
+   ],
+   "hinweis": "Kettlebell am Griff vor der Brust halten, tief hocken.",
+   "suche": "Kettlebell-Goblet-Kniebeuge",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    6,
+    10
+   ],
+   "sek": null,
+   "pause": 90,
+   "seite": false,
+   "fehler": [
+    "Oberkörper kippt nach vorn: Kettlebell näher an die Brust",
+    "Fersen heben ab: Gewicht auf den ganzen Fuß"
+   ],
+   "start": "Mit einer leichten Kettlebell beginnen.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-walklunge",
+   "name": "Gehende Ausfallschritte",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Beine",
+    "Gesäß"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 8-12 je Seite",
+   "cues": [
+    "Hanteln seitlich, großer Schritt nach vorn",
+    "Hinteres Knie Richtung Boden, vorderes Knie bleibt über dem Fuß",
+    "Über die vordere Ferse abdrücken und mit dem anderen Bein weitergehen"
+   ],
+   "budo": [
+    "Hüftmobilität"
+   ],
+   "hinweis": "Im Gehen abwechselnd tiefe Ausfallschritte, pro Seite zählen.",
+   "suche": "Gehende Ausfallschritte",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    8,
+    12
+   ],
+   "sek": null,
+   "pause": 75,
+   "seite": true,
+   "fehler": [
+    "Schritte zu kurz: Das vordere Knie schiebt nach vorn",
+    "Oberkörper wackelt: Bauch fest"
+   ],
+   "start": "Du brauchst 3–4 Meter Platz.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-splitsquat",
+   "name": "Split-Kniebeuge (statisch)",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Beine",
+    "Gesäß"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 8-12 je Seite",
+   "cues": [
+    "Weiter Ausfallschritt-Stand, der hintere Fuß steht auf den Zehen",
+    "Gerade nach unten, bis das hintere Knie knapp über dem Boden ist",
+    "Hochdrücken, die Füße bleiben stehen"
+   ],
+   "budo": [
+    "Hüftmobilität"
+   ],
+   "hinweis": "Im weiten Ausfallschritt-Stand auf und ab, Füße bleiben stehen.",
+   "suche": "Split-Kniebeuge (statisch)",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    8,
+    12
+   ],
+   "sek": null,
+   "pause": 75,
+   "seite": true,
+   "fehler": [
+    "Zu schmale Spur: Füße etwa hüftbreit nebeneinander setzen",
+    "Gewicht rutscht nach hinten: auf den vorderen Fuß konzentrieren"
+   ],
+   "start": "Leichte Hanteln.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-sidelunge",
+   "name": "Seitlicher Ausfallschritt",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Beine",
+    "Gesäß"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 8-12 je Seite",
+   "cues": [
+    "Weiter Stand, eine Hantel in Goblet-Haltung",
+    "Zur Seite schieben, die Hüfte nach hinten, das andere Bein bleibt gestreckt",
+    "Mit dem gebeugten Bein zurück zur Mitte drücken"
+   ],
+   "budo": [
+    "Hüftmobilität"
+   ],
+   "hinweis": "Seitlich ausfallen, Hüfte nach hinten, das andere Bein bleibt gestreckt.",
+   "suche": "Seitlicher Ausfallschritt",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    8,
+    12
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": true,
+   "fehler": [
+    "Ferse hebt ab: Gewicht auf den ganzen Fuß",
+    "Knie fällt nach innen: Knie über dem Fuß halten"
+   ],
+   "start": "Sehr gut für die Hüfte.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-slrdl",
+   "name": "Einbeiniges Rumänisches Kreuzheben",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Beine",
+    "Gesäß",
+    "Rücken"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 8-12 je Seite",
+   "cues": [
+    "Eine Hantel in einer Hand, auf dem Standbein, das Knie leicht gebeugt",
+    "Hüfte nach hinten schieben, das freie Bein geht gerade nach hinten, der Rücken bleibt waagerecht",
+    "Gesäß anspannen und zurück in den Stand"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Auf einem Bein nach vorn kippen, das freie Bein geht nach hinten.",
+   "suche": "Einbeiniges Rumänisches Kreuzheben",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    8,
+    12
+   ],
+   "sek": null,
+   "pause": 75,
+   "seite": true,
+   "fehler": [
+    "Die Hüfte dreht auf: Becken bleibt parallel zum Boden",
+    "Hantel zu weit vom Bein: nah am Körper führen"
+   ],
+   "start": "Erst ohne Gewicht üben.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-goodmorning",
+   "name": "Good Morning (Hantel vor der Brust)",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Rücken",
+    "Gesäß",
+    "Beine"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 8-12",
+   "cues": [
+    "Hantel mit beiden Händen vor die Brust, Füße hüftbreit, Knie leicht gebeugt",
+    "Hüfte nach hinten schieben, der Oberkörper kippt nach vorn, der Rücken bleibt gerade",
+    "Mit der Hüfte wieder aufrichten"
+   ],
+   "budo": [
+    "Rücken-Gesundheit"
+   ],
+   "hinweis": "Hantel vor der Brust, Hüfte nach hinten, Rücken gerade, wieder aufrichten.",
+   "suche": "Good Morning (Hantel vor der Brust)",
+   "art": "kraft",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": [
+    8,
+    12
+   ],
+   "sek": null,
+   "pause": 90,
+   "seite": false,
+   "fehler": [
+    "Rücken rundet: weniger tief gehen",
+    "Knie beugen stark mit: Die Hüfte macht die Bewegung"
+   ],
+   "start": "Leichte Hantel.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-sumodl",
+   "name": "Sumo-Kreuzheben (1 Kurzhantel)",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Beine",
+    "Gesäß",
+    "Rücken"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 6-10",
+   "cues": [
+    "Weiter Stand, Zehen nach außen, die Hantel steht senkrecht zwischen den Füßen",
+    "Hüfte nach hinten und unten, Rücken gerade, Hantel greifen",
+    "Den Boden wegdrücken, oben Hüfte strecken"
+   ],
+   "budo": [
+    "Hüftmobilität"
+   ],
+   "hinweis": "Weiter Stand, eine Hantel senkrecht zwischen den Füßen, aufrichten.",
+   "suche": "Sumo-Kreuzheben (1 Kurzhantel)",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    6,
+    10
+   ],
+   "sek": null,
+   "pause": 90,
+   "seite": false,
+   "fehler": [
+    "Rücken rundet: Brust hoch, weniger tief",
+    "Knie fallen nach innen: Knie nach außen drücken"
+   ],
+   "start": "Mit leichtem Gewicht starten.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-slbridge",
+   "name": "Einbeinige Hüftbrücke (Wiederholungen)",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Gesäß",
+    "Beine"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 8-12 je Seite",
+   "cues": [
+    "Rücken auf der Matte, ein Fuß aufgestellt, das andere Bein gestreckt",
+    "Hüfte anheben bis zur Linie Knie–Schulter",
+    "Oben das Gesäß anspannen, kontrolliert absenken"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Auf dem Rücken, ein Bein gestreckt, mit dem anderen die Hüfte anheben.",
+   "suche": "Einbeinige Hüftbrücke (Wiederholungen)",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    8,
+    12
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": true,
+   "fehler": [
+    "Becken kippt zur Seite: Hüfte waagerecht halten",
+    "Hohlkreuz oben: Rippen unten lassen"
+   ],
+   "start": "Erst Körpergewicht, später eine Hantel auf der Hüfte.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-frogpump",
+   "name": "Frog Pump",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Gesäß"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 15-20",
+   "cues": [
+    "Auf dem Rücken, Fußsohlen zusammen, die Knie fallen nach außen",
+    "Hüfte anheben, das Gesäß fest anspannen",
+    "Oben 1 Sekunde halten, absenken"
+   ],
+   "budo": [
+    "Hüftmobilität"
+   ],
+   "hinweis": "Fußsohlen zusammen, Knie nach außen, Hüfte anheben.",
+   "suche": "Frog Pump",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    15,
+    20
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [
+    "Schiebt aus dem Rücken: Rippen unten lassen",
+    "Füße zu weit vom Gesäß: Fersen nah ans Gesäß"
+   ],
+   "start": "Körpergewicht, 15–25 Wiederholungen.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-bandkick",
+   "name": "Donkey Kicks mit Band",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Gesäß"
+   ],
+   "geraet": [
+    "band",
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 15-20 je Seite",
+   "cues": [
+    "Vierfüßlerstand, das Band um die Füße oder oberhalb der Knie",
+    "Ein Bein nach hinten oben strecken, das Knie bleibt gebeugt",
+    "Oben das Gesäß anspannen, langsam zurück"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Vierfüßlerstand, Bein mit Band nach hinten oben strecken.",
+   "suche": "Donkey Kicks mit Band",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    15,
+    20
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": true,
+   "fehler": [
+    "Hohlkreuz: Rumpf stabil halten",
+    "Schwung: langsam und kontrolliert"
+   ],
+   "start": "Leichtes Band, 15–20 Wiederholungen.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-bandwalk",
+   "name": "Seitliche Schritte mit Band",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Gesäß",
+    "Beine"
+   ],
+   "geraet": [
+    "band"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10-15 je Seite",
+   "cues": [
+    "Band über den Knien oder Knöcheln, leicht in die Knie gehen",
+    "Seitlich schreiten, die Spannung im Band halten",
+    "Die Füße nicht ganz zusammenführen"
+   ],
+   "budo": [
+    "Hüftmobilität"
+   ],
+   "hinweis": "Band über den Knien, leicht in die Knie, seitlich gehen.",
+   "suche": "Seitliche Schritte mit Band",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    10,
+    15
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": true,
+   "fehler": [
+    "Knie fallen nach innen: nach außen drücken",
+    "Oberkörper schaukelt: Bauch fest"
+   ],
+   "start": "Band so wählen, dass es nach 10 Schritten brennt.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-floorpress",
+   "name": "Kurzhantel-Floor-Press",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Brust",
+    "Trizeps",
+    "Schultern"
+   ],
+   "geraet": [
+    "kurzhantel",
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 6-10",
+   "cues": [
+    "Auf dem Rücken, Knie angewinkelt, die Hanteln über der Brust",
+    "Ellbogen ca. 45° senken, bis die Oberarme den Boden berühren",
+    "Kurz ablegen, dann nach oben drücken"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Auf dem Boden liegend drücken, Oberarme stoppen am Boden.",
+   "suche": "Kurzhantel-Floor-Press",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    6,
+    10
+   ],
+   "sek": null,
+   "pause": 90,
+   "seite": false,
+   "fehler": [
+    "Ellbogen knallen auf: kontrolliert absenken",
+    "Schultern ziehen nach vorn: Schulterblätter zusammen"
+   ],
+   "start": "Schont die Schultern, weil der Weg kürzer ist.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-dbfly",
+   "name": "Kurzhantel-Fliegende flach",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Brust",
+    "Schultern"
+   ],
+   "geraet": [
+    "kurzhantel",
+    "bank"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10-15",
+   "cues": [
+    "Flach liegen, Hanteln über der Brust, die Ellbogen leicht gebeugt",
+    "Arme seitlich öffnen wie bei einer Umarmung, bis du die Dehnung spürst",
+    "Mit der Brust wieder zusammenführen"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Flach liegen, Arme mit leicht gebeugten Ellbogen öffnen und schließen.",
+   "suche": "Kurzhantel-Fliegende flach",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    10,
+    15
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [
+    "Der Ellbogenwinkel ändert sich: Er bleibt gleich",
+    "Zu schwer: Schultern geraten unter Druck"
+   ],
+   "start": "Sehr leichte Hanteln.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-bandfly",
+   "name": "Fliegende mit Band",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Brust",
+    "Schultern"
+   ],
+   "geraet": [
+    "band"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 15-20",
+   "cues": [
+    "Band hinter dem Rücken unter den Armen, die Enden greifen",
+    "Arme leicht gebeugt nach vorn zusammenführen",
+    "Langsam wieder öffnen"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Band hinter dem Rücken, Arme nach vorn zusammenführen.",
+   "suche": "Fliegende mit Band",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    15,
+    20
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": false,
+   "fehler": [
+    "Schultern ziehen nach vorn: Schulterblätter bleiben stabil",
+    "Zu viel Schwung: langsam bleiben"
+   ],
+   "start": "Ein leichtes Band, mit dem 15 saubere Wiederholungen gehen.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-arnold",
+   "name": "Arnold Press",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Schultern",
+    "Trizeps"
+   ],
+   "geraet": [
+    "kurzhantel",
+    "bank"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 8-12",
+   "cues": [
+    "Sitzend, Hanteln vor der Brust, Handflächen zeigen zu dir",
+    "Beim Drücken die Arme nach außen drehen, bis die Handflächen nach vorn zeigen",
+    "Oben strecken, in umgekehrter Drehung zurück"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Hanteln vor der Brust, beim Drücken die Handflächen nach außen drehen.",
+   "suche": "Arnold Press",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    8,
+    12
+   ],
+   "sek": null,
+   "pause": 75,
+   "seite": false,
+   "fehler": [
+    "Hohlkreuz: Rücken an die Lehne",
+    "Drehung zu schnell: langsam und kontrolliert"
+   ],
+   "start": "Leichte Hanteln.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-frontraise",
+   "name": "Frontheben (Kurzhantel)",
+   "gruppe": "Schulter und Nacken",
+   "muskeln": [
+    "Schultern"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10-15",
+   "cues": [
+    "Aufrecht stehen, eine Hantel mit beiden Händen vor den Oberschenkeln",
+    "Mit leicht gebeugten Armen bis auf Schulterhöhe heben",
+    "Langsam absenken"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Hantel mit gestreckten Armen bis auf Schulterhöhe nach vorn heben.",
+   "suche": "Frontheben (Kurzhantel)",
+   "art": "kraft",
+   "region": "schulter",
+   "saetze": 3,
+   "wdh": [
+    10,
+    15
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": false,
+   "fehler": [
+    "Schwung aus dem Rücken: Gewicht senken",
+    "Hohlkreuz: Rippen unten"
+   ],
+   "start": "Leichte Hantel.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-bandlateral",
+   "name": "Seitheben mit Band",
+   "gruppe": "Schulter und Nacken",
+   "muskeln": [
+    "Schultern"
+   ],
+   "geraet": [
+    "band"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 15-20",
+   "cues": [
+    "Auf das Band stellen, die Enden greifen, Arme seitlich",
+    "Arme seitlich bis auf Schulterhöhe heben",
+    "Langsam absenken, das Band bleibt gespannt"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Auf das Band treten und die Arme seitlich heben.",
+   "suche": "Seitheben mit Band",
+   "art": "kraft",
+   "region": "schulter",
+   "saetze": 3,
+   "wdh": [
+    15,
+    20
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": false,
+   "fehler": [
+    "Schwung aus dem Rücken: leichteres Band",
+    "Schultern zu den Ohren: Schultern unten"
+   ],
+   "start": "Band so wählen, dass 15 saubere Wiederholungen gehen.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-shrug",
+   "name": "Shrugs (Kurzhanteln)",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Schultern",
+    "Rücken"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10-15",
+   "cues": [
+    "Hanteln seitlich, aufrecht stehen",
+    "Schultern gerade nach oben ziehen, nicht kreisen",
+    "Oben kurz halten, langsam absenken"
+   ],
+   "budo": [
+    "Haltung"
+   ],
+   "hinweis": "Schultern gerade nach oben ziehen.",
+   "suche": "Shrugs (Kurzhanteln)",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 3,
+   "wdh": [
+    10,
+    15
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [
+    "Kreisen: nur gerade hoch und runter",
+    "Kopf schiebt vor: Kinn leicht zurück"
+   ],
+   "start": "Mittlere Hanteln.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-yraise",
+   "name": "Y-Raises auf der Schrägbank",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Schultern",
+    "Rücken"
+   ],
+   "geraet": [
+    "kurzhantel",
+    "bank"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 15-20",
+   "cues": [
+    "Bank auf 45°, mit der Brust auf die Lehne, die Hanteln hängen",
+    "Arme in einem Y schräg nach oben heben, die Daumen zeigen nach oben",
+    "Langsam absenken"
+   ],
+   "budo": [
+    "Haltung",
+    "Nacken und Schulter"
+   ],
+   "hinweis": "Bauch auf die Schrägbank, Arme in Y-Form heben.",
+   "suche": "Y-Raises auf der Schrägbank",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 3,
+   "wdh": [
+    15,
+    20
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": false,
+   "fehler": [
+    "Zu schwer: Der Nacken verspannt, leichter wählen",
+    "Schwung: langsam bleiben"
+   ],
+   "start": "Hier ist ganz leicht richtig.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-wallslide",
+   "name": "Wall Slides",
+   "gruppe": "Schulter und Nacken",
+   "muskeln": [
+    "Schultern"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "3 x 10-15",
+   "cues": [
+    "Rücken und Hinterkopf an die Wand, Arme in U-Form an der Wand",
+    "Arme langsam nach oben schieben, die Unterarme bleiben an der Wand",
+    "Langsam wieder absenken"
+   ],
+   "budo": [
+    "Haltung",
+    "Nacken und Schulter"
+   ],
+   "hinweis": "Rücken und Arme an der Wand nach oben und unten schieben.",
+   "suche": "Wall Slides",
+   "art": "kraft",
+   "region": "schulter",
+   "saetze": 3,
+   "wdh": [
+    10,
+    15
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": false,
+   "fehler": [
+    "Hohlkreuz: Rippen unten, Rücken an die Wand",
+    "Arme lösen sich von der Wand: Bewegungsradius kleiner"
+   ],
+   "start": "Nur Körpergewicht.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-bandextrot",
+   "name": "Außenrotation mit Band",
+   "gruppe": "Schulter und Nacken",
+   "muskeln": [
+    "Schultern"
+   ],
+   "geraet": [
+    "band"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 12-15 je Seite",
+   "cues": [
+    "Band auf Ellbogenhöhe befestigt, der Ellbogen liegt am Körper (Handtuch dazwischen)",
+    "Den Unterarm nach außen drehen, der Ellbogen bleibt am Körper",
+    "Langsam zurück"
+   ],
+   "budo": [
+    "Nacken und Schulter"
+   ],
+   "hinweis": "Ellbogen am Körper, Unterarm nach außen drehen.",
+   "suche": "Außenrotation mit Band",
+   "art": "kraft",
+   "region": "schulter",
+   "saetze": 3,
+   "wdh": [
+    12,
+    15
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": true,
+   "fehler": [
+    "Ellbogen löst sich vom Körper: Handtuch festhalten",
+    "Zu schwer: leichtes Band"
+   ],
+   "start": "Leichtes Band, 12–15 Wiederholungen.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-kbrow",
+   "name": "Einarm-Rudern (Kettlebell)",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Rücken",
+    "Bizeps"
+   ],
+   "geraet": [
+    "kettlebell"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 6-10 je Seite",
+   "cues": [
+    "Eine Hand auf Bank oder Knie, Rücken waagerecht, die Kettlebell hängt unter der Schulter",
+    "Ellbogen Richtung Hüfte ziehen, das Schulterblatt zur Wirbelsäule",
+    "Oben kurz halten, kontrolliert absenken"
+   ],
+   "budo": [
+    "Haltung"
+   ],
+   "hinweis": "Mit einer Hand abgestützt rudern, die Kettlebell zur Hüfte ziehen.",
+   "suche": "Einarm-Rudern (Kettlebell)",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 3,
+   "wdh": [
+    6,
+    10
+   ],
+   "sek": null,
+   "pause": 75,
+   "seite": true,
+   "fehler": [
+    "Oberkörper dreht auf: Schultern bleiben parallel",
+    "Der Bizeps zieht: Ellbogen zur Hüfte denken"
+   ],
+   "start": "Mittlere Kettlebell.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-curlrow",
+   "name": "Rudern im Untergriff (Curlstange)",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Rücken",
+    "Bizeps"
+   ],
+   "geraet": [
+    "curl"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 6-10",
+   "cues": [
+    "Stand hüftbreit, Oberkörper ca. 45° nach vorn, Curlstange im Untergriff",
+    "Stange zum Bauchnabel ziehen, die Ellbogen führen",
+    "Kontrolliert absenken, der Rücken bleibt stabil"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Mit der Curlstange im Untergriff zum Bauch rudern.",
+   "suche": "Rudern im Untergriff (Curlstange)",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 3,
+   "wdh": [
+    6,
+    10
+   ],
+   "sek": null,
+   "pause": 90,
+   "seite": false,
+   "fehler": [
+    "Oberkörper pendelt: Rumpf bleibt fest",
+    "Rücken rundet: Gewicht senken"
+   ],
+   "start": "Mit leichtem Gewicht beginnen.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-chestrow1",
+   "name": "Einarm-Rudern brustgestützt",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Rücken",
+    "Bizeps"
+   ],
+   "geraet": [
+    "kurzhantel",
+    "bank"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 6-10 je Seite",
+   "cues": [
+    "Bank auf 45°, mit der Brust auf die Lehne, die Hanteln hängen",
+    "Eine Hantel zur Hüfte ziehen, das Schulterblatt zur Wirbelsäule",
+    "Absenken, dann die andere Seite"
+   ],
+   "budo": [
+    "Haltung",
+    "Rücken-Gesundheit"
+   ],
+   "hinweis": "Auf der Schrägbank liegend, abwechselnd einarmig rudern.",
+   "suche": "Einarm-Rudern brustgestützt",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 3,
+   "wdh": [
+    6,
+    10
+   ],
+   "sek": null,
+   "pause": 75,
+   "seite": true,
+   "fehler": [
+    "Der Körper dreht mit: Rumpf bleibt ruhig",
+    "Kopf hebt sich: Nacken lang"
+   ],
+   "start": "Mittlere Hanteln.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-scappull",
+   "name": "Scapular Pull-ups",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Rücken",
+    "Schultern"
+   ],
+   "geraet": [
+    "klimmzug"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 6-12",
+   "cues": [
+    "Mit gestreckten Armen hängen",
+    "Nur die Schulterblätter nach unten ziehen, der Körper hebt sich ein paar Zentimeter",
+    "Langsam wieder nach oben hängen lassen"
+   ],
+   "budo": [
+    "Haltung"
+   ],
+   "hinweis": "Hängend die Schulterblätter nach unten ziehen, Arme bleiben gestreckt.",
+   "suche": "Scapular Pull-ups",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 3,
+   "wdh": [
+    6,
+    12
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [
+    "Die Arme beugen sich: Nur die Schulterblätter bewegen",
+    "Schwung: ruhig bleiben"
+   ],
+   "start": "Nur Körpergewicht.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-hammer",
+   "name": "Hammer-Curls",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Bizeps",
+    "Unterarme"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10-15",
+   "cues": [
+    "Hanteln seitlich, die Handflächen zeigen zueinander",
+    "Hanteln nach oben curlen, die Ellbogen bleiben am Körper",
+    "Oben kurz halten, langsam absenken"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Hanteln mit Daumen nach oben curlen.",
+   "suche": "Hammer-Curls",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 3,
+   "wdh": [
+    10,
+    15
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": false,
+   "fehler": [
+    "Schwung aus dem Rücken: Gewicht senken",
+    "Ellbogen wandern nach vorn: am Körper lassen"
+   ],
+   "start": "Mittlere Hanteln.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-bandcurl",
+   "name": "Curls mit Band",
+   "gruppe": "Oberkörper: Ziehen",
+   "muskeln": [
+    "Bizeps"
+   ],
+   "geraet": [
+    "band"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 15-20",
+   "cues": [
+    "Auf das Band stellen, Enden greifen, Ellbogen am Körper",
+    "Nach oben curlen, die Ellbogen bleiben fest",
+    "Langsam absenken"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Auf das Band treten und curlen.",
+   "suche": "Curls mit Band",
+   "art": "kraft",
+   "region": "zug",
+   "saetze": 3,
+   "wdh": [
+    15,
+    20
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": false,
+   "fehler": [
+    "Schwung aus dem Rücken: leichteres Band",
+    "Handgelenke knicken ab: gerade halten"
+   ],
+   "start": "Band so wählen, dass 15 saubere Wiederholungen gehen.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-kickback",
+   "name": "Trizeps-Kickbacks",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Trizeps"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10-15 je Seite",
+   "cues": [
+    "Eine Hand und das gleiche Knie auf die Bank oder vorgebeugt, der Oberarm liegt parallel zum Körper",
+    "Den Unterarm nach hinten strecken, der Oberarm bleibt fest",
+    "Langsam zurück"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Vorgebeugt den Unterarm nach hinten strecken.",
+   "suche": "Trizeps-Kickbacks",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    10,
+    15
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": true,
+   "fehler": [
+    "Der Oberarm sinkt ab: Oberarm parallel zum Körper",
+    "Schwung: langsam und kontrolliert"
+   ],
+   "start": "Leichte Hantel.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-bandpushdown",
+   "name": "Trizeps-Pushdown mit Band",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Trizeps"
+   ],
+   "geraet": [
+    "band"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 15-20",
+   "cues": [
+    "Band oben befestigen, die Ellbogen am Körper",
+    "Das Band nach unten drücken, bis die Arme gestreckt sind",
+    "Langsam zurück, die Ellbogen bleiben fest"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Band oben befestigen und nach unten drücken.",
+   "suche": "Trizeps-Pushdown mit Band",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    15,
+    20
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": false,
+   "fehler": [
+    "Ellbogen wandern nach vorn: am Körper lassen",
+    "Oberkörper lehnt mit: Rumpf bleibt aufrecht"
+   ],
+   "start": "Band so wählen, dass 15 saubere Wiederholungen gehen.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-dbskull",
+   "name": "Skullcrusher (Kurzhanteln)",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Trizeps"
+   ],
+   "geraet": [
+    "kurzhantel",
+    "bank"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10-15",
+   "cues": [
+    "Flach liegen, Hanteln mit gestreckten Armen über der Brust",
+    "Nur die Unterarme beugen, die Hanteln gehen neben den Kopf",
+    "Wieder strecken, die Ellbogen zeigen zur Decke"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Flach liegend die Hanteln neben den Kopf senken.",
+   "suche": "Skullcrusher (Kurzhanteln)",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    10,
+    15
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": false,
+   "fehler": [
+    "Ellbogen weichen nach außen: eng halten",
+    "Zu schwer: Gelenke drücken, Gewicht senken"
+   ],
+   "start": "Leichte Hanteln.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-thruster",
+   "name": "Kurzhantel-Thruster",
+   "gruppe": "Oberkörper: Drücken",
+   "muskeln": [
+    "Beine",
+    "Schultern"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 8-12",
+   "cues": [
+    "Hanteln an den Schultern, Füße schulterbreit",
+    "Tief hocken, dann explosiv hochkommen und die Hanteln dabei nach oben drücken",
+    "Hanteln zurück zu den Schultern, wieder in die Hocke"
+   ],
+   "budo": [
+    "Kondition"
+   ],
+   "hinweis": "Kniebeuge und Schulterdrücken in einer Bewegung.",
+   "suche": "Kurzhantel-Thruster",
+   "art": "kraft",
+   "region": "druck",
+   "saetze": 3,
+   "wdh": [
+    8,
+    12
+   ],
+   "sek": null,
+   "pause": 75,
+   "seite": false,
+   "fehler": [
+    "Die Bewegungen sind getrennt: fließend in einem Zug",
+    "Hohlkreuz oben: Rippen unten"
+   ],
+   "start": "Leichte Hanteln.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-dbswing",
+   "name": "Kurzhantel-Swings",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Gesäß",
+    "Rücken"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 12-20",
+   "cues": [
+    "Eine Hantel senkrecht mit beiden Händen halten, Füße schulterbreit",
+    "Hüfte nach hinten, die Hantel schwingt zwischen die Beine, dann Hüfte explosiv strecken",
+    "Die Arme führen nur, die Hantel schwingt bis zur Brusthöhe"
+   ],
+   "budo": [
+    "Kondition"
+   ],
+   "hinweis": "Eine Hantel mit der Hüfte nach oben schwingen.",
+   "suche": "Kurzhantel-Swings",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    12,
+    20
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [
+    "Hockt statt die Hüfte zu beugen: Die Hüfte macht die Arbeit",
+    "Mit den Armen hochziehen"
+   ],
+   "start": "Mittlere Hantel.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-calfraise",
+   "name": "Wadenheben stehend (Kurzhanteln)",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Waden",
+    "Beine"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 15-20",
+   "cues": [
+    "Hanteln seitlich, die Fußballen auf einer Stufe, die Fersen hängen frei",
+    "Hoch auf die Zehenspitzen, oben 1 Sekunde halten",
+    "Langsam bis zur Dehnung absenken"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Auf die Zehenspitzen heben und langsam absenken.",
+   "suche": "Wadenheben stehend (Kurzhanteln)",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": [
+    15,
+    20
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": false,
+   "fehler": [
+    "Federn: langsam und kontrolliert",
+    "Knie knicken ein: Beine bleiben gestreckt"
+   ],
+   "start": "Mittlere Hanteln.",
+   "ziele": [
+    "ganzkoerper",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-beinheben-vorn",
+   "name": "Beinheben nach vorn im Stand",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Hüftbeuger",
+    "Oberschenkelvorderseite"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 8-10 je Seite",
+   "cues": [
+    "Mit einer Hand an Stuhl oder Wand abstützen",
+    "Das gestreckte Bein nach vorn anheben, nur so hoch, wie der Oberkörper aufrecht bleibt",
+    "Langsam absenken und die Spannung halten"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": "Zu schwer: das Knie dabei leicht beugen.",
+   "suche": "Beinheben nach vorn im Stand",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": [
+    8,
+    10
+   ],
+   "sek": null,
+   "pause": 30,
+   "seite": true,
+   "fehler": [
+    "Oberkörper kippt nach hinten: Rumpf aufrecht halten",
+    "Schwung statt Muskelkraft: langsamer werden"
+   ],
+   "start": "Ohne Zusatzgewicht.",
+   "ziele": [
+    "kraft",
+    "tritte",
+    "ganzkoerper"
+   ]
+  },
+  {
+   "id": "f-beinheben-seit",
+   "name": "Beinheben seitlich im Stand",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Hüftabduktoren",
+    "Gesäß"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 8-10 je Seite",
+   "cues": [
+    "Seitlich zu Stuhl oder Wand stehen, Standbein gestreckt",
+    "Das gestreckte Bein seitlich anheben, die Zehen zeigen nach vorn",
+    "Oberkörper stabil lassen, kontrolliert absenken"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": null,
+   "suche": "Beinheben seitlich im Stand",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": [
+    8,
+    10
+   ],
+   "sek": null,
+   "pause": 30,
+   "seite": true,
+   "fehler": [
+    "Oberkörper lehnt zur Seite: Rumpf fest",
+    "Zu schnell: Kontrolle ist wichtiger als Höhe"
+   ],
+   "start": "",
+   "ziele": [
+    "kraft",
+    "tritte",
+    "ganzkoerper"
+   ]
+  },
+  {
+   "id": "f-beinheben-bogen",
+   "name": "Beinheben im Halbkreis (kontrolliert)",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Hüftbeuger",
+    "Hüftabduktoren",
+    "Oberschenkelvorderseite"
+   ],
+   "geraet": [],
+   "level": "Fortgeschritten",
+   "dosis": "2 x 6-8 je Seite",
+   "cues": [
+    "Mit einer Hand abstützen, das gestreckte Bein im langsamen Bogen von der Seite nach vorn führen",
+    "Becken und Oberkörper bleiben ruhig",
+    "Langsam in der Gegenrichtung zurückführen"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": "Das ist eine Kraftübung für Hüfte und Bein, keine Technikübung.",
+   "suche": "Beinheben im Halbkreis (kontrolliert)",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": [
+    6,
+    8
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": true,
+   "fehler": [
+    "Becken kippt mit: Rumpf fest halten",
+    "Schwung: nur so hoch, wie du Kontrolle hast"
+   ],
+   "start": "",
+   "ziele": [
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-beinheben-neigung",
+   "name": "Seitliches Beinheben mit geneigtem Oberkörper",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Hüftabduktoren",
+    "Gesäß",
+    "seitlicher Rumpf"
+   ],
+   "geraet": [],
+   "level": "Fortgeschritten",
+   "dosis": "2 x 6-8 je Seite",
+   "cues": [
+    "Mit einer Hand abstützen, den Oberkörper zur Standbeinseite neigen",
+    "Das gestreckte Bein seitlich anheben, die Hüfte hat so mehr Raum",
+    "Kontrolliert absenken"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": null,
+   "suche": "Seitliches Beinheben mit geneigtem Oberkörper",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": [
+    6,
+    8
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-beinheben-hinten",
+   "name": "Beinheben nach hinten im Stand",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Gesäß",
+    "hintere Oberschenkel"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 8-12 je Seite",
+   "cues": [
+    "Mit beiden Händen an Stuhl oder Wand abstützen",
+    "Das Bein gestreckt nach hinten anheben, ohne ins Hohlkreuz zu kippen",
+    "Oben das Gesäß anspannen, langsam zurück"
+   ],
+   "budo": [
+    "Hüftstreckung",
+    "Tritte"
+   ],
+   "hinweis": null,
+   "suche": "Beinheben nach hinten im Stand",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": [
+    8,
+    12
+   ],
+   "sek": null,
+   "pause": 30,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "kraft",
+    "tritte",
+    "ganzkoerper"
+   ]
+  },
+  {
+   "id": "f-rdl-knie",
+   "name": "Einbeinige Hüftbeuge mit Knieheben",
+   "gruppe": "Beine und Gesäß",
+   "muskeln": [
+    "Gesäß",
+    "hintere Oberschenkel",
+    "Hüftbeuger"
+   ],
+   "geraet": [],
+   "level": "Fortgeschritten",
+   "dosis": "2 x 5-8 je Seite",
+   "cues": [
+    "Auf einem Bein nach vorn kippen, der Rücken bleibt waagerecht und gerade",
+    "Aufrichten und dabei das Knie des freien Beins nach vorn zur Brust ziehen",
+    "Kurz im Gleichgewicht halten, dann zurück"
+   ],
+   "budo": [
+    "Gleichgewicht",
+    "Tritte"
+   ],
+   "hinweis": null,
+   "suche": "Einbeinige Hüftbeuge mit Knieheben",
+   "art": "kraft",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": [
+    5,
+    8
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "kraft",
+    "tritte",
+    "ganzkoerper"
+   ]
+  }
+ ]
+}

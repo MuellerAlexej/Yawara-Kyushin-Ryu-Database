@@ -1,0 +1,133 @@
+{
+ "kategorie": "Samurai: Waffen (weitere)",
+ "eintraege": [
+  {
+   "romaji": "Ōdachi / Nodachi",
+   "jp": "大太刀 / 野太刀",
+   "de": "Sehr langes Schwert, oft auf dem Rücken oder in der Hand getragen",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-odachinodachi"
+  },
+  {
+   "romaji": "Nagamaki",
+   "jp": "長巻",
+   "de": "Schwert mit sehr langem Griff, ähnlich einer Stangenwaffe",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-nagamaki"
+  },
+  {
+   "romaji": "Kaiken",
+   "jp": "懐剣",
+   "de": "Kleiner Dolch zum Selbstschutz, oft von Frauen getragen",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-kaiken"
+  },
+  {
+   "romaji": "Yumi",
+   "jp": "弓",
+   "de": "Asymmetrischer japanischer Langbogen",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-yumi"
+  },
+  {
+   "romaji": "Hankyū",
+   "jp": "半弓",
+   "de": "Kurzbogen",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-hankyu"
+  },
+  {
+   "romaji": "Ya",
+   "jp": "矢",
+   "de": "Pfeil",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-ya"
+  },
+  {
+   "romaji": "Kyūdō",
+   "jp": "弓道",
+   "de": "Der Weg des Bogens",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-kyudo"
+  },
+  {
+   "romaji": "Tanegashima",
+   "jp": "種子島",
+   "de": "Luntenschlossgewehr (nach der Insel Tanegashima benannt)",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-tanegashima"
+  },
+  {
+   "romaji": "Hinawajū",
+   "jp": "火縄銃",
+   "de": "Luntenschlossgewehr",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-hinawaju"
+  },
+  {
+   "romaji": "Jō",
+   "jp": "杖",
+   "de": "Kurzer Stab (etwa 128 cm)",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-jo"
+  },
+  {
+   "romaji": "Kanabō",
+   "jp": "金棒",
+   "de": "Eisenbeschlagene Keule",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-kanabo"
+  },
+  {
+   "romaji": "Jitte",
+   "jp": "十手",
+   "de": "Eiserner Stab mit Haken, später Waffe der Polizei in der Edo-Zeit",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-jitte"
+  },
+  {
+   "romaji": "Gunbai",
+   "jp": "軍配",
+   "de": "Kriegsfächer zum Geben von Befehlen",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-gunbai"
+  },
+  {
+   "romaji": "Masakari",
+   "jp": "鉞",
+   "de": "Axt",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-masakari"
+  },
+  {
+   "romaji": "Kusarigama",
+   "jp": "鎖鎌",
+   "de": "Sichel mit Kette",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-kusarigama"
+  },
+  {
+   "romaji": "Shuriken",
+   "jp": "手裏剣",
+   "de": "Wurfklinge",
+   "kat": "Samurai: Waffen (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-shuriken"
+  }
+ ]
+}

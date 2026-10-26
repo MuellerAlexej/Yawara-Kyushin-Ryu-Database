@@ -1,0 +1,1218 @@
+{
+ "art": "dehnung",
+ "uebungen": [
+  {
+   "id": "f-hocke",
+   "name": "Tiefe Hocke halten",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Hüfte",
+    "Sprunggelenke"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "3 x 30-60 s",
+   "cues": [
+    "Füße schulterbreit, so tief wie möglich in die Hocke",
+    "Fersen am Boden, Rücken lang; bei Bedarf an einem festen Halt festhalten",
+    "Ellenbogen drücken die Knie sanft nach außen"
+   ],
+   "budo": [
+    "Hüftmobilität",
+    "Seiza-Vorbereitung"
+   ],
+   "hinweis": null,
+   "suche": "Tiefe Hocke halten",
+   "art": "dehnung",
+   "region": "huefte",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    60
+   ],
+   "pause": 10,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-90-90",
+   "name": "90/90 Hüftrotation",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Hüfte"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 8 je Seite",
+   "cues": [
+    "Beide Knie im rechten Winkel, ein Bein vorn, eines seitlich",
+    "Oberkörper aufrecht, Knie zur anderen Seite hinüberkippen",
+    "Langsam und ohne Schmerz bewegen"
+   ],
+   "budo": [
+    "Hüftmobilität"
+   ],
+   "hinweis": null,
+   "suche": "90/90 Hüftrotation",
+   "art": "dehnung",
+   "region": "huefte",
+   "saetze": 2,
+   "wdh": [
+    8,
+    8
+   ],
+   "sek": null,
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-hueftbeuger",
+   "name": "Hüftbeuger-Dehnung (Kniender Ausfallschritt)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Hüftbeuger"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 30 s je Seite",
+   "cues": [
+    "Hinteres Knie auf der Matte, Becken leicht nach hinten kippen",
+    "Hüfte sanft nach vorn schieben, nicht ins Hohlkreuz",
+    "Oberkörper aufrecht"
+   ],
+   "budo": [
+    "Hüftmobilität",
+    "Tritte"
+   ],
+   "hinweis": null,
+   "suche": "Hüftbeuger-Dehnung (Kniender Ausfallschritt)",
+   "art": "dehnung",
+   "region": "huefte",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    30,
+    30
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-taube",
+   "name": "Taube (Pigeon Stretch)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Gesäß",
+    "äußere Hüfte"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 30-45 s je Seite",
+   "cues": [
+    "Vorderes Schienbein vor dem Körper, hinteres Bein gestreckt",
+    "Oberkörper nach vorn sinken lassen, Atmung ruhig",
+    "Knie dürfen nicht schmerzen: Bei Knieschmerz zurückgehen"
+   ],
+   "budo": [
+    "Hüftmobilität"
+   ],
+   "hinweis": null,
+   "suche": "Taube (Pigeon Stretch)",
+   "art": "dehnung",
+   "region": "huefte",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-schmetterling",
+   "name": "Schmetterling",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Adduktoren"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 30-45 s",
+   "cues": [
+    "Fußsohlen aneinander, Fersen zum Körper",
+    "Rücken lang, Knie sinken locker nach außen",
+    "Nicht mit den Händen auf die Knie drücken"
+   ],
+   "budo": [
+    "Hüftmobilität"
+   ],
+   "hinweis": null,
+   "suche": "Schmetterling",
+   "art": "dehnung",
+   "region": "huefte",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 10,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-frosch",
+   "name": "Frosch-Dehnung",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Adduktoren"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "2 x 30 s",
+   "cues": [
+    "Auf allen Vieren, Knie auseinander, Fußinnenseiten am Boden",
+    "Hüfte langsam nach hinten schieben, nur bis zu einem angenehmen Zug",
+    "Auf Knie und Rücken achten"
+   ],
+   "budo": [
+    "Hüftmobilität",
+    "Tritte"
+   ],
+   "hinweis": null,
+   "suche": "Frosch-Dehnung",
+   "art": "dehnung",
+   "region": "huefte",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    30,
+    30
+   ],
+   "pause": 10,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-seiza-prep",
+   "name": "Fersensitz vorbereiten (Sprunggelenke mobilisieren)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Sprunggelenke",
+    "Füße"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 30 s",
+   "cues": [
+    "Im Fersensitz ein Kissen unter das Gesäß legen, falls nötig",
+    "Zehen aufgestellt oder Fußrücken am Boden, langsam steigern",
+    "Bei Knieschmerz abbrechen und Sitzhöhe erhöhen"
+   ],
+   "budo": [
+    "Seiza-Vorbereitung",
+    "Hüftmobilität"
+   ],
+   "hinweis": "Sehr vorsichtig steigern, besonders bei Kniebeschwerden.",
+   "suche": "Fersensitz vorbereiten (Sprunggelenke mobilisieren)",
+   "art": "dehnung",
+   "region": "sprunggelenk",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    30,
+    30
+   ],
+   "pause": 10,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-waden-wand",
+   "name": "Wadendehnung an der Wand",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Waden"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 30 s je Seite",
+   "cues": [
+    "Hände an der Wand, hinteres Bein gestreckt, Ferse am Boden",
+    "Hüfte gerade nach vorn, nicht ins Hohlkreuz"
+   ],
+   "budo": [
+    "Stand und Beine",
+    "Sprunggelenke"
+   ],
+   "hinweis": null,
+   "suche": "Wadendehnung an der Wand",
+   "art": "dehnung",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    30,
+    30
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-hamstring-band",
+   "name": "Beinrückseite dehnen mit Band",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "hintere Oberschenkel"
+   ],
+   "geraet": [
+    "band",
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 30 s je Seite",
+   "cues": [
+    "Rückenlage, Band um die Fußsohle, Bein sanft anheben",
+    "Knie leicht gebeugt lassen, wenn es zieht",
+    "Becken bleibt am Boden"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": null,
+   "suche": "Beinrückseite dehnen mit Band",
+   "art": "dehnung",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    30,
+    30
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-brust-tuer",
+   "name": "Brustdehnung am Türrahmen",
+   "gruppe": "Schulter und Nacken",
+   "muskeln": [
+    "Brust",
+    "vordere Schulter"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 30 s",
+   "cues": [
+    "Unterarm am Türrahmen auf Schulterhöhe, Ellbogen etwa im rechten Winkel",
+    "Einen kleinen Schritt nach vorn, bis ein sanfter Zug in der Brust entsteht",
+    "Schultern bleiben unten, Rippen nicht nach vorn schieben"
+   ],
+   "budo": [
+    "Haltung",
+    "Schultern"
+   ],
+   "hinweis": null,
+   "suche": "Brustdehnung am Türrahmen",
+   "art": "dehnung",
+   "region": "schulter",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit"
+   ]
+  },
+  {
+   "id": "f-schulter-cross",
+   "name": "Schulterdehnung (Arm vor der Brust)",
+   "gruppe": "Schulter und Nacken",
+   "muskeln": [
+    "hintere Schulter"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 30 s je Seite",
+   "cues": [
+    "Arm waagerecht quer vor der Brust, mit dem anderen Arm sanft heranziehen",
+    "Schultern unten lassen, Blick geradeaus"
+   ],
+   "budo": [
+    "Schultern"
+   ],
+   "hinweis": null,
+   "suche": "Schulterdehnung (Arm vor der Brust)",
+   "art": "dehnung",
+   "region": "schulter",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit"
+   ]
+  },
+  {
+   "id": "f-trizeps-dehn",
+   "name": "Trizepsdehnung über Kopf",
+   "gruppe": "Schulter und Nacken",
+   "muskeln": [
+    "Trizeps",
+    "Latissimus"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 30 s je Seite",
+   "cues": [
+    "Ellbogen zeigt zur Decke, Hand liegt zwischen den Schulterblättern",
+    "Mit der anderen Hand den Ellbogen sanft nach hinten ziehen",
+    "Rippen unten lassen, kein Hohlkreuz"
+   ],
+   "budo": [
+    "Schultern"
+   ],
+   "hinweis": null,
+   "suche": "Trizepsdehnung über Kopf",
+   "art": "dehnung",
+   "region": "schulter",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit"
+   ]
+  },
+  {
+   "id": "f-quadri",
+   "name": "Oberschenkelvorderseite dehnen (stehend)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Oberschenkelvorderseite"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 30 s je Seite",
+   "cues": [
+    "An einer Wand abstützen, Ferse zum Gesäß ziehen",
+    "Knie bleiben nebeneinander, Becken leicht nach vorn kippen",
+    "Bei Knieschmerz weniger weit ziehen"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": null,
+   "suche": "Oberschenkelvorderseite dehnen (stehend)",
+   "art": "dehnung",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-hamstring-sitz",
+   "name": "Beinrückseite dehnen (Vorbeuge im Sitz)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "hintere Oberschenkel"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 30-45 s",
+   "cues": [
+    "Beine gestreckt vor dem Körper, Rücken lang",
+    "Aus der Hüfte nach vorn neigen, nicht den Rücken runden",
+    "Die Hände ruhen auf den Beinen, kein Wippen"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": null,
+   "suche": "Beinrückseite dehnen (Vorbeuge im Sitz)",
+   "art": "dehnung",
+   "region": "beine",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 10,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-kind",
+   "name": "Kindhaltung",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Rücken",
+    "Hüfte",
+    "Schultern"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 30-45 s",
+   "cues": [
+    "Aus dem Vierfüßlerstand das Gesäß Richtung Fersen schieben",
+    "Arme lang nach vorn, Stirn Richtung Boden",
+    "Ruhig in den Rücken atmen"
+   ],
+   "budo": [
+    "Haltung",
+    "Rücken"
+   ],
+   "hinweis": null,
+   "suche": "Kindhaltung",
+   "art": "dehnung",
+   "region": "ruecken",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 10,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit"
+   ]
+  },
+  {
+   "id": "f-graetsche",
+   "name": "Grätsche im Sitz (Adduktoren)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Adduktoren",
+    "hintere Oberschenkel"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 30 s",
+   "cues": [
+    "Beine seitlich öffnen, so weit es angenehm ist, Knie zeigen zur Decke",
+    "Mit langem Rücken aus der Hüfte nach vorn neigen",
+    "Nie ins Ziehen im Knie hineinfedern"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": "Nur bis zu einem angenehmen Zug dehnen, nicht in Schmerz hinein.",
+   "suche": "Grätsche im Sitz (Adduktoren)",
+   "art": "dehnung",
+   "region": "huefte",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 10,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-figure4",
+   "name": "Gesäßdehnung liegend (Figure 4)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Gesäß",
+    "äußere Hüfte"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 30-45 s je Seite",
+   "cues": [
+    "Rückenlage, ein Knöchel liegt auf dem gegenüberliegenden Knie",
+    "Das untere Bein zur Brust ziehen, bis ein Zug im Gesäß entsteht",
+    "Kopf und Schultern bleiben entspannt am Boden"
+   ],
+   "budo": [
+    "Hüftmobilität",
+    "Tritte"
+   ],
+   "hinweis": null,
+   "suche": "Gesäßdehnung liegend (Figure 4)",
+   "art": "dehnung",
+   "region": "huefte",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-rotation-liegend",
+   "name": "Rückenlage-Rotation (Knie zur Seite)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "unterer Rücken",
+    "Rumpf"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 30 s je Seite",
+   "cues": [
+    "Rückenlage, Knie angewinkelt, Arme seitlich ausgestreckt",
+    "Knie langsam zu einer Seite sinken lassen, Schultern bleiben am Boden",
+    "Atmen und entspannen"
+   ],
+   "budo": [
+    "Rücken",
+    "Rotation"
+   ],
+   "hinweis": null,
+   "suche": "Rückenlage-Rotation (Knie zur Seite)",
+   "art": "dehnung",
+   "region": "ruecken",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit"
+   ]
+  },
+  {
+   "id": "f-seitbeuge",
+   "name": "Seitbeuge im Stand",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "seitlicher Rumpf",
+    "Latissimus"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 30 s je Seite",
+   "cues": [
+    "Füße hüftbreit, ein Arm streckt sich über den Kopf",
+    "Zur Seite neigen, als stündest du zwischen zwei Glasscheiben",
+    "Becken bleibt mittig"
+   ],
+   "budo": [
+    "Rücken",
+    "Haltung"
+   ],
+   "hinweis": null,
+   "suche": "Seitbeuge im Stand",
+   "art": "dehnung",
+   "region": "ruecken",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit"
+   ]
+  },
+  {
+   "id": "f-nacken-seit",
+   "name": "Nackendehnung seitlich",
+   "gruppe": "Schulter und Nacken",
+   "muskeln": [
+    "Nacken"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 20-30 s je Seite",
+   "cues": [
+    "Aufrecht sitzen oder stehen, Ohr sanft zur Schulter neigen",
+    "Die gegenüberliegende Schulter bleibt unten",
+    "Nur mit dem Gewicht des Kopfes, kein Ziehen mit der Hand"
+   ],
+   "budo": [
+    "Nacken",
+    "Haltung"
+   ],
+   "hinweis": "Bei Schwindel, Taubheit oder Schmerzen sofort stoppen.",
+   "suche": "Nackendehnung seitlich",
+   "art": "dehnung",
+   "region": "nacken",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    20,
+    30
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit"
+   ]
+  },
+  {
+   "id": "f-unterarm-dehn",
+   "name": "Unterarmdehnung (Handgelenk)",
+   "gruppe": "Griffkraft und Unterarme",
+   "muskeln": [
+    "Unterarm"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 20-30 s je Seite",
+   "cues": [
+    "Arm gestreckt nach vorn, Handfläche zeigt nach oben",
+    "Mit der anderen Hand die Finger sanft nach unten ziehen",
+    "Danach mit der Handfläche nach unten wiederholen"
+   ],
+   "budo": [
+    "Griffkraft",
+    "Schwertführung"
+   ],
+   "hinweis": null,
+   "suche": "Unterarmdehnung (Handgelenk)",
+   "art": "dehnung",
+   "region": "unterarm",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    20,
+    30
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit"
+   ]
+  },
+  {
+   "id": "f-lunge-flach",
+   "name": "Ausfallschritt-Dehnung (Fuß flach)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Hüftbeuger",
+    "Leiste"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 20-30 s je Seite",
+   "cues": [
+    "Großer Schritt nach vorn, das hintere Bein bleibt möglichst gestreckt",
+    "Das vordere Knie schiebt sich über den Fuß nach vorn, der Fuß bleibt flach am Boden",
+    "Becken gerade halten, Oberkörper aufrecht"
+   ],
+   "budo": [
+    "Hüftmobilität",
+    "Tritte"
+   ],
+   "hinweis": null,
+   "suche": "Ausfallschritt-Dehnung (Fuß flach)",
+   "art": "dehnung",
+   "region": "huefte",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    20,
+    30
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-lunge-hamstring",
+   "name": "Ausfallschritt-Dehnung für die Beinrückseite",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "hintere Oberschenkel",
+    "Leiste"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 20-30 s je Seite",
+   "cues": [
+    "Vorderes Bein gestreckt, die Ferse steht am Boden, die Zehen zeigen nach oben",
+    "Hüfte nach hinten schieben, der Rücken bleibt lang",
+    "Das hintere Knie beugt sich leicht, Gewicht liegt auf dem hinteren Bein"
+   ],
+   "budo": [
+    "Hüftmobilität",
+    "Tritte"
+   ],
+   "hinweis": null,
+   "suche": "Ausfallschritt-Dehnung für die Beinrückseite",
+   "art": "dehnung",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    20,
+    30
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-quad-kniend",
+   "name": "Kniende Oberschenkeldehnung",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Oberschenkelvorderseite",
+    "Hüftbeuger"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 20-30 s je Seite",
+   "cues": [
+    "Auf einem Knie (Polster unterlegen), den Fuß des hinteren Beins zum Gesäß führen",
+    "Becken leicht aufrichten, das Knie nicht seitlich wegdrehen",
+    "Bei Knieschmerz den Fuß weniger nah heranziehen"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": null,
+   "suche": "Kniende Oberschenkeldehnung",
+   "art": "dehnung",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    20,
+    30
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-hamstring-gehen",
+   "name": "Beinrückseite im Gehen dehnen",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "hintere Oberschenkel",
+    "unterer Rücken",
+    "Waden"
+   ],
+   "geraet": [],
+   "level": "Einsteiger",
+   "dosis": "2 x 20-30 s je Seite",
+   "cues": [
+    "Schritt nach vorn, Ferse aufsetzen, Zehen zeigen nach oben",
+    "Hüfte nach hinten schieben, Rücken lang, Hände in einer Linie",
+    "Hüfte bleibt gerade, danach Seitenwechsel im Gehen"
+   ],
+   "budo": [
+    "Tritte",
+    "Aufwärmen"
+   ],
+   "hinweis": "Sanfte Dehnung, gut zum Einstieg, wenn du vorher lange gesessen hast.",
+   "suche": "Beinrückseite im Gehen dehnen",
+   "art": "dehnung",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    20,
+    30
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-graetsche-3",
+   "name": "Grätsche im Sitz in drei Richtungen",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Adduktoren",
+    "hintere Oberschenkel",
+    "Rücken"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "2 x 30-30 s",
+   "cues": [
+    "Beine seitlich öffnen, so weit es angenehm ist",
+    "Mit langem Rücken zum linken Bein, zur Mitte und zum rechten Bein neigen",
+    "In jeder Position ca. 30 Sekunden halten"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": "Eine Stütze (Kissen oder Block) unter das Gesäß macht es leichter.",
+   "suche": "Grätsche im Sitz in drei Richtungen",
+   "art": "dehnung",
+   "region": "huefte",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    30,
+    30
+   ],
+   "pause": 15,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-kobra",
+   "name": "Kobra (Rückbeuge in Bauchlage)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Bauch",
+    "Hüftbeuger",
+    "Brust"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10-20 s",
+   "cues": [
+    "Bauchlage, Hände unter den Schultern",
+    "Oberkörper sanft aufrichten, Schultern bleiben unten, die Hüfte bleibt am Boden",
+    "Nur so weit, wie es sich angenehm anfühlt"
+   ],
+   "budo": [
+    "Haltung",
+    "Rücken"
+   ],
+   "hinweis": "Bei Rückenbeschwerden nur mit ärztlichem Einverständnis.",
+   "suche": "Kobra (Rückbeuge in Bauchlage)",
+   "art": "dehnung",
+   "region": "ruecken",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    10,
+    20
+   ],
+   "pause": 10,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit"
+   ]
+  },
+  {
+   "id": "f-spagat-graetsche",
+   "name": "Grätschspagat-Annäherung (mit Stütze)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Adduktoren",
+    "hintere Oberschenkel"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 30-60 s",
+   "cues": [
+    "Weit in die Grätsche sitzen oder stehen, Hände oder Blöcke stützen den Oberkörper",
+    "Becken neutral lassen, Knie und Zehen zeigen nach oben",
+    "Langsam tiefer gehen, nie federn oder in Schmerz hinein dehnen"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": "Nur gründlich aufgewärmt und über Wochen langsam steigern. Zeit und Geduld sind wichtiger als Tiefe.",
+   "suche": "Grätschspagat-Annäherung (mit Stütze)",
+   "art": "dehnung",
+   "region": "huefte",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    60
+   ],
+   "pause": 30,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-spagat-front",
+   "name": "Frontspagat-Annäherung (mit Stütze)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "Hüftbeuger",
+    "hintere Oberschenkel"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "2 x 30-60 s je Seite",
+   "cues": [
+    "Ein Bein nach vorn, das andere nach hinten, die Hände stützen seitlich auf dem Boden oder auf Blöcken",
+    "Das vordere Bein bleibt gestreckt, das hintere Knie zeigt zum Boden oder leicht nach außen",
+    "Langsam tiefer sinken, nie federn"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": "Nur gründlich aufgewärmt. Blöcke oder Kissen unter den Händen nehmen den Druck aus der Dehnung.",
+   "suche": "Frontspagat-Annäherung (mit Stütze)",
+   "art": "dehnung",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    30,
+    60
+   ],
+   "pause": 30,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "beweglichkeit",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-pnf-hamstring",
+   "name": "Anspannen-Entspannen-Dehnung (Beinrückseite)",
+   "gruppe": "Hüfte und Mobility",
+   "muskeln": [
+    "hintere Oberschenkel"
+   ],
+   "geraet": [
+    "band",
+    "matte"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "2 x 30-45 s je Seite",
+   "cues": [
+    "Rückenlage, ein Bein mit dem Band in die Dehnung führen",
+    "5–8 Sekunden sanft gegen das Band drücken (nicht mit voller Kraft), dann entspannen",
+    "Danach etwas tiefer in die Dehnung gehen, 2–3 Durchgänge"
+   ],
+   "budo": [
+    "Tritte",
+    "Hüftmobilität"
+   ],
+   "hinweis": "Mit einem Partner oder mit einem Band. Nie mit maximaler Kraft anspannen.",
+   "suche": "Anspannen-Entspannen-Dehnung (Beinrückseite)",
+   "art": "dehnung",
+   "region": "beine",
+   "saetze": 2,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 10,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "beweglichkeit",
+    "tritte"
+   ]
+  }
+ ]
+}

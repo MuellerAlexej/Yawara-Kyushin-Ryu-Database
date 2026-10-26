@@ -1,0 +1,61 @@
+{
+ "nr": "",
+ "titel": "Vorwort",
+ "abschnitte": [
+  {
+   "id": "l-vorwort",
+   "nr": "",
+   "titel": "Vorwort",
+   "von": 0,
+   "bis": 0,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Dieses Lehrwerk dient zur Ausbildung und Fortbildung in der Budodisziplin des Yawara Kyushin Ryu (YKR). Dieses Lehrwerk ist keine Aneinanderreihung von schönen Geschichten, weisen Worten oder gar Phrasen. Es ist reale Praxis und stellt das Herzstück der Unterweisungen dar, welche von Meister zu Schüler damals wie heute weitergegeben wurden. Daher lies dieses Werk ohne trübe Brille. Lass dich von vorgefassten Meinungen nicht von dem Weg abbringen und entwickle dich in dem Maße, wie es dir für angemessen erscheint. Dieses Lehrwerk gleicht einer Schatzkarte, kannst du es lesen, so erwartet dich etwas, dass sogleich Lohn für deine Ausdauer ist und doch Ernüchterung für deinen bisherigen Geist. Vermagst du die Karte richtig zu lesen so findest du etwas, vermagst du es nicht, so bleibt das Geheimnis verborgen.",
+     "s": 0
+    },
+    {
+     "t": "p",
+     "x": "Diese Niederschrift beleuchtet sowohl technische Details, als auch philosophische Hintergründe. Dieses Lehrwerk ist eine Kurzfassung. Das Verständnis für den Weg des YKR im Budo-Sytem ist ohne praktische Anleitung durch einen Lehrmeister nicht möglich.",
+     "s": 0
+    },
+    {
+     "t": "p",
+     "x": "Es dient sowohl der Prüfungsvorbereitung, als auch dem tieferen Verständnis der Lehrmethoden und dem Verständnis der Lehrmeister des YKR für den Weg des Budo. Das YKR sieht sich nicht als \"neue Disziplin/Kampfkunst\". Das Rad wird nicht neu erfunden. Die Bewegungsschule und die unterwiesenen Techniken wurden damals in blutigen Schlachten erprobt und finden heute weiterhin Anwendung bei Polizei, Sicherheitskräften und Militärs. Große Schlachten auf Leben und Tod mit traditionellen Waffen, wie wir mit Ihnen üben, werden heute nicht mehr ausgetragen. Daher können wir die Techniken auch nicht unter realen Bedingungen anwenden- doch sie sollten einer korrekten Prüfung unterzogen werden. Diese Prüfung übernahmen die derzeitigen Lehrmeister und die Meister und deren Meister vor ihnen. Somit gilt die Sicherstellung des Wissensstandes und der praktizierten Techniken weiterhin.",
+     "s": 0
+    },
+    {
+     "t": "p",
+     "x": "Das YKR ist eine Budo-Disziplin mit traditioneller Ausrichtung, welche sich der Pflege, Aneignung und Bewahrung der japanischen Kampfkunst verschrieben hat.",
+     "s": 0
+    },
+    {
+     "t": "p",
+     "x": "Moderne Lern- und Lehrkonzepte bilden den Kern der physischen Schulung und orientieren sich am Bereich des Breiten- und Gesundheitssports. Da es in der Kampfkunst keinen anderen Gegner als den eigenen Geist gibt, ist eine Schulung und Praxis auf Leistungssportniveau nicht notwendig. Denn der Kern und die Wichtigkeit liegt im Weg, der zum Ziel führt- nicht jedoch im Tempo, wie schnell dieser Weg von dir gegangen wird.",
+     "s": 0
+    },
+    {
+     "t": "p",
+     "x": "Wenn wir zum Ziel haben, einen Berggipfel zu erklimmen, dann benötigen wir hierzu einige Faktoren.",
+     "s": 0
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Einen sicheren Schritt",
+      "Genügend Ausdauer",
+      "Einen guten Bergführer, der den Weg kennt und ihn uns zeigt",
+      "Ausreichend Freude, auch auf jedem Plateau seiner Reise innehalten zu können, um den Ausblick zu genießen"
+     ],
+     "s": 0
+    },
+    {
+     "t": "p",
+     "x": "Diese Reise können wir gemeinsam antreten und gehen gemeinsam von Freude zu Freude mit einer Reisetruppe, die individueller und doch gemeinschafts bewusster nicht sein könnte- den Budoka einer Kampfkunstschule.",
+     "s": 0
+    }
+   ],
+   "vorwort": true
+  }
+ ]
+}

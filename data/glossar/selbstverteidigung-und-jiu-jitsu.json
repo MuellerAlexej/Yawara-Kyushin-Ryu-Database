@@ -1,0 +1,279 @@
+{
+ "kategorie": "Selbstverteidigung und Jiu-Jitsu",
+ "eintraege": [
+  {
+   "romaji": "Taijutsu",
+   "jp": "体術",
+   "de": "Techniken aus dem Budo: Distanzverständnis und Anwendung von Schlag, Tritt, Wurf- und Hebelmechanismen",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 1",
+   "alt": [
+    "Körperkunst, unbewaffnete Techniken"
+   ],
+   "id": "g-taijutsu"
+  },
+  {
+   "romaji": "Yawara",
+   "jp": "柔",
+   "de": "ursprüngliche Formen des waffenlosen Kampfes und des Kampfes mit Waffen, gegründet im japanischen Jiu jitsu",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 1",
+   "alt": [
+    "Alte Bezeichnung für Jujutsu, „sanft“"
+   ],
+   "id": "g-yawara"
+  },
+  {
+   "romaji": "Randori",
+   "jp": "乱取り",
+   "de": "freundschaftliches und kontrolliertes Zweikampferlebnis ohne Wettkampfcharakter",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 2",
+   "alt": [
+    "Freies Üben"
+   ],
+   "id": "g-randori"
+  },
+  {
+   "romaji": "Shiai",
+   "jp": "試合",
+   "de": "Wettkampftraining oder Vorbereitung auf einen Wettkampf",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 2",
+   "id": "g-shiai"
+  },
+  {
+   "romaji": "Ukemi",
+   "jp": "受け身",
+   "de": "Fallschule",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 13",
+   "id": "g-ukemi"
+  },
+  {
+   "romaji": "Kaiten",
+   "jp": "回転",
+   "de": "Rollschule",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 13",
+   "alt": [
+    "Rolle, Drehung"
+   ],
+   "id": "g-kaiten"
+  },
+  {
+   "romaji": "Kitae",
+   "jp": "鍛え",
+   "de": "schmieden, trainieren, stählen (Abhärtungstraining)",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 16",
+   "id": "g-kitae"
+  },
+  {
+   "romaji": "Kote Kitae",
+   "jp": "籠手鍛え",
+   "de": "Abhärtung der Arme",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 16",
+   "id": "g-kotekitae"
+  },
+  {
+   "romaji": "Hara Kitae",
+   "jp": "腹鍛え",
+   "de": "Abhärtung des Bauches",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 16",
+   "id": "g-harakitae"
+  },
+  {
+   "romaji": "Ashi Kitae",
+   "jp": "足鍛え",
+   "de": "Abhärtung von Bein/Fuß",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 16",
+   "id": "g-ashikitae"
+  },
+  {
+   "romaji": "Dim Mak",
+   "jp": "點脈",
+   "de": "Druckpunkt-Kampfkunst auf Grundlage der TCM",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 2",
+   "hinweis": "Das im YKR genutzte Pressure Point Combat System ist eine Entwicklung des Dim Mak. Vitalpunkte können sowohl zur Heilung als auch zur Schadenswirkung beitragen (Lehrwerk Kap. 1.4).",
+   "alt": [
+    "„Punkt-Berührung“, chinesisch für Druckpunkt-Kampf"
+   ],
+   "id": "g-dimmak"
+  },
+  {
+   "romaji": "Kyūsho Jitsu",
+   "jp": "急所術",
+   "de": "Technik der Vitalpunkte, eng mit dem Karate verbunden",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 2",
+   "hinweis": "Im Gegensatz zum Dim Mak ist es nach dem Lehrwerk näher mit dem Karate verbunden.",
+   "id": "g-kyushojitsu"
+  },
+  {
+   "romaji": "Pressure Point Combat System",
+   "jp": "",
+   "de": "Entwicklung des Dim Mak (Selbstverteidigung im YKR)",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 2",
+   "id": "g-pressurepointcombatsystem"
+  },
+  {
+   "romaji": "TCM",
+   "jp": "",
+   "de": "Traditionelle Chinesische Medizin",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Lehrwerk S. 2",
+   "hinweis": "Grundlage des Dim Mak laut Lehrwerk.",
+   "id": "g-tcm"
+  },
+  {
+   "romaji": "Jūjutsu",
+   "jp": "柔術",
+   "de": "Die sanfte Kunst",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-jujutsu"
+  },
+  {
+   "romaji": "Jūdō",
+   "jp": "柔道",
+   "de": "Weg der Sanftheit",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-judo"
+  },
+  {
+   "romaji": "Goshin-jutsu",
+   "jp": "護身術",
+   "de": "Selbstschutz-Technik",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-goshinjutsu"
+  },
+  {
+   "romaji": "Atemi-waza",
+   "jp": "当身技",
+   "de": "Schlag- und Stoßtechniken",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-atemiwaza"
+  },
+  {
+   "romaji": "Nage-waza",
+   "jp": "投げ技",
+   "de": "Wurftechniken",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-nagewaza"
+  },
+  {
+   "romaji": "Katame-waza",
+   "jp": "固め技",
+   "de": "Haltetechniken",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-katamewaza"
+  },
+  {
+   "romaji": "Kansetsu-waza",
+   "jp": "関節技",
+   "de": "Hebeltechniken",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-kansetsuwaza"
+  },
+  {
+   "romaji": "Shime-waza",
+   "jp": "絞め技",
+   "de": "Würgetechniken",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-shimewaza"
+  },
+  {
+   "romaji": "Mae-ukemi",
+   "jp": "前受け身",
+   "de": "Fallen nach vorn",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-maeukemi"
+  },
+  {
+   "romaji": "Ushiro-ukemi",
+   "jp": "後ろ受け身",
+   "de": "Fallen nach hinten",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-ushiroukemi"
+  },
+  {
+   "romaji": "Yoko-ukemi",
+   "jp": "横受け身",
+   "de": "Fallen zur Seite",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-yokoukemi"
+  },
+  {
+   "romaji": "Uke",
+   "jp": "受け",
+   "de": "Der Empfangende (Angreifer, der die Technik „erhält“)",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-uke-2"
+  },
+  {
+   "romaji": "Tori",
+   "jp": "取り",
+   "de": "Der Ausführende der Technik",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-tori"
+  },
+  {
+   "romaji": "Kuzushi",
+   "jp": "崩し",
+   "de": "Gleichgewichtsbruch",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-kuzushi"
+  },
+  {
+   "romaji": "Kyūsho",
+   "jp": "急所",
+   "de": "Verwundbare, lebenswichtige Stelle",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-kyusho"
+  },
+  {
+   "romaji": "Kuatsu",
+   "jp": "活",
+   "de": "Wiederbelebungstechnik",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-kuatsu"
+  },
+  {
+   "romaji": "Wing Chun",
+   "jp": "詠春拳",
+   "de": "„Ewiger Frühling“-Faust, südchinesischer Stil",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-wingchun"
+  },
+  {
+   "romaji": "Aikijutsu",
+   "jp": "合気術",
+   "de": "Kunst der Harmonisierung der Kraft",
+   "kat": "Selbstverteidigung und Jiu-Jitsu",
+   "quelle": "Ergänzung",
+   "id": "g-aikijutsu"
+  }
+ ]
+}

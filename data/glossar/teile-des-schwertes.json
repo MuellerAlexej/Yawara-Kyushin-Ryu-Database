@@ -1,0 +1,324 @@
+{
+ "kategorie": "Teile des Schwertes",
+ "eintraege": [
+  {
+   "romaji": "Kashira oder Tsuka-Gashira",
+   "jp": "頭",
+   "de": "Griff-Endkappe",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-kashiraodertsukagashira"
+  },
+  {
+   "romaji": "Kashira-Gane",
+   "jp": "",
+   "de": "Endkappenöffnung für das Griffband",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-kashiragane"
+  },
+  {
+   "romaji": "Makidome",
+   "jp": "",
+   "de": "Abschlussknoten der Griffwicklung",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-makidome"
+  },
+  {
+   "romaji": "Same-Hada",
+   "jp": "",
+   "de": "Rochenhaut-Einlage",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-samehada"
+  },
+  {
+   "romaji": "Tsuka-Ito oder Tsukamaki",
+   "jp": "",
+   "de": "Griffband bzw. Griffwicklung",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-tsukaitoodertsukamaki"
+  },
+  {
+   "romaji": "Mekugi",
+   "jp": "目釘",
+   "de": "Stifte zur Verankerung der Nakago, der Schwertangel",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-mekugi"
+  },
+  {
+   "romaji": "Tsuka",
+   "jp": "柄",
+   "de": "Schwertgriff",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-tsuka"
+  },
+  {
+   "romaji": "Menuki",
+   "jp": "目貫",
+   "de": "Dekorelemente unter der Griffwicklung",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-menuki"
+  },
+  {
+   "romaji": "Fuchi",
+   "jp": "縁",
+   "de": "Griffzwinge",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-fuchi"
+  },
+  {
+   "romaji": "Tsuba",
+   "jp": "鍔",
+   "de": "Stichblatt",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-tsuba"
+  },
+  {
+   "romaji": "Seppa",
+   "jp": "切羽",
+   "de": "Unterlegscheiben",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-seppa"
+  },
+  {
+   "romaji": "Habaki",
+   "jp": "鎺",
+   "de": "Klingenzwinge",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-habaki"
+  },
+  {
+   "romaji": "Mune",
+   "jp": "棟",
+   "de": "Klingenrücken",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "alt": [
+    "Brust"
+   ],
+   "id": "g-mune"
+  },
+  {
+   "romaji": "Hamon",
+   "jp": "刃文",
+   "de": "Härtelinie",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-hamon"
+  },
+  {
+   "romaji": "Hi oder Bo-Hi",
+   "jp": "樋",
+   "de": "Blutrinne",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-hioderbohi",
+   "alt": [
+    "Rille in der Klinge zur Gewichtsreduzierung"
+   ]
+  },
+  {
+   "romaji": "Nagasa",
+   "jp": "長さ",
+   "de": "Klingenlänge",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-nagasa"
+  },
+  {
+   "romaji": "Sori",
+   "jp": "反",
+   "de": "Klingenkrümmung",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-sori"
+  },
+  {
+   "romaji": "Shinogi",
+   "jp": "鎬",
+   "de": "Gratlinie",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-shinogi"
+  },
+  {
+   "romaji": "Shinogi-Ji",
+   "jp": "鎬地",
+   "de": "Fläche zwischen Klingenrücken und Shinogi",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-shinogiji"
+  },
+  {
+   "romaji": "Ji oder Hiraji",
+   "jp": "地 / 平地",
+   "de": "Fläche zwischen Shinogi und Hamon",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-jioderhiraji"
+  },
+  {
+   "romaji": "Ha",
+   "jp": "刃",
+   "de": "gehärtete Fläche zwischen Hamon und Schneide",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-ha"
+  },
+  {
+   "romaji": "Yokote",
+   "jp": "横手",
+   "de": "Gratlinie an der Klingenspitze",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-yokote"
+  },
+  {
+   "romaji": "Kissaki",
+   "jp": "切先",
+   "de": "Klingenspitze",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-kissaki"
+  },
+  {
+   "romaji": "Mono-Uchi",
+   "jp": "物打ち",
+   "de": "das oberste Drittel der Klinge",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-monouchi",
+   "hinweis": "Andere Quellen nennen das vordere Viertel der Klinge, weitere nennen ebenfalls das Drittel."
+  },
+  {
+   "romaji": "Hasaki",
+   "jp": "刃先",
+   "de": "Schneide",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-hasaki"
+  },
+  {
+   "romaji": "Boshi",
+   "jp": "鋩子",
+   "de": "Härtelinie an der Klingenspitze",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-boshi"
+  },
+  {
+   "romaji": "Koiguchi",
+   "jp": "鯉口",
+   "de": "„Karpfenmaul“; Öffnung der Schwertscheide",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-koiguchi"
+  },
+  {
+   "romaji": "Kurigata",
+   "jp": "栗形",
+   "de": "Öse",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-kurigata"
+  },
+  {
+   "romaji": "Shito-Dome",
+   "jp": "鵐目",
+   "de": "Metallverzierung der Ösen-Öffnungen",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-shitodome"
+  },
+  {
+   "romaji": "Sageo",
+   "jp": "下緒",
+   "de": "Kordel oder Band",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-sageo"
+  },
+  {
+   "romaji": "Saya",
+   "jp": "鞘",
+   "de": "Schwertscheide",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-saya"
+  },
+  {
+   "romaji": "Kojiri",
+   "jp": "鐺",
+   "de": "Scheidenort; Saya-Abschluss",
+   "kat": "Teile des Schwertes",
+   "quelle": "Lehrwerk S. 9",
+   "id": "g-kojiri"
+  },
+  {
+   "romaji": "Same",
+   "jp": "鮫",
+   "de": "Rochenhaut (Griffeinlage)",
+   "kat": "Teile des Schwertes",
+   "quelle": "Ergänzung",
+   "id": "g-same"
+  },
+  {
+   "romaji": "Kaerizuno",
+   "jp": "返角",
+   "de": "Haltespange der Saya im Gürtel",
+   "kat": "Teile des Schwertes",
+   "quelle": "Ergänzung",
+   "id": "g-kaerizuno"
+  },
+  {
+   "romaji": "Kozuka",
+   "jp": "小柄",
+   "de": "Beimesser",
+   "kat": "Teile des Schwertes",
+   "quelle": "Ergänzung",
+   "id": "g-kozuka"
+  },
+  {
+   "romaji": "Kōgai",
+   "jp": "笄",
+   "de": "Schwertnadel",
+   "kat": "Teile des Schwertes",
+   "quelle": "Ergänzung",
+   "id": "g-kogai"
+  },
+  {
+   "romaji": "Tōshin",
+   "jp": "刀身",
+   "de": "Klinge ohne Montierung",
+   "kat": "Teile des Schwertes",
+   "quelle": "Ergänzung",
+   "id": "g-toshin"
+  },
+  {
+   "romaji": "Nakago",
+   "jp": "茎",
+   "de": "Klingenangel",
+   "kat": "Teile des Schwertes",
+   "quelle": "Ergänzung",
+   "id": "g-nakago"
+  },
+  {
+   "romaji": "Mei",
+   "jp": "銘",
+   "de": "Schwertsignatur",
+   "kat": "Teile des Schwertes",
+   "quelle": "Ergänzung",
+   "id": "g-mei"
+  }
+ ]
+}

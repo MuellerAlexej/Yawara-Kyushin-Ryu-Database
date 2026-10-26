@@ -1,0 +1,101 @@
+{
+ "kategorie": "Seitei-Iai-Kata",
+ "eintraege": [
+  {
+   "romaji": "Mae",
+   "jp": "前",
+   "de": "Vorn",
+   "kat": "Seitei-Iai-Kata",
+   "quelle": "Ergänzung",
+   "id": "g-mae-2"
+  },
+  {
+   "romaji": "Ushiro",
+   "jp": "後ろ",
+   "de": "Hinten",
+   "kat": "Seitei-Iai-Kata",
+   "quelle": "Ergänzung",
+   "id": "g-ushiro-2"
+  },
+  {
+   "romaji": "Ukenagashi",
+   "jp": "受け流し",
+   "de": "Den Gegner abgleiten lassen",
+   "kat": "Seitei-Iai-Kata",
+   "quelle": "Ergänzung",
+   "id": "g-ukenagashi"
+  },
+  {
+   "romaji": "Tsukaate",
+   "jp": "柄当て",
+   "de": "Stoß mit dem Griff",
+   "kat": "Seitei-Iai-Kata",
+   "quelle": "Ergänzung",
+   "id": "g-tsukaate"
+  },
+  {
+   "romaji": "Kesagiri",
+   "jp": "袈裟切り",
+   "de": "Schnitt entlang des Kesa (schräg)",
+   "kat": "Seitei-Iai-Kata",
+   "quelle": "Ergänzung",
+   "id": "g-kesagiri"
+  },
+  {
+   "romaji": "Morotezuki",
+   "jp": "諸手突き",
+   "de": "Stich mit beiden Händen",
+   "kat": "Seitei-Iai-Kata",
+   "quelle": "Ergänzung",
+   "id": "g-morotezuki"
+  },
+  {
+   "romaji": "Sanpōgiri",
+   "jp": "三方切り",
+   "de": "Drei-Richtungen-Schnitt",
+   "kat": "Seitei-Iai-Kata",
+   "quelle": "Ergänzung",
+   "id": "g-sanpogiri"
+  },
+  {
+   "romaji": "Ganmenate",
+   "jp": "顔面当て",
+   "de": "Stoß ins Gesicht",
+   "kat": "Seitei-Iai-Kata",
+   "quelle": "Ergänzung",
+   "id": "g-ganmenate"
+  },
+  {
+   "romaji": "Soetezuki",
+   "jp": "添え手突き",
+   "de": "Stich mit angelegter Hand",
+   "kat": "Seitei-Iai-Kata",
+   "quelle": "Ergänzung",
+   "id": "g-soetezuki"
+  },
+  {
+   "romaji": "Shihōgiri",
+   "jp": "四方切り",
+   "de": "Vier-Richtungen-Schnitt",
+   "kat": "Seitei-Iai-Kata",
+   "quelle": "Ergänzung",
+   "id": "g-shihogiri"
+  },
+  {
+   "romaji": "Sōgiri",
+   "jp": "総切り",
+   "de": "Alle Schnitte",
+   "kat": "Seitei-Iai-Kata",
+   "quelle": "Ergänzung",
+   "id": "g-sogiri"
+  },
+  {
+   "romaji": "Nukiuchi",
+   "jp": "抜き打ち",
+   "de": "Ziehen und Schlagen",
+   "kat": "Seitei-Iai-Kata",
+   "quelle": "Ergänzung",
+   "id": "g-nukiuchi"
+  }
+ ]
+}

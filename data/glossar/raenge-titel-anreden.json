@@ -1,0 +1,311 @@
+{
+ "kategorie": "Ränge, Titel, Anreden",
+ "eintraege": [
+  {
+   "romaji": "Shitei",
+   "jp": "師弟",
+   "de": "Lehrer/Schüler-Beziehung, besteht aus giri, nesshin und jitoku",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Lehrwerk S. 4",
+   "id": "g-shitei"
+  },
+  {
+   "romaji": "Giri",
+   "jp": "義理",
+   "de": "Versprechen des Schülers, sich beständig um die rechte Haltung zu kümmern",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Lehrwerk S. 4",
+   "id": "g-giri"
+  },
+  {
+   "romaji": "Nesshin",
+   "jp": "熱心",
+   "de": "ununterbrochenes Streben und Fleiß auf dem Weg",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Lehrwerk S. 4",
+   "id": "g-nesshin"
+  },
+  {
+   "romaji": "Jitoku",
+   "jp": "自得",
+   "de": "der Schüler gibt der Kampfkunst durch die eigene Persönlichkeit Sinn und Inhalt (erst nach dem 5. Dan bedeutsam)",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Lehrwerk S. 4",
+   "id": "g-jitoku"
+  },
+  {
+   "romaji": "Uchi deshi",
+   "jp": "内弟子",
+   "de": "„Schüler im Inneren“, persönlicher Schüler des Lehrers",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Lehrwerk S. 5",
+   "id": "g-uchideshi"
+  },
+  {
+   "romaji": "Menkyo kaiden",
+   "jp": "免許皆伝",
+   "de": "Zertifikat der Meisterschaft (Einweihung in das Geheimnis einer Lehre)",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Lehrwerk S. 5",
+   "id": "g-menkyokaiden"
+  },
+  {
+   "romaji": "Yūdansha",
+   "jp": "有段者",
+   "de": "Graduierte mit höherer Kompetenz: die Stufen der technischen Meisterschaft vom 1. bis 4. Dan",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Lehrwerk S. 25",
+   "id": "g-yudansha",
+   "hinweis": "Andere Quellen nennen alle Dan-Träger Yūdansha. Im YKR gilt die Einteilung des Lehrwerks (1. bis 4. Dan Yūdansha, 5. bis 10. Dan Kōdansha)."
+  },
+  {
+   "romaji": "Mudansha",
+   "jp": "無段者",
+   "de": "die Nicht-Graduierten (Träger eines Kyu-Grades, ohne Dan)",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Lehrwerk S. 25",
+   "id": "g-mudansha"
+  },
+  {
+   "romaji": "Kōdansha",
+   "jp": "高段者",
+   "de": "5. bis 10. Dan: Stufen der geistigen Fortschritte und der Lehrkompetenz",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Lehrwerk S. 25",
+   "id": "g-kodansha"
+  },
+  {
+   "romaji": "San",
+   "jp": "さん",
+   "de": "Herr/Frau/Schüler (Anrede unter Mitschülern)",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Lehrwerk S. 26",
+   "alt": [
+    "Höfliche Anrede-Endung (im YKR ab dem 10. Kyu)"
+   ],
+   "id": "g-san"
+  },
+  {
+   "romaji": "Ryuha",
+   "jp": "流派",
+   "de": "Schule, Stilrichtung (System der Ryuha ab dem 14. Jh.)",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Lehrwerk S. 24",
+   "alt": [
+    "Schulzweig, Schulrichtung"
+   ],
+   "id": "g-ryuha"
+  },
+  {
+   "romaji": "Sensei",
+   "jp": "先生",
+   "de": "Lehrer, wörtlich „früher Geborener“",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-sensei",
+   "alt": [
+    "wörtlich: „der vorher Gegangene“"
+   ]
+  },
+  {
+   "romaji": "Senpai",
+   "jp": "先輩",
+   "de": "Älterer Schüler",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-senpai"
+  },
+  {
+   "romaji": "Kōhai",
+   "jp": "後輩",
+   "de": "Jüngerer Schüler",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-kohai"
+  },
+  {
+   "romaji": "Shihan",
+   "jp": "師範",
+   "de": "Meister, Vorbild-Lehrer",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-shihan"
+  },
+  {
+   "romaji": "Saikō Shihan",
+   "jp": "最高師範",
+   "de": "Oberster Shihan (Titel der Schulleitung)",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-saikoshihan"
+  },
+  {
+   "romaji": "Sōke",
+   "jp": "宗家",
+   "de": "Oberhaupt einer Schule",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-soke"
+  },
+  {
+   "romaji": "Shodai Sōke",
+   "jp": "初代宗家",
+   "de": "Erster Soke, Gründer",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-shodaisoke"
+  },
+  {
+   "romaji": "Sōsai",
+   "jp": "総裁",
+   "de": "Präsident, Titel von Mas Oyama",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-sosai"
+  },
+  {
+   "romaji": "Kanchō",
+   "jp": "館長",
+   "de": "Leiter einer Organisation (Kyokushin)",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-kancho"
+  },
+  {
+   "romaji": "Dōjōchō",
+   "jp": "道場長",
+   "de": "Leiter eines Dojo",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-dojocho"
+  },
+  {
+   "romaji": "Budōka",
+   "jp": "武道家",
+   "de": "Kampfkunst-Übender",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-budoka"
+  },
+  {
+   "romaji": "Deshi",
+   "jp": "弟子",
+   "de": "Schüler, Jünger",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-deshi"
+  },
+  {
+   "romaji": "Shitei no kankei",
+   "jp": "師弟の関係",
+   "de": "Meister-Schüler-Verhältnis",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-shiteinokankei"
+  },
+  {
+   "romaji": "Mondō",
+   "jp": "問答",
+   "de": "Frage und Antwort, Lehrgespräch",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-mondo"
+  },
+  {
+   "romaji": "Dan",
+   "jp": "段",
+   "de": "Meistergrad (Schwarzgurt-Stufen)",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-dan"
+  },
+  {
+   "romaji": "Kyū",
+   "jp": "級",
+   "de": "Schülergrad",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-kyu"
+  },
+  {
+   "romaji": "Shiro-obi",
+   "jp": "白帯",
+   "de": "Weißer Gürtel",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-shiroobi"
+  },
+  {
+   "romaji": "Midori-obi",
+   "jp": "緑帯",
+   "de": "Grüner Gürtel",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-midoriobi"
+  },
+  {
+   "romaji": "Ao-obi",
+   "jp": "青帯",
+   "de": "Blauer Gürtel",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-aoobi"
+  },
+  {
+   "romaji": "Chairo-obi",
+   "jp": "茶帯",
+   "de": "Brauner Gürtel",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-chairoobi"
+  },
+  {
+   "romaji": "Kuro-obi",
+   "jp": "黒帯",
+   "de": "Schwarzer Gürtel",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-kuroobi"
+  },
+  {
+   "romaji": "Kōhaku-obi",
+   "jp": "紅白帯",
+   "de": "Rot-weißer Gürtel",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-kohakuobi"
+  },
+  {
+   "romaji": "Aka-obi",
+   "jp": "赤帯",
+   "de": "Roter Gürtel",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-akaobi"
+  },
+  {
+   "romaji": "Hanshi",
+   "jp": "範士",
+   "de": "Höchster Titel des ZNKR (8. Dan und mindestens 55 Jahre)",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-hanshi"
+  },
+  {
+   "romaji": "Renshi",
+   "jp": "錬士",
+   "de": "Titel des ZNKR zusätzlich zum Dan, berechtigt zum Beurteilen",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-renshi"
+  },
+  {
+   "romaji": "Kaichō",
+   "jp": "会長",
+   "de": "Vorsitzender einer Organisation",
+   "kat": "Ränge, Titel, Anreden",
+   "quelle": "Ergänzung",
+   "id": "g-kaicho"
+  }
+ ]
+}

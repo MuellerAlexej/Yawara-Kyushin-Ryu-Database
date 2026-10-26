@@ -1,0 +1,646 @@
+{
+ "art": "rumpf",
+ "uebungen": [
+  {
+   "id": "f-plank",
+   "name": "Unterarmstütz (Plank)",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "Rumpf",
+    "Schulter"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 30-45 s",
+   "cues": [
+    "Ellenbogen unter den Schultern, Körper bildet eine Linie",
+    "Bauch fest, Gesäß leicht angespannt, Becken nicht durchhängen lassen",
+    "Normal weiteratmen"
+   ],
+   "budo": [
+    "Rumpfstabilität"
+   ],
+   "hinweis": null,
+   "suche": "Unterarmstütz (Plank)",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    30,
+    45
+   ],
+   "pause": 30,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-seitstuetz",
+   "name": "Seitstütz",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "seitlicher Rumpf",
+    "Hüfte"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 20-30 s je Seite",
+   "cues": [
+    "Ellenbogen unter der Schulter, Hüfte anheben",
+    "Körper in einer Linie von Kopf bis Fuß"
+   ],
+   "budo": [
+    "Rumpfstabilität",
+    "Seitliche Kette"
+   ],
+   "hinweis": null,
+   "suche": "Seitstütz",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    20,
+    30
+   ],
+   "pause": 30,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-deadbug",
+   "name": "Dead Bug",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "tiefer Bauch"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 8 je Seite",
+   "cues": [
+    "Rückenlage, Arme zur Decke, Knie über der Hüfte",
+    "Gegenseitigen Arm und Bein langsam absenken",
+    "Unterer Rücken bleibt am Boden"
+   ],
+   "budo": [
+    "Rumpfstabilität"
+   ],
+   "hinweis": null,
+   "suche": "Dead Bug",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": [
+    8,
+    8
+   ],
+   "sek": null,
+   "pause": 30,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-birddog",
+   "name": "Bird Dog",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "Rücken",
+    "Gesäß",
+    "Rumpf"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 8 je Seite",
+   "cues": [
+    "Vierfüßlerstand, gegenseitigen Arm und Bein strecken",
+    "Becken bleibt ruhig, Rücken neutral",
+    "Kurz halten und zurückkehren"
+   ],
+   "budo": [
+    "Rumpfstabilität",
+    "Gleichgewicht"
+   ],
+   "hinweis": null,
+   "suche": "Bird Dog",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": [
+    8,
+    8
+   ],
+   "sek": null,
+   "pause": 30,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-hollow",
+   "name": "Hollow Hold",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "gerade Bauchmuskeln"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 20 s",
+   "cues": [
+    "Unterer Rücken am Boden, Arme und Beine knapp über dem Boden",
+    "Bei zu großer Spannung im Rücken die Beine höher halten"
+   ],
+   "budo": [
+    "Rumpfstabilität"
+   ],
+   "hinweis": null,
+   "suche": "Hollow Hold",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": null,
+   "sek": [
+    20,
+    20
+   ],
+   "pause": 30,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-beinheben",
+   "name": "Beinheben liegend",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "Bauch",
+    "Hüftbeuger"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10",
+   "cues": [
+    "Beine gestreckt anheben, unterer Rücken bleibt am Boden",
+    "Langsam absenken, ohne den Boden zu berühren"
+   ],
+   "budo": [
+    "Rumpf",
+    "Tritte"
+   ],
+   "hinweis": null,
+   "suche": "Beinheben liegend",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": [
+    10,
+    10
+   ],
+   "sek": null,
+   "pause": 30,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-russian-twist",
+   "name": "Russian Twist",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "schräge Bauchmuskeln"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10 je Seite",
+   "cues": [
+    "Oberkörper leicht zurückgelehnt, Füße am Boden oder angehoben",
+    "Drehung aus dem Rumpf, nicht nur mit den Armen"
+   ],
+   "budo": [
+    "Rotation",
+    "Rumpf"
+   ],
+   "hinweis": null,
+   "suche": "Russian Twist",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": [
+    10,
+    10
+   ],
+   "sek": null,
+   "pause": 30,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-pallof",
+   "name": "Pallof Press",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "Rumpf (Anti-Rotation)"
+   ],
+   "geraet": [
+    "band"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10 je Seite",
+   "cues": [
+    "Band seitlich befestigt, Hände vor der Brust",
+    "Arme nach vorn strecken und dem Zug gegen die Drehung standhalten",
+    "Becken und Schultern bleiben ruhig"
+   ],
+   "budo": [
+    "Rumpfstabilität",
+    "Rotation"
+   ],
+   "hinweis": null,
+   "suche": "Pallof Press",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": [
+    10,
+    10
+   ],
+   "sek": null,
+   "pause": 30,
+   "seite": true,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-superman",
+   "name": "Rückenstrecker (Superman)",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "unterer Rücken",
+    "Gesäß"
+   ],
+   "geraet": [
+    "matte"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10",
+   "cues": [
+    "Bauchlage, Arme und Beine leicht anheben",
+    "Blick zum Boden, Nacken lang",
+    "Kurz halten und kontrolliert ablegen"
+   ],
+   "budo": [
+    "Rücken",
+    "Haltung"
+   ],
+   "hinweis": null,
+   "suche": "Rückenstrecker (Superman)",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": [
+    10,
+    10
+   ],
+   "sek": null,
+   "pause": 30,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-knieheben-hang",
+   "name": "Hängendes Knieheben",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "Bauch",
+    "Hüftbeuger",
+    "Griff"
+   ],
+   "geraet": [
+    "klimmzug"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 8",
+   "cues": [
+    "An der Stange hängen, Schultern aktiv",
+    "Knie kontrolliert zur Brust, ohne zu schwingen"
+   ],
+   "budo": [
+    "Rumpf",
+    "Griffkraft"
+   ],
+   "hinweis": null,
+   "suche": "Hängendes Knieheben",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": [
+    8,
+    8
+   ],
+   "sek": null,
+   "pause": 30,
+   "seite": false,
+   "fehler": [],
+   "start": "",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-dbfront",
+   "name": "Kurzhantel-Frontkniebeuge",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "Beine",
+    "Gesäß",
+    "Core"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 6-10",
+   "cues": [
+    "Hanteln an den Schultern ablegen, Ellbogen vorn, Handflächen zeigen zueinander",
+    "Füße schulterbreit, Bauch fest, gerade nach unten hocken",
+    "Aus den Fersen hochdrücken, die Hanteln bleiben an den Schultern"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Zwei Kurzhanteln an den Schultern halten, tief hocken, Oberkörper aufrecht.",
+   "suche": "Kurzhantel-Frontkniebeuge",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": [
+    6,
+    10
+   ],
+   "sek": null,
+   "pause": 90,
+   "seite": false,
+   "fehler": [
+    "Ellbogen sinken ab: Ellbogen hoch halten",
+    "Oberkörper kippt nach vorn: Brust hoch"
+   ],
+   "start": "Mit leichten Hanteln beginnen.",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft",
+    "tritte"
+   ]
+  },
+  {
+   "id": "f-pushupfeet",
+   "name": "Liegestütze mit erhöhten Füßen",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "Brust",
+    "Schultern",
+    "Trizeps",
+    "Core"
+   ],
+   "geraet": [
+    "handles",
+    "bank"
+   ],
+   "level": "Fortgeschritten",
+   "dosis": "3 x 5-12",
+   "cues": [
+    "Füße auf die Bank, Hände unter den Schultern, Körper in einer Linie",
+    "Ellbogen ca. 45°, bis die Brust auf Griffhöhe ist",
+    "Hochdrücken, der Körper bleibt gerade"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Füße auf der Bank, Hände auf den Griffen.",
+   "suche": "Liegestütze mit erhöhten Füßen",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": [
+    5,
+    12
+   ],
+   "sek": null,
+   "pause": 60,
+   "seite": false,
+   "fehler": [
+    "Hüfte hängt durch: Bauch und Gesäß anspannen",
+    "Zu hohe Füße: Bank niedriger stellen"
+   ],
+   "start": "Zu schwer: normale Liegestütze. Etwa 2 Wiederholungen in Reserve lassen.",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-kbpress",
+   "name": "Kettlebell-Schulterdrücken",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "Schultern",
+    "Trizeps",
+    "Core"
+   ],
+   "geraet": [
+    "kettlebell"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 8-12 je Seite",
+   "cues": [
+    "Kettlebell in der Rackposition an der Schulter, der Unterarm steht senkrecht",
+    "Gesäß und Bauch fest, gerade nach oben drücken",
+    "Kontrolliert zurück zur Schulter"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Kettlebell an der Schulter, gerade nach oben drücken.",
+   "suche": "Kettlebell-Schulterdrücken",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": [
+    8,
+    12
+   ],
+   "sek": null,
+   "pause": 75,
+   "seite": true,
+   "fehler": [
+    "Hohlkreuz: Rippen unten, Gesäß anspannen",
+    "Handgelenk knickt ab: Handgelenk bleibt gerade"
+   ],
+   "start": "Leichte Kettlebell.",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-oneohp",
+   "name": "Einarm-Schulterdrücken stehend",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "Schultern",
+    "Core"
+   ],
+   "geraet": [
+    "kurzhantel"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 8-12 je Seite",
+   "cues": [
+    "Eine Hantel auf Schulterhöhe, der andere Arm locker",
+    "Bauch und Gesäß fest, nicht zur Seite lehnen",
+    "Gerade nach oben drücken, kontrolliert zurück"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Eine Hantel gerade nach oben drücken, Rumpf bleibt gerade.",
+   "suche": "Einarm-Schulterdrücken stehend",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": [
+    8,
+    12
+   ],
+   "sek": null,
+   "pause": 75,
+   "seite": true,
+   "fehler": [
+    "Seitneigung: Rumpf bleibt gerade",
+    "Hohlkreuz: Rippen unten"
+   ],
+   "start": "Leichte Hantel.",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft"
+   ]
+  },
+  {
+   "id": "f-declinecrunch",
+   "name": "Crunches auf der Schrägbank",
+   "gruppe": "Rumpf",
+   "muskeln": [
+    "Core"
+   ],
+   "geraet": [
+    "bank"
+   ],
+   "level": "Einsteiger",
+   "dosis": "3 x 10-15",
+   "cues": [
+    "Auf die Negativbank legen, Füße fixieren, Hände an die Schläfen",
+    "Den Oberkörper aufrollen, bis die Schulterblätter abheben",
+    "Langsam absenken"
+   ],
+   "budo": [
+    "Kraft"
+   ],
+   "hinweis": "Auf der Negativbank den Oberkörper aufrollen.",
+   "suche": "Crunches auf der Schrägbank",
+   "art": "rumpf",
+   "region": "rumpf",
+   "saetze": 3,
+   "wdh": [
+    10,
+    15
+   ],
+   "sek": null,
+   "pause": 45,
+   "seite": false,
+   "fehler": [
+    "Am Nacken ziehen: Hände nur leicht an den Kopf",
+    "Zu viel Schwung: langsam aufrollen"
+   ],
+   "start": "Nur Körpergewicht.",
+   "ziele": [
+    "ganzkoerper",
+    "rumpf",
+    "kraft"
+   ]
+  }
+ ]
+}

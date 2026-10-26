@@ -1,0 +1,228 @@
+{
+ "kategorie": "Grundprinzipien und Haltung",
+ "eintraege": [
+  {
+   "romaji": "Kihon",
+   "jp": "基本",
+   "de": "Grundschule: Grundstellungen und Basistechniken",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Lehrwerk S. 13",
+   "alt": [
+    "Grundschule, Grundtechniken"
+   ],
+   "id": "g-kihon"
+  },
+  {
+   "romaji": "Zanshin",
+   "jp": "残心",
+   "de": "Zustand der Wachheit und Achtsamkeit",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Lehrwerk S. 2",
+   "id": "g-zanshin",
+   "alt": [
+    "nachwirkende Aufmerksamkeit"
+   ]
+  },
+  {
+   "romaji": "Bu",
+   "jp": "武",
+   "de": "Krieger (Bushidō)",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Lehrwerk S. 19",
+   "id": "g-bu"
+  },
+  {
+   "romaji": "Shi",
+   "jp": "士",
+   "de": "Schwert (Bushidō, so im Lehrwerk)",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Lehrwerk S. 19",
+   "id": "g-shi"
+  },
+  {
+   "romaji": "Dō",
+   "jp": "道",
+   "de": "Weg",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Lehrwerk S. 19",
+   "id": "g-do-2",
+   "alt": [
+    "auch „michi“: Weg, Pfad; Endsilbe für den geistigen Weg (Iaidō, Judō, Kendō)"
+   ]
+  },
+  {
+   "romaji": "Bushidō",
+   "jp": "武士道",
+   "de": "Weg des Schwertkriegers",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Lehrwerk S. 19",
+   "hinweis": "Bu = Krieger, Shi = Schwert, Dō = Weg (Lehrwerk Kap. 4.1)",
+   "alt": [
+    "Weg des Kriegers",
+    "Werte- und Moralkodex der japanischen Kriegerkaste",
+    "Weg des Kriegers (Ethik der Samurai)"
+   ],
+   "id": "g-bushido"
+  },
+  {
+   "romaji": "Kamae",
+   "jp": "構え",
+   "de": "Kampfhaltung, Grundstellung",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-kamae"
+  },
+  {
+   "romaji": "Dachi",
+   "jp": "立ち",
+   "de": "Stand",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-dachi"
+  },
+  {
+   "romaji": "Shizentai",
+   "jp": "自然体",
+   "de": "Natürlicher Stand",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-shizentai"
+  },
+  {
+   "romaji": "Hanmi",
+   "jp": "半身",
+   "de": "Halbe Körperstellung (seitlich)",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-hanmi"
+  },
+  {
+   "romaji": "Ma-ai",
+   "jp": "間合い",
+   "de": "Kampfdistanz, Abstand",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-maai"
+  },
+  {
+   "romaji": "Metsuke",
+   "jp": "目付",
+   "de": "Blickführung",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-metsuke"
+  },
+  {
+   "romaji": "Kime",
+   "jp": "決め",
+   "de": "Fokus, Kraftbündelung im Moment des Treffers",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-kime"
+  },
+  {
+   "romaji": "Kiai",
+   "jp": "気合",
+   "de": "Kampfschrei, gebündelte Energie",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-kiai"
+  },
+  {
+   "romaji": "Ki",
+   "jp": "気",
+   "de": "Energie, Lebenskraft",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-ki"
+  },
+  {
+   "romaji": "Kokyū",
+   "jp": "呼吸",
+   "de": "Atmung",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-kokyu"
+  },
+  {
+   "romaji": "Ibuki",
+   "jp": "息吹",
+   "de": "Kräftige Atemtechnik",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-ibuki"
+  },
+  {
+   "romaji": "Tanden",
+   "jp": "丹田",
+   "de": "Energiezentrum unterhalb des Nabels",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-tanden"
+  },
+  {
+   "romaji": "Mushin",
+   "jp": "無心",
+   "de": "„Nicht-Geist“, freier Geist ohne Anhaftung",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-mushin"
+  },
+  {
+   "romaji": "Shoshin",
+   "jp": "初心",
+   "de": "Anfängergeist",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-shoshin"
+  },
+  {
+   "romaji": "Fudōshin",
+   "jp": "不動心",
+   "de": "Unbewegter Geist",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-fudoshin"
+  },
+  {
+   "romaji": "Waza",
+   "jp": "技",
+   "de": "Technik",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-waza"
+  },
+  {
+   "romaji": "Kata",
+   "jp": "形 / 型",
+   "de": "Form, festgelegter Bewegungsablauf",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-kata-2"
+  },
+  {
+   "romaji": "Kumite",
+   "jp": "組手",
+   "de": "Partnerübung, Sparring",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-kumite"
+  },
+  {
+   "romaji": "Tai-sabaki",
+   "jp": "体捌き",
+   "de": "Körperbewegung, Ausweichen",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-taisabaki"
+  },
+  {
+   "romaji": "Ashi-sabaki",
+   "jp": "足捌き",
+   "de": "Fußarbeit",
+   "kat": "Grundprinzipien und Haltung",
+   "quelle": "Ergänzung",
+   "id": "g-ashisabaki"
+  }
+ ]
+}

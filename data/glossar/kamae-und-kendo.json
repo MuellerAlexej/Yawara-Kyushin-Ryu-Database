@@ -1,0 +1,164 @@
+{
+ "kategorie": "Kamae und Kendo",
+ "eintraege": [
+  {
+   "romaji": "Chudan no Kamae",
+   "jp": "中段の構え",
+   "de": "Kamae in Halshöhe (Kendo)",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+   "alt": [
+    "Mittlere Haltung",
+    "Mittelhaltung, Schwert zur Mitte gerichtet (auch Seigan no kamae)"
+   ],
+   "id": "g-chudannokamae"
+  },
+  {
+   "romaji": "Jodan no Kamae",
+   "jp": "上段の構え",
+   "de": "Kamae über Kopf (Kendo)",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+   "alt": [
+    "Obere Haltung",
+    "Haltung mit dem Schwert über dem Kopf"
+   ],
+   "id": "g-jodannokamae"
+  },
+  {
+   "romaji": "Hasso no Kamae",
+   "jp": "八相の構え",
+   "de": "Kamae-Form der Abbildung (Kendo)",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+   "alt": [
+    "Achtfache Haltung (Schwert seitlich am Kopf)",
+    "Schwert seitlich, Tsuba etwa auf Höhe von Kinn oder Wange (je nach Schule)"
+   ],
+   "id": "g-hassonokamae"
+  },
+  {
+   "romaji": "Gedan no Kamae",
+   "jp": "下段の構え",
+   "de": "Kamae in Hüfthöhe und darunter (Kendo)",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+   "alt": [
+    "Untere Haltung",
+    "Schwertspitze zeigt tief zwischen Knie und Knöchel des Gegners"
+   ],
+   "id": "g-gedannokamae"
+  },
+  {
+   "romaji": "Waki Gamae",
+   "jp": "",
+   "de": "Kamae seitlich am Körper (Kendo)",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+   "id": "g-wakigamae",
+   "alt": [
+    "Schwert nach unten und hinten gerichtet, verbirgt auch die Schwertlänge"
+   ]
+  },
+  {
+   "romaji": "Migi",
+   "jp": "右",
+   "de": "rechts",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "id": "g-migi"
+  },
+  {
+   "romaji": "Hidari",
+   "jp": "左",
+   "de": "links",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "id": "g-hidari"
+  },
+  {
+   "romaji": "Morote",
+   "jp": "",
+   "de": "beidhändig",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "id": "g-morote"
+  },
+  {
+   "romaji": "Jodan (Kamae)",
+   "jp": "",
+   "de": "über Kopf",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "id": "g-jodankamae"
+  },
+  {
+   "romaji": "Chudan (Kamae)",
+   "jp": "",
+   "de": "Halshöhe",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "id": "g-chudankamae"
+  },
+  {
+   "romaji": "Gedan (Kamae)",
+   "jp": "",
+   "de": "Hüfthöhe und darunter",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "id": "g-gedankamae"
+  },
+  {
+   "romaji": "Waki",
+   "jp": "",
+   "de": "seitlich am Körper",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "id": "g-waki"
+  },
+  {
+   "romaji": "Men",
+   "jp": "",
+   "de": "Kopf-Trefferstelle (Kendo)",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+   "id": "g-men"
+  },
+  {
+   "romaji": "Tsuki",
+   "jp": "突き",
+   "de": "Kehl-Trefferstelle (Kendo)",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+   "alt": [
+    "Stoß, Fauststoß"
+   ],
+   "id": "g-tsuki"
+  },
+  {
+   "romaji": "Kote (Kendo)",
+   "jp": "",
+   "de": "Handgelenk-Trefferstelle (Kendo)",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+   "id": "g-kotekendo"
+  },
+  {
+   "romaji": "Dō (Kendo)",
+   "jp": "",
+   "de": "Rumpf-Trefferstelle (Kendo)",
+   "kat": "Kamae und Kendo",
+   "quelle": "Lehrwerk S. 14",
+   "hinweis": "Begriff laut Abbildung im Lehrwerk, Übersetzung ergänzt",
+   "id": "g-dokendo"
+  }
+ ]
+}

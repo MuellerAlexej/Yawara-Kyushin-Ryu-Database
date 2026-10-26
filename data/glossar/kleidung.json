@@ -1,0 +1,166 @@
+{
+ "kategorie": "Kleidung",
+ "eintraege": [
+  {
+   "romaji": "Uwa-gi",
+   "jp": "上着",
+   "de": "Jacke (Oberteil), „Chaqueta“",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-uwagi"
+  },
+  {
+   "romaji": "Eel",
+   "jp": "",
+   "de": "Revers, „Solapa“ (so im Original beschriftet)",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-eel"
+  },
+  {
+   "romaji": "Sode",
+   "jp": "袖",
+   "de": "Ärmel, „Manga“",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-sode"
+  },
+  {
+   "romaji": "Sodeguchi",
+   "jp": "袖口",
+   "de": "Ärmelöffnung, „Orificio de Manga“",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-sodeguchi"
+  },
+  {
+   "romaji": "Zubon",
+   "jp": "",
+   "de": "Hose, „Pantalón“",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-zubon"
+  },
+  {
+   "romaji": "Shita",
+   "jp": "",
+   "de": "unterer Teil der Jacke",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-shita"
+  },
+  {
+   "romaji": "Gi",
+   "jp": "",
+   "de": "Oberteil (Uwagi/Gi)",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-gi"
+  },
+  {
+   "romaji": "Hadagi",
+   "jp": "肌着",
+   "de": "Untergi",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-hadagi"
+  },
+  {
+   "romaji": "Haori",
+   "jp": "羽織",
+   "de": "Federgewebe-Überjacke",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-haori"
+  },
+  {
+   "romaji": "Jin Baori",
+   "jp": "陣羽織",
+   "de": "Feldlager Wams",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-jinbaori"
+  },
+  {
+   "romaji": "Hakama",
+   "jp": "袴",
+   "de": "Hosenrock",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-hakama",
+   "alt": [
+    "Weite Hose oder Faltenrock, über dem Kimono getragen"
+   ]
+  },
+  {
+   "romaji": "Obi",
+   "jp": "帯",
+   "de": "Gürtel",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-obi"
+  },
+  {
+   "romaji": "Kamishimo",
+   "jp": "裃",
+   "de": "Kataginu + Hakama",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-kamishimo",
+   "alt": [
+    "Formelle Kombination aus Hakama und Kataginu über dem Kimono"
+   ]
+  },
+  {
+   "romaji": "Kataginu",
+   "jp": "肩衣",
+   "de": "flügelartige Weste",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-kataginu",
+   "alt": [
+    "Ärmellose Jacke mit steifen, breiten Schultern"
+   ]
+  },
+  {
+   "romaji": "Kosode",
+   "jp": "小袖",
+   "de": "kürzärmliger Kimono",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-kosode"
+  },
+  {
+   "romaji": "Zori",
+   "jp": "草履",
+   "de": "Bambussandalen",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-zori"
+  },
+  {
+   "romaji": "Tabi",
+   "jp": "足袋",
+   "de": "Zehenschuhe/Socken",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-tabi"
+  },
+  {
+   "romaji": "Geta",
+   "jp": "下駄",
+   "de": "erhöhte Schuhe durch Steg(e)",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-geta"
+  },
+  {
+   "romaji": "Keikogi",
+   "jp": "稽古着",
+   "de": "Trainingsanzug (Karate-Gi)",
+   "kat": "Kleidung",
+   "quelle": "Lehrwerk S. 10",
+   "id": "g-keikogi"
+  }
+ ]
+}

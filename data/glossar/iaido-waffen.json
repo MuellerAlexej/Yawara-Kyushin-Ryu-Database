@@ -1,0 +1,125 @@
+{
+ "kategorie": "Iaido: Waffen",
+ "eintraege": [
+  {
+   "romaji": "Bokken / Bokutō",
+   "jp": "木刀",
+   "de": "japanische Trainingswaffe aus Holz für das Kenjutsu",
+   "kat": "Iaido: Waffen",
+   "quelle": "Lehrwerk S. 7",
+   "alt": [
+    "Holzschwert"
+   ],
+   "id": "g-bokkenbokuto"
+  },
+  {
+   "romaji": "Shinai",
+   "jp": "竹刀",
+   "de": "Schwertnachbildung aus mehreren Bambusstreifen, mit Stoffen und Ledern umwickelt",
+   "kat": "Iaido: Waffen",
+   "quelle": "Lehrwerk S. 7",
+   "id": "g-shinai"
+  },
+  {
+   "romaji": "Kumitachi",
+   "jp": "組太刀",
+   "de": "Partnerübung mit dem Schwert",
+   "kat": "Iaido: Waffen",
+   "quelle": "Lehrwerk S. 7",
+   "alt": [
+    "Partnerübung mit Schwertern"
+   ],
+   "id": "g-kumitachi"
+  },
+  {
+   "romaji": "Iaitō",
+   "jp": "居合刀",
+   "de": "Übungsschwert für das Iaido (stumpfe Stahlklinge)",
+   "kat": "Iaido: Waffen",
+   "quelle": "Lehrwerk S. 7",
+   "id": "g-iaito",
+   "hinweis": "Schnitttests an Papier sind mit dem Iaitō möglich, so wie auch mit dem Bokutō. Echte Schnitttests erfolgen nur mit dem Katana (Hinweis der Schule)."
+  },
+  {
+   "romaji": "Katana",
+   "jp": "刀",
+   "de": "Langschwert",
+   "kat": "Iaido: Waffen",
+   "quelle": "Lehrwerk S. 7",
+   "id": "g-katana",
+   "hinweis": "Echte Schnitttests erfolgen nur mit dem Katana (Hinweis der Schule)."
+  },
+  {
+   "romaji": "Tachi",
+   "jp": "太刀",
+   "de": "Älteres, stärker gebogenes Langschwert",
+   "kat": "Iaido: Waffen",
+   "quelle": "Ergänzung",
+   "id": "g-tachi"
+  },
+  {
+   "romaji": "Wakizashi",
+   "jp": "脇差",
+   "de": "Kurzschwert",
+   "kat": "Iaido: Waffen",
+   "quelle": "Ergänzung",
+   "id": "g-wakizashi"
+  },
+  {
+   "romaji": "Shōtō",
+   "jp": "小刀",
+   "de": "Kleines Schwert (Kurzschwert)",
+   "kat": "Iaido: Waffen",
+   "quelle": "Ergänzung",
+   "id": "g-shoto"
+  },
+  {
+   "romaji": "Tantō",
+   "jp": "短刀",
+   "de": "Dolch",
+   "kat": "Iaido: Waffen",
+   "quelle": "Ergänzung",
+   "id": "g-tanto"
+  },
+  {
+   "romaji": "Bō",
+   "jp": "棒",
+   "de": "Langer Stab",
+   "kat": "Iaido: Waffen",
+   "quelle": "Ergänzung",
+   "id": "g-bo"
+  },
+  {
+   "romaji": "Hanbō",
+   "jp": "半棒",
+   "de": "Halbstab",
+   "kat": "Iaido: Waffen",
+   "quelle": "Ergänzung",
+   "id": "g-hanbo"
+  },
+  {
+   "romaji": "Yari",
+   "jp": "槍",
+   "de": "Speer",
+   "kat": "Iaido: Waffen",
+   "quelle": "Ergänzung",
+   "id": "g-yari"
+  },
+  {
+   "romaji": "Naginata",
+   "jp": "薙刀",
+   "de": "Stangenwaffe mit gebogener Klinge",
+   "kat": "Iaido: Waffen",
+   "quelle": "Ergänzung",
+   "id": "g-naginata"
+  },
+  {
+   "romaji": "Tessen",
+   "jp": "鉄扇",
+   "de": "Eiserner Fächer (Waffe)",
+   "kat": "Iaido: Waffen",
+   "quelle": "Ergänzung",
+   "id": "g-tessen"
+  }
+ ]
+}

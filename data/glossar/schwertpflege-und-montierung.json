@@ -1,0 +1,53 @@
+{
+ "kategorie": "Schwertpflege und Montierung",
+ "eintraege": [
+  {
+   "romaji": "Chōji",
+   "jp": "丁子油",
+   "de": "Klingenöl zur Pflege (Rostschutz)",
+   "kat": "Schwertpflege und Montierung",
+   "quelle": "Ergänzung",
+   "id": "g-choji"
+  },
+  {
+   "romaji": "Uchiko",
+   "jp": "打粉",
+   "de": "Feines Steinpulver zur Reinigung der Klinge",
+   "kat": "Schwertpflege und Montierung",
+   "quelle": "Ergänzung",
+   "id": "g-uchiko"
+  },
+  {
+   "romaji": "Kizu",
+   "jp": "傷",
+   "de": "Fehler in der Klinge (Rost, Kratzer, Risse)",
+   "kat": "Schwertpflege und Montierung",
+   "quelle": "Ergänzung",
+   "id": "g-kizu"
+  },
+  {
+   "romaji": "Kodōgu",
+   "jp": "小道具",
+   "de": "Schwertbeschläge (Montierung)",
+   "kat": "Schwertpflege und Montierung",
+   "quelle": "Ergänzung",
+   "id": "g-kodogu"
+  },
+  {
+   "romaji": "Mekugi-ana",
+   "jp": "目釘穴",
+   "de": "Loch für den Haltestift (Mekugi)",
+   "kat": "Schwertpflege und Montierung",
+   "quelle": "Ergänzung",
+   "id": "g-mekugiana"
+  },
+  {
+   "romaji": "Shinken",
+   "jp": "真剣",
+   "de": "Echtes, scharfes Schwert",
+   "kat": "Schwertpflege und Montierung",
+   "quelle": "Ergänzung",
+   "id": "g-shinken"
+  }
+ ]
+}

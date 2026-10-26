@@ -1,4 +1,62 @@
 {
+ "gruppen": [
+  {
+   "key": "iaido|Kamae (Schwertkampf)",
+   "text": "Die hier dargestellten Formen beziehen sich auf die Schwertkampf-Kamae. In diesem Lehrwerk werden alleinig diese behandelt, weil diese bis zum Erreichen der höheren Grade wesentlich sind und die Grundlage für weitere Waffengattungen bilden. Das Konzept der Kamae ist nicht als starre Form zu betrachten. Kamae ist dynamisch und nicht statisch. Wir fließen von einer Kamae in die nächste Kamae.",
+   "quelle": "Lehrwerk S. 14",
+   "abschnitt": "l-3-2",
+   "seite": 14
+  },
+  {
+   "key": "iaido|Tameshigiri: sieben furidome-Techniken",
+   "text": "Im Tameshigiri gibt es sieben furidome Techniken, in denen der Schnitt in der tome Position stoppt. Die Fertigkeit des Schwertkämpfers ist durch den korrekten Schnittwinkel von 35° bis max. 45° erkennbar. Das Ziel sollte komplett durchtrennt sein und die Schnittfläche glatt und sauber.",
+   "quelle": "Lehrwerk S. 15",
+   "abschnitt": "l-3-3",
+   "seite": 15
+  },
+  {
+   "key": "karate|Kata",
+   "text": "Geprüft wird die Anwendung der Grundblöcke, Grundschläge und Grundbewegungen in den Kata Taikyoku Sono (Ichi/Ni/San).",
+   "quelle": "Prüfungsordnung",
+   "abschnitt": "l-3-1",
+   "seite": null
+  },
+  {
+   "key": "karate|Kitae (Abhärtung)",
+   "text": "Das Kitae (schmieden, trainieren, stählen) kann nach Anleitung sowohl ganz allein praktiziert werden, als auch mit einem Partner. Die drei Bereiche sind hierbei Kote Kitae (Arme), Hara Kitae (Bauch) und Ashi Kitae (Bein/Fuß). Hierbei gilt es zu unterscheiden, welchen Grad der Abhärtung der Mitschüler bereits erreicht hat.",
+   "quelle": "Lehrwerk S. 16",
+   "abschnitt": "l-3-4-1",
+   "seite": 16
+  },
+  {
+   "key": "jiujitsu|Ukemi (Fallschule)",
+   "text": "Allen Fallarten ist gemein, dass die Fallenergie durch die Berührung der Hand auf den Boden übertragen wird. Die Fallhöhe sollte in jedem Fall minimiert werden, um die Stärke des Auftreffens so gering wie möglich zu halten. Der Kopf berührt in keinem Fall den Boden, da sonst auf der Straße schwere Verletzungen entstehen werden, welche nicht nur zum sofortigen Kampfabbruch führen, sondern auch zu Folgeschäden, welche dauerhafte Einschränkungen mit sich bringen können.",
+   "quelle": "Lehrwerk S. 13",
+   "abschnitt": "l-3-1-1",
+   "seite": 13
+  },
+  {
+   "key": "karate|Beinwaffen (Teile des Beins)",
+   "text": "Die Teile des Beins, mit denen getreten oder gestoßen wird.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "seite": null
+  },
+  {
+   "key": "karate|Tritte (Geri)",
+   "text": "Liste der Tritte nach einer Kyokushin-Quelle. Die Ausführung lernst du beim Lehrer. Schreibweisen und Bezeichnungen können je nach Verband abweichen, im YKR gilt die Bezeichnung der Schule.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "seite": null
+  },
+  {
+   "key": "karate|Stände (Tachikata)",
+   "text": "Liste der Stände nach einer Kyokushin-Quelle. Die Zuordnung zu den Prüfungsgraden legt die Schule fest.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "seite": null
+  }
+ ],
  "techniken": [
   {
    "id": "t-seitei-1",
@@ -9,7 +67,6 @@
    "text": "Vorn",
    "quelle": "Kataliste ZNKR Iai (Deutscher IaidoBund e.V.)",
    "abschnitt": "l-2-2",
-   "videos": [],
    "suche": "Seitei Iai 1 Mae ZNKR",
    "nr": 1
   },
@@ -22,7 +79,6 @@
    "text": "Hinten",
    "quelle": "Kataliste ZNKR Iai (Deutscher IaidoBund e.V.)",
    "abschnitt": "l-2-2",
-   "videos": [],
    "suche": "Seitei Iai 2 Ushiro ZNKR",
    "nr": 2
   },
@@ -35,7 +91,6 @@
    "text": "Gegner abgleiten lassen",
    "quelle": "Kataliste ZNKR Iai (Deutscher IaidoBund e.V.)",
    "abschnitt": "l-2-2",
-   "videos": [],
    "suche": "Seitei Iai 3 Ukenagashi ZNKR",
    "nr": 3
   },
@@ -48,7 +103,6 @@
    "text": "Stoß mit dem Griff",
    "quelle": "Kataliste ZNKR Iai (Deutscher IaidoBund e.V.)",
    "abschnitt": "l-2-2",
-   "videos": [],
    "suche": "Seitei Iai 4 Tsukaate ZNKR",
    "nr": 4
   },
@@ -61,7 +115,6 @@
    "text": "Schnitt entlang des Kesa",
    "quelle": "Kataliste ZNKR Iai (Deutscher IaidoBund e.V.)",
    "abschnitt": "l-2-2",
-   "videos": [],
    "suche": "Seitei Iai 5 Kesagiri ZNKR",
    "nr": 5
   },
@@ -74,7 +127,6 @@
    "text": "Stich mit beiden Händen",
    "quelle": "Kataliste ZNKR Iai (Deutscher IaidoBund e.V.)",
    "abschnitt": "l-2-2",
-   "videos": [],
    "suche": "Seitei Iai 6 Morotezuki ZNKR",
    "nr": 6
   },
@@ -87,7 +139,6 @@
    "text": "Drei-Richtungen-Schnitt",
    "quelle": "Kataliste ZNKR Iai (Deutscher IaidoBund e.V.)",
    "abschnitt": "l-2-2",
-   "videos": [],
    "suche": "Seitei Iai 7 Sanpōgiri ZNKR",
    "nr": 7
   },
@@ -100,7 +151,6 @@
    "text": "Stoß ins Gesicht",
    "quelle": "Kataliste ZNKR Iai (Deutscher IaidoBund e.V.)",
    "abschnitt": "l-2-2",
-   "videos": [],
    "suche": "Seitei Iai 8 Ganmenate ZNKR",
    "nr": 8
   },
@@ -113,7 +163,6 @@
    "text": "Stich mit angelegter Hand",
    "quelle": "Kataliste ZNKR Iai (Deutscher IaidoBund e.V.)",
    "abschnitt": "l-2-2",
-   "videos": [],
    "suche": "Seitei Iai 9 Soetezuki ZNKR",
    "nr": 9
   },
@@ -126,7 +175,6 @@
    "text": "Vier-Richtungen-Schnitt",
    "quelle": "Kataliste ZNKR Iai (Deutscher IaidoBund e.V.)",
    "abschnitt": "l-2-2",
-   "videos": [],
    "suche": "Seitei Iai 10 Shihōgiri ZNKR",
    "nr": 10
   },
@@ -139,7 +187,6 @@
    "text": "Alle Schnitte",
    "quelle": "Kataliste ZNKR Iai (Deutscher IaidoBund e.V.)",
    "abschnitt": "l-2-2",
-   "videos": [],
    "suche": "Seitei Iai 11 Sōgiri ZNKR",
    "nr": 11
   },
@@ -152,7 +199,6 @@
    "text": "Ziehen und Schlagen",
    "quelle": "Kataliste ZNKR Iai (Deutscher IaidoBund e.V.)",
    "abschnitt": "l-2-2",
-   "videos": [],
    "suche": "Seitei Iai 12 Nukiuchi ZNKR",
    "nr": 12
   },
@@ -165,8 +211,8 @@
    "text": "das Herausziehen des Schwertes und der erste Schnitt",
    "quelle": "Lehrwerk S. 8",
    "abschnitt": "l-2-2",
-   "videos": [],
-   "suche": "Iaido Nuki Tsuke Erklärung"
+   "suche": "Iaido Nuki Tsuke Erklärung",
+   "seite": 8
   },
   {
    "id": "t-kata-el-2",
@@ -177,8 +223,8 @@
    "text": "folgende Schnitte",
    "quelle": "Lehrwerk S. 8",
    "abschnitt": "l-2-2",
-   "videos": [],
-   "suche": "Iaido Kiri Tsuke Erklärung"
+   "suche": "Iaido Kiri Tsuke Erklärung",
+   "seite": 8
   },
   {
    "id": "t-kata-el-3",
@@ -189,8 +235,8 @@
    "text": "Schwert reinigen/Blut abschlagen",
    "quelle": "Lehrwerk S. 8",
    "abschnitt": "l-2-2",
-   "videos": [],
-   "suche": "Iaido Chiburi Erklärung"
+   "suche": "Iaido Chiburi Erklärung",
+   "seite": 8
   },
   {
    "id": "t-kata-el-4",
@@ -201,8 +247,8 @@
    "text": "Rückführen des Schwertes in das Saya",
    "quelle": "Lehrwerk S. 8",
    "abschnitt": "l-2-2",
-   "videos": [],
-   "suche": "Iaido Noto Erklärung"
+   "suche": "Iaido Noto Erklärung",
+   "seite": 8
   },
   {
    "id": "t-chudan-no-kamae",
@@ -210,11 +256,11 @@
    "gruppe": "Kamae (Schwertkampf)",
    "name": "Chudan no Kamae",
    "jp": "",
-   "text": "Kamae ist dynamisch und nicht statisch. Wir fließen von einer Kamae in die nächste.",
+   "text": "Kamae in Halshöhe.",
    "quelle": "Lehrwerk S. 14",
    "abschnitt": "l-3-2",
-   "videos": [],
-   "suche": "Chudan no Kamae Iaido Kendo Kamae"
+   "suche": "Chudan no Kamae Iaido Kendo Kamae",
+   "seite": 14
   },
   {
    "id": "t-jodan-no-kamae",
@@ -222,11 +268,11 @@
    "gruppe": "Kamae (Schwertkampf)",
    "name": "Jodan no Kamae",
    "jp": "",
-   "text": "Kamae ist dynamisch und nicht statisch. Wir fließen von einer Kamae in die nächste.",
+   "text": "Kamae über dem Kopf.",
    "quelle": "Lehrwerk S. 14",
    "abschnitt": "l-3-2",
-   "videos": [],
-   "suche": "Jodan no Kamae Iaido Kendo Kamae"
+   "suche": "Jodan no Kamae Iaido Kendo Kamae",
+   "seite": 14
   },
   {
    "id": "t-hasso-no-kamae",
@@ -234,11 +280,11 @@
    "gruppe": "Kamae (Schwertkampf)",
    "name": "Hasso no Kamae",
    "jp": "",
-   "text": "Kamae ist dynamisch und nicht statisch. Wir fließen von einer Kamae in die nächste.",
-   "quelle": "Lehrwerk S. 14",
+   "text": "Im Lehrwerk nur als Abbildung gezeigt. Beschreibung ergänzt: Das Schwert wird seitlich gehalten, die Tsuba etwa auf Höhe von Kinn oder Wange (je nach Schule).",
+   "quelle": "Lehrwerk S. 14 (Abbildung); Beschreibung ergänzt",
    "abschnitt": "l-3-2",
-   "videos": [],
-   "suche": "Hasso no Kamae Iaido Kendo Kamae"
+   "suche": "Hasso no Kamae Iaido Kendo Kamae",
+   "seite": 14
   },
   {
    "id": "t-gedan-no-kamae",
@@ -246,11 +292,11 @@
    "gruppe": "Kamae (Schwertkampf)",
    "name": "Gedan no Kamae",
    "jp": "",
-   "text": "Kamae ist dynamisch und nicht statisch. Wir fließen von einer Kamae in die nächste.",
+   "text": "Kamae in Hüfthöhe und darunter.",
    "quelle": "Lehrwerk S. 14",
    "abschnitt": "l-3-2",
-   "videos": [],
-   "suche": "Gedan no Kamae Iaido Kendo Kamae"
+   "suche": "Gedan no Kamae Iaido Kendo Kamae",
+   "seite": 14
   },
   {
    "id": "t-waki-gamae",
@@ -258,11 +304,11 @@
    "gruppe": "Kamae (Schwertkampf)",
    "name": "Waki Gamae",
    "jp": "",
-   "text": "Kamae ist dynamisch und nicht statisch. Wir fließen von einer Kamae in die nächste.",
+   "text": "Kamae seitlich am Körper.",
    "quelle": "Lehrwerk S. 14",
    "abschnitt": "l-3-2",
-   "videos": [],
-   "suche": "Waki Gamae Iaido Kendo Kamae"
+   "suche": "Waki Gamae Iaido Kendo Kamae",
+   "seite": 14
   },
   {
    "id": "t-tameshigiri-1",
@@ -270,11 +316,11 @@
    "gruppe": "Tameshigiri: sieben furidome-Techniken",
    "name": "Hidari Kesagiri",
    "jp": "",
-   "text": "Der Schnitt stoppt in der tome-Position. Korrekter Schnittwinkel 35° bis max. 45°.",
+   "text": "Kesagiri (Schrägschnitt) in der Variante Hidari (links). Siehe Abbildung im Lehrwerk S. 15.",
    "quelle": "Lehrwerk S. 15",
    "abschnitt": "l-3-3",
-   "videos": [],
-   "suche": "Tameshigiri Hidari Kesagiri"
+   "suche": "Tameshigiri Hidari Kesagiri",
+   "seite": 15
   },
   {
    "id": "t-tameshigiri-2",
@@ -282,11 +328,11 @@
    "gruppe": "Tameshigiri: sieben furidome-Techniken",
    "name": "Migi Kesagiri",
    "jp": "",
-   "text": "Der Schnitt stoppt in der tome-Position. Korrekter Schnittwinkel 35° bis max. 45°.",
+   "text": "Kesagiri (Schrägschnitt) in der Variante Migi (rechts). Siehe Abbildung im Lehrwerk S. 15.",
    "quelle": "Lehrwerk S. 15",
    "abschnitt": "l-3-3",
-   "videos": [],
-   "suche": "Tameshigiri Migi Kesagiri"
+   "suche": "Tameshigiri Migi Kesagiri",
+   "seite": 15
   },
   {
    "id": "t-tameshigiri-3",
@@ -294,11 +340,11 @@
    "gruppe": "Tameshigiri: sieben furidome-Techniken",
    "name": "Hidari Kesagiri (Migi Gyakugesa)",
    "jp": "",
-   "text": "Der Schnitt stoppt in der tome-Position. Korrekter Schnittwinkel 35° bis max. 45°.",
+   "text": "Hidari Kesagiri, im Lehrwerk mit der Zusatzbezeichnung „Migi Gyakugesa“ geführt. Gyakugesa bezeichnet nach der Fachliteratur einen umgekehrten Schrägschnitt. Siehe Abbildung im Lehrwerk S. 15.",
    "quelle": "Lehrwerk S. 15",
    "abschnitt": "l-3-3",
-   "videos": [],
-   "suche": "Tameshigiri Hidari Kesagiri"
+   "suche": "Tameshigiri Hidari Kesagiri",
+   "seite": 15
   },
   {
    "id": "t-tameshigiri-4",
@@ -306,11 +352,11 @@
    "gruppe": "Tameshigiri: sieben furidome-Techniken",
    "name": "Migi Kesagiri (Hidari Gyakugesa)",
    "jp": "",
-   "text": "Der Schnitt stoppt in der tome-Position. Korrekter Schnittwinkel 35° bis max. 45°.",
+   "text": "Migi Kesagiri, im Lehrwerk mit der Zusatzbezeichnung „Hidari Gyakugesa“ geführt. Gyakugesa bezeichnet nach der Fachliteratur einen umgekehrten Schrägschnitt. Siehe Abbildung im Lehrwerk S. 15.",
    "quelle": "Lehrwerk S. 15",
    "abschnitt": "l-3-3",
-   "videos": [],
-   "suche": "Tameshigiri Migi Kesagiri"
+   "suche": "Tameshigiri Migi Kesagiri",
+   "seite": 15
   },
   {
    "id": "t-tameshigiri-5",
@@ -318,11 +364,11 @@
    "gruppe": "Tameshigiri: sieben furidome-Techniken",
    "name": "Hidari Yokogiri",
    "jp": "",
-   "text": "Der Schnitt stoppt in der tome-Position. Korrekter Schnittwinkel 35° bis max. 45°.",
+   "text": "Yokogiri (Querschnitt) in der Variante Hidari (links).",
    "quelle": "Lehrwerk S. 15",
    "abschnitt": "l-3-3",
-   "videos": [],
-   "suche": "Tameshigiri Hidari Yokogiri"
+   "suche": "Tameshigiri Hidari Yokogiri",
+   "seite": 15
   },
   {
    "id": "t-tameshigiri-6",
@@ -330,11 +376,11 @@
    "gruppe": "Tameshigiri: sieben furidome-Techniken",
    "name": "Migi Yokogiri",
    "jp": "",
-   "text": "Der Schnitt stoppt in der tome-Position. Korrekter Schnittwinkel 35° bis max. 45°.",
+   "text": "Yokogiri (Querschnitt) in der Variante Migi (rechts).",
    "quelle": "Lehrwerk S. 15",
    "abschnitt": "l-3-3",
-   "videos": [],
-   "suche": "Tameshigiri Migi Yokogiri"
+   "suche": "Tameshigiri Migi Yokogiri",
+   "seite": 15
   },
   {
    "id": "t-tameshigiri-7",
@@ -342,11 +388,11 @@
    "gruppe": "Tameshigiri: sieben furidome-Techniken",
    "name": "Dotangiri (Shinchokugiri)",
    "jp": "",
-   "text": "Der Schnitt stoppt in der tome-Position. Korrekter Schnittwinkel 35° bis max. 45°.",
+   "text": "Senkrechter Schnitt von oben nach unten (Dotangiri, auch Shinchokugiri).",
    "quelle": "Lehrwerk S. 15",
    "abschnitt": "l-3-3",
-   "videos": [],
-   "suche": "Tameshigiri Dotangiri"
+   "suche": "Tameshigiri Dotangiri",
+   "seite": 15
   },
   {
    "id": "t-taikyoku-1",
@@ -354,11 +400,11 @@
    "gruppe": "Kata",
    "name": "Taikyoku Sono Ichi",
    "jp": "太極",
-   "text": "Geprüft wird die Anwendung der Grundblöcke, Grundschläge und Grundbewegungen in diesen Kata.",
+   "text": "",
    "quelle": "Prüfungsordnung; Graduierungssystem Praxis",
    "abschnitt": "l-3-1",
-   "videos": [],
-   "suche": "Taikyoku Sono Ichi Kyokushin Kata"
+   "suche": "Taikyoku Sono Ichi Kyokushin Kata",
+   "seite": null
   },
   {
    "id": "t-taikyoku-2",
@@ -366,11 +412,11 @@
    "gruppe": "Kata",
    "name": "Taikyoku Sono Ni",
    "jp": "太極",
-   "text": "Geprüft wird die Anwendung der Grundblöcke, Grundschläge und Grundbewegungen in diesen Kata.",
+   "text": "",
    "quelle": "Prüfungsordnung; Graduierungssystem Praxis",
    "abschnitt": "l-3-1",
-   "videos": [],
-   "suche": "Taikyoku Sono Ni Kyokushin Kata"
+   "suche": "Taikyoku Sono Ni Kyokushin Kata",
+   "seite": null
   },
   {
    "id": "t-taikyoku-3",
@@ -378,11 +424,11 @@
    "gruppe": "Kata",
    "name": "Taikyoku Sono San",
    "jp": "太極",
-   "text": "Geprüft wird die Anwendung der Grundblöcke, Grundschläge und Grundbewegungen in diesen Kata.",
+   "text": "",
    "quelle": "Prüfungsordnung; Graduierungssystem Praxis",
    "abschnitt": "l-3-1",
-   "videos": [],
-   "suche": "Taikyoku Sono San Kyokushin Kata"
+   "suche": "Taikyoku Sono San Kyokushin Kata",
+   "seite": null
   },
   {
    "id": "t-kote-kitae",
@@ -390,11 +436,11 @@
    "gruppe": "Kitae (Abhärtung)",
    "name": "Kote Kitae",
    "jp": "",
-   "text": "Abhärtung der Arme. Kann nach Anleitung allein oder mit Partner praktiziert werden. Die Abhärtung folgt dem Prinzip der Überkompensation, der Körper soll sich langsam daran gewöhnen.",
+   "text": "Abhärtung der Arme.",
    "quelle": "Lehrwerk S. 16",
    "abschnitt": "l-3-4-1",
-   "videos": [],
-   "suche": "Kote Kitae Karate Abhärtung"
+   "suche": "Kote Kitae Karate Abhärtung",
+   "seite": 16
   },
   {
    "id": "t-hara-kitae",
@@ -402,11 +448,11 @@
    "gruppe": "Kitae (Abhärtung)",
    "name": "Hara Kitae",
    "jp": "",
-   "text": "Abhärtung des Bauches. Kann nach Anleitung allein oder mit Partner praktiziert werden. Die Abhärtung folgt dem Prinzip der Überkompensation, der Körper soll sich langsam daran gewöhnen.",
+   "text": "Abhärtung des Bauches.",
    "quelle": "Lehrwerk S. 16",
    "abschnitt": "l-3-4-1",
-   "videos": [],
-   "suche": "Hara Kitae Karate Abhärtung"
+   "suche": "Hara Kitae Karate Abhärtung",
+   "seite": 16
   },
   {
    "id": "t-ashi-kitae",
@@ -414,11 +460,11 @@
    "gruppe": "Kitae (Abhärtung)",
    "name": "Ashi Kitae",
    "jp": "",
-   "text": "Abhärtung von Bein und Fuß. Kann nach Anleitung allein oder mit Partner praktiziert werden. Die Abhärtung folgt dem Prinzip der Überkompensation, der Körper soll sich langsam daran gewöhnen.",
+   "text": "Abhärtung von Bein und Fuß.",
    "quelle": "Lehrwerk S. 16",
    "abschnitt": "l-3-4-1",
-   "videos": [],
-   "suche": "Ashi Kitae Karate Abhärtung"
+   "suche": "Ashi Kitae Karate Abhärtung",
+   "seite": 16
   },
   {
    "id": "t-tameshiwari",
@@ -429,8 +475,8 @@
    "text": "Objekte werden ohne Hilfsmittel gebrochen. Faktoren: Distanz, Winkel, Treffpunkt, Krafteinsatz und Atemtechnik. Tameshiwari ist mit klarem Geist und unter genauer Anleitung des Lehrmeisters zu praktizieren.",
    "quelle": "Lehrwerk S. 16",
    "abschnitt": "l-3-4",
-   "videos": [],
-   "suche": "Tameshiwari Karate Technik Grundlagen"
+   "suche": "Tameshiwari Karate Technik Grundlagen",
+   "seite": 16
   },
   {
    "id": "t-sparring",
@@ -441,7 +487,6 @@
    "text": "Freikampf nach Anleitung des Lehrers. Die Anforderungen je Grad stehen im Graduierungssystem.",
    "quelle": "Graduierungssystem Praxis",
    "abschnitt": null,
-   "videos": [],
    "suche": "Kyokushin Kumite Grundlagen"
   },
   {
@@ -450,11 +495,11 @@
    "gruppe": "Ukemi (Fallschule)",
    "name": "Fall vorwärts 1",
    "jp": "受け身",
-   "text": "Die Fallenergie wird durch die Berührung der Hand auf den Boden übertragen. Die Fallhöhe wird minimiert, der Kopf berührt in keinem Fall den Boden.",
+   "text": "",
    "quelle": "Lehrwerk S. 13",
    "abschnitt": "l-3-1-1",
-   "videos": [],
-   "suche": "Ukemi Fall vorwärts 1 Jiu Jitsu"
+   "suche": "Ukemi Fall vorwärts 1 Jiu Jitsu",
+   "seite": 13
   },
   {
    "id": "t-ukemi-fall-vorwärts-2",
@@ -462,11 +507,11 @@
    "gruppe": "Ukemi (Fallschule)",
    "name": "Fall vorwärts 2",
    "jp": "受け身",
-   "text": "Die Fallenergie wird durch die Berührung der Hand auf den Boden übertragen. Die Fallhöhe wird minimiert, der Kopf berührt in keinem Fall den Boden.",
+   "text": "",
    "quelle": "Lehrwerk S. 13",
    "abschnitt": "l-3-1-1",
-   "videos": [],
-   "suche": "Ukemi Fall vorwärts 2 Jiu Jitsu"
+   "suche": "Ukemi Fall vorwärts 2 Jiu Jitsu",
+   "seite": 13
   },
   {
    "id": "t-ukemi-fall-rückwärts",
@@ -474,11 +519,11 @@
    "gruppe": "Ukemi (Fallschule)",
    "name": "Fall rückwärts",
    "jp": "受け身",
-   "text": "Die Fallenergie wird durch die Berührung der Hand auf den Boden übertragen. Die Fallhöhe wird minimiert, der Kopf berührt in keinem Fall den Boden.",
+   "text": "",
    "quelle": "Lehrwerk S. 13",
    "abschnitt": "l-3-1-1",
-   "videos": [],
-   "suche": "Ukemi Fall rückwärts Jiu Jitsu"
+   "suche": "Ukemi Fall rückwärts Jiu Jitsu",
+   "seite": 13
   },
   {
    "id": "t-ukemi-seitlicher-fall-nach-links-und-rechts",
@@ -486,11 +531,11 @@
    "gruppe": "Ukemi (Fallschule)",
    "name": "Seitlicher Fall nach links und rechts",
    "jp": "受け身",
-   "text": "Die Fallenergie wird durch die Berührung der Hand auf den Boden übertragen. Die Fallhöhe wird minimiert, der Kopf berührt in keinem Fall den Boden.",
+   "text": "",
    "quelle": "Lehrwerk S. 13",
    "abschnitt": "l-3-1-1",
-   "videos": [],
-   "suche": "Ukemi Seitlicher Fall nach links und rechts Jiu Jitsu"
+   "suche": "Ukemi Seitlicher Fall nach links und rechts Jiu Jitsu",
+   "seite": 13
   },
   {
    "id": "t-kaiten",
@@ -501,8 +546,8 @@
    "text": "Auch hier berührt in keinem Fall der Kopf den Boden. Der Körper ist rund, die Atmung ruhig und der Körper kontrolliert.",
    "quelle": "Lehrwerk S. 13",
    "abschnitt": "l-3-1-1",
-   "videos": [],
-   "suche": "Kaiten Rolle Budo Rollschule"
+   "suche": "Kaiten Rolle Budo Rollschule",
+   "seite": 13
   },
   {
    "id": "t-randori",
@@ -513,8 +558,8 @@
    "text": "Freundschaftliches, kontrolliertes Zweikampferlebnis ohne Wettkampfcharakter. Ziel ist ein freier Fluss der Techniken. Es geht auch darum, sich bewusst treffen zu lassen und nicht jeden Angriff zu blocken.",
    "quelle": "Lehrwerk S. 2",
    "abschnitt": "l-1-3",
-   "videos": [],
-   "suche": "Randori Jiu Jitsu Selbstverteidigung"
+   "suche": "Randori Jiu Jitsu Selbstverteidigung",
+   "seite": 2
   },
   {
    "id": "t-shiai",
@@ -525,8 +570,8 @@
    "text": "Wettkampftraining oder Vorbereitung darauf. Im YKR werden keine Wettkämpfe veranstaltet, Shiai wird dennoch praktiziert, um den Budoka auf psychischen Druck vorzubereiten.",
    "quelle": "Lehrwerk S. 2",
    "abschnitt": "l-1-3",
-   "videos": [],
-   "suche": "Shiai Bedeutung Budo"
+   "suche": "Shiai Bedeutung Budo",
+   "seite": 2
   },
   {
    "id": "t-taijutsu",
@@ -537,8 +582,8 @@
    "text": "Distanzverständnis und Anwendung von Schlag, Tritt, Wurf- und Hebelmechanismen. Die körperliche Fitness spielt zu Beginn keine Rolle.",
    "quelle": "Lehrwerk S. 1",
    "abschnitt": "l-1-1",
-   "videos": [],
-   "suche": "Taijutsu Selbstverteidigung Grundlagen"
+   "suche": "Taijutsu Selbstverteidigung Grundlagen",
+   "seite": 1
   },
   {
    "id": "t-situativ",
@@ -549,7 +594,6 @@
    "text": "Prüfungsvariante der Selbstverteidigung: Die Prüfer erhöhen die Stressbelastung und benennen zügig die abzuwehrenden Techniken, ohne die Angriffsart vorab zu nennen.",
    "quelle": "Prüfungsordnung",
    "abschnitt": null,
-   "videos": [],
    "suche": "Selbstverteidigung Situationstraining"
   },
   {
@@ -561,8 +605,8 @@
    "text": "Verbeugung im Sitzen.",
    "quelle": "Lehrwerk S. 4",
    "abschnitt": "l-1-6",
-   "videos": [],
-   "suche": "Za-rei Verbeugung im Sitzen Budo"
+   "suche": "Za-rei Verbeugung im Sitzen Budo",
+   "seite": 4
   },
   {
    "id": "t-ritsurei",
@@ -573,8 +617,8 @@
    "text": "Verbeugung aus dem Stand.",
    "quelle": "Lehrwerk S. 4",
    "abschnitt": "l-1-6",
-   "videos": [],
-   "suche": "Ritsurei Verbeugung Budo"
+   "suche": "Ritsurei Verbeugung Budo",
+   "seite": 4
   },
   {
    "id": "t-zazen",
@@ -585,8 +629,464 @@
    "text": "Sitzen in Kraft und Stille. Rücken gerade, Augen geschlossen oder leicht geöffnet nach unten, Kinn leicht zur Brust gezogen, linke Hand in der rechten in Höhe des Nabels. Einzelheiten im Lehrwerk.",
    "quelle": "Lehrwerk S. 23",
    "abschnitt": "l-5-2-1",
+   "suche": "Zazen Sitzhaltung Anleitung",
+   "seite": 23
+  },
+  {
+   "id": "t-bein-chusoku",
+   "bereich": "karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "name": "Chūsoku",
+   "jp": "中足",
+   "text": "Fußballen.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
    "videos": [],
-   "suche": "Zazen Sitzhaltung Anleitung"
+   "suche": "Chūsoku Kyokushin Karate"
+  },
+  {
+   "id": "t-bein-haisoku",
+   "bereich": "karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "name": "Haisoku",
+   "jp": "背足",
+   "text": "Fußrücken (Spann).",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Haisoku Kyokushin Karate"
+  },
+  {
+   "id": "t-bein-hiza",
+   "bereich": "karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "name": "Hiza",
+   "jp": "膝",
+   "text": "Knie.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Hiza Kyokushin Karate"
+  },
+  {
+   "id": "t-bein-kakato",
+   "bereich": "karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "name": "Kakato",
+   "jp": "踵",
+   "text": "Ferse.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Kakato Kyokushin Karate"
+  },
+  {
+   "id": "t-bein-sokuto",
+   "bereich": "karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "name": "Sokutō",
+   "jp": "足刀",
+   "text": "Fußkante („Messerfuß“).",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Sokutō Kyokushin Karate"
+  },
+  {
+   "id": "t-bein-teisoku",
+   "bereich": "karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "name": "Teisoku",
+   "jp": "底足",
+   "text": "Fußsohle (Fußbogen).",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Teisoku Kyokushin Karate"
+  },
+  {
+   "id": "t-bein-sune",
+   "bereich": "karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "name": "Sune",
+   "jp": "脛",
+   "text": "Schienbein.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Sune Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-hizageri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Hiza geri",
+   "jp": "膝蹴り",
+   "text": "Kniestoß.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Hiza geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-kansetsugeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Kansetsu geri",
+   "jp": "関節蹴り",
+   "text": "Gelenktritt.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Kansetsu geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-kingeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Kin geri",
+   "jp": "金的蹴り",
+   "text": "Tritt zur Leiste.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Kin geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-mawashigeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Mawashi geri",
+   "jp": "回し蹴り",
+   "text": "Halbkreistritt.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Mawashi geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-maegeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Mae geri",
+   "jp": "前蹴り",
+   "text": "Fronttritt.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Mae geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-maekeage",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Mae keage",
+   "jp": "前蹴上げ",
+   "text": "Frontaler Aufwärtstritt (Schwungtritt).",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Mae keage Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-oroshigeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Oroshi geri",
+   "jp": "下ろし蹴り",
+   "text": "Abwärtstritt (von oben nach unten).",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Oroshi geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-sotomawashigeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Soto mawashi geri",
+   "jp": "外回し蹴り",
+   "text": "Außen-Halbkreistritt.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Soto mawashi geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-tobimaegeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Tobi mae geri",
+   "jp": "飛び前蹴り",
+   "text": "Sprung-Fronttritt.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Tobi mae geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-tobimawashigeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Tobi mawashi geri",
+   "jp": "飛び回し蹴り",
+   "text": "Sprung-Halbkreistritt.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Tobi mawashi geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-tobiushirogeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Tobi ushiro geri",
+   "jp": "飛び後ろ蹴り",
+   "text": "Sprung-Rückwärtstritt.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Tobi ushiro geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-tobiushiromawashigeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Tobi ushiro mawashi geri",
+   "jp": "飛び後ろ回し蹴り",
+   "text": "Sprung-Drehtritt rückwärts.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Tobi ushiro mawashi geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-ushirokakatokingeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Ushiro kakato kin geri",
+   "jp": "後ろ踵金的蹴り",
+   "text": "Rückwärtstritt mit der Ferse zur Leiste.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Ushiro kakato kin geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-uchimawashigeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Uchi mawashi geri",
+   "jp": "内回し蹴り",
+   "text": "Innen-Halbkreistritt.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Uchi mawashi geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-ushirogeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Ushiro geri",
+   "jp": "後ろ蹴り",
+   "text": "Rückwärtstritt.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Ushiro geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-ushiromawashigeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Ushiro mawashi geri",
+   "jp": "後ろ回し蹴り",
+   "text": "Rückwärts-Drehtritt.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Ushiro mawashi geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-yokogeri",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Yoko geri",
+   "jp": "横蹴り",
+   "text": "Seitwärtstritt.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Yoko geri Kyokushin Karate"
+  },
+  {
+   "id": "t-geri-yokokeage",
+   "bereich": "karate",
+   "gruppe": "Tritte (Geri)",
+   "name": "Yoko keage",
+   "jp": "横蹴上げ",
+   "text": "Seitlicher Aufwärtstritt (Schwungtritt).",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Yoko keage Kyokushin Karate"
+  },
+  {
+   "id": "t-dachi-fudodachiauchyoidachi",
+   "bereich": "karate",
+   "gruppe": "Stände (Tachikata)",
+   "name": "Fudō dachi (auch Yoi dachi)",
+   "jp": "不動立ち / 用意立ち",
+   "text": "Fester Stand (Bereitschaftsstand).",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Fudō dachi Kyokushin Karate"
+  },
+  {
+   "id": "t-dachi-heikodachi",
+   "bereich": "karate",
+   "gruppe": "Stände (Tachikata)",
+   "name": "Heikō dachi",
+   "jp": "平行立ち",
+   "text": "Paralleler Stand (offen).",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Heikō dachi Kyokushin Karate"
+  },
+  {
+   "id": "t-dachi-heisokudachi",
+   "bereich": "karate",
+   "gruppe": "Stände (Tachikata)",
+   "name": "Heisoku dachi",
+   "jp": "閉足立ち",
+   "text": "Geschlossener Stand.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Heisoku dachi Kyokushin Karate"
+  },
+  {
+   "id": "t-dachi-kakedachi",
+   "bereich": "karate",
+   "gruppe": "Stände (Tachikata)",
+   "name": "Kake dachi",
+   "jp": "掛け立ち",
+   "text": "Hakenstand.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Kake dachi Kyokushin Karate"
+  },
+  {
+   "id": "t-dachi-kibadachi",
+   "bereich": "karate",
+   "gruppe": "Stände (Tachikata)",
+   "name": "Kiba dachi",
+   "jp": "騎馬立ち",
+   "text": "Reiterstand.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Kiba dachi Kyokushin Karate"
+  },
+  {
+   "id": "t-dachi-kokutsudachi",
+   "bereich": "karate",
+   "gruppe": "Stände (Tachikata)",
+   "name": "Kōkutsu dachi",
+   "jp": "後屈立ち",
+   "text": "Rückwärtsstand.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Kōkutsu dachi Kyokushin Karate"
+  },
+  {
+   "id": "t-dachi-moroashidachi",
+   "bereich": "karate",
+   "gruppe": "Stände (Tachikata)",
+   "name": "Moro ashi dachi",
+   "jp": "諸足立ち",
+   "text": "Stand mit einem Fuß vorn.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Moro ashi dachi Kyokushin Karate"
+  },
+  {
+   "id": "t-dachi-musubidachi",
+   "bereich": "karate",
+   "gruppe": "Stände (Tachikata)",
+   "name": "Musubi dachi",
+   "jp": "結び立ち",
+   "text": "Grußstand (Meditationsstand).",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Musubi dachi Kyokushin Karate"
+  },
+  {
+   "id": "t-dachi-nekoashidachi",
+   "bereich": "karate",
+   "gruppe": "Stände (Tachikata)",
+   "name": "Neko ashi dachi",
+   "jp": "猫足立ち",
+   "text": "Katzenfußstand.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Neko ashi dachi Kyokushin Karate"
+  },
+  {
+   "id": "t-dachi-sanchindachi",
+   "bereich": "karate",
+   "gruppe": "Stände (Tachikata)",
+   "name": "Sanchin dachi",
+   "jp": "三戦立ち",
+   "text": "Sanchin-Stand („Drei-Schlachten“-Stand).",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Sanchin dachi Kyokushin Karate"
+  },
+  {
+   "id": "t-dachi-tsuruashidachi",
+   "bereich": "karate",
+   "gruppe": "Stände (Tachikata)",
+   "name": "Tsuru ashi dachi",
+   "jp": "鶴足立ち",
+   "text": "Kranichstand (Einbeinstand).",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Tsuru ashi dachi Kyokushin Karate"
+  },
+  {
+   "id": "t-dachi-uchihachijidachi",
+   "bereich": "karate",
+   "gruppe": "Stände (Tachikata)",
+   "name": "Uchi hachiji dachi",
+   "jp": "内八字立ち",
+   "text": "Innerer Achtstand (Füße nach innen gedreht).",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Uchi hachiji dachi Kyokushin Karate"
+  },
+  {
+   "id": "t-dachi-zenkutsudachi",
+   "bereich": "karate",
+   "gruppe": "Stände (Tachikata)",
+   "name": "Zenkutsu dachi",
+   "jp": "前屈立ち",
+   "text": "Vorwärtsstand.",
+   "quelle": "Ergänzung (West Island Karate)",
+   "abschnitt": "l-3-1",
+   "videos": [],
+   "suche": "Zenkutsu dachi Kyokushin Karate"
   }
  ]
 }

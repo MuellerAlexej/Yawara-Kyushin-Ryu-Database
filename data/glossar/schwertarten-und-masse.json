@@ -1,0 +1,205 @@
+{
+ "kategorie": "Schwertarten und Maße",
+ "eintraege": [
+  {
+   "romaji": "Shaku",
+   "jp": "尺",
+   "de": "Alte Längeneinheit (30,2 cm)",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-shaku"
+  },
+  {
+   "romaji": "Sun",
+   "jp": "寸",
+   "de": "Ein Zehntel Shaku",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-sun"
+  },
+  {
+   "romaji": "Daitō",
+   "jp": "大刀",
+   "de": "Das längere Schwert des Daishō",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-daito"
+  },
+  {
+   "romaji": "Aikuchi",
+   "jp": "合口",
+   "de": "Dolch ohne Tsuba",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-aikuchi"
+  },
+  {
+   "romaji": "Gunto",
+   "jp": "軍刀",
+   "de": "Militärschwert (besonders aus der Zeit des Zweiten Weltkriegs)",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-gunto"
+  },
+  {
+   "romaji": "Kodachi",
+   "jp": "小太刀",
+   "de": "Kleines Tachi, entspricht dem Kurzschwert",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-kodachi"
+  },
+  {
+   "romaji": "Koto",
+   "jp": "古刀",
+   "de": "Alte Schwerter (vor etwa 1600)",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-koto"
+  },
+  {
+   "romaji": "Shintō",
+   "jp": "新刀",
+   "de": "Neue Schwerter (etwa 1600 bis 1870)",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-shinto"
+  },
+  {
+   "romaji": "Shin-shintō",
+   "jp": "新々刀",
+   "de": "Moderne Klingen (ab etwa 1870)",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-shinshinto"
+  },
+  {
+   "romaji": "Suburitō",
+   "jp": "素振り刀",
+   "de": "Schweres Übungsschwert aus Holz zum Kraftaufbau",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-suburito"
+  },
+  {
+   "romaji": "Uchigatana",
+   "jp": "打刀",
+   "de": "Vorläufer des Katana, im Gürtel getragen",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-uchigatana"
+  },
+  {
+   "romaji": "Mogitō",
+   "jp": "模擬刀",
+   "de": "Unscharfes Übungsschwert",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-mogito"
+  },
+  {
+   "romaji": "Shirasaya",
+   "jp": "白鞘",
+   "de": "Schlichte, unlackierte Scheide zur Aufbewahrung",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-shirasaya"
+  },
+  {
+   "romaji": "Tsuba-moto",
+   "jp": "鍔元",
+   "de": "Das Drittel der Klinge nahe der Tsuba",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-tsubamoto"
+  },
+  {
+   "romaji": "Chūō",
+   "jp": "中央",
+   "de": "Mittleres Drittel der Klinge",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-chuo"
+  },
+  {
+   "romaji": "Jigane",
+   "jp": "地鉄",
+   "de": "Grundstahl (Hautstahl) der Klinge",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-jigane"
+  },
+  {
+   "romaji": "Shingane",
+   "jp": "心鉄",
+   "de": "Kernstahl der Klinge",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-shingane"
+  },
+  {
+   "romaji": "Hira",
+   "jp": "平",
+   "de": "Klingenfläche zwischen Shinogi und Schneide",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-hira"
+  },
+  {
+   "romaji": "Yakiba",
+   "jp": "焼刃",
+   "de": "Gehärteter Bereich an der Schneide",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-yakiba"
+  },
+  {
+   "romaji": "Kō-shinogi",
+   "jp": "小鎬",
+   "de": "Shinogi-Linie im Spitzenbereich",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-koshinogi"
+  },
+  {
+   "romaji": "Mitsumune",
+   "jp": "三つ棟",
+   "de": "Dreiflächiger Klingenrücken",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-mitsumune"
+  },
+  {
+   "romaji": "Marumune",
+   "jp": "丸棟",
+   "de": "Abgerundeter Klingenrücken",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-marumune"
+  },
+  {
+   "romaji": "Iorimune",
+   "jp": "庵棟",
+   "de": "Üblicher zweiflächiger Klingenrücken",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-iorimune"
+  },
+  {
+   "romaji": "Kogatana",
+   "jp": "小刀",
+   "de": "Kleines Messer in der Saya-Tasche",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-kogatana"
+  },
+  {
+   "romaji": "Fuchi-gane",
+   "jp": "縁金",
+   "de": "Beschlag zwischen Griff und Stichblatt",
+   "kat": "Schwertarten und Maße",
+   "quelle": "Ergänzung",
+   "id": "g-fuchigane"
+  }
+ ]
+}

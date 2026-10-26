@@ -1,0 +1,259 @@
+{
+ "nr": "4",
+ "titel": "Einführung in die philosophischen Grundlagen",
+ "abschnitte": [
+  {
+   "id": "l-4-1",
+   "nr": "4.1",
+   "titel": "Der Bushido (Idealisierung oder reale Praxis)",
+   "von": 17,
+   "bis": 19,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Um den Bushido in seiner Gänze als philosophisches Konzept zu begreifen, ist es nötig diesen durch seine Wesensmerkmale und anhand einiger philosophischer Grundfragen zu beleuchten.",
+     "s": 17
+    },
+    {
+     "t": "p",
+     "x": "Die Grundfrage aller Philosophie ist die Frage nach dem Verhältnis von Materie und Bewusstsein. Was ist das Ursprüngliche, die Materie oder das Bewusstsein? Ist die Welt erkennbar?",
+     "s": 17
+    },
+    {
+     "t": "p",
+     "x": "Doch im Gegensatz zur Frage, was war eher da, das Huhn oder das Ei, lassen sich diese Fragen in wissenschaftlicher Hinsicht beantworten und stellen viele nicht vor ein weiteres Rätsel des Lebens.",
+     "s": 17
+    },
+    {
+     "t": "p",
+     "x": "Hierzu ist es jedoch notwendig, dass wir die Begriffe des Materialismus und des Idealismus kennenlernen und diese kurz definieren, um weiter zusammen an der Erkenntnisbildung arbeiten zu können.",
+     "s": 17
+    },
+    {
+     "t": "q",
+     "x": "Der Materialismus vertritt den Standpunkt, dass die Materie ursprünglich ist und dass die objektive Realität erkennbar ist und von unserem Bewusstsein wieder gespiegelt wird.",
+     "s": 17,
+     "by": "(S. 30)"
+    },
+    {
+     "t": "q",
+     "x": "Der Idealismus ist die philosophische Lehre, die postuliert, dass das Bewusstsein gegenüber der Materie das Primäre, das Ursprüngliche sei. Für den Idealismus ist das Bewusstsein kein Produkt der Materie, sondern existiert selbstständig und außerhalb des materiellen Zusammenhangs.",
+     "s": 17,
+     "by": "(S. 30)"
+    },
+    {
+     "t": "p",
+     "x": "Die Herangehensweise zur Lösung von Aufgaben des alltäglichen Lebens ist somit im Bushido, den Budo-Disziplinen und deren maßgeblichen Einfluss durch Buddhismus und Zen-Praxis, über den subjektiven Idealismus gegeben. Die Welt wird durch eine Verbindung von Bewusstseins- und Empfindungstatsachen erlebt. Nicht die Umstände allein bewirken wie wir uns fühlen, sondern wir selbst sind es, die sich durch Praxis darin üben können, einen heilsamen Bewusstseinszustand zu halten, obwohl die äußeren Bedingungen für uns vielleicht nicht angenehm sind. Die Aufgabe des sogenannten Opfer- Bewusstseins und der Fehlinterpretation des kleinen Geistes, hin zu einem gesunden Selbstverständnis und einer natürlichen Ethik, die kein Konzept ist.",
+     "s": 17
+    },
+    {
+     "t": "p",
+     "x": "Die Ausblendung von Umstands Wirkungen ist hierbei jedoch in keinster Weise der Fall. Diesen wird nur keine allzu große Bedeutung beigemessen. Zu 90 % erschaffen wir selbst unseren Himmel oder unsere Hölle, egal an welchem Ort wir uns befinden. Die Lehre fußt auf der Annahme, dass der Mensch von Geburt an in Abhängigkeiten lebt und diese Abhängigkeiten zum Teil des eigenen Lebens gehören und den Charakter prägen. Das Verständnis von Abhängigkeit ist am eigenen Leben reflektier bar und wissenschaftlich in den unterschiedlichsten Bereichen der menschlichen Tätigkeit bewiesen. Einen großen Schritt machte die Entwicklungspsychologie in diesem Bereich, in den letzten Jahrzehnten. Die Lehre des Budo nimmt an, dass der Mensch das Potenzial zum Guten und Heilsamen hat, wenn er sich in der Schulung seines Geistes übt.",
+     "s": 17
+    },
+    {
+     "t": "p",
+     "x": "Die zweite Kernfrage hat noch eine weitere Seite. Nebst der Frage, ob die Welt erkennbar ist, stellt sich auch die Frage, ob der Mensch mit seinem Gehirn und dessen Produkt, dem Bewusstsein, die Welt und ihre Entwicklungsgesetze erkennen kann, ob der Mensch fähig ist, im Bewusstsein die materielle Außenwelt widerzuspiegeln.",
+     "s": 18
+    },
+    {
+     "t": "q",
+     "x": "Für den Materialisten stellt das Bewusstsein hierbei eine Brücke zur Außenwelt dar. Sie vertreten die Annahme, dass die Menschen vermittels ihres Denkens zuverlässige, richtige Kenntnisse von der sie umgebenden Welt erlangen können.",
+     "s": 18,
+     "by": "(S. 33)"
+    },
+    {
+     "t": "p",
+     "x": "Der subjektive Idealist sieht die Welt vom Bewusstsein, wie durch eine Scheidewand getrennt. Die Infragestellung, ob unsere Reizrezeptoren und Sinnesorgane, uns tatsächlich ein korrektes Abbild der Wirklichkeit vermitteln. Oder ob der Mensch gleich mit einem Projektor auf der Brust, seine individuelle Wirklichkeit erfasst, die ein Produkt seiner empirischen Werte und seines Bewusstseins ist. Gleich der physikalischen Fragestellung aus der Unschärferelation abgeleitet, ob das betrachtete Objekt sich anders verhalten würde, wenn kein Beobachter existiere.",
+     "s": 18
+    },
+    {
+     "t": "p",
+     "x": "Der Bushido ist ein Werte- und Moralkodex der japanischen Kriegerkaste. Es gibt im Wesentlichen die einheitliche Ansicht, dass der Bushido als Moral- und Wertesystem erst sehr spät schriftlich kodifiziert wurde. Bis dahin galt der Kodex für das japanische Rittertum als mündliche Überlieferung. Doch aufgrund der historischen Lage zur Zeit der Meiji-Reform wurde es notwendig, den Kodex schriftlich zu manifestieren, um den sonst nach außen getragenen Kampf nach innen zu verlagern. Somit begann die Kampfkunst als DO.",
+     "s": 19
+    },
+    {
+     "t": "table",
+     "head": [
+      "Tugend",
+      "Schrift",
+      "Bedeutung"
+     ],
+     "rows": [
+      [
+       "1. Gi",
+       "義",
+       "Aufrichtigkeit, Gerechtigkeit"
+      ],
+      [
+       "2. Yū",
+       "勇",
+       "Mut"
+      ],
+      [
+       "3. Jin",
+       "仁",
+       "Menschlichkeit"
+      ],
+      [
+       "4. Rei",
+       "礼",
+       "Einhaltung der Etikette, Höflichkeit, Respekt"
+      ],
+      [
+       "5. Makoto oder Shin",
+       "誠 / 真",
+       "Wahrheit, Wahrhaftigkeit, Unverfälschtheit"
+      ],
+      [
+       "6. Meiyo",
+       "名誉",
+       "Ehrbewusstsein"
+      ],
+      [
+       "7. Chūgi, auch Chū",
+       "忠義 / 忠",
+       "Loyalität, Pflichtbewusstsein, Treue"
+      ]
+     ],
+     "titel": "Die sieben Tugenden",
+     "s": 19
+    },
+    {
+     "t": "p",
+     "x": "Die 7 Tugenden der Ritterlichkeit oder der Weg der solidarischen Ritterschaft galten als Leitfaden für moralisches Handeln. Hierbei ist zu kontemplieren, in welchem Ausmaß die Tugend der Moral konstruktiv oder destruktiv sein kann?",
+     "s": 19
+    },
+    {
+     "t": "p",
+     "x": "Um diese Frage in die heutige Zeit zu übernehmen, so gilt für die Tugenden das Maß der Mitte. Der Bushido sollte nicht alleinig gelehrt werden, er sollte gelebt werden. Werte werden nicht manifest, weil man versucht sie zu bewahren oder zu verteidigen. Werte werden gelebt und dadurch werden und bleiben sie manifest.",
+     "s": 19
+    },
+    {
+     "t": "p",
+     "x": "Der Bushido kann folgend übersetzt werden: Bu (Krieger), Shi (Schwert), Do (Weg)",
+     "s": 19
+    },
+    {
+     "t": "p",
+     "x": "Durch Film und Fernsehen werden die realen Zustände und die tatsächlichen Handlungsweisen der Samurai oft nicht korrekt dargestellt. Der edelmütige Krieger unter dem prachtvollen Kirschbaum bleibt ein romantisches Bild. Söldner, Räuber und Beamte können sich bei dem Bild über die Kriegerkaste ebenso einreihen.",
+     "s": 19
+    },
+    {
+     "t": "p",
+     "x": "Japan war in Fürstentümer zersplittert und der Machtkampf der Daimyo wurde durch mangelnde Ressourcen weiter angetrieben. Nahrung konnte nur auf knapp 10 % der gesamten Landesfläche effektiv angebaut werden. Nahrung war Währung und begrenztes Gut. Land ist auf einer Insel ebenso begrenztes Gut und so kämpften die Samurai wie Ratten in einem Käfig um jedes Stückchen Land.",
+     "s": 19
+    },
+    {
+     "t": "p",
+     "x": "In dieser Zeit entwickelte sich die Kampfkunst auf einem Niveau, dass seines gleichen suchte und heute noch sucht.",
+     "s": 19
+    }
+   ]
+  },
+  {
+   "id": "l-4-1-1",
+   "nr": "4.1.1",
+   "titel": "Hauptreligionen im Bushido und deren Einfluss",
+   "von": 20,
+   "bis": 20,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Durch die südlichsten Präfekturen der japanischen Inseln war der Einfluss von Religionen aus anderen Reichen des Orients kaum vermeidbar. Okinawa-ken als südlichste Inselgruppe ist hierbei das Herzstück des Austauschs mit anderen Kulturen.",
+     "s": 20
+    },
+    {
+     "t": "p",
+     "x": "Die wesentlichen Religionen, welche Einfluss auf den Bushido als Werte- und Moralkodex hatten, sind Zen-Buddhismus, Konfuzianismus und Shintoismus.",
+     "s": 20
+    },
+    {
+     "t": "p",
+     "x": "Wenn gleich der Konfuzianismus in seiner Reinform nicht in Japan umgesetzt wurde, so regelte dieser doch die zwischenmenschlichen Beziehungen- Freunde untereinander, Kinder zu ihren Eltern und Gefolgsmänner zu ihren Herrn.",
+     "s": 20
+    },
+    {
+     "t": "p",
+     "x": "Der Zen-Buddhismus ist eine Entwicklung des Buddhismus nach der Lehre des Siddhartha Gautama und wurde im Zen auf seine Essenz reduziert. Somit ist Zen die Praxis der Meditation im Sitzen. Durch die Haltung, in der Buddha zu seiner Erleuchtung fand, so versuchen die Zen-Praktizierenden durch die korrekte Haltung auch zur Erleuchtung zu finden, selbst wenn sie diese in anderen Worten beschreiben. Der praktische Nutzen für die Kämpfer im Gefecht ist die Ruhe in Gefahrensituationen.",
+     "s": 20
+    },
+    {
+     "t": "p",
+     "x": "Shintoismus als japanische Staatsreligion entwickelte sich erst nach der Meiji-Restauration zu seiner Blüte. Eine polytheistische Religion, deren Anhänger zur Verehrung an Schreinen um den Segen der Götter bitten.",
+     "s": 20
+    },
+    {
+     "t": "p",
+     "x": "Zu vielen anderen Religionen besteht auch hier ein großer Unterschied, da selbst Tiere und Menschen zu Göttern werden können, wie es der Tenno verlauten ließ.",
+     "s": 20
+    },
+    {
+     "t": "p",
+     "x": "Der Tenno ist das Oberhaupt des Shintoismus und stand im feudalen Japan diametral zum Shogun (Oberster militärischer Herrscher Japans/Einiger Japans).",
+     "s": 20
+    },
+    {
+     "t": "p",
+     "x": "In vielen Shintotempeln sieht man Spiegel als deren Symbol. Heutzutage auch in den Kamidana (Hausaltären) anzutreffen. Der Spiegel ist in Bedeutung zu Amaterasu einer der Schätze des Shintoismus. Der Spiegel steht für Selbstreflexion- in Wort, Tat und Gedanken.",
+     "s": 20
+    },
+    {
+     "t": "p",
+     "x": "Für einen Budoka ist es wichtig diese Zusammenhänge zu kennen und sich näher mit ihnen zu befassen, da sein Lebensweg maßgeblich durch diese spirituellen Wege geprägt wurde und weiterhin geprägt ist. Daher übe dich aufrichtig und finde deinen Weg.",
+     "s": 20
+    },
+    {
+     "t": "q",
+     "x": "Shikin haramitsu daikomyo (Ich möchte Erleuchtung durch Erfahrung erlangen)",
+     "s": 20
+    }
+   ]
+  },
+  {
+   "id": "l-4-1-1-1",
+   "nr": "4.1.1.1",
+   "titel": "Einfluss der buddhistischen Praxis: Sila, Samadhi und Sangha",
+   "von": 21,
+   "bis": 21,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Sila, Samadhi und Sangha bezeichnen ein Konzept im Buddhismus, dass eine Methode auf dem Weg zur Erleuchtung beschreibt.",
+     "s": 21
+    },
+    {
+     "t": "p",
+     "x": "Mit Sila sind die Regeln gemeint, welche man bewusst auf sich nimmt, um ein heilsames Leben zu führen. Hierbei gibt es 5 wesentliche Sila für buddhistische Laien:",
+     "s": 21
+    },
+    {
+     "t": "ul",
+     "items": [
+      "ich möchte andere Lebewesen nicht verletzen oder töten,",
+      "ich möchte nicht lügen,",
+      "ich möchte nicht stehlen,",
+      "ich möchte nicht dem Drang nach Berauschung nachgeben,",
+      "ich möchte keine unheilsame sexuelle Handlung ausüben."
+     ],
+     "s": 21
+    },
+    {
+     "t": "p",
+     "x": "Diese Sila führen unter Einhaltung des Weges der Mitte, zu einem moralischen Leben. Sobald man abends im Bett liegt und sich vor Sorgen geplagt grämt, so könnte es an der Nichteinahltung der Sila liegen.",
+     "s": 21
+    },
+    {
+     "t": "p",
+     "x": "Die Samadhi beschreibt die Methode, welche den Buddha zur Erleuchtung brachte- die Meditation. Die Meditationspraxis durch Ruhemeditation und kontemplativer Meditation. Die Sangha beschreibt die Gruppe an Personen, welche den Weg vor einem selbst beschritten haben und denen man nach folgen möchte, um von Ihnen zu lernen.",
+     "s": 21
+    },
+    {
+     "t": "p",
+     "x": "Alle 3 in Einheit führen zu einem heilsamen Leben. Wenn du es mir nicht glauben möchtest, dann ist das ok. Ich erhebe keinen Anspruch auf vollständige Richtigkeit. Manche Dinge können vielleicht erkannt werden, doch erst das Erleben lässt dich den wahren Wert der Weisheit fühlbar werden. Die Aufgabe eines Meisters besteht auch nicht darin, jedem die passenden Antworten zu geben, sondern den Schülern zu vermitteln die richtigen Fragen zu stellen. Für jede Frage gibt es eine Antwort, doch die Antwort, die du suchst, hast du bereits in dir. Du kannst nun nur noch erlernen auf diese Stimme zu hören und das in der Meditation.",
+     "s": 21
+    }
+   ]
+  }
+ ]
+}

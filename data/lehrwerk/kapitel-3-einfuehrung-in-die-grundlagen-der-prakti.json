@@ -1,0 +1,275 @@
+{
+ "nr": "3",
+ "titel": "Einführung in die Grundlagen der praktischen Ausführung",
+ "abschnitte": [
+  {
+   "id": "l-3-1",
+   "nr": "3.1",
+   "titel": "Kihon",
+   "von": 13,
+   "bis": 13,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Die Grundstellungen und Basistechniken werden im Kihon erfasst. Diese sind das Handwerkszeug eines Budoka. Sich des Trainings intensiv widmend, lernt der Budoka, dass das Kihon sein Fundament wird. Ohne ein starkes Fundament kann kein prächtiges Haus getragen werden. Somit bedarf es einer ständigen Wiederholung und Festigung des bereits gelernten, um auf dem Fundament weitere Balken und Steine aufeinander und ineinander setzen zu können.",
+     "s": 13
+    },
+    {
+     "t": "p",
+     "x": "Wer sich mit der Architektur japanischer Gebäude befasst, der wird schnell feststellen, dass das japanische Handwerk des Tischlers ein hochgradig feinmotorisches Berufsfeld war. Durch verschachtelte Stecksysteme von Holzbalken konnte sogleich eine Stabilität als auch Flexibilität erreicht werden, wie sie zu jener Zeit einzigartig war.",
+     "s": 13
+    },
+    {
+     "t": "p",
+     "x": "Durch vermehrte Erdbeben wussten die japanischen Handwerker, dass es besser ist die Flexibilität von Gebäuden zu erhalten, um Schäden vorzubeugen.",
+     "s": 13
+    },
+    {
+     "t": "p",
+     "x": "Ebenso sollten wir es mit der Kihon (Grundschule) halten. Ein prächtiges Gebäude, welches ein starkes Fundament besitzt, jedoch im Kern flexibel bleibt, um die Widerstandsfähigkeit gegenüber äußeren Einflüssen zu erhöhen.",
+     "s": 13
+    }
+   ]
+  },
+  {
+   "id": "l-3-1-1",
+   "nr": "3.1.1",
+   "titel": "Ukemi und Kaiten",
+   "von": 13,
+   "bis": 13,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Ukemi beschreibt die Fallschule und Kaiten beschreibt die Rollschule. Beide Elemente sind Grundlagen des Kampfkunsttrainings. Sie dienen der Prävention von Verletzungen und zum Schutz der Trainingspartner.",
+     "s": 13
+    },
+    {
+     "t": "p",
+     "x": "Bei der Fallschule unterscheiden wir den Fall vorwärts 1 und 2, den Fall rückwärts und den seitlichen Fall nach links und rechts.",
+     "s": 13
+    },
+    {
+     "t": "p",
+     "x": "Allen Fallarten ist gemein, dass die Fallenergie durch die Berührung der Hand auf den Boden übertragen wird. Die Fallhöhe sollte in jedem Fall minimiert werden, um die Stärke des Auftreffens so gering wie möglich zu halten. Dieser Punkt sollte besonders für Schüleranwärter ohne Vorerfahrung beim Training berücksichtigt werden. Der Kopf berührt in keinem Fall den Boden, da sonst auf der Straße schwere Verletzungen entstehen werden, welche nicht nur zum sofortigen Kampfabbruch führen, sondern auch zu Folgeschäden, welche dauerhafte Einschränkungen mit sich bringen können.",
+     "s": 13
+    },
+    {
+     "t": "p",
+     "x": "Bei der Rollschule gilt besonders zu beachten, dass auch hier in keinem Fall der Kopf den Boden berührt. Der Kampf wäre in einem solchen unkontrollierten Rollversuch augenblicklich zu Ende. Der Körper ist Rund, die Atmung ruhig und der Körper kontrolliert.",
+     "s": 13
+    }
+   ]
+  },
+  {
+   "id": "l-3-2",
+   "nr": "3.2",
+   "titel": "Kamae",
+   "von": 14,
+   "bis": 14,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Die hier dargestellten Formen beziehen sich auf die Schwertkampf-Kamae. In diesem Lehrwerk werden alleinig diese behandelt, weil diese bis zum Erreichen der höheren Grade wesentlich sind und die Grundlage für weitere Waffengattungen bilden.",
+     "s": 14
+    },
+    {
+     "t": "p",
+     "x": "Das Konzept der Kamae ist nicht als starre Form zu betrachten. Kamae ist dynamisch und nicht statisch. Wir fließen von einer Kamae in die nächste Kamae.",
+     "s": 14
+    },
+    {
+     "t": "h",
+     "x": "Kendo Kamae",
+     "s": 14
+    },
+    {
+     "t": "fig",
+     "img": "s14",
+     "alt": "Fünf Schwert-Kamae und Trefferstellen im Kendo",
+     "cap": "Chudan, Jodan, Hasso, Gedan und Waki no Kamae sowie Kendo-Trefferstellen (Lehrwerk S. 14)",
+     "s": 14
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Chudan no Kamae",
+      "Jodan no Kamae",
+      "Hasso no Kamae",
+      "Gedan no Kamae",
+      "Waki Gamae"
+     ],
+     "titel": "Die fünf Kamae der Abbildung",
+     "s": 14
+    },
+    {
+     "t": "dl",
+     "items": [
+      [
+       "Migi",
+       "rechts"
+      ],
+      [
+       "Hidari",
+       "links"
+      ],
+      [
+       "Morote",
+       "beidhändig"
+      ],
+      [
+       "Jodan",
+       "über Kopf"
+      ],
+      [
+       "Chudan",
+       "Halshöhe"
+      ],
+      [
+       "Gedan",
+       "Hüfthöhe und darunter"
+      ],
+      [
+       "Waki",
+       "seitlich am Körper"
+      ]
+     ],
+     "s": 14,
+     "titel": "Begriffe"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Men",
+      "Migi-Men",
+      "Hidari-Men",
+      "Tsuki",
+      "Kote",
+      "Hidari-Kote",
+      "Migi-Dō",
+      "Hidari-Dō"
+     ],
+     "s": 14,
+     "titel": "Beschriftung der Trefferstellen in der Abbildung (Kendoka)"
+    }
+   ]
+  },
+  {
+   "id": "l-3-3",
+   "nr": "3.3",
+   "titel": "Tameshigiri",
+   "von": 15,
+   "bis": 15,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Die Kunst Objekte zu zertrennen wird als Tameshigiri bezeichnet. Früher an zum Tode verurteilten Häftlingen und heute an Tatami-Omote Matten. Hierbei handelt es sich um große Reisstrohmatten, welche zum Kern einen Bambus haben können. Durch das Wässern und trocknen der Matten vor dem Tameshigiri, erhalten diese die Konsistenz menschlicher Gliedmaßen.",
+     "s": 15
+    },
+    {
+     "t": "p",
+     "x": "Shizan und Shito bezeichnen hierbei einerseits die Fähigkeit des Schwertkämpfers Objekte korrekt zu zertrennen und andererseits die Qualität des Schwertes, mit dem geschnitten wird. Shito wird in seiner Hochform durch Kabuto-wari unter Beweis gestellt.",
+     "s": 15
+    },
+    {
+     "t": "p",
+     "x": "Tameshigiri wird ab höherem Grad im YKR durchgeführt. Voraussetzung hierfür ist ein sicherer und verantwortungsbewusster Umgang mit der offenen Klinge und die Rücksprache mit dem Meister oder den Lehrenden vor Ort.",
+     "s": 15
+    },
+    {
+     "t": "p",
+     "x": "Die Fertigkeit des Schwertkämpfers ist durch den korrekten Schnittwinkel von 35° bis max. 45° erkennbar. Das Ziel sollte komplett durchtrennt sein und die Schnittfläche glatt und sauber.",
+     "s": 15
+    },
+    {
+     "t": "h",
+     "x": "kirikata no meisho – tome waza",
+     "s": 15
+    },
+    {
+     "t": "p",
+     "x": "Im Tameshigiri gibt es sieben furidome Techniken, in denen der Schnitt in der tome Position stoppt.",
+     "s": 15
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Hidari Kesagiri",
+      "Migi Kesagiri",
+      "Hidari Kesagiri (Migi Gyakugesa)",
+      "Migi Kesagiri (Hidari Gyakugesa)",
+      "Hidari Yokogiri",
+      "Migi Yokogiri",
+      "Dotangiri (Shinchokugiri)"
+     ],
+     "s": 15
+    },
+    {
+     "t": "fig",
+     "img": "s15",
+     "alt": "Sieben Schnittrichtungen im Tameshigiri",
+     "cap": "Die sieben furidome-Techniken (Lehrwerk S. 15)",
+     "s": 15
+    }
+   ]
+  },
+  {
+   "id": "l-3-4",
+   "nr": "3.4",
+   "titel": "Tameshiwari",
+   "von": 16,
+   "bis": 16,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Tameshiwari setzt ähnlich dem Tameshigiri Grundfertigkeiten des Budoka voraus. Hierbei werden Objekte ohne Hilfsmittel gebrochen. Es können Holzbretter, PVC-Bretter, Gasbetonsteine, Betonsteine, Holzleisten oder Flusssteine gebrochen werden.",
+     "s": 16
+    },
+    {
+     "t": "p",
+     "x": "Der Übende sollte sich seiner F ähigkeiten sicher sein. Selbstüberschätzungen würden hier schwerwiegende Folgen haben und zu mittel- bis schwerwiegenden Verletzungen führen. Die Einhaltung des Kihon trägt wesentlich zum Erfolg des Bruchtests bei.",
+     "s": 16
+    },
+    {
+     "t": "p",
+     "x": "Beim Bruchtest spielen mehrere Faktoren eine wesentliche Rolle: Distanz, Winkel, Treffpunkt, Krafteinsatz und Atemtechnik. Diese Elemente sollten vor dem Tameshiwari in der Kihon geübt werden.",
+     "s": 16
+    },
+    {
+     "t": "p",
+     "x": "Unbewegte Objekte wehren sich nicht, daher ist der Bruchtest nur ein Teil der Budo- Praxis. Er sorgt für das nötige Bewusstsein des Budoka, seine bereits erlernten Techniken effektiv einsetzen zu können. Tameshiwari sollte nicht zur Selbstdarstellung dienen oder zur übermäßigen Selbstverletzung eingesetzt werden. Diese Formen werden im YKR nicht toleriert. Tameshiwari ist mit klarem Geist und unter genauer Anleitung des Lehrmeisters zu praktizieren.",
+     "s": 16
+    },
+    {
+     "t": "p",
+     "x": "Es sind sowohl die eigenen technischen Fähigkeiten relevant, als auch die Entschlossenheit des Mitpraktizierenden, beim Halten des zu brechenden Objektes. Selbst der assistierende Schüler kann beim Halten des Objektes viele Fehler machen, welche in Folge zu Verletzungen beider führen können.",
+     "s": 16
+    }
+   ]
+  },
+  {
+   "id": "l-3-4-1",
+   "nr": "3.4.1",
+   "titel": "Kitae",
+   "von": 16,
+   "bis": 16,
+   "bloecke": [
+    {
+     "t": "p",
+     "x": "Das Abhärtungstraining wird sowohl in den klassischen Kampfkunstsystemen praktiziert, als auch in modernen Selbstverteidigungssystemen angewandt. Die Experten sind sich einig, dass die Fähigkeit im Kampf die Schläge \"einzustecken/zu ignorieren\" einen wesentlichen Teil zum erfolgreichen abwenden der Gefahrensituation beiträgt. Das \"ignorieren\" von Treffern führt ebenso zur psychischen als auch physischen Einschüchterung/Destabilisierung des Gegners.",
+     "s": 16
+    },
+    {
+     "t": "p",
+     "x": "Das Kitae (schmieden, trainieren, stählen) kann nach Anleitung sowohl ganz allein praktiziert werden, als auch mit einem Partner. Die drei Bereiche sind hierbei Kote Kitae (Arme), Hara Kitae (Bauch) und Ashi Kitae (Bein/Fuß). Hierbei gilt es zu unterscheiden, welchen Grad der Abhärtung der Mitschüler bereits erreicht hat. Auch hier ist eine Selbstdarstellung in jedem Fall zu unterlassen. Denke immer daran, es gibt immer eine Person, die noch stärker abgehärtet ist als du. Auch die Abhärtung folgt dem Prinzip der Überkompensation, daher sollte sich der Körper langsam daran gewöhnen. Die Körperpartien werden zunächst geschwächt (Haarrisse sind die Folge). Sind diese dann im Regenerationsprozess, so werden diese Bereiche widerstandsfähiger um dann zur vollen Reife zu gelangen. Der Körper wird langsam unterscheiden lernen, welcher Schmerz real und welcher eine Illusion ist. Das tiefere Verständnis für die Praxis bringt auch hier die Meditation. Kitae ist ein wesentlicher Bestandteil des Konzeptes im YKR und stellt eine ganz eigene Erfahrung dar, welche nicht vernachlässigt werden darf.",
+     "s": 16
+    },
+    {
+     "t": "q",
+     "x": "Cry in training, smile in battle!",
+     "s": 16
+    }
+   ],
+   "jp": "鍛え"
+  }
+ ]
+}

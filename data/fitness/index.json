@@ -1,0 +1,385 @@
+{
+ "hinweis": "Die Übungsbibliothek und die Trainingspläne sind eine Ergänzung und stammen nicht aus dem Lehrwerk. Sie enthalten ausschließlich Kraft-, Beweglichkeits- und Konditionsübungen, keine Kampfkunst-Techniken. Sie ersetzen keine ärztliche oder trainerische Beratung. Bei Schmerzen, Schwindel oder Vorerkrankungen vor dem Training Rücksprache halten. Technikintensive Übungen zuerst mit leichtem Gewicht und unter Anleitung üben.",
+ "geraete": [
+  {
+   "id": "koerper",
+   "name": "Nur Körpergewicht",
+   "fix": true
+  },
+  {
+   "id": "matte",
+   "name": "Matte"
+  },
+  {
+   "id": "stuhl",
+   "name": "Stabiler Stuhl oder Stufe"
+  },
+  {
+   "id": "bank",
+   "name": "Hantelbank"
+  },
+  {
+   "id": "kurzhantel",
+   "name": "Kurzhanteln"
+  },
+  {
+   "id": "langhantel",
+   "name": "Langhantel"
+  },
+  {
+   "id": "kettlebell",
+   "name": "Kettlebell"
+  },
+  {
+   "id": "band",
+   "name": "Widerstandsband"
+  },
+  {
+   "id": "klimmzug",
+   "name": "Klimmzugstange"
+  },
+  {
+   "id": "seil",
+   "name": "Springseil"
+  },
+  {
+   "id": "curl",
+   "name": "Curlstange (SZ-Stange)"
+  },
+  {
+   "id": "handles",
+   "name": "Liegestützgriffe"
+  },
+  {
+   "id": "hyper",
+   "name": "Rückenstrecker-Bank"
+  },
+  {
+   "id": "abwheel",
+   "name": "Ab-Roller"
+  }
+ ],
+ "gruppen": [
+  "Beine und Gesäß",
+  "Hüfte und Mobility",
+  "Rumpf",
+  "Oberkörper: Drücken",
+  "Oberkörper: Ziehen",
+  "Schulter und Nacken",
+  "Griffkraft und Unterarme",
+  "Kondition"
+ ],
+ "programme": [
+  {
+   "id": "p-aufwaermen",
+   "name": "Aufwärmen (ca. 10 Minuten)",
+   "beschr": "Allgemeines Aufwärmen vor dem Training: Kreislauf, Hüfte, Wirbelsäule.",
+   "schritte": [
+    [
+     "f-hampelmann",
+     "60 s"
+    ],
+    [
+     "f-beinschwingen",
+     "10 je Seite und Richtung"
+    ],
+    [
+     "f-katze-kuh",
+     "10"
+    ],
+    [
+     "f-wgs",
+     "4 je Seite"
+    ],
+    [
+     "f-kniebeuge",
+     "10"
+    ],
+    [
+     "f-hocke",
+     "30 s"
+    ]
+   ]
+  },
+  {
+   "id": "p-mobility",
+   "name": "Mobility-Flow Hüfte (ca. 12 Minuten)",
+   "beschr": "Ruhige Abfolge für Hüfte, Adduktoren und Sprunggelenke.",
+   "schritte": [
+    [
+     "f-90-90",
+     "8 je Seite"
+    ],
+    [
+     "f-hueftbeuger",
+     "30 s je Seite"
+    ],
+    [
+     "f-taube",
+     "40 s je Seite"
+    ],
+    [
+     "f-schmetterling",
+     "40 s"
+    ],
+    [
+     "f-cossack",
+     "6 je Seite"
+    ],
+    [
+     "f-hocke",
+     "45 s"
+    ]
+   ]
+  },
+  {
+   "id": "p-rumpf",
+   "name": "Rumpf-Basics (ca. 10 Minuten)",
+   "beschr": "Stabilität statt Bauchmuskel-Wiederholungen: 2 bis 3 Runden.",
+   "schritte": [
+    [
+     "f-deadbug",
+     "8 je Seite"
+    ],
+    [
+     "f-birddog",
+     "8 je Seite"
+    ],
+    [
+     "f-plank",
+     "30 s"
+    ],
+    [
+     "f-seitstuetz",
+     "20 s je Seite"
+    ],
+    [
+     "f-superman",
+     "10"
+    ]
+   ]
+  },
+  {
+   "id": "p-ganzkoerper",
+   "name": "Ganzkörper ohne Geräte (ca. 20 Minuten)",
+   "beschr": "3 Runden, zwischen den Runden 1 bis 2 Minuten Pause.",
+   "schritte": [
+    [
+     "f-kniebeuge",
+     "12"
+    ],
+    [
+     "f-liegestuetz",
+     "8-12"
+    ],
+    [
+     "f-ausfallschritt",
+     "8 je Seite"
+    ],
+    [
+     "f-hueftbruecke",
+     "15"
+    ],
+    [
+     "f-plank",
+     "40 s"
+    ],
+    [
+     "f-mountain",
+     "30 s"
+    ]
+   ]
+  },
+  {
+   "id": "p-tritt-warm",
+   "name": "Aufwärmen für Beinarbeit (ca. 12 Minuten)",
+   "beschr": "Beweglichkeit, Aktivierung, Sprungkraft und Puls in dieser Reihenfolge. Vor dem Training von Tritten, ohne lange statische Dehnungen.",
+   "schritte": [
+    [
+     "f-knie-brust",
+     "4 je Bein"
+    ],
+    [
+     "f-ferse-gesaess",
+     "4 je Bein"
+    ],
+    [
+     "f-hueftoeffner",
+     "4 je Bein"
+    ],
+    [
+     "f-wgs",
+     "4 je Seite"
+    ],
+    [
+     "f-hueftbruecke-einbeinig",
+     "8 je Seite"
+    ],
+    [
+     "f-splitsquat",
+     "8 je Seite"
+    ],
+    [
+     "f-sidelunge",
+     "8 je Seite"
+    ],
+    [
+     "f-rdl-knie",
+     "5 je Seite"
+    ],
+    [
+     "f-seilspringen",
+     "1–2 Min."
+    ]
+   ]
+  },
+  {
+   "id": "p-tritt-bw-ein",
+   "name": "Beweglichkeit für Tritte, Einsteiger (ca. 25 Minuten)",
+   "beschr": "Statische Dehnungen für Hüfte, Beinrückseite und Oberschenkel. Am besten nach dem Training oder als eigene Einheit.",
+   "schritte": [
+    [
+     "f-hamstring-gehen",
+     "2 × 25 s je Seite"
+    ],
+    [
+     "f-lunge-flach",
+     "2 × 25 s je Seite"
+    ],
+    [
+     "f-lunge-hamstring",
+     "2 × 25 s je Seite"
+    ],
+    [
+     "f-quad-kniend",
+     "2 × 25 s je Seite"
+    ],
+    [
+     "f-graetsche-3",
+     "2 Durchgänge"
+    ],
+    [
+     "f-frosch",
+     "2 × 30 s"
+    ],
+    [
+     "f-figure4",
+     "2 × 30 s je Seite"
+    ],
+    [
+     "f-kobra",
+     "3 × 15 s"
+    ]
+   ]
+  },
+  {
+   "id": "p-tritt-bw-fort",
+   "name": "Beweglichkeit für Tritte, Fortgeschritten (ca. 30 Minuten)",
+   "beschr": "Längere Haltezeiten und Annäherungen an die Spagate, mit Stütze. Nur gut aufgewärmt und mit viel Geduld.",
+   "schritte": [
+    [
+     "f-lunge-flach",
+     "2 × 30 s je Seite"
+    ],
+    [
+     "f-quad-kniend",
+     "2 × 30 s je Seite"
+    ],
+    [
+     "f-pnf-hamstring",
+     "2 × 40 s je Seite"
+    ],
+    [
+     "f-graetsche-3",
+     "3 Durchgänge"
+    ],
+    [
+     "f-spagat-graetsche",
+     "3 × 45 s"
+    ],
+    [
+     "f-spagat-front",
+     "2 × 45 s je Seite"
+    ],
+    [
+     "f-frosch",
+     "3 × 40 s"
+    ],
+    [
+     "f-kobra",
+     "3 × 15 s"
+    ]
+   ]
+  },
+  {
+   "id": "p-tritt-kraft",
+   "name": "Beinkraft für Tritte (ca. 30 Minuten)",
+   "beschr": "Kraft und Kontrolle in Hüfte und Bein, ohne Technikübungen. Mit Stuhl oder Wand zur Stütze.",
+   "schritte": [
+    [
+     "f-hueftbruecke-einbeinig",
+     "3 × 10 je Seite"
+    ],
+    [
+     "f-splitsquat",
+     "3 × 10 je Seite"
+    ],
+    [
+     "f-sidelunge",
+     "3 × 8 je Seite"
+    ],
+    [
+     "f-beinheben-vorn",
+     "2 × 10 je Seite"
+    ],
+    [
+     "f-beinheben-seit",
+     "2 × 10 je Seite"
+    ],
+    [
+     "f-beinheben-bogen",
+     "2 × 6 je Seite"
+    ],
+    [
+     "f-slrdl",
+     "2 × 8 je Seite"
+    ],
+    [
+     "f-quad-kniend",
+     "2 × 25 s je Seite"
+    ],
+    [
+     "f-hamstring-gehen",
+     "2 × 25 s je Seite"
+    ]
+   ]
+  }
+ ],
+ "lehrwerk": [
+  "l-7-2",
+  "l-7-4",
+  "l-7-4-1"
+ ],
+ "dateien": [
+  {
+   "art": "kraft",
+   "datei": "uebungen-kraft.json"
+  },
+  {
+   "art": "dehnung",
+   "datei": "uebungen-dehnung.json"
+  },
+  {
+   "art": "mobility",
+   "datei": "uebungen-mobility.json"
+  },
+  {
+   "art": "rumpf",
+   "datei": "uebungen-rumpf.json"
+  },
+  {
+   "art": "kondition",
+   "datei": "uebungen-kondition.json"
+  }
+ ]
+}

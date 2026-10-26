@@ -1,0 +1,270 @@
+{
+ "kategorie": "Karate (Kyokushinkai)",
+ "eintraege": [
+  {
+   "romaji": "Tameshiwari",
+   "jp": "試し割り",
+   "de": "Bruchtest: Objekte werden ohne Hilfsmittel gebrochen",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Lehrwerk S. 16",
+   "id": "g-tameshiwari"
+  },
+  {
+   "romaji": "Karate",
+   "jp": "空手",
+   "de": "„Leere Hand“",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-karate"
+  },
+  {
+   "romaji": "Karate-dō",
+   "jp": "空手道",
+   "de": "Weg der leeren Hand",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-karatedo"
+  },
+  {
+   "romaji": "Kyokushinkai",
+   "jp": "極真会",
+   "de": "Gesellschaft der äußersten Wahrheit",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-kyokushinkai"
+  },
+  {
+   "romaji": "Taikyoku",
+   "jp": "太極",
+   "de": "„Großer Ursprung“, Name der Anfänger-Kata",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-taikyoku"
+  },
+  {
+   "romaji": "Sanchin",
+   "jp": "三戦",
+   "de": "Kata und Atemschulung („Drei Kämpfe“)",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-sanchin"
+  },
+  {
+   "romaji": "Uchi",
+   "jp": "打ち",
+   "de": "Schlag",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-uchi"
+  },
+  {
+   "romaji": "Geri / Keri",
+   "jp": "蹴り",
+   "de": "Tritt",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-gerikeri"
+  },
+  {
+   "romaji": "Uke",
+   "jp": "受け",
+   "de": "Block, Abwehr",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-uke"
+  },
+  {
+   "romaji": "Seiken",
+   "jp": "正拳",
+   "de": "Vorderfaust",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-seiken"
+  },
+  {
+   "romaji": "Oi-zuki",
+   "jp": "追い突き",
+   "de": "Nachsetzender Fauststoß",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-oizuki"
+  },
+  {
+   "romaji": "Gyaku-zuki",
+   "jp": "逆突き",
+   "de": "Gegenseitiger Fauststoß",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-gyakuzuki"
+  },
+  {
+   "romaji": "Shutō-uchi",
+   "jp": "手刀打ち",
+   "de": "Handkantenschlag",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-shutouchi"
+  },
+  {
+   "romaji": "Hiji-ate",
+   "jp": "肘当て",
+   "de": "Ellenbogenstoß",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-hijiate"
+  },
+  {
+   "romaji": "Mae-geri",
+   "jp": "前蹴り",
+   "de": "Fronttritt",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-maegeri"
+  },
+  {
+   "romaji": "Mawashi-geri",
+   "jp": "回し蹴り",
+   "de": "Halbkreistritt",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-mawashigeri"
+  },
+  {
+   "romaji": "Yoko-geri",
+   "jp": "横蹴り",
+   "de": "Seitwärtstritt",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-yokogeri"
+  },
+  {
+   "romaji": "Ushiro-geri",
+   "jp": "後ろ蹴り",
+   "de": "Rückwärtstritt",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-ushirogeri"
+  },
+  {
+   "romaji": "Hiza-geri",
+   "jp": "膝蹴り",
+   "de": "Kniestoß",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-hizageri"
+  },
+  {
+   "romaji": "Age-uke",
+   "jp": "上げ受け",
+   "de": "Aufwärtsblock",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-ageuke"
+  },
+  {
+   "romaji": "Soto-uke",
+   "jp": "外受け",
+   "de": "Außenblock",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-sotouke"
+  },
+  {
+   "romaji": "Uchi-uke",
+   "jp": "内受け",
+   "de": "Innenblock",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-uchiuke"
+  },
+  {
+   "romaji": "Gedan-barai",
+   "jp": "下段払い",
+   "de": "Abwehr nach unten",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-gedanbarai"
+  },
+  {
+   "romaji": "Zenkutsu-dachi",
+   "jp": "前屈立ち",
+   "de": "Vorwärtsstand",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-zenkutsudachi"
+  },
+  {
+   "romaji": "Kōkutsu-dachi",
+   "jp": "後屈立ち",
+   "de": "Rückwärtsstand",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-kokutsudachi"
+  },
+  {
+   "romaji": "Kiba-dachi",
+   "jp": "騎馬立ち",
+   "de": "Reiterstand",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-kibadachi"
+  },
+  {
+   "romaji": "Sanchin-dachi",
+   "jp": "三戦立ち",
+   "de": "Sanchin-Stand",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-sanchindachi",
+   "alt": [
+    "Sanchin-Stand („Drei-Schlachten“-Stand)"
+   ]
+  },
+  {
+   "romaji": "Heisoku-dachi",
+   "jp": "閉足立ち",
+   "de": "Geschlossener Stand",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-heisokudachi"
+  },
+  {
+   "romaji": "Musubi-dachi",
+   "jp": "結び立ち",
+   "de": "Stand mit V-förmig geöffneten Füßen",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-musubidachi",
+   "alt": [
+    "Grußstand (Meditationsstand)"
+   ]
+  },
+  {
+   "romaji": "Fudō-dachi",
+   "jp": "不動立ち",
+   "de": "Fester, unbeweglicher Stand",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-fudodachi",
+   "alt": [
+    "Fester Stand (Bereitschaftsstand)"
+   ]
+  },
+  {
+   "romaji": "Neko-ashi-dachi",
+   "jp": "猫足立ち",
+   "de": "Katzenfußstand",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-nekoashidachi"
+  },
+  {
+   "romaji": "Makiwara",
+   "jp": "巻藁",
+   "de": "Schlagpfosten (Abhärtung)",
+   "kat": "Karate (Kyokushinkai)",
+   "quelle": "Ergänzung",
+   "id": "g-makiwara"
+  }
+ ]
+}

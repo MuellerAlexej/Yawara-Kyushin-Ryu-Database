@@ -1,0 +1,1643 @@
+{
+ "_anleitung": [
+  "Hier trägst du YouTube-Links (oder andere Videolinks) zu Techniken und Übungen ein.",
+  "Bei jedem Eintrag steht in \"links\" eine Liste. Beispiel: \"links\": [ {\"titel\": \"Ausführung durch Sensei\", \"url\": \"https://www.youtube.com/watch?v=XXXXXXXXXXX\"} ]",
+  "Mehrere Videos: mehrere Einträge in die Liste, jeweils durch ein Komma getrennt.",
+  "Ohne Link zeigt die App automatisch eine YouTube-Suche zur Technik. Sobald ein Link eingetragen ist, wird er direkt angezeigt (die Suche bleibt als Zusatz).",
+  "Es zählen nur Links, die mit http:// oder https:// beginnen. Das Feld \"titel\" ist optional.",
+  "Nach dem Bearbeiten die Datei data/videos.json im Repository ersetzen. Wichtig: Die Datei muss gültiges JSON bleiben (Anführungszeichen und Kommas beachten)."
+ ],
+ "eintraege": [
+  {
+   "id": "t-seitei-1",
+   "name": "1. Ipponme Mae",
+   "bereich": "Iaido",
+   "gruppe": "Seitei-Iai-Kata (ZNKR)",
+   "links": []
+  },
+  {
+   "id": "t-seitei-2",
+   "name": "2. Nihonme Ushiro",
+   "bereich": "Iaido",
+   "gruppe": "Seitei-Iai-Kata (ZNKR)",
+   "links": []
+  },
+  {
+   "id": "t-seitei-3",
+   "name": "3. Sambonme Ukenagashi",
+   "bereich": "Iaido",
+   "gruppe": "Seitei-Iai-Kata (ZNKR)",
+   "links": []
+  },
+  {
+   "id": "t-seitei-4",
+   "name": "4. Yohonme Tsukaate",
+   "bereich": "Iaido",
+   "gruppe": "Seitei-Iai-Kata (ZNKR)",
+   "links": []
+  },
+  {
+   "id": "t-seitei-5",
+   "name": "5. Gohonme Kesagiri",
+   "bereich": "Iaido",
+   "gruppe": "Seitei-Iai-Kata (ZNKR)",
+   "links": []
+  },
+  {
+   "id": "t-seitei-6",
+   "name": "6. Ropponme Morotezuki",
+   "bereich": "Iaido",
+   "gruppe": "Seitei-Iai-Kata (ZNKR)",
+   "links": []
+  },
+  {
+   "id": "t-seitei-7",
+   "name": "7. Nanahonme Sanpōgiri",
+   "bereich": "Iaido",
+   "gruppe": "Seitei-Iai-Kata (ZNKR)",
+   "links": []
+  },
+  {
+   "id": "t-seitei-8",
+   "name": "8. Hachihonme Ganmenate",
+   "bereich": "Iaido",
+   "gruppe": "Seitei-Iai-Kata (ZNKR)",
+   "links": []
+  },
+  {
+   "id": "t-seitei-9",
+   "name": "9. Kyuhonme Soetezuki",
+   "bereich": "Iaido",
+   "gruppe": "Seitei-Iai-Kata (ZNKR)",
+   "links": []
+  },
+  {
+   "id": "t-seitei-10",
+   "name": "10. Jūpponme Shihōgiri",
+   "bereich": "Iaido",
+   "gruppe": "Seitei-Iai-Kata (ZNKR)",
+   "links": []
+  },
+  {
+   "id": "t-seitei-11",
+   "name": "11. Jūipponme Sōgiri",
+   "bereich": "Iaido",
+   "gruppe": "Seitei-Iai-Kata (ZNKR)",
+   "links": []
+  },
+  {
+   "id": "t-seitei-12",
+   "name": "12. Jūnihonme Nukiuchi",
+   "bereich": "Iaido",
+   "gruppe": "Seitei-Iai-Kata (ZNKR)",
+   "links": []
+  },
+  {
+   "id": "t-kata-el-1",
+   "name": "1. Nuki Tsuke",
+   "bereich": "Iaido",
+   "gruppe": "Elemente einer Kata",
+   "links": []
+  },
+  {
+   "id": "t-kata-el-2",
+   "name": "2. Kiri Tsuke",
+   "bereich": "Iaido",
+   "gruppe": "Elemente einer Kata",
+   "links": []
+  },
+  {
+   "id": "t-kata-el-3",
+   "name": "3. Chiburi",
+   "bereich": "Iaido",
+   "gruppe": "Elemente einer Kata",
+   "links": []
+  },
+  {
+   "id": "t-kata-el-4",
+   "name": "4. Noto",
+   "bereich": "Iaido",
+   "gruppe": "Elemente einer Kata",
+   "links": []
+  },
+  {
+   "id": "t-chudan-no-kamae",
+   "name": "Chudan no Kamae",
+   "bereich": "Iaido",
+   "gruppe": "Kamae (Schwertkampf)",
+   "links": []
+  },
+  {
+   "id": "t-jodan-no-kamae",
+   "name": "Jodan no Kamae",
+   "bereich": "Iaido",
+   "gruppe": "Kamae (Schwertkampf)",
+   "links": []
+  },
+  {
+   "id": "t-hasso-no-kamae",
+   "name": "Hasso no Kamae",
+   "bereich": "Iaido",
+   "gruppe": "Kamae (Schwertkampf)",
+   "links": []
+  },
+  {
+   "id": "t-gedan-no-kamae",
+   "name": "Gedan no Kamae",
+   "bereich": "Iaido",
+   "gruppe": "Kamae (Schwertkampf)",
+   "links": []
+  },
+  {
+   "id": "t-waki-gamae",
+   "name": "Waki Gamae",
+   "bereich": "Iaido",
+   "gruppe": "Kamae (Schwertkampf)",
+   "links": []
+  },
+  {
+   "id": "t-tameshigiri-1",
+   "name": "Hidari Kesagiri",
+   "bereich": "Iaido",
+   "gruppe": "Tameshigiri: sieben furidome-Techniken",
+   "links": []
+  },
+  {
+   "id": "t-tameshigiri-2",
+   "name": "Migi Kesagiri",
+   "bereich": "Iaido",
+   "gruppe": "Tameshigiri: sieben furidome-Techniken",
+   "links": []
+  },
+  {
+   "id": "t-tameshigiri-3",
+   "name": "Hidari Kesagiri (Migi Gyakugesa)",
+   "bereich": "Iaido",
+   "gruppe": "Tameshigiri: sieben furidome-Techniken",
+   "links": []
+  },
+  {
+   "id": "t-tameshigiri-4",
+   "name": "Migi Kesagiri (Hidari Gyakugesa)",
+   "bereich": "Iaido",
+   "gruppe": "Tameshigiri: sieben furidome-Techniken",
+   "links": []
+  },
+  {
+   "id": "t-tameshigiri-5",
+   "name": "Hidari Yokogiri",
+   "bereich": "Iaido",
+   "gruppe": "Tameshigiri: sieben furidome-Techniken",
+   "links": []
+  },
+  {
+   "id": "t-tameshigiri-6",
+   "name": "Migi Yokogiri",
+   "bereich": "Iaido",
+   "gruppe": "Tameshigiri: sieben furidome-Techniken",
+   "links": []
+  },
+  {
+   "id": "t-tameshigiri-7",
+   "name": "Dotangiri (Shinchokugiri)",
+   "bereich": "Iaido",
+   "gruppe": "Tameshigiri: sieben furidome-Techniken",
+   "links": []
+  },
+  {
+   "id": "t-taikyoku-1",
+   "name": "Taikyoku Sono Ichi",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Kata",
+   "links": []
+  },
+  {
+   "id": "t-taikyoku-2",
+   "name": "Taikyoku Sono Ni",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Kata",
+   "links": []
+  },
+  {
+   "id": "t-taikyoku-3",
+   "name": "Taikyoku Sono San",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Kata",
+   "links": []
+  },
+  {
+   "id": "t-kote-kitae",
+   "name": "Kote Kitae",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Kitae (Abhärtung)",
+   "links": []
+  },
+  {
+   "id": "t-hara-kitae",
+   "name": "Hara Kitae",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Kitae (Abhärtung)",
+   "links": []
+  },
+  {
+   "id": "t-ashi-kitae",
+   "name": "Ashi Kitae",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Kitae (Abhärtung)",
+   "links": []
+  },
+  {
+   "id": "t-tameshiwari",
+   "name": "Tameshiwari (Bruchtest)",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tameshiwari",
+   "links": []
+  },
+  {
+   "id": "t-sparring",
+   "name": "Sparring (Kumite)",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Kumite",
+   "links": []
+  },
+  {
+   "id": "t-ukemi-fall-vorwärts-1",
+   "name": "Fall vorwärts 1",
+   "bereich": "Jiu-Jitsu / Selbstverteidigung",
+   "gruppe": "Ukemi (Fallschule)",
+   "links": []
+  },
+  {
+   "id": "t-ukemi-fall-vorwärts-2",
+   "name": "Fall vorwärts 2",
+   "bereich": "Jiu-Jitsu / Selbstverteidigung",
+   "gruppe": "Ukemi (Fallschule)",
+   "links": []
+  },
+  {
+   "id": "t-ukemi-fall-rückwärts",
+   "name": "Fall rückwärts",
+   "bereich": "Jiu-Jitsu / Selbstverteidigung",
+   "gruppe": "Ukemi (Fallschule)",
+   "links": []
+  },
+  {
+   "id": "t-ukemi-seitlicher-fall-nach-links-und-rechts",
+   "name": "Seitlicher Fall nach links und rechts",
+   "bereich": "Jiu-Jitsu / Selbstverteidigung",
+   "gruppe": "Ukemi (Fallschule)",
+   "links": []
+  },
+  {
+   "id": "t-kaiten",
+   "name": "Kaiten (Rollschule)",
+   "bereich": "Jiu-Jitsu / Selbstverteidigung",
+   "gruppe": "Kaiten (Rollschule)",
+   "links": []
+  },
+  {
+   "id": "t-randori",
+   "name": "Randori",
+   "bereich": "Jiu-Jitsu / Selbstverteidigung",
+   "gruppe": "Training",
+   "links": []
+  },
+  {
+   "id": "t-shiai",
+   "name": "Shiai",
+   "bereich": "Jiu-Jitsu / Selbstverteidigung",
+   "gruppe": "Training",
+   "links": []
+  },
+  {
+   "id": "t-taijutsu",
+   "name": "Taijutsu",
+   "bereich": "Jiu-Jitsu / Selbstverteidigung",
+   "gruppe": "Training",
+   "links": []
+  },
+  {
+   "id": "t-situativ",
+   "name": "Situationstraining",
+   "bereich": "Jiu-Jitsu / Selbstverteidigung",
+   "gruppe": "Prüfung",
+   "links": []
+  },
+  {
+   "id": "t-zarei",
+   "name": "Za-rei",
+   "bereich": "Yawara Kyushin Ryu",
+   "gruppe": "Etikette",
+   "links": []
+  },
+  {
+   "id": "t-ritsurei",
+   "name": "Ritsurei",
+   "bereich": "Yawara Kyushin Ryu",
+   "gruppe": "Etikette",
+   "links": []
+  },
+  {
+   "id": "t-zazen",
+   "name": "Zazen und Sitzhaltung",
+   "bereich": "Yawara Kyushin Ryu",
+   "gruppe": "Meditation",
+   "links": []
+  },
+  {
+   "id": "f-kniebeuge",
+   "name": "Kniebeuge (Körpergewicht)",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-ausfallschritt",
+   "name": "Ausfallschritt",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-wandsitz",
+   "name": "Wandsitz",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-hueftbruecke",
+   "name": "Hüftbrücke (Glute Bridge)",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-hueftbruecke-einbeinig",
+   "name": "Einbeinige Hüftbrücke",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-wadenheben",
+   "name": "Wadenheben",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-stepup",
+   "name": "Step-Up",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-bulgarisch",
+   "name": "Bulgarische Kniebeuge",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-sprungkniebeuge",
+   "name": "Sprungkniebeuge",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-goblet",
+   "name": "Goblet-Kniebeuge",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-rdl",
+   "name": "Rumänisches Kreuzheben",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-kreuzheben",
+   "name": "Kreuzheben",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-kniebeuge-lh",
+   "name": "Langhantel-Kniebeuge",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-kb-swing",
+   "name": "Kettlebell-Swing",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-hocke",
+   "name": "Tiefe Hocke halten",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-90-90",
+   "name": "90/90 Hüftrotation",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-hueftbeuger",
+   "name": "Hüftbeuger-Dehnung (Kniender Ausfallschritt)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-taube",
+   "name": "Taube (Pigeon Stretch)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-schmetterling",
+   "name": "Schmetterling",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-frosch",
+   "name": "Frosch-Dehnung",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-cossack",
+   "name": "Cossack Squat (Seitlicher Ausfallschritt)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-beinschwingen",
+   "name": "Beinschwingen (Leg Swings)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-wgs",
+   "name": "World's Greatest Stretch",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-seiza-prep",
+   "name": "Fersensitz vorbereiten (Sprunggelenke mobilisieren)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-katze-kuh",
+   "name": "Katze-Kuh",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-thread",
+   "name": "Brustwirbelsäulen-Rotation (Thread the Needle)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-waden-wand",
+   "name": "Wadendehnung an der Wand",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-hamstring-band",
+   "name": "Beinrückseite dehnen mit Band",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-nacken",
+   "name": "Nackenmobilisation (sanft)",
+   "bereich": "Körpertraining",
+   "gruppe": "Schulter und Nacken",
+   "links": []
+  },
+  {
+   "id": "f-plank",
+   "name": "Unterarmstütz (Plank)",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-seitstuetz",
+   "name": "Seitstütz",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-deadbug",
+   "name": "Dead Bug",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-birddog",
+   "name": "Bird Dog",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-hollow",
+   "name": "Hollow Hold",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-beinheben",
+   "name": "Beinheben liegend",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-russian-twist",
+   "name": "Russian Twist",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-pallof",
+   "name": "Pallof Press",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-superman",
+   "name": "Rückenstrecker (Superman)",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-knieheben-hang",
+   "name": "Hängendes Knieheben",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-liegestuetz",
+   "name": "Liegestütz",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-liegestuetz-knie",
+   "name": "Liegestütz auf den Knien",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-diamant",
+   "name": "Diamant-Liegestütz",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-pike",
+   "name": "Pike Push-Up",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-dips-stuhl",
+   "name": "Dips am Stuhl",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-kh-bankdruecken",
+   "name": "Kurzhantel-Bankdrücken",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-lh-bankdruecken",
+   "name": "Langhantel-Bankdrücken",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-schulterdruecken",
+   "name": "Schulterdrücken (Kurzhantel)",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-seitheben",
+   "name": "Seitheben",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-trizeps-oh",
+   "name": "Trizepsstrecken über Kopf",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-klimmzug",
+   "name": "Klimmzug",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-klimmzug-negativ",
+   "name": "Negative Klimmzüge",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-kh-rudern",
+   "name": "Einarmiges Kurzhantelrudern",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-lh-rudern",
+   "name": "Vorgebeugtes Langhantelrudern",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-band-rudern",
+   "name": "Band-Rudern",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-face-pull",
+   "name": "Face Pull",
+   "bereich": "Körpertraining",
+   "gruppe": "Schulter und Nacken",
+   "links": []
+  },
+  {
+   "id": "f-pull-apart",
+   "name": "Band Pull-Apart",
+   "bereich": "Körpertraining",
+   "gruppe": "Schulter und Nacken",
+   "links": []
+  },
+  {
+   "id": "f-curl",
+   "name": "Bizeps-Curl",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-dead-hang",
+   "name": "Dead Hang (Hängen)",
+   "bereich": "Körpertraining",
+   "gruppe": "Griffkraft und Unterarme",
+   "links": []
+  },
+  {
+   "id": "f-farmer",
+   "name": "Farmer's Walk",
+   "bereich": "Körpertraining",
+   "gruppe": "Griffkraft und Unterarme",
+   "links": []
+  },
+  {
+   "id": "f-handgelenk",
+   "name": "Handgelenkbeugen und -strecken",
+   "bereich": "Körpertraining",
+   "gruppe": "Griffkraft und Unterarme",
+   "links": []
+  },
+  {
+   "id": "f-seilspringen",
+   "name": "Seilspringen",
+   "bereich": "Körpertraining",
+   "gruppe": "Kondition",
+   "links": []
+  },
+  {
+   "id": "f-hampelmann",
+   "name": "Hampelmann (Jumping Jacks)",
+   "bereich": "Körpertraining",
+   "gruppe": "Kondition",
+   "links": []
+  },
+  {
+   "id": "f-mountain",
+   "name": "Bergsteiger (Mountain Climbers)",
+   "bereich": "Körpertraining",
+   "gruppe": "Kondition",
+   "links": []
+  },
+  {
+   "id": "f-burpee",
+   "name": "Burpee",
+   "bereich": "Körpertraining",
+   "gruppe": "Kondition",
+   "links": []
+  },
+  {
+   "id": "f-dauerlauf",
+   "name": "Dauerlauf (Dauermethode)",
+   "bereich": "Körpertraining",
+   "gruppe": "Kondition",
+   "links": []
+  },
+  {
+   "id": "f-intervall",
+   "name": "Intervalllauf (Intervallmethode)",
+   "bereich": "Körpertraining",
+   "gruppe": "Kondition",
+   "links": []
+  },
+  {
+   "id": "p-aufwaermen",
+   "name": "Aufwärmen (ca. 10 Minuten)",
+   "bereich": "Körpertraining",
+   "gruppe": "Kurzprogramme",
+   "links": []
+  },
+  {
+   "id": "p-mobility",
+   "name": "Mobility-Flow Hüfte (ca. 12 Minuten)",
+   "bereich": "Körpertraining",
+   "gruppe": "Kurzprogramme",
+   "links": []
+  },
+  {
+   "id": "p-rumpf",
+   "name": "Rumpf-Basics (ca. 10 Minuten)",
+   "bereich": "Körpertraining",
+   "gruppe": "Kurzprogramme",
+   "links": []
+  },
+  {
+   "id": "p-ganzkoerper",
+   "name": "Ganzkörper ohne Geräte (ca. 20 Minuten)",
+   "bereich": "Körpertraining",
+   "gruppe": "Kurzprogramme",
+   "links": []
+  },
+  {
+   "id": "f-brust-tuer",
+   "name": "Brustdehnung am Türrahmen",
+   "bereich": "Körpertraining",
+   "gruppe": "Schulter und Nacken",
+   "links": []
+  },
+  {
+   "id": "f-schulter-cross",
+   "name": "Schulterdehnung (Arm vor der Brust)",
+   "bereich": "Körpertraining",
+   "gruppe": "Schulter und Nacken",
+   "links": []
+  },
+  {
+   "id": "f-trizeps-dehn",
+   "name": "Trizepsdehnung über Kopf",
+   "bereich": "Körpertraining",
+   "gruppe": "Schulter und Nacken",
+   "links": []
+  },
+  {
+   "id": "f-quadri",
+   "name": "Oberschenkelvorderseite dehnen (stehend)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-hamstring-sitz",
+   "name": "Beinrückseite dehnen (Vorbeuge im Sitz)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-kind",
+   "name": "Kindhaltung",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-graetsche",
+   "name": "Grätsche im Sitz (Adduktoren)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-figure4",
+   "name": "Gesäßdehnung liegend (Figure 4)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-rotation-liegend",
+   "name": "Rückenlage-Rotation (Knie zur Seite)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-seitbeuge",
+   "name": "Seitbeuge im Stand",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-nacken-seit",
+   "name": "Nackendehnung seitlich",
+   "bereich": "Körpertraining",
+   "gruppe": "Schulter und Nacken",
+   "links": []
+  },
+  {
+   "id": "f-unterarm-dehn",
+   "name": "Unterarmdehnung (Handgelenk)",
+   "bereich": "Körpertraining",
+   "gruppe": "Griffkraft und Unterarme",
+   "links": []
+  },
+  {
+   "id": "f-dbfront",
+   "name": "Kurzhantel-Frontkniebeuge",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-boxsquat",
+   "name": "Kniebeuge zur Bank",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-pausesquat",
+   "name": "Kniebeuge mit Pause",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-kbgoblet",
+   "name": "Kettlebell-Goblet-Kniebeuge",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-walklunge",
+   "name": "Gehende Ausfallschritte",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-splitsquat",
+   "name": "Split-Kniebeuge (statisch)",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-sidelunge",
+   "name": "Seitlicher Ausfallschritt",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-slrdl",
+   "name": "Einbeiniges Rumänisches Kreuzheben",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-goodmorning",
+   "name": "Good Morning (Hantel vor der Brust)",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-sumodl",
+   "name": "Sumo-Kreuzheben (1 Kurzhantel)",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-slbridge",
+   "name": "Einbeinige Hüftbrücke (Wiederholungen)",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-frogpump",
+   "name": "Frog Pump",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-bandkick",
+   "name": "Donkey Kicks mit Band",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-bandwalk",
+   "name": "Seitliche Schritte mit Band",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-floorpress",
+   "name": "Kurzhantel-Floor-Press",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-pushupfeet",
+   "name": "Liegestütze mit erhöhten Füßen",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-dbfly",
+   "name": "Kurzhantel-Fliegende flach",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-bandfly",
+   "name": "Fliegende mit Band",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-arnold",
+   "name": "Arnold Press",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-kbpress",
+   "name": "Kettlebell-Schulterdrücken",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-oneohp",
+   "name": "Einarm-Schulterdrücken stehend",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-frontraise",
+   "name": "Frontheben (Kurzhantel)",
+   "bereich": "Körpertraining",
+   "gruppe": "Schulter und Nacken",
+   "links": []
+  },
+  {
+   "id": "f-bandlateral",
+   "name": "Seitheben mit Band",
+   "bereich": "Körpertraining",
+   "gruppe": "Schulter und Nacken",
+   "links": []
+  },
+  {
+   "id": "f-shrug",
+   "name": "Shrugs (Kurzhanteln)",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-yraise",
+   "name": "Y-Raises auf der Schrägbank",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-wallslide",
+   "name": "Wall Slides",
+   "bereich": "Körpertraining",
+   "gruppe": "Schulter und Nacken",
+   "links": []
+  },
+  {
+   "id": "f-bandextrot",
+   "name": "Außenrotation mit Band",
+   "bereich": "Körpertraining",
+   "gruppe": "Schulter und Nacken",
+   "links": []
+  },
+  {
+   "id": "f-kbrow",
+   "name": "Einarm-Rudern (Kettlebell)",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-curlrow",
+   "name": "Rudern im Untergriff (Curlstange)",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-chestrow1",
+   "name": "Einarm-Rudern brustgestützt",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-scappull",
+   "name": "Scapular Pull-ups",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-hammer",
+   "name": "Hammer-Curls",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-bandcurl",
+   "name": "Curls mit Band",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Ziehen",
+   "links": []
+  },
+  {
+   "id": "f-kickback",
+   "name": "Trizeps-Kickbacks",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-bandpushdown",
+   "name": "Trizeps-Pushdown mit Band",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-dbskull",
+   "name": "Skullcrusher (Kurzhanteln)",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-declinecrunch",
+   "name": "Crunches auf der Schrägbank",
+   "bereich": "Körpertraining",
+   "gruppe": "Rumpf",
+   "links": []
+  },
+  {
+   "id": "f-highknee",
+   "name": "Kniehebelauf",
+   "bereich": "Körpertraining",
+   "gruppe": "Kondition",
+   "links": []
+  },
+  {
+   "id": "f-thruster",
+   "name": "Kurzhantel-Thruster",
+   "bereich": "Körpertraining",
+   "gruppe": "Oberkörper: Drücken",
+   "links": []
+  },
+  {
+   "id": "f-dbswing",
+   "name": "Kurzhantel-Swings",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-skater",
+   "name": "Skater-Sprünge",
+   "bereich": "Körpertraining",
+   "gruppe": "Kondition",
+   "links": []
+  },
+  {
+   "id": "f-calfraise",
+   "name": "Wadenheben stehend (Kurzhanteln)",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "t-bein-chusoku",
+   "name": "Chūsoku",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "links": []
+  },
+  {
+   "id": "t-bein-haisoku",
+   "name": "Haisoku",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "links": []
+  },
+  {
+   "id": "t-bein-hiza",
+   "name": "Hiza",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "links": []
+  },
+  {
+   "id": "t-bein-kakato",
+   "name": "Kakato",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "links": []
+  },
+  {
+   "id": "t-bein-sokuto",
+   "name": "Sokutō",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "links": []
+  },
+  {
+   "id": "t-bein-teisoku",
+   "name": "Teisoku",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "links": []
+  },
+  {
+   "id": "t-bein-sune",
+   "name": "Sune",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Beinwaffen (Teile des Beins)",
+   "links": []
+  },
+  {
+   "id": "t-geri-hizageri",
+   "name": "Hiza geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-kansetsugeri",
+   "name": "Kansetsu geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-kingeri",
+   "name": "Kin geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-mawashigeri",
+   "name": "Mawashi geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-maegeri",
+   "name": "Mae geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-maekeage",
+   "name": "Mae keage",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-oroshigeri",
+   "name": "Oroshi geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-sotomawashigeri",
+   "name": "Soto mawashi geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-tobimaegeri",
+   "name": "Tobi mae geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-tobimawashigeri",
+   "name": "Tobi mawashi geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-tobiushirogeri",
+   "name": "Tobi ushiro geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-tobiushiromawashigeri",
+   "name": "Tobi ushiro mawashi geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-ushirokakatokingeri",
+   "name": "Ushiro kakato kin geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-uchimawashigeri",
+   "name": "Uchi mawashi geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-ushirogeri",
+   "name": "Ushiro geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-ushiromawashigeri",
+   "name": "Ushiro mawashi geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-yokogeri",
+   "name": "Yoko geri",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-geri-yokokeage",
+   "name": "Yoko keage",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Tritte (Geri)",
+   "links": []
+  },
+  {
+   "id": "t-dachi-fudodachiauchyoidachi",
+   "name": "Fudō dachi (auch Yoi dachi)",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Stände (Tachikata)",
+   "links": []
+  },
+  {
+   "id": "t-dachi-heikodachi",
+   "name": "Heikō dachi",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Stände (Tachikata)",
+   "links": []
+  },
+  {
+   "id": "t-dachi-heisokudachi",
+   "name": "Heisoku dachi",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Stände (Tachikata)",
+   "links": []
+  },
+  {
+   "id": "t-dachi-kakedachi",
+   "name": "Kake dachi",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Stände (Tachikata)",
+   "links": []
+  },
+  {
+   "id": "t-dachi-kibadachi",
+   "name": "Kiba dachi",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Stände (Tachikata)",
+   "links": []
+  },
+  {
+   "id": "t-dachi-kokutsudachi",
+   "name": "Kōkutsu dachi",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Stände (Tachikata)",
+   "links": []
+  },
+  {
+   "id": "t-dachi-moroashidachi",
+   "name": "Moro ashi dachi",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Stände (Tachikata)",
+   "links": []
+  },
+  {
+   "id": "t-dachi-musubidachi",
+   "name": "Musubi dachi",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Stände (Tachikata)",
+   "links": []
+  },
+  {
+   "id": "t-dachi-nekoashidachi",
+   "name": "Neko ashi dachi",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Stände (Tachikata)",
+   "links": []
+  },
+  {
+   "id": "t-dachi-sanchindachi",
+   "name": "Sanchin dachi",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Stände (Tachikata)",
+   "links": []
+  },
+  {
+   "id": "t-dachi-tsuruashidachi",
+   "name": "Tsuru ashi dachi",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Stände (Tachikata)",
+   "links": []
+  },
+  {
+   "id": "t-dachi-uchihachijidachi",
+   "name": "Uchi hachiji dachi",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Stände (Tachikata)",
+   "links": []
+  },
+  {
+   "id": "t-dachi-zenkutsudachi",
+   "name": "Zenkutsu dachi",
+   "bereich": "Kyokushinkai Karate",
+   "gruppe": "Stände (Tachikata)",
+   "links": []
+  },
+  {
+   "id": "f-lunge-flach",
+   "name": "Ausfallschritt-Dehnung (Fuß flach)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-lunge-hamstring",
+   "name": "Ausfallschritt-Dehnung für die Beinrückseite",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-quad-kniend",
+   "name": "Kniende Oberschenkeldehnung",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-hamstring-gehen",
+   "name": "Beinrückseite im Gehen dehnen",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-graetsche-3",
+   "name": "Grätsche im Sitz in drei Richtungen",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-kobra",
+   "name": "Kobra (Rückbeuge in Bauchlage)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-spagat-graetsche",
+   "name": "Grätschspagat-Annäherung (mit Stütze)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-spagat-front",
+   "name": "Frontspagat-Annäherung (mit Stütze)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-pnf-hamstring",
+   "name": "Anspannen-Entspannen-Dehnung (Beinrückseite)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-knie-brust",
+   "name": "Knie zur Brust ziehen (Stand)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-ferse-gesaess",
+   "name": "Ferse zum Gesäß (im Gehen)",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-hueftoeffner",
+   "name": "Hüftöffner im Gehen",
+   "bereich": "Körpertraining",
+   "gruppe": "Hüfte und Mobility",
+   "links": []
+  },
+  {
+   "id": "f-beinheben-vorn",
+   "name": "Beinheben nach vorn im Stand",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-beinheben-seit",
+   "name": "Beinheben seitlich im Stand",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-beinheben-bogen",
+   "name": "Beinheben im Halbkreis (kontrolliert)",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-beinheben-neigung",
+   "name": "Seitliches Beinheben mit geneigtem Oberkörper",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-beinheben-hinten",
+   "name": "Beinheben nach hinten im Stand",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-rdl-knie",
+   "name": "Einbeinige Hüftbeuge mit Knieheben",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "f-rdl-knie-sprung",
+   "name": "Einbeinige Hüftbeuge mit Kniehebesprung",
+   "bereich": "Körpertraining",
+   "gruppe": "Beine und Gesäß",
+   "links": []
+  },
+  {
+   "id": "p-tritt-warm",
+   "name": "Aufwärmen für Beinarbeit (ca. 12 Minuten)",
+   "bereich": "Körpertraining",
+   "gruppe": "Kurzprogramme",
+   "links": []
+  },
+  {
+   "id": "p-tritt-bw-ein",
+   "name": "Beweglichkeit für Tritte, Einsteiger (ca. 25 Minuten)",
+   "bereich": "Körpertraining",
+   "gruppe": "Kurzprogramme",
+   "links": []
+  },
+  {
+   "id": "p-tritt-bw-fort",
+   "name": "Beweglichkeit für Tritte, Fortgeschritten (ca. 30 Minuten)",
+   "bereich": "Körpertraining",
+   "gruppe": "Kurzprogramme",
+   "links": []
+  },
+  {
+   "id": "p-tritt-kraft",
+   "name": "Beinkraft für Tritte (ca. 30 Minuten)",
+   "bereich": "Körpertraining",
+   "gruppe": "Kurzprogramme",
+   "links": []
+  }
+ ]
+}

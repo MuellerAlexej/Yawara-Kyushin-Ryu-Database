@@ -1,0 +1,165 @@
+{
+ "kategorie": "Iaido: Philosophie und Taktik",
+ "eintraege": [
+  {
+   "romaji": "Kokoro",
+   "jp": "心",
+   "de": "Herz, Geist",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-kokoro"
+  },
+  {
+   "romaji": "Heijōshin",
+   "jp": "平常心",
+   "de": "Gewöhnlicher Geist, Gleichmut",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-heijoshin"
+  },
+  {
+   "romaji": "Sen",
+   "jp": "先",
+   "de": "Initiative, zuvorkommen",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-sen"
+  },
+  {
+   "romaji": "Sen no sen",
+   "jp": "先の先",
+   "de": "Zuschlagen, wenn der Gegner den Angriff beschließt, aber noch nicht bewegt",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-sennosen"
+  },
+  {
+   "romaji": "Gō no sen",
+   "jp": "後の先",
+   "de": "Zuschlagen in eine Lücke, bevor der Gegner den Entschluss zum Angriff fasst",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-gonosen"
+  },
+  {
+   "romaji": "Dehana-waza",
+   "jp": "出端技",
+   "de": "Technik im Moment, in dem der Gegner sich in Bewegung setzt",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-dehanawaza"
+  },
+  {
+   "romaji": "Oi-waza",
+   "jp": "追い技",
+   "de": "Verfolgungstechnik, Angriff auf den zurückweichenden Gegner",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-oiwaza"
+  },
+  {
+   "romaji": "Suki",
+   "jp": "隙",
+   "de": "Lücke, Blöße",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-suki"
+  },
+  {
+   "romaji": "Sutemi",
+   "jp": "捨て身",
+   "de": "Opfertechnik: einen Treffer in Kauf nehmen, um selbst zu treffen",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-sutemi"
+  },
+  {
+   "romaji": "Kensen",
+   "jp": "剣先",
+   "de": "Schwertspitze, Druck der Spitze",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-kensen"
+  },
+  {
+   "romaji": "Ki-ken-tai-itchi",
+   "jp": "気剣体一致",
+   "de": "Geist, Schwert und Körper als Einheit",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-kikentaiitchi"
+  },
+  {
+   "romaji": "Kiryoku",
+   "jp": "気力",
+   "de": "Willenskraft",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-kiryoku"
+  },
+  {
+   "romaji": "Kimochi",
+   "jp": "気持ち",
+   "de": "Gefühl, Empfindung",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-kimochi"
+  },
+  {
+   "romaji": "Kake-goe",
+   "jp": "掛け声",
+   "de": "Ruf zur Energiesteigerung (ähnlich dem Kiai)",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-kakegoe"
+  },
+  {
+   "romaji": "Muga",
+   "jp": "無我",
+   "de": "Ichlosigkeit",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-muga"
+  },
+  {
+   "romaji": "Munen",
+   "jp": "無念",
+   "de": "Gedankenlosigkeit",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-munen"
+  },
+  {
+   "romaji": "Riai",
+   "jp": "理合",
+   "de": "Einheit von Handeln und Theorie",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-riai"
+  },
+  {
+   "romaji": "Sei",
+   "jp": "静",
+   "de": "Ruhe, Bewegungslosigkeit",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-sei"
+  },
+  {
+   "romaji": "Saya no uchi no kachi",
+   "jp": "鞘の内の勝ち",
+   "de": "Der Sieg im Inneren der Saya: gewinnen, ohne zu ziehen",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-sayanouchinokachi"
+  },
+  {
+   "romaji": "Dai-kyō-soku-kei",
+   "jp": "大強速軽",
+   "de": "Groß, kräftig, schnell, geschmeidig",
+   "kat": "Iaido: Philosophie und Taktik",
+   "quelle": "Ergänzung",
+   "id": "g-daikyosokukei"
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ykr-wissensdatenbank-tests",
+  "private": true,
+  "description": "Automatische Tests der App in einer simulierten Browser-Umgebung",
+  "scripts": { "test": "node test_app.js" },
+  "devDependencies": { "jsdom": "^30.1.3" }
+}

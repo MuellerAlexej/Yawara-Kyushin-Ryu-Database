@@ -109,11 +109,11 @@
   },
   {
    "id": "fitness",
-   "name": "Allgemeine Fitness",
+   "name": "Körpertraining",
    "zusatz": "",
    "jp": "",
    "farbe": "moss",
-   "kurz": "Trainingslehre der Schule und eine Übungsbibliothek nach vorhandener Ausrüstung.",
+   "kurz": "Kraft, Beweglichkeit und Kondition: eigene Sessions und Trainingspläne für mehrere Wochen, ohne Techniken.",
    "theorie": [
     "l-7-2",
     "l-7-3",
@@ -145,7 +145,7 @@
    "id": "a-iaito",
    "name": "Iaito und Katana",
    "jp": "居合刀 / 刀",
-   "text": "Metallschwerter für Kata und Schnitttest in den höheren Graden. Im YKR wird der Übergang vom Bokutō zum Iaito oder Katana bewusst vorbereitet (Saya mit Sageo am Bokken).",
+   "text": "Der Iaitō hat eine stumpfe Stahlklinge und dient dem Üben der Kata. Schnitttests an Papier sind damit möglich, ebenso wie mit dem Bokutō. Echte Schnitttests erfolgen nur mit dem Katana. Laut Graduierungssystem werden Kata mit Iaitō und Katana ab dem 1. Dan geprüft, der Schnitttest mit Iaitō und Katana ab dem 3. Dan.",
    "quelle": "Lehrwerk S. 7; Graduierungssystem Praxis",
    "abschnitt": "l-2-3"
   },

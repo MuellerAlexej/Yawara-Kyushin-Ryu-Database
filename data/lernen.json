@@ -1,0 +1,978 @@
+{
+ "themen": {
+  "Benennung Wortsilben Iaido": [
+   "g-iiru",
+   "g-ai",
+   "g-do-2"
+  ],
+  "Benennung Waffen der Samurai": [
+   "g-bokkenbokuto",
+   "g-shinai",
+   "g-kumitachi",
+   "g-iaito",
+   "g-katana",
+   "g-tachi",
+   "g-wakizashi",
+   "g-shoto",
+   "g-tanto",
+   "g-bo",
+   "g-hanbo",
+   "g-yari",
+   "g-naginata",
+   "g-tessen"
+  ],
+  "Benennung gezeigter Iaito-Teile": [
+   "g-kashiraodertsukagashira",
+   "g-kashiragane",
+   "g-makidome",
+   "g-samehada",
+   "g-tsukaitoodertsukamaki",
+   "g-mekugi",
+   "g-tsuka",
+   "g-menuki",
+   "g-fuchi",
+   "g-tsuba",
+   "g-seppa",
+   "g-habaki",
+   "g-mune",
+   "g-hamon",
+   "g-hioderbohi",
+   "g-nagasa",
+   "g-sori",
+   "g-shinogi",
+   "g-shinogiji",
+   "g-jioderhiraji",
+   "g-ha",
+   "g-yokote",
+   "g-kissaki",
+   "g-monouchi",
+   "g-hasaki",
+   "g-boshi",
+   "g-koiguchi",
+   "g-kurigata",
+   "g-shitodome",
+   "g-sageo",
+   "g-saya",
+   "g-kojiri",
+   "g-same",
+   "g-kaerizuno",
+   "g-kozuka",
+   "g-kogai",
+   "g-toshin",
+   "g-nakago",
+   "g-mei"
+  ],
+  "Benennung gezeigter Kleidungsteile": [
+   "g-uwagi",
+   "g-eel",
+   "g-sode",
+   "g-sodeguchi",
+   "g-zubon",
+   "g-shita",
+   "g-gi",
+   "g-hadagi",
+   "g-haori",
+   "g-jinbaori",
+   "g-hakama",
+   "g-obi",
+   "g-kamishimo",
+   "g-kataginu",
+   "g-kosode",
+   "g-zori",
+   "g-tabi",
+   "g-geta",
+   "g-keikogi"
+  ],
+  "Benennung Kamae": [
+   "g-chudannokamae",
+   "g-jodannokamae",
+   "g-hassonokamae",
+   "g-gedannokamae",
+   "g-wakigamae"
+  ],
+  "Benennung Angriffsstufen (Höhen)": [
+   "g-jodankamae",
+   "g-chudankamae",
+   "g-gedankamae",
+   "g-waki"
+  ],
+  "Erläuterung Bokken": [
+   "g-bokkenbokuto",
+   "g-boku",
+   "g-ken",
+   "g-to",
+   "g-shinai"
+  ],
+  "Benennung Wortsilben Bushido": [
+   "g-bu",
+   "g-shi",
+   "g-bushido",
+   "g-do-2"
+  ],
+  "Benennung Tugenden des Bushido": [
+   "g-gi-2",
+   "g-yu",
+   "g-jin",
+   "g-rei",
+   "g-makotoodershin",
+   "g-meiyo",
+   "g-chugiauchchu"
+  ],
+  "Erläuterung, Wortherkunft und Ortsbeschreibung Dojo": [
+   "g-keikojo",
+   "g-shimose",
+   "g-fukosen",
+   "g-shusen",
+   "g-joseki",
+   "g-shimoseki",
+   "g-kamiza",
+   "g-shomen",
+   "g-dojo"
+  ],
+  "Begriffserklärung: Sila, Samadhi, Sangha": [
+   "g-sila",
+   "g-samadhi",
+   "g-sangha"
+  ],
+  "Definition Kata / 4 Grundbewegungen der Kata": [
+   "g-nukitsuke",
+   "g-kiritsuke",
+   "g-chiburi",
+   "g-noto"
+  ],
+  "Kendoka mit Trefferstellen benennen": [
+   "g-men",
+   "g-tsuki",
+   "g-kotekendo",
+   "g-dokendo"
+  ],
+  "Tameshigiri (Shizan, Shito)": [
+   "g-tameshigiri",
+   "g-tatamiomote",
+   "g-shizan",
+   "g-shito",
+   "g-kabutowari",
+   "g-furidome"
+  ]
+ },
+ "grade": {
+  "10. Kyu": [
+   {
+    "name": "Benennung Wortsilben Iaido",
+    "ids": [
+     "g-iiru",
+     "g-ai",
+     "g-do-2"
+    ]
+   },
+   {
+    "name": "Benennung Waffen der Samurai",
+    "ids": [
+     "g-bokkenbokuto",
+     "g-shinai",
+     "g-kumitachi",
+     "g-iaito",
+     "g-katana",
+     "g-tachi",
+     "g-wakizashi",
+     "g-shoto",
+     "g-tanto",
+     "g-bo",
+     "g-hanbo",
+     "g-yari",
+     "g-naginata",
+     "g-tessen"
+    ]
+   },
+   {
+    "name": "Benennung gezeigter Iaito-Teile",
+    "ids": [
+     "g-kashiraodertsukagashira",
+     "g-kashiragane",
+     "g-makidome",
+     "g-samehada",
+     "g-tsukaitoodertsukamaki",
+     "g-mekugi",
+     "g-tsuka",
+     "g-menuki",
+     "g-fuchi",
+     "g-tsuba",
+     "g-seppa",
+     "g-habaki",
+     "g-mune",
+     "g-hamon",
+     "g-hioderbohi",
+     "g-nagasa",
+     "g-sori",
+     "g-shinogi",
+     "g-shinogiji",
+     "g-jioderhiraji",
+     "g-ha",
+     "g-yokote",
+     "g-kissaki",
+     "g-monouchi",
+     "g-hasaki",
+     "g-boshi",
+     "g-koiguchi",
+     "g-kurigata",
+     "g-shitodome",
+     "g-sageo",
+     "g-saya",
+     "g-kojiri",
+     "g-same",
+     "g-kaerizuno",
+     "g-kozuka",
+     "g-kogai",
+     "g-toshin",
+     "g-nakago",
+     "g-mei"
+    ]
+   },
+   {
+    "name": "Benennung gezeigter Kleidungsteile",
+    "ids": [
+     "g-uwagi",
+     "g-eel",
+     "g-sode",
+     "g-sodeguchi",
+     "g-zubon",
+     "g-shita",
+     "g-gi",
+     "g-hadagi",
+     "g-haori",
+     "g-jinbaori",
+     "g-hakama",
+     "g-obi",
+     "g-kamishimo",
+     "g-kataginu",
+     "g-kosode",
+     "g-zori",
+     "g-tabi",
+     "g-geta",
+     "g-keikogi"
+    ]
+   },
+   {
+    "name": "Benennung Kamae",
+    "ids": [
+     "g-chudannokamae",
+     "g-jodannokamae",
+     "g-hassonokamae",
+     "g-gedannokamae",
+     "g-wakigamae"
+    ]
+   },
+   {
+    "name": "Benennung Angriffsstufen (Höhen)",
+    "ids": [
+     "g-jodankamae",
+     "g-chudankamae",
+     "g-gedankamae",
+     "g-waki"
+    ]
+   },
+   {
+    "name": "Erläuterung Bokken",
+    "ids": [
+     "g-bokkenbokuto",
+     "g-boku",
+     "g-ken",
+     "g-to",
+     "g-shinai"
+    ]
+   }
+  ],
+  "6. Kyu": [
+   {
+    "name": "Benennung Wortsilben Iaido",
+    "ids": [
+     "g-iiru",
+     "g-ai",
+     "g-do-2"
+    ]
+   },
+   {
+    "name": "Benennung Waffen der Samurai",
+    "ids": [
+     "g-bokkenbokuto",
+     "g-shinai",
+     "g-kumitachi",
+     "g-iaito",
+     "g-katana",
+     "g-tachi",
+     "g-wakizashi",
+     "g-shoto",
+     "g-tanto",
+     "g-bo",
+     "g-hanbo",
+     "g-yari",
+     "g-naginata",
+     "g-tessen"
+    ]
+   },
+   {
+    "name": "Benennung gezeigter Iaito-Teile",
+    "ids": [
+     "g-kashiraodertsukagashira",
+     "g-kashiragane",
+     "g-makidome",
+     "g-samehada",
+     "g-tsukaitoodertsukamaki",
+     "g-mekugi",
+     "g-tsuka",
+     "g-menuki",
+     "g-fuchi",
+     "g-tsuba",
+     "g-seppa",
+     "g-habaki",
+     "g-mune",
+     "g-hamon",
+     "g-hioderbohi",
+     "g-nagasa",
+     "g-sori",
+     "g-shinogi",
+     "g-shinogiji",
+     "g-jioderhiraji",
+     "g-ha",
+     "g-yokote",
+     "g-kissaki",
+     "g-monouchi",
+     "g-hasaki",
+     "g-boshi",
+     "g-koiguchi",
+     "g-kurigata",
+     "g-shitodome",
+     "g-sageo",
+     "g-saya",
+     "g-kojiri",
+     "g-same",
+     "g-kaerizuno",
+     "g-kozuka",
+     "g-kogai",
+     "g-toshin",
+     "g-nakago",
+     "g-mei"
+    ]
+   },
+   {
+    "name": "Benennung gezeigter Kleidungsteile",
+    "ids": [
+     "g-uwagi",
+     "g-eel",
+     "g-sode",
+     "g-sodeguchi",
+     "g-zubon",
+     "g-shita",
+     "g-gi",
+     "g-hadagi",
+     "g-haori",
+     "g-jinbaori",
+     "g-hakama",
+     "g-obi",
+     "g-kamishimo",
+     "g-kataginu",
+     "g-kosode",
+     "g-zori",
+     "g-tabi",
+     "g-geta",
+     "g-keikogi"
+    ]
+   },
+   {
+    "name": "Benennung Wortsilben Bushido",
+    "ids": [
+     "g-bu",
+     "g-shi",
+     "g-bushido",
+     "g-do-2"
+    ]
+   },
+   {
+    "name": "Benennung Tugenden des Bushido",
+    "ids": [
+     "g-gi-2",
+     "g-yu",
+     "g-jin",
+     "g-rei",
+     "g-makotoodershin",
+     "g-meiyo",
+     "g-chugiauchchu"
+    ]
+   },
+   {
+    "name": "Erläuterung, Wortherkunft und Ortsbeschreibung Dojo",
+    "ids": [
+     "g-keikojo",
+     "g-shimose",
+     "g-fukosen",
+     "g-shusen",
+     "g-joseki",
+     "g-shimoseki",
+     "g-kamiza",
+     "g-shomen",
+     "g-dojo"
+    ]
+   }
+  ],
+  "5. Kyu": [
+   {
+    "name": "Benennung Wortsilben Iaido",
+    "ids": [
+     "g-iiru",
+     "g-ai",
+     "g-do-2"
+    ]
+   },
+   {
+    "name": "Benennung Waffen der Samurai",
+    "ids": [
+     "g-bokkenbokuto",
+     "g-shinai",
+     "g-kumitachi",
+     "g-iaito",
+     "g-katana",
+     "g-tachi",
+     "g-wakizashi",
+     "g-shoto",
+     "g-tanto",
+     "g-bo",
+     "g-hanbo",
+     "g-yari",
+     "g-naginata",
+     "g-tessen"
+    ]
+   },
+   {
+    "name": "Benennung gezeigter Iaito-Teile",
+    "ids": [
+     "g-kashiraodertsukagashira",
+     "g-kashiragane",
+     "g-makidome",
+     "g-samehada",
+     "g-tsukaitoodertsukamaki",
+     "g-mekugi",
+     "g-tsuka",
+     "g-menuki",
+     "g-fuchi",
+     "g-tsuba",
+     "g-seppa",
+     "g-habaki",
+     "g-mune",
+     "g-hamon",
+     "g-hioderbohi",
+     "g-nagasa",
+     "g-sori",
+     "g-shinogi",
+     "g-shinogiji",
+     "g-jioderhiraji",
+     "g-ha",
+     "g-yokote",
+     "g-kissaki",
+     "g-monouchi",
+     "g-hasaki",
+     "g-boshi",
+     "g-koiguchi",
+     "g-kurigata",
+     "g-shitodome",
+     "g-sageo",
+     "g-saya",
+     "g-kojiri",
+     "g-same",
+     "g-kaerizuno",
+     "g-kozuka",
+     "g-kogai",
+     "g-toshin",
+     "g-nakago",
+     "g-mei"
+    ]
+   },
+   {
+    "name": "Benennung gezeigter Kleidungsteile",
+    "ids": [
+     "g-uwagi",
+     "g-eel",
+     "g-sode",
+     "g-sodeguchi",
+     "g-zubon",
+     "g-shita",
+     "g-gi",
+     "g-hadagi",
+     "g-haori",
+     "g-jinbaori",
+     "g-hakama",
+     "g-obi",
+     "g-kamishimo",
+     "g-kataginu",
+     "g-kosode",
+     "g-zori",
+     "g-tabi",
+     "g-geta",
+     "g-keikogi"
+    ]
+   },
+   {
+    "name": "Benennung Wortsilben Bushido",
+    "ids": [
+     "g-bu",
+     "g-shi",
+     "g-bushido",
+     "g-do-2"
+    ]
+   },
+   {
+    "name": "Benennung Tugenden des Bushido",
+    "ids": [
+     "g-gi-2",
+     "g-yu",
+     "g-jin",
+     "g-rei",
+     "g-makotoodershin",
+     "g-meiyo",
+     "g-chugiauchchu"
+    ]
+   },
+   {
+    "name": "Erläuterung, Wortherkunft und Ortsbeschreibung Dojo",
+    "ids": [
+     "g-keikojo",
+     "g-shimose",
+     "g-fukosen",
+     "g-shusen",
+     "g-joseki",
+     "g-shimoseki",
+     "g-kamiza",
+     "g-shomen",
+     "g-dojo"
+    ]
+   },
+   {
+    "name": "Begriffserklärung: Sila, Samadhi, Sangha",
+    "ids": [
+     "g-sila",
+     "g-samadhi",
+     "g-sangha"
+    ]
+   }
+  ],
+  "3. Kyu": [
+   {
+    "name": "Benennung Wortsilben Iaido",
+    "ids": [
+     "g-iiru",
+     "g-ai",
+     "g-do-2"
+    ]
+   },
+   {
+    "name": "Benennung Waffen der Samurai",
+    "ids": [
+     "g-bokkenbokuto",
+     "g-shinai",
+     "g-kumitachi",
+     "g-iaito",
+     "g-katana",
+     "g-tachi",
+     "g-wakizashi",
+     "g-shoto",
+     "g-tanto",
+     "g-bo",
+     "g-hanbo",
+     "g-yari",
+     "g-naginata",
+     "g-tessen"
+    ]
+   },
+   {
+    "name": "Benennung gezeigter Iaito-Teile",
+    "ids": [
+     "g-kashiraodertsukagashira",
+     "g-kashiragane",
+     "g-makidome",
+     "g-samehada",
+     "g-tsukaitoodertsukamaki",
+     "g-mekugi",
+     "g-tsuka",
+     "g-menuki",
+     "g-fuchi",
+     "g-tsuba",
+     "g-seppa",
+     "g-habaki",
+     "g-mune",
+     "g-hamon",
+     "g-hioderbohi",
+     "g-nagasa",
+     "g-sori",
+     "g-shinogi",
+     "g-shinogiji",
+     "g-jioderhiraji",
+     "g-ha",
+     "g-yokote",
+     "g-kissaki",
+     "g-monouchi",
+     "g-hasaki",
+     "g-boshi",
+     "g-koiguchi",
+     "g-kurigata",
+     "g-shitodome",
+     "g-sageo",
+     "g-saya",
+     "g-kojiri",
+     "g-same",
+     "g-kaerizuno",
+     "g-kozuka",
+     "g-kogai",
+     "g-toshin",
+     "g-nakago",
+     "g-mei"
+    ]
+   },
+   {
+    "name": "Benennung gezeigter Kleidungsteile",
+    "ids": [
+     "g-uwagi",
+     "g-eel",
+     "g-sode",
+     "g-sodeguchi",
+     "g-zubon",
+     "g-shita",
+     "g-gi",
+     "g-hadagi",
+     "g-haori",
+     "g-jinbaori",
+     "g-hakama",
+     "g-obi",
+     "g-kamishimo",
+     "g-kataginu",
+     "g-kosode",
+     "g-zori",
+     "g-tabi",
+     "g-geta",
+     "g-keikogi"
+    ]
+   },
+   {
+    "name": "Benennung Wortsilben Bushido",
+    "ids": [
+     "g-bu",
+     "g-shi",
+     "g-bushido",
+     "g-do-2"
+    ]
+   },
+   {
+    "name": "Benennung Tugenden des Bushido",
+    "ids": [
+     "g-gi-2",
+     "g-yu",
+     "g-jin",
+     "g-rei",
+     "g-makotoodershin",
+     "g-meiyo",
+     "g-chugiauchchu"
+    ]
+   },
+   {
+    "name": "Definition Kata / 4 Grundbewegungen der Kata",
+    "ids": [
+     "g-nukitsuke",
+     "g-kiritsuke",
+     "g-chiburi",
+     "g-noto"
+    ]
+   },
+   {
+    "name": "Kendoka mit Trefferstellen benennen",
+    "ids": [
+     "g-men",
+     "g-tsuki",
+     "g-kotekendo",
+     "g-dokendo"
+    ]
+   }
+  ],
+  "1. Kyu": [
+   {
+    "name": "Benennung Wortsilben Iaido",
+    "ids": [
+     "g-iiru",
+     "g-ai",
+     "g-do-2"
+    ]
+   },
+   {
+    "name": "Benennung Waffen der Samurai",
+    "ids": [
+     "g-bokkenbokuto",
+     "g-shinai",
+     "g-kumitachi",
+     "g-iaito",
+     "g-katana",
+     "g-tachi",
+     "g-wakizashi",
+     "g-shoto",
+     "g-tanto",
+     "g-bo",
+     "g-hanbo",
+     "g-yari",
+     "g-naginata",
+     "g-tessen"
+    ]
+   },
+   {
+    "name": "Benennung gezeigter Iaito-Teile",
+    "ids": [
+     "g-kashiraodertsukagashira",
+     "g-kashiragane",
+     "g-makidome",
+     "g-samehada",
+     "g-tsukaitoodertsukamaki",
+     "g-mekugi",
+     "g-tsuka",
+     "g-menuki",
+     "g-fuchi",
+     "g-tsuba",
+     "g-seppa",
+     "g-habaki",
+     "g-mune",
+     "g-hamon",
+     "g-hioderbohi",
+     "g-nagasa",
+     "g-sori",
+     "g-shinogi",
+     "g-shinogiji",
+     "g-jioderhiraji",
+     "g-ha",
+     "g-yokote",
+     "g-kissaki",
+     "g-monouchi",
+     "g-hasaki",
+     "g-boshi",
+     "g-koiguchi",
+     "g-kurigata",
+     "g-shitodome",
+     "g-sageo",
+     "g-saya",
+     "g-kojiri",
+     "g-same",
+     "g-kaerizuno",
+     "g-kozuka",
+     "g-kogai",
+     "g-toshin",
+     "g-nakago",
+     "g-mei"
+    ]
+   },
+   {
+    "name": "Benennung gezeigter Kleidungsteile",
+    "ids": [
+     "g-uwagi",
+     "g-eel",
+     "g-sode",
+     "g-sodeguchi",
+     "g-zubon",
+     "g-shita",
+     "g-gi",
+     "g-hadagi",
+     "g-haori",
+     "g-jinbaori",
+     "g-hakama",
+     "g-obi",
+     "g-kamishimo",
+     "g-kataginu",
+     "g-kosode",
+     "g-zori",
+     "g-tabi",
+     "g-geta",
+     "g-keikogi"
+    ]
+   },
+   {
+    "name": "Benennung Wortsilben Bushido",
+    "ids": [
+     "g-bu",
+     "g-shi",
+     "g-bushido",
+     "g-do-2"
+    ]
+   },
+   {
+    "name": "Benennung Tugenden des Bushido",
+    "ids": [
+     "g-gi-2",
+     "g-yu",
+     "g-jin",
+     "g-rei",
+     "g-makotoodershin",
+     "g-meiyo",
+     "g-chugiauchchu"
+    ]
+   },
+   {
+    "name": "Definition Kata / 4 Grundbewegungen der Kata",
+    "ids": [
+     "g-nukitsuke",
+     "g-kiritsuke",
+     "g-chiburi",
+     "g-noto"
+    ]
+   },
+   {
+    "name": "Kendoka mit Trefferstellen benennen",
+    "ids": [
+     "g-men",
+     "g-tsuki",
+     "g-kotekendo",
+     "g-dokendo"
+    ]
+   }
+  ],
+  "1. Dan": [
+   {
+    "name": "Benennung Wortsilben Iaido",
+    "ids": [
+     "g-iiru",
+     "g-ai",
+     "g-do-2"
+    ]
+   },
+   {
+    "name": "Benennung Waffen der Samurai",
+    "ids": [
+     "g-bokkenbokuto",
+     "g-shinai",
+     "g-kumitachi",
+     "g-iaito",
+     "g-katana",
+     "g-tachi",
+     "g-wakizashi",
+     "g-shoto",
+     "g-tanto",
+     "g-bo",
+     "g-hanbo",
+     "g-yari",
+     "g-naginata",
+     "g-tessen"
+    ]
+   },
+   {
+    "name": "Benennung gezeigter Iaito-Teile",
+    "ids": [
+     "g-kashiraodertsukagashira",
+     "g-kashiragane",
+     "g-makidome",
+     "g-samehada",
+     "g-tsukaitoodertsukamaki",
+     "g-mekugi",
+     "g-tsuka",
+     "g-menuki",
+     "g-fuchi",
+     "g-tsuba",
+     "g-seppa",
+     "g-habaki",
+     "g-mune",
+     "g-hamon",
+     "g-hioderbohi",
+     "g-nagasa",
+     "g-sori",
+     "g-shinogi",
+     "g-shinogiji",
+     "g-jioderhiraji",
+     "g-ha",
+     "g-yokote",
+     "g-kissaki",
+     "g-monouchi",
+     "g-hasaki",
+     "g-boshi",
+     "g-koiguchi",
+     "g-kurigata",
+     "g-shitodome",
+     "g-sageo",
+     "g-saya",
+     "g-kojiri",
+     "g-same",
+     "g-kaerizuno",
+     "g-kozuka",
+     "g-kogai",
+     "g-toshin",
+     "g-nakago",
+     "g-mei"
+    ]
+   },
+   {
+    "name": "Benennung gezeigter Kleidungsteile",
+    "ids": [
+     "g-uwagi",
+     "g-eel",
+     "g-sode",
+     "g-sodeguchi",
+     "g-zubon",
+     "g-shita",
+     "g-gi",
+     "g-hadagi",
+     "g-haori",
+     "g-jinbaori",
+     "g-hakama",
+     "g-obi",
+     "g-kamishimo",
+     "g-kataginu",
+     "g-kosode",
+     "g-zori",
+     "g-tabi",
+     "g-geta",
+     "g-keikogi"
+    ]
+   },
+   {
+    "name": "Benennung Wortsilben Bushido",
+    "ids": [
+     "g-bu",
+     "g-shi",
+     "g-bushido",
+     "g-do-2"
+    ]
+   },
+   {
+    "name": "Benennung Tugenden des Bushido",
+    "ids": [
+     "g-gi-2",
+     "g-yu",
+     "g-jin",
+     "g-rei",
+     "g-makotoodershin",
+     "g-meiyo",
+     "g-chugiauchchu"
+    ]
+   },
+   {
+    "name": "Definition Kata / 4 Grundbewegungen der Kata",
+    "ids": [
+     "g-nukitsuke",
+     "g-kiritsuke",
+     "g-chiburi",
+     "g-noto"
+    ]
+   },
+   {
+    "name": "Kendoka mit Trefferstellen benennen",
+    "ids": [
+     "g-men",
+     "g-tsuki",
+     "g-kotekendo",
+     "g-dokendo"
+    ]
+   },
+   {
+    "name": "Tameshigiri (Shizan, Shito)",
+    "ids": [
+     "g-tameshigiri",
+     "g-tatamiomote",
+     "g-shizan",
+     "g-shito",
+     "g-kabutowari",
+     "g-furidome"
+    ]
+   }
+  ]
+ },
+ "hinweis": "Die Zuordnung der Prüfungsthemen zu Glossar-Begriffen deckt nur die Themen ab, die sich als Begriffe abfragen lassen. Andere Themen (zum Beispiel Buchinhalte) müssen im Lehrwerk gelesen werden."
+}

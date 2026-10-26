@@ -1,0 +1,144 @@
+{
+ "kategorie": "Geschichte, Schulen und Personen",
+ "eintraege": [
+  {
+   "romaji": "Bushi",
+   "jp": "武士",
+   "de": "Krieger",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-bushi"
+  },
+  {
+   "romaji": "Samurai",
+   "jp": "侍",
+   "de": "„Der Dienende“, Angehöriger der Kriegerkaste",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-samurai"
+  },
+  {
+   "romaji": "Shōgun",
+   "jp": "将軍",
+   "de": "Militärherrscher",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-shogun"
+  },
+  {
+   "romaji": "Kensei",
+   "jp": "剣聖",
+   "de": "„Schwertheiliger“ (zum Beispiel Miyamoto Musashi)",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-kensei"
+  },
+  {
+   "romaji": "Daishō",
+   "jp": "大小",
+   "de": "Das Paar aus Langschwert und Kurzschwert (Katana und Wakizashi)",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-daisho"
+  },
+  {
+   "romaji": "Kamon",
+   "jp": "家紋",
+   "de": "Familienwappen",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-kamon"
+  },
+  {
+   "romaji": "Tomoe",
+   "jp": "巴",
+   "de": "Kommaförmiges Wirbelmotiv in Wappen",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-tomoe"
+  },
+  {
+   "romaji": "Kyōshi",
+   "jp": "教士",
+   "de": "Lehrertitel, Rang im Budō",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-kyoshi",
+   "alt": [
+    "Mittlerer Titel des ZNKR (7. Dan)"
+   ]
+  },
+  {
+   "romaji": "Hayashizaki Jinsuke Shigenobu",
+   "jp": "林崎甚助重信",
+   "de": "Gilt als Begründer des Iaido (Lebensdaten um 1546? bis 1621)",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-hayashizakijinsukeshigenobu"
+  },
+  {
+   "romaji": "Shinmei Musō-ryū",
+   "jp": "神明無双流",
+   "de": "Von Hayashizaki zusammengefasstes System des Schwertziehens",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-shinmeimusoryu"
+  },
+  {
+   "romaji": "Musō Jikiden Eishin-ryū",
+   "jp": "無双直伝英信流",
+   "de": "Eine der meistgeübten klassischen Iaido-Schulen",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-musojikideneishinryu"
+  },
+  {
+   "romaji": "Musō Shinden-ryū",
+   "jp": "無双神伝流",
+   "de": "Eine der meistgeübten klassischen Iaido-Schulen",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-musoshindenryu"
+  },
+  {
+   "romaji": "Ōmori-ryū",
+   "jp": "大森流",
+   "de": "Anfänger-Formenreihe der Musō-Schulen (12 Formen, 11 aus dem Seiza)",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-omoriryu"
+  },
+  {
+   "romaji": "Hasegawa Eishin-ryū",
+   "jp": "長谷川英信流",
+   "de": "Mittlere Formenreihe der Musō-Schulen (10 Formen, überwiegend aus dem Tatehiza)",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-hasegawaeishinryu"
+  },
+  {
+   "romaji": "Okuiai",
+   "jp": "奥居合",
+   "de": "Hohe Formenreihe der Musō-Schulen",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-okuiai"
+  },
+  {
+   "romaji": "Mugai-ryū",
+   "jp": "無外流",
+   "de": "Eine Iaijutsu-Schule",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-mugairyu"
+  },
+  {
+   "romaji": "Zen Nihon Kendō Renmei (ZNKR)",
+   "jp": "全日本剣道連盟",
+   "de": "Japanischer Kendō-Verband, Herausgeber der Seitei-Formen",
+   "kat": "Geschichte, Schulen und Personen",
+   "quelle": "Ergänzung",
+   "id": "g-zennihonkendorenmeiznkr"
+  }
+ ]
+}

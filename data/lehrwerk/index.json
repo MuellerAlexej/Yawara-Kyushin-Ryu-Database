@@ -1,0 +1,63 @@
+{
+ "titel": "Yawara Kyushin Ryu – Lehrwerk",
+ "auflage": "1. Auflage",
+ "autor": "Tobias Riemer (Soke Shodai)",
+ "copyright": "© 2019 Yawara Kyushin Ryu und Tobias Riemer",
+ "kapitel": [
+  {
+   "nr": "",
+   "titel": "Vorwort",
+   "datei": "vorwort.json"
+  },
+  {
+   "nr": "1",
+   "titel": "Kernlehrkonzepte des Yawara Kyushin Ryu",
+   "datei": "kapitel-1-kernlehrkonzepte-des-yawara-kyushin-ryu.json"
+  },
+  {
+   "nr": "2",
+   "titel": "Theorethisches Lehrwerk",
+   "datei": "kapitel-2-theorethisches-lehrwerk.json"
+  },
+  {
+   "nr": "3",
+   "titel": "Einführung in die Grundlagen der praktischen Ausführung",
+   "datei": "kapitel-3-einfuehrung-in-die-grundlagen-der-prakti.json"
+  },
+  {
+   "nr": "4",
+   "titel": "Einführung in die philosophischen Grundlagen",
+   "datei": "kapitel-4-einfuehrung-in-die-philosophischen-grund.json"
+  },
+  {
+   "nr": "5",
+   "titel": "Einführung in die Grundlagen der Meditationspraxis des YKR",
+   "datei": "kapitel-5-einfuehrung-in-die-grundlagen-der-medita.json"
+  },
+  {
+   "nr": "6",
+   "titel": "Graduierungssystem/Gürtelfarben und Uwa-gi- Warum und Wie?",
+   "datei": "kapitel-6-graduierungssystem-guertelfarben-und-uwa.json"
+  },
+  {
+   "nr": "7",
+   "titel": "Einführung in die Grundlagen der Trainingslehre des YKR",
+   "datei": "kapitel-7-einfuehrung-in-die-grundlagen-der-traini.json"
+  },
+  {
+   "nr": "8",
+   "titel": "Abschließende Worte direkt an den Leser",
+   "datei": "kapitel-8-abschliessende-worte-direkt-an-den-leser.json"
+  },
+  {
+   "nr": "9",
+   "titel": "Literatur- und Quellenverzeichnis",
+   "datei": "kapitel-9-literatur-und-quellenverzeichnis.json"
+  },
+  {
+   "nr": "10",
+   "titel": "Prajna Herz Sutra",
+   "datei": "kapitel-10-prajna-herz-sutra.json"
+  }
+ ]
+}

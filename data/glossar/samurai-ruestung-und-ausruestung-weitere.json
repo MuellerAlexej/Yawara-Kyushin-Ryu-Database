@@ -1,0 +1,117 @@
+{
+ "kategorie": "Samurai: Rüstung und Ausrüstung (weitere)",
+ "eintraege": [
+  {
+   "romaji": "Ō-yoroi",
+   "jp": "大鎧",
+   "de": "Große Rüstung, frühe Rüstung der Reiterkrieger",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-oyoroi"
+  },
+  {
+   "romaji": "Dō-maru",
+   "jp": "胴丸",
+   "de": "Rumpfrüstung, die um den Körper gelegt wird",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-domaru"
+  },
+  {
+   "romaji": "Haramaki",
+   "jp": "腹巻",
+   "de": "Leichte Bauch- und Rumpfrüstung",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-haramaki"
+  },
+  {
+   "romaji": "Tatami-gusoku",
+   "jp": "畳具足",
+   "de": "Zusammenfaltbare, einfache Rüstung",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-tatamigusoku"
+  },
+  {
+   "romaji": "Tōsei-gusoku",
+   "jp": "当世具足",
+   "de": "„Moderne“ Rüstung der späten Kriegszeit und der Edo-Zeit",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-toseigusoku"
+  },
+  {
+   "romaji": "Hōate",
+   "jp": "頬当",
+   "de": "Gesichtsschutz am Helm",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-hoate"
+  },
+  {
+   "romaji": "Jingasa",
+   "jp": "陣笠",
+   "de": "Leichter Hut oder Helm für den Kriegszug",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-jingasa"
+  },
+  {
+   "romaji": "Sashimono",
+   "jp": "指物",
+   "de": "Rückenfahne zur Kennzeichnung im Kampf",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-sashimono"
+  },
+  {
+   "romaji": "Uma-jirushi",
+   "jp": "馬印",
+   "de": "Feldzeichen des Herrn",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-umajirushi"
+  },
+  {
+   "romaji": "Nobori",
+   "jp": "幟",
+   "de": "Lange schmale Fahne",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-nobori"
+  },
+  {
+   "romaji": "Hata-jirushi",
+   "jp": "旗印",
+   "de": "Banner mit Wappen",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-hatajirushi"
+  },
+  {
+   "romaji": "Horagai",
+   "jp": "法螺貝",
+   "de": "Kriegshorn aus einer Muschel",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-horagai"
+  },
+  {
+   "romaji": "Saihai",
+   "jp": "采配",
+   "de": "Kommandostab",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-saihai"
+  },
+  {
+   "romaji": "Tate",
+   "jp": "盾",
+   "de": "Schild (wurde nur selten getragen)",
+   "kat": "Samurai: Rüstung und Ausrüstung (weitere)",
+   "quelle": "Ergänzung",
+   "id": "g-tate"
+  }
+ ]
+}

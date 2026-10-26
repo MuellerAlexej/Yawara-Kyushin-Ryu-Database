@@ -1,0 +1,165 @@
+{
+ "kategorie": "Karate: Tritte und Beinwaffen",
+ "eintraege": [
+  {
+   "romaji": "Chūsoku",
+   "jp": "中足",
+   "de": "Fußballen",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-chusoku"
+  },
+  {
+   "romaji": "Haisoku",
+   "jp": "背足",
+   "de": "Fußrücken (Spann)",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-haisoku"
+  },
+  {
+   "romaji": "Hiza",
+   "jp": "膝",
+   "de": "Knie",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-hiza-2"
+  },
+  {
+   "romaji": "Kakato",
+   "jp": "踵",
+   "de": "Ferse",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-kakato-2"
+  },
+  {
+   "romaji": "Sokutō",
+   "jp": "足刀",
+   "de": "Fußkante („Messerfuß“)",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-sokuto"
+  },
+  {
+   "romaji": "Teisoku",
+   "jp": "底足",
+   "de": "Fußsohle (Fußbogen)",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-teisoku"
+  },
+  {
+   "romaji": "Sune",
+   "jp": "脛",
+   "de": "Schienbein",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-sune-2"
+  },
+  {
+   "romaji": "Kansetsu geri",
+   "jp": "関節蹴り",
+   "de": "Gelenktritt",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-kansetsugeri"
+  },
+  {
+   "romaji": "Kin geri",
+   "jp": "金的蹴り",
+   "de": "Tritt zur Leiste",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-kingeri"
+  },
+  {
+   "romaji": "Mae keage",
+   "jp": "前蹴上げ",
+   "de": "Frontaler Aufwärtstritt (Schwungtritt)",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-maekeage"
+  },
+  {
+   "romaji": "Oroshi geri",
+   "jp": "下ろし蹴り",
+   "de": "Abwärtstritt (von oben nach unten)",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-oroshigeri"
+  },
+  {
+   "romaji": "Soto mawashi geri",
+   "jp": "外回し蹴り",
+   "de": "Außen-Halbkreistritt",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-sotomawashigeri"
+  },
+  {
+   "romaji": "Tobi mae geri",
+   "jp": "飛び前蹴り",
+   "de": "Sprung-Fronttritt",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-tobimaegeri"
+  },
+  {
+   "romaji": "Tobi mawashi geri",
+   "jp": "飛び回し蹴り",
+   "de": "Sprung-Halbkreistritt",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-tobimawashigeri"
+  },
+  {
+   "romaji": "Tobi ushiro geri",
+   "jp": "飛び後ろ蹴り",
+   "de": "Sprung-Rückwärtstritt",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-tobiushirogeri"
+  },
+  {
+   "romaji": "Tobi ushiro mawashi geri",
+   "jp": "飛び後ろ回し蹴り",
+   "de": "Sprung-Drehtritt rückwärts",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-tobiushiromawashigeri"
+  },
+  {
+   "romaji": "Ushiro kakato kin geri",
+   "jp": "後ろ踵金的蹴り",
+   "de": "Rückwärtstritt mit der Ferse zur Leiste",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-ushirokakatokingeri"
+  },
+  {
+   "romaji": "Uchi mawashi geri",
+   "jp": "内回し蹴り",
+   "de": "Innen-Halbkreistritt",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-uchimawashigeri"
+  },
+  {
+   "romaji": "Ushiro mawashi geri",
+   "jp": "後ろ回し蹴り",
+   "de": "Rückwärts-Drehtritt",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-ushiromawashigeri"
+  },
+  {
+   "romaji": "Yoko keage",
+   "jp": "横蹴上げ",
+   "de": "Seitlicher Aufwärtstritt (Schwungtritt)",
+   "kat": "Karate: Tritte und Beinwaffen",
+   "quelle": "Ergänzung",
+   "id": "g-yokokeage"
+  }
+ ]
+}

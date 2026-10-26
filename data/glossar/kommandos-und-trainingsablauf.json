@@ -1,0 +1,312 @@
+{
+ "kategorie": "Kommandos und Trainingsablauf",
+ "eintraege": [
+  {
+   "romaji": "Kiritsu",
+   "jp": "起立",
+   "de": "Aufstehen",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-kiritsu"
+  },
+  {
+   "romaji": "Seiretsu",
+   "jp": "整列",
+   "de": "In Reihe aufstellen",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-seiretsu"
+  },
+  {
+   "romaji": "Yōi",
+   "jp": "用意",
+   "de": "Fertig, bereit",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-yoi"
+  },
+  {
+   "romaji": "Hajime",
+   "jp": "始め",
+   "de": "Anfangen",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-hajime"
+  },
+  {
+   "romaji": "Yame",
+   "jp": "止め",
+   "de": "Aufhören, Stopp",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-yame"
+  },
+  {
+   "romaji": "Matte",
+   "jp": "待て",
+   "de": "Warten, kurze Pause",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-matte"
+  },
+  {
+   "romaji": "Naore",
+   "jp": "直れ",
+   "de": "Zurück in die Grundstellung",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-naore"
+  },
+  {
+   "romaji": "Yasume",
+   "jp": "休め",
+   "de": "Rührt euch, Ruhestellung",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-yasume"
+  },
+  {
+   "romaji": "Mawatte",
+   "jp": "回って",
+   "de": "Umdrehen",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-mawatte"
+  },
+  {
+   "romaji": "Kamaete",
+   "jp": "構えて",
+   "de": "In Kampfstellung",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-kamaete"
+  },
+  {
+   "romaji": "Tsugi",
+   "jp": "次",
+   "de": "Nächster",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-tsugi"
+  },
+  {
+   "romaji": "Mō ichido",
+   "jp": "もう一度",
+   "de": "Noch einmal",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-moichido"
+  },
+  {
+   "romaji": "Dōzo",
+   "jp": "どうぞ",
+   "de": "Bitte (Aufforderung)",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-dozo"
+  },
+  {
+   "romaji": "Hayaku",
+   "jp": "速く",
+   "de": "Schnell",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-hayaku"
+  },
+  {
+   "romaji": "Yukkuri",
+   "jp": "ゆっくり",
+   "de": "Langsam",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-yukkuri"
+  },
+  {
+   "romaji": "Mae",
+   "jp": "前",
+   "de": "Vorn",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-mae"
+  },
+  {
+   "romaji": "Ushiro",
+   "jp": "後ろ",
+   "de": "Hinten",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-ushiro"
+  },
+  {
+   "romaji": "Yoko",
+   "jp": "横",
+   "de": "Seitlich",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-yoko"
+  },
+  {
+   "romaji": "Gyaku",
+   "jp": "逆",
+   "de": "Umgekehrt, Gegenseite",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-gyaku"
+  },
+  {
+   "romaji": "Jōdan (Ebene)",
+   "jp": "上段",
+   "de": "Obere Ebene (Kopf)",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "hinweis": "Im Kamae-Kapitel des Lehrwerks: Jodan = über Kopf, Chudan = Halshöhe, Gedan = Hüfthöhe und darunter.",
+   "id": "g-jodanebene"
+  },
+  {
+   "romaji": "Chūdan (Ebene)",
+   "jp": "中段",
+   "de": "Mittlere Ebene (Rumpf)",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "hinweis": "Im Kamae-Kapitel des Lehrwerks: Jodan = über Kopf, Chudan = Halshöhe, Gedan = Hüfthöhe und darunter.",
+   "id": "g-chudanebene"
+  },
+  {
+   "romaji": "Gedan (Ebene)",
+   "jp": "下段",
+   "de": "Untere Ebene (unterhalb des Gürtels)",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "hinweis": "Im Kamae-Kapitel des Lehrwerks: Jodan = über Kopf, Chudan = Halshöhe, Gedan = Hüfthöhe und darunter.",
+   "id": "g-gedanebene"
+  },
+  {
+   "romaji": "Junbi undō",
+   "jp": "準備運動",
+   "de": "Aufwärmen",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-junbiundo"
+  },
+  {
+   "romaji": "Seiri undō",
+   "jp": "整理運動",
+   "de": "Abwärmen, Cool-down",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-seiriundo"
+  },
+  {
+   "romaji": "Ippon",
+   "jp": "一本",
+   "de": "Ein (voller) Punkt",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-ippon"
+  },
+  {
+   "romaji": "Ato",
+   "jp": "後",
+   "de": "Zurück, nach hinten",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-ato"
+  },
+  {
+   "romaji": "Iai kisogeiko",
+   "jp": "居合基礎稽古",
+   "de": "Grundübung im Iaido",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-iaikisogeiko"
+  },
+  {
+   "romaji": "Ijō",
+   "jp": "以上",
+   "de": "Das war alles (Schlusswort nach der Rezitation)",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-ijo"
+  },
+  {
+   "romaji": "Junbi taisō",
+   "jp": "準備体操",
+   "de": "Aufwärmgymnastik",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-junbitaiso"
+  },
+  {
+   "romaji": "Katana o motte",
+   "jp": "刀を持って",
+   "de": "Das Schwert nehmen",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-katanaomotte"
+  },
+  {
+   "romaji": "Ki o tsukete",
+   "jp": "気をつけて",
+   "de": "Vorsicht",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-kiotsukete"
+  },
+  {
+   "romaji": "Osame tō",
+   "jp": "納め刀",
+   "de": "Schwerter in die Saya zurückführen",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-osameto"
+  },
+  {
+   "romaji": "Yuruyaka ni",
+   "jp": "緩やかに",
+   "de": "Weich und gleichmäßig",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-yuruyakani"
+  },
+  {
+   "romaji": "Shizuka ni",
+   "jp": "静かに",
+   "de": "Leise, ruhig",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-shizukani"
+  },
+  {
+   "romaji": "Dame",
+   "jp": "駄目",
+   "de": "Nicht so, falsch",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-dame"
+  },
+  {
+   "romaji": "Chigau",
+   "jp": "違う",
+   "de": "Das ist anders, falsch",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-chigau"
+  },
+  {
+   "romaji": "Jōzu",
+   "jp": "上手",
+   "de": "Geschickt",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-jozu"
+  },
+  {
+   "romaji": "Heta",
+   "jp": "下手",
+   "de": "Ungeschickt",
+   "kat": "Kommandos und Trainingsablauf",
+   "quelle": "Ergänzung",
+   "id": "g-heta"
+  }
+ ]
+}
